@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "insecticide",
+      "title": "Insecticide",
+      "category": "plant-protection",
+      "description": "Effective insecticide for protecting plants from harmful insects. Suitable for fruit and ornamental plants.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 150,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/plant-protection/insecticide.jpg"
+        ]
+      }
+    }
+  ]
+}

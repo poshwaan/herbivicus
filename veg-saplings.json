@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "mint",
+      "title": "Mint (Pudina)",
+      "category": "veg-sapling",
+      "description": "Fresh Kashmir mint plant. Aromatic leaves for chutneys and garnishing.",
+      "price": {
+        "amount": 99,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 120,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/veg-saplings/mint.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Twice Weekly",
+        "height": "10–90 cm",
+        "difficulty": "Easy"
+      }
+    }
+  ]
+}

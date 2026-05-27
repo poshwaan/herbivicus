@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": "ambri-apple-plant",
+      "title": "Ambri Apple Plant",
+      "category": "fruit-plant",
+      "description": "Authentic Ambri apple variety from Kashmir. Rich flavor and aroma. Famous export quality.",
+      "price": {
+        "amount": 699,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/ambri-apple-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–600 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "cherry-plant",
+      "title": "Cherry Plant",
+      "category": "fruit-plant",
+      "description": "Sweet Kashmir cherry variety. Dark red juicy fruits. Perfect for valley climate.",
+      "price": {
+        "amount": 799,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/cherry-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "400–600 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "peach-plant",
+      "title": "Peach Plant",
+      "category": "fruit-plant",
+      "description": "Juicy Kashmir peach variety. Sweet and fragrant fruits. Thrives in temperate climate.",
+      "price": {
+        "amount": 849,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 15,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/peach-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Twice Weekly",
+        "height": "300–600 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "strawberry-plant",
+      "title": "Strawberry Plant",
+      "category": "fruit-plant",
+      "description": "Sweet strawberry variety suited to Kashmir climate. Bears fruit in first year.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 80,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/strawberry-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Twice Weekly",
+        "height": "20–30 cm",
+        "difficulty": "Easy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "hand-trowel",
+      "title": "Hand Trowel",
+      "category": "tool",
+      "description": "Ergonomic hand trowel with stainless steel blade. Perfect for planting, digging and weeding.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 150,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/tools/hand-trowel.jpg"
+        ]
+      }
+    }
+  ]
+}

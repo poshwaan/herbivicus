@@ -1,0 +1,1627 @@
+{
+  "products": [
+    {
+      "id": "abutilon-theophrastii",
+      "title": "Abutilon",
+      "category": "medicinal-flora",
+      "plant": "Abutilon theophrastii",
+      "family": "Malvaceae",
+      "common_name": [
+        "Abutilon",
+        "Indian Mallow",
+        "American Jute"
+      ],
+      "kashmiri_name": [
+        "Dodh Konduj",
+        "Yechkar"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Demulcent",
+        "Astringent",
+        "Diuretic",
+        "Antipyretic",
+        "Laxative",
+        "Anti-inflammatory",
+        "Expectorant",
+        "Aphrodisiac",
+        "Tonic",
+        "Anti-tuberculosis",
+        "Antihemorrhoidal",
+        "Antihaematuria"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "urinary support",
+        "digestive support",
+        "anti-inflammatory",
+        "respiratory support",
+        "immune support",
+        "antimicrobial support",
+        "heart and circulation support"
+      ]
+    },
+    {
+      "id": "adiantum-capillus-veneris",
+      "title": "Maiden Hair Fern",
+      "category": "medicinal-flora",
+      "plant": "Adiantum capillus-veneris",
+      "family": "Adiantaceae",
+      "common_name": [
+        "Maiden Hair Fern",
+        "Lady Fern",
+        "Avenca",
+        "Venus Hair Fern"
+      ],
+      "kashmiri_name": [
+        "Geowthir"
+      ],
+      "therapeutic_properties": [
+        "Demulcent",
+        "Hair tonic",
+        "Expectorant",
+        "Febrifuge",
+        "Antitumorogenic",
+        "Anticold",
+        "Emmenagogue",
+        "Antimicrobial",
+        "Hypoglycaemic",
+        "Anti-inflammatory",
+        "Antiodontalgic",
+        "Antiviral"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "immune support",
+        "respiratory support",
+        "antimicrobial support",
+        "women's health support",
+        "metabolic support",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "aesculus-indica",
+      "title": "Chestnut",
+      "category": "medicinal-flora",
+      "plant": "Aesculus indica",
+      "family": "Hippocastanaceae",
+      "common_name": [
+        "Chestnut",
+        "Indian Horse Chestnut"
+      ],
+      "kashmiri_name": [
+        "Handoon"
+      ],
+      "therapeutic_properties": [
+        "Leucorrhoea",
+        "Dislocated joints",
+        "Rheumatism",
+        "Frostbite",
+        "Promotes hair growth",
+        "Constipation"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "women's health support",
+        "anti-inflammatory",
+        "digestive support"
+      ]
+    },
+    {
+      "id": "artemisia-absinthium",
+      "title": "Absinth",
+      "category": "medicinal-flora",
+      "plant": "Artemisia absinthium",
+      "family": "Asteraceae",
+      "common_name": [
+        "Absinth",
+        "Wormwood"
+      ],
+      "kashmiri_name": [
+        "Tethwan",
+        "Damer"
+      ],
+      "therapeutic_properties": [
+        "Chronic fever",
+        "Swelling",
+        "Liver inflammation",
+        "Rheumatism",
+        "Intestinal parasites",
+        "Hepatoprotective"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "artemisia-maritima",
+      "title": "Drooping Sea Wormwood",
+      "category": "medicinal-flora",
+      "plant": "Artemisia maritima",
+      "family": "Asteraceae",
+      "common_name": [
+        "Drooping Sea Wormwood",
+        "Wormseed"
+      ],
+      "kashmiri_name": [
+        "Tethwan",
+        "Moorni"
+      ],
+      "therapeutic_properties": [
+        "Anthelmintic",
+        "Stomachic",
+        "Laxative",
+        "Febrifuge"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support"
+      ]
+    },
+    {
+      "id": "asparagus-filicinus",
+      "title": "Fern Asparagus",
+      "category": "medicinal-flora",
+      "plant": "Asparagus filicinus",
+      "family": "Liliaceae",
+      "common_name": [
+        "Fern Asparagus"
+      ],
+      "kashmiri_name": [
+        "Huleoon",
+        "Allipalli"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Demulcent",
+        "Diuretic",
+        "Laxative",
+        "Cardiac",
+        "Sedative",
+        "Aphrodisiac",
+        "Chronic gout",
+        "Antilithic",
+        "Antidropsy",
+        "Antiodontalgic",
+        "Anticonvulsant",
+        "Sciatica",
+        "Immunostimulant",
+        "Anticlastogenic",
+        "Molluscicidal"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "urinary support",
+        "digestive support",
+        "heart and circulation support",
+        "nervous system support",
+        "anti-inflammatory",
+        "immune support"
+      ]
+    },
+    {
+      "id": "berberis-lycium",
+      "title": "Barberry",
+      "category": "medicinal-flora",
+      "plant": "Berberis lycium",
+      "family": "Berberidaceae",
+      "common_name": [
+        "Barberry"
+      ],
+      "kashmiri_name": [
+        "Kawdach"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Tonic",
+        "Purgative",
+        "Antiseptic",
+        "Jaundice",
+        "Dyspepsia",
+        "Blood purifier",
+        "Antimalarial",
+        "Anti-arthritic",
+        "Antimicrobial",
+        "Cytotoxic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "immune support",
+        "digestive support",
+        "skin support",
+        "antimicrobial support"
+      ]
+    },
+    {
+      "id": "cannabis-sativa",
+      "title": "True Hemp",
+      "category": "medicinal-flora",
+      "plant": "Cannabis sativa",
+      "family": "Cannabinaceae",
+      "common_name": [
+        "True Hemp",
+        "Soft Hemp",
+        "Marijuana"
+      ],
+      "kashmiri_name": [
+        "Charas",
+        "Bhang"
+      ],
+      "therapeutic_properties": [
+        "Analgesic",
+        "Antipyretic",
+        "Anti-inflammatory",
+        "Neuralgia",
+        "Gout",
+        "Rheumatism",
+        "Insomnia",
+        "Infantile convulsions"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "anti-inflammatory",
+        "nervous system support"
+      ]
+    },
+    {
+      "id": "centaurea-iberica",
+      "title": "Iberian Starthistle",
+      "category": "medicinal-flora",
+      "plant": "Centaurea iberica",
+      "family": "Asteraceae",
+      "common_name": [
+        "Iberian Starthistle"
+      ],
+      "kashmiri_name": [
+        "Cress"
+      ],
+      "therapeutic_properties": [
+        "Anti-eczema",
+        "Anti-ringworm"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "skin support"
+      ]
+    },
+    {
+      "id": "chenopodium-album",
+      "title": "Pigweed",
+      "category": "medicinal-flora",
+      "plant": "Chenopodium album",
+      "family": "Chenopodiaceae",
+      "common_name": [
+        "Pigweed",
+        "Mutton Tops",
+        "Frost Blite"
+      ],
+      "kashmiri_name": [
+        "Wanmeth"
+      ],
+      "therapeutic_properties": [
+        "Laxative",
+        "Anthelmintic",
+        "Tonic",
+        "Rheumatic pains",
+        "Hepatic disorders"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "immune support",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "conium-maculatum",
+      "title": "Poison Hemlock",
+      "category": "medicinal-flora",
+      "plant": "Conium maculatum",
+      "family": "Apiaceae",
+      "common_name": [
+        "Poison Hemlock",
+        "Poison Parsley",
+        "Snake Weed"
+      ],
+      "kashmiri_name": [
+        "Moher-Katch"
+      ],
+      "therapeutic_properties": [
+        "Neurotic",
+        "Aphrodisiac",
+        "Analgesic",
+        "Inhibits estrous cycle",
+        "Bradycardia",
+        "Miosis",
+        "Hyperventilation"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "nervous system support",
+        "anti-inflammatory",
+        "women's health support"
+      ]
+    },
+    {
+      "id": "conyza-canadensis",
+      "title": "Horsebane",
+      "category": "medicinal-flora",
+      "plant": "Conyza canadensis",
+      "family": "Asteraceae",
+      "common_name": [
+        "Horsebane",
+        "Fleabane",
+        "Coltstail"
+      ],
+      "kashmiri_name": [
+        "Shaliloth",
+        "Zarkash"
+      ],
+      "therapeutic_properties": [
+        "Astringent",
+        "Stimulant",
+        "Haemostatic",
+        "Diuretic",
+        "Anti-diarrhoea",
+        "Antihaemorrhagic",
+        "Bronchitis",
+        "Cystitis",
+        "Antidiabetic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "heart and circulation support",
+        "urinary support",
+        "digestive support",
+        "respiratory support",
+        "metabolic support"
+      ]
+    },
+    {
+      "id": "cuscuta-reflexa",
+      "title": "Dodder",
+      "category": "medicinal-flora",
+      "plant": "Cuscuta reflexa",
+      "family": "Cuscutaceae",
+      "common_name": [
+        "Dodder"
+      ],
+      "kashmiri_name": [
+        "Kuklipoth"
+      ],
+      "therapeutic_properties": [
+        "Tonsillitis",
+        "Chest disorders",
+        "Purgative",
+        "Anthelmintic",
+        "Anti-rheumatic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "respiratory support",
+        "digestive support",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "datura-stramonium",
+      "title": "Devil’s Apple",
+      "category": "medicinal-flora",
+      "plant": "Datura stramonium",
+      "family": "Solanaceae",
+      "common_name": [
+        "Devil’s Apple",
+        "Jimson Weed",
+        "Thorn Apple"
+      ],
+      "kashmiri_name": [
+        "Datur"
+      ],
+      "therapeutic_properties": [
+        "Antiseptic",
+        "Anodyne",
+        "Narcotic",
+        "Sedative",
+        "Bronchitis",
+        "Epilepsy",
+        "Anti-rheumatic",
+        "Anti-hemorrhoidal"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "skin support",
+        "nervous system support",
+        "respiratory support",
+        "anti-inflammatory",
+        "heart and circulation support"
+      ]
+    },
+    {
+      "id": "daucus-carota",
+      "title": "Wild Carrot",
+      "category": "medicinal-flora",
+      "plant": "Daucus carota",
+      "family": "Apiaceae",
+      "common_name": [
+        "Wild Carrot"
+      ],
+      "kashmiri_name": [
+        "Jangil Gazir"
+      ],
+      "therapeutic_properties": [
+        "Stimulant",
+        "Carminative",
+        "Aphrodisiac",
+        "Antilithic",
+        "Anti-conception",
+        "Smooth muscle relaxant",
+        "Antidiabetic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "urinary support",
+        "women's health support",
+        "metabolic support"
+      ]
+    },
+    {
+      "id": "descurainia-sophia",
+      "title": "Flixweed",
+      "category": "medicinal-flora",
+      "plant": "Descurainia sophia",
+      "family": "Brassicaceae",
+      "common_name": [
+        "Flixweed",
+        "Tansy Mustard"
+      ],
+      "kashmiri_name": [
+        "Charilasij"
+      ],
+      "therapeutic_properties": [
+        "Astringent",
+        "Antiscorbutic",
+        "Expectorant",
+        "Bronchitis",
+        "Febrifuge"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "respiratory support"
+      ]
+    },
+    {
+      "id": "digitalis-lanata",
+      "title": "Grecian Foxglove",
+      "category": "medicinal-flora",
+      "plant": "Digitalis lanata",
+      "family": "Scrophulariaceae",
+      "common_name": [
+        "Grecian Foxglove",
+        "Wooly Foxglove"
+      ],
+      "kashmiri_name": [
+        "Digitalis"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Cardioprotective",
+        "Cytotoxic",
+        "Antidiabetic",
+        "Antioxidant"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "heart and circulation support",
+        "antimicrobial support",
+        "metabolic support"
+      ]
+    },
+    {
+      "id": "euphorbia-hispida",
+      "title": "Sanpanth",
+      "category": "medicinal-flora",
+      "plant": "Euphorbia hispida",
+      "family": "Euphorbiaceae",
+      "common_name": [
+        "Sanpanth"
+      ],
+      "kashmiri_name": [
+        "-"
+      ],
+      "therapeutic_properties": [
+        "Tonic",
+        "Antidermatotic",
+        "Antileprosy",
+        "Lenitive",
+        "Antiseptic",
+        "Eczema",
+        "Vesicatory"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "immune support",
+        "skin support"
+      ]
+    },
+    {
+      "id": "ficus-carica",
+      "title": "Fig",
+      "category": "medicinal-flora",
+      "plant": "Ficus carica",
+      "family": "Moraceae",
+      "common_name": [
+        "Fig"
+      ],
+      "kashmiri_name": [
+        "Anjoor"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Demulcent",
+        "Aperient",
+        "Emollient",
+        "Nutritive",
+        "Antitussive",
+        "Anticatarrhal",
+        "Keratolytic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "digestive support",
+        "immune support",
+        "respiratory support",
+        "skin support"
+      ]
+    },
+    {
+      "id": "fumaria-indica",
+      "title": "American Fumitory",
+      "category": "medicinal-flora",
+      "plant": "Fumaria indica",
+      "family": "Fumariaceae",
+      "common_name": [
+        "American Fumitory"
+      ],
+      "kashmiri_name": [
+        "Shahtar"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Anthelmintic",
+        "Diuretic",
+        "Diaphoretic",
+        "Blood purifier",
+        "Antipyretic",
+        "Sedative",
+        "Antidepressant",
+        "Analgesic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "digestive support",
+        "urinary support",
+        "nervous system support",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "gentiana-carinata",
+      "title": "Gentian",
+      "category": "medicinal-flora",
+      "plant": "Gentiana carinata",
+      "family": "Gentianaceae",
+      "common_name": [
+        "Gentian"
+      ],
+      "kashmiri_name": [
+        "Maidan Kalveoth"
+      ],
+      "therapeutic_properties": [
+        "Stomach ache",
+        "Antipertussis"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "respiratory support"
+      ]
+    },
+    {
+      "id": "hernaria-hirsuta",
+      "title": "Rupture Wort",
+      "category": "medicinal-flora",
+      "plant": "Hernaria hirsuta",
+      "family": "Illecebraceae",
+      "common_name": [
+        "Rupture Wort"
+      ],
+      "kashmiri_name": [
+        "Tcheri Saban"
+      ],
+      "therapeutic_properties": [
+        "Throat sore",
+        "Diuretic",
+        "Cardiac dropsy",
+        "Nephritic dropsy"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "respiratory support",
+        "urinary support",
+        "heart and circulation support"
+      ]
+    },
+    {
+      "id": "hypericum-perforatum",
+      "title": "St. John’s Wort",
+      "category": "medicinal-flora",
+      "plant": "Hypericum perforatum",
+      "family": "Hypericaceae",
+      "common_name": [
+        "St. John’s Wort"
+      ],
+      "kashmiri_name": [
+        "Basant"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Expectorant",
+        "Diuretic",
+        "Antiviral",
+        "Antitumor",
+        "Antibacterial",
+        "Anti-inflammatory"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "respiratory support",
+        "urinary support",
+        "antimicrobial support",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "iris-decora",
+      "title": "Himalayan Iris",
+      "category": "medicinal-flora",
+      "plant": "Iris decora",
+      "family": "Iridaceae",
+      "common_name": [
+        "Himalayan Iris"
+      ],
+      "kashmiri_name": [
+        "Sosan"
+      ],
+      "therapeutic_properties": [
+        "Bilious obstruction",
+        "Sores",
+        "Pimples",
+        "Anti-rheumatic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "skin support",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "iris-kashmiriana",
+      "title": "Himalayan Iris",
+      "category": "medicinal-flora",
+      "plant": "Iris kashmiriana",
+      "family": "Iridaceae",
+      "common_name": [
+        "Himalayan Iris"
+      ],
+      "kashmiri_name": [
+        "Mazar Mund"
+      ],
+      "therapeutic_properties": [
+        "Anti-rheumatic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "iris-lactea",
+      "title": "Japanese Iris",
+      "category": "medicinal-flora",
+      "plant": "Iris lactea",
+      "family": "Iridaceae",
+      "common_name": [
+        "Japanese Iris"
+      ],
+      "kashmiri_name": [
+        "Krashim"
+      ],
+      "therapeutic_properties": [
+        "Alterative",
+        "Blood purifier",
+        "Venereal affections",
+        "Liver complaints",
+        "Dropsy",
+        "Anti-allergic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "urinary support"
+      ]
+    },
+    {
+      "id": "juglans-regia",
+      "title": "Walnut",
+      "category": "medicinal-flora",
+      "plant": "Juglans regia",
+      "family": "Juglandaceae",
+      "common_name": [
+        "Walnut"
+      ],
+      "kashmiri_name": [
+        "Doon"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Anthelmintic",
+        "Astringent",
+        "Anti-rheumatic",
+        "Antiviral",
+        "Antifungal",
+        "Antitumor"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "digestive support",
+        "anti-inflammatory",
+        "antimicrobial support"
+      ]
+    },
+    {
+      "id": "malva-neglecta",
+      "title": "Mallow",
+      "category": "medicinal-flora",
+      "plant": "Malva neglecta",
+      "family": "Malvaceae",
+      "common_name": [
+        "Mallow"
+      ],
+      "kashmiri_name": [
+        "Kashmir Satchel"
+      ],
+      "therapeutic_properties": [
+        "Laxative",
+        "Anti-cough",
+        "Colds",
+        "Gravel"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "respiratory support"
+      ]
+    },
+    {
+      "id": "malva-sylvestris",
+      "title": "Common Mallow",
+      "category": "medicinal-flora",
+      "plant": "Malva sylvestris",
+      "family": "Malvaceae",
+      "common_name": [
+        "Common Mallow"
+      ],
+      "kashmiri_name": [
+        "Aurum Satchel"
+      ],
+      "therapeutic_properties": [
+        "Demulcent",
+        "Emollient",
+        "Anti-inflammatory",
+        "Cough",
+        "Colds"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "anti-inflammatory",
+        "respiratory support"
+      ]
+    },
+    {
+      "id": "marrubium-vulgare",
+      "title": "White Horehound",
+      "category": "medicinal-flora",
+      "plant": "Marrubium vulgare",
+      "family": "Lamiaceae",
+      "common_name": [
+        "White Horehound"
+      ],
+      "kashmiri_name": [
+        "Troper"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Expectorant",
+        "Diuretic",
+        "Carminative",
+        "Laxative",
+        "Hypotensive"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "respiratory support",
+        "urinary support",
+        "digestive support",
+        "metabolic support"
+      ]
+    },
+    {
+      "id": "morus-nigra",
+      "title": "Black Mulberry",
+      "category": "medicinal-flora",
+      "plant": "Morus nigra",
+      "family": "Moraceae",
+      "common_name": [
+        "Black Mulberry"
+      ],
+      "kashmiri_name": [
+        "Shahtul"
+      ],
+      "therapeutic_properties": [
+        "Nutritive",
+        "Refrigerant",
+        "Laxative",
+        "Hypoglycaemic",
+        "Hypotensive"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "immune support",
+        "digestive support",
+        "metabolic support"
+      ]
+    },
+    {
+      "id": "narcissus-tazetta",
+      "title": "Narcissus",
+      "category": "medicinal-flora",
+      "plant": "Narcissus tazetta",
+      "family": "Amaryllidaceae",
+      "common_name": [
+        "Narcissus"
+      ],
+      "kashmiri_name": [
+        "Yemberzal"
+      ],
+      "therapeutic_properties": [
+        "Emetic",
+        "Headache relief",
+        "Anemia",
+        "Purgative",
+        "Diuretic",
+        "Antiviral"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "urinary support",
+        "antimicrobial support"
+      ]
+    },
+    {
+      "id": "nepeta-cataria",
+      "title": "Catnip",
+      "category": "medicinal-flora",
+      "plant": "Nepeta cataria",
+      "family": "Lamiaceae",
+      "common_name": [
+        "Catnip"
+      ],
+      "kashmiri_name": [
+        "Gandh Sooi"
+      ],
+      "therapeutic_properties": [
+        "Carminative",
+        "Tonic",
+        "Diaphoretic",
+        "Sedative",
+        "Antispasmodic",
+        "Insomnia"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "immune support",
+        "nervous system support"
+      ]
+    },
+    {
+      "id": "ocimum-sanctum",
+      "title": "Sacred Basil",
+      "category": "medicinal-flora",
+      "plant": "Ocimum sanctum",
+      "family": "Lamiaceae",
+      "common_name": [
+        "Sacred Basil"
+      ],
+      "kashmiri_name": [
+        "Baber-i-Booil"
+      ],
+      "therapeutic_properties": [
+        "Expectorant",
+        "Diaphoretic",
+        "Antipyretic",
+        "Anthelminthic",
+        "Hypoglycaemic",
+        "Insecticidal"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "respiratory support",
+        "digestive support",
+        "metabolic support"
+      ]
+    },
+    {
+      "id": "oxalis-corniculata",
+      "title": "Shamrock",
+      "category": "medicinal-flora",
+      "plant": "Oxalis corniculata",
+      "family": "Oxalidaceae",
+      "common_name": [
+        "Shamrock",
+        "Wood Sorrel"
+      ],
+      "kashmiri_name": [
+        "Jangil Chokchin"
+      ],
+      "therapeutic_properties": [
+        "Analgesic",
+        "Antiemetic",
+        "Anti-inflammatory",
+        "Antipyretic",
+        "Antiseptic",
+        "Stomachic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "anti-inflammatory",
+        "digestive support",
+        "skin support"
+      ]
+    },
+    {
+      "id": "polygonum-amplexicaule",
+      "title": "Knotweed",
+      "category": "medicinal-flora",
+      "plant": "Polygonum amplexicaule",
+      "family": "Polygonaceae",
+      "common_name": [
+        "Knotweed"
+      ],
+      "kashmiri_name": [
+        "Machren"
+      ],
+      "therapeutic_properties": [
+        "Antibacterial",
+        "Antifungal",
+        "Antimalarial"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "antimicrobial support"
+      ]
+    },
+    {
+      "id": "ricinus-communis",
+      "title": "Castor",
+      "category": "medicinal-flora",
+      "plant": "Ricinus communis",
+      "family": "Euphorbiaceae",
+      "common_name": [
+        "Castor"
+      ],
+      "kashmiri_name": [
+        "Arandi"
+      ],
+      "therapeutic_properties": [
+        "Constipation",
+        "Colic",
+        "Diarrhoea",
+        "Dysentery",
+        "Amenorrhea",
+        "Hemorrhoids"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "women's health support",
+        "heart and circulation support"
+      ]
+    },
+    {
+      "id": "robinia-pseudoacacia",
+      "title": "Black Locust",
+      "category": "medicinal-flora",
+      "plant": "Robinia pseudoacacia",
+      "family": "Papilionaceae",
+      "common_name": [
+        "Black Locust"
+      ],
+      "kashmiri_name": [
+        "Tikar",
+        "Kikar"
+      ],
+      "therapeutic_properties": [
+        "Astringent",
+        "Diuretic",
+        "Emetic",
+        "Laxative",
+        "Sedative",
+        "Tonic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "urinary support",
+        "digestive support",
+        "nervous system support",
+        "immune support"
+      ]
+    },
+    {
+      "id": "rosa-damascena",
+      "title": "Rose",
+      "category": "medicinal-flora",
+      "plant": "Rosa damascena",
+      "family": "Rosaceae",
+      "common_name": [
+        "Rose"
+      ],
+      "kashmiri_name": [
+        "Kashur Gulab"
+      ],
+      "therapeutic_properties": [
+        "Astringent",
+        "Cardiotonic",
+        "Hepatoprotective",
+        "Anti-inflammatory",
+        "Antidepressant"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "immune support",
+        "heart and circulation support",
+        "liver support",
+        "anti-inflammatory",
+        "nervous system support"
+      ]
+    },
+    {
+      "id": "rumex-dentatus",
+      "title": "Indian Sorrel",
+      "category": "medicinal-flora",
+      "plant": "Rumex dentatus",
+      "family": "Polygonaceae",
+      "common_name": [
+        "Indian Sorrel"
+      ],
+      "kashmiri_name": [
+        "Obug"
+      ],
+      "therapeutic_properties": [
+        "Diuretic",
+        "Antipyretic",
+        "Astringent",
+        "Anti-inflammatory",
+        "Antihypertensive"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "urinary support",
+        "anti-inflammatory",
+        "metabolic support"
+      ]
+    },
+    {
+      "id": "sagittaria-trifolia",
+      "title": "Wapatoo",
+      "category": "medicinal-flora",
+      "plant": "Sagittaria trifolia",
+      "family": "Alismataceae",
+      "common_name": [
+        "Wapatoo"
+      ],
+      "kashmiri_name": [
+        "Keow"
+      ],
+      "therapeutic_properties": [
+        "Diuretic",
+        "Antiscorbutic",
+        "Cutaneous troubles",
+        "Sore throat"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "urinary support",
+        "skin support",
+        "respiratory support"
+      ]
+    },
+    {
+      "id": "salix-alba",
+      "title": "White Willow",
+      "category": "medicinal-flora",
+      "plant": "Salix alba",
+      "family": "Salicaceae",
+      "common_name": [
+        "White Willow"
+      ],
+      "kashmiri_name": [
+        "Vier"
+      ],
+      "therapeutic_properties": [
+        "Tonic",
+        "Astringent",
+        "Antirheumatic",
+        "Antipyretic",
+        "Analgesic",
+        "Anti-inflammatory"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "immune support",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "salix-babylonica",
+      "title": "Weeping Willow",
+      "category": "medicinal-flora",
+      "plant": "Salix babylonica",
+      "family": "Salicaceae",
+      "common_name": [
+        "Weeping Willow"
+      ],
+      "kashmiri_name": [
+        "Vir",
+        "Guir Biasa"
+      ],
+      "therapeutic_properties": [
+        "Antipyretic",
+        "Anthelmintic",
+        "Antirheumatic",
+        "Anti-implantation"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "anti-inflammatory",
+        "women's health support"
+      ]
+    },
+    {
+      "id": "salvia-moorcroftiana",
+      "title": "Sage",
+      "category": "medicinal-flora",
+      "plant": "Salvia moorcroftiana",
+      "family": "Lamiaceae",
+      "common_name": [
+        "Sage"
+      ],
+      "kashmiri_name": [
+        "Sholar"
+      ],
+      "therapeutic_properties": [
+        "Emetic",
+        "Antihemorrhoidal",
+        "Antipyretic",
+        "Relieves cough"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "heart and circulation support",
+        "respiratory support"
+      ]
+    },
+    {
+      "id": "senecio-vulgaris",
+      "title": "Common Groundsel",
+      "category": "medicinal-flora",
+      "plant": "Senecio vulgaris",
+      "family": "Asteraceae",
+      "common_name": [
+        "Common Groundsel"
+      ],
+      "kashmiri_name": [
+        "-"
+      ],
+      "therapeutic_properties": [
+        "Diaphoretic",
+        "Diuretic",
+        "Tonic",
+        "Purgative",
+        "Emetic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "urinary support",
+        "immune support",
+        "digestive support"
+      ]
+    },
+    {
+      "id": "siegesbeckia-orientalis",
+      "title": "Siegesbeckia",
+      "category": "medicinal-flora",
+      "plant": "Siegesbeckia orientalis",
+      "family": "Asteraceae",
+      "common_name": [
+        "Siegesbeckia"
+      ],
+      "kashmiri_name": [
+        "-"
+      ],
+      "therapeutic_properties": [
+        "Depurative",
+        "Cardiotonic",
+        "Anti-inflammatory",
+        "Analgesic",
+        "Antiviral",
+        "Hypoglycaemic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "immune support",
+        "heart and circulation support",
+        "anti-inflammatory",
+        "antimicrobial support",
+        "metabolic support"
+      ]
+    },
+    {
+      "id": "sisymbrium-irio",
+      "title": "London Rocket",
+      "category": "medicinal-flora",
+      "plant": "Sisymbrium irio",
+      "family": "Brassicaceae",
+      "common_name": [
+        "London Rocket"
+      ],
+      "kashmiri_name": [
+        "Danda Haak"
+      ],
+      "therapeutic_properties": [
+        "Expectorant",
+        "Stimulant",
+        "Febrifuge",
+        "Anti-asthmatic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "respiratory support"
+      ]
+    },
+    {
+      "id": "solanum-nigrum",
+      "title": "Black Nightshade",
+      "category": "medicinal-flora",
+      "plant": "Solanum nigrum",
+      "family": "Solanaceae",
+      "common_name": [
+        "Black Nightshade"
+      ],
+      "kashmiri_name": [
+        "Kambai"
+      ],
+      "therapeutic_properties": [
+        "Diuretic",
+        "Anti-inflammatory",
+        "Analgesic",
+        "Anti-dermatitis",
+        "Anti-edematic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "urinary support",
+        "anti-inflammatory",
+        "skin support"
+      ]
+    },
+    {
+      "id": "stachys-floccosa",
+      "title": "Wooly Woundwort",
+      "category": "medicinal-flora",
+      "plant": "Stachys floccosa",
+      "family": "Lamiaceae",
+      "common_name": [
+        "Wooly Woundwort"
+      ],
+      "kashmiri_name": [
+        "-"
+      ],
+      "therapeutic_properties": [
+        "Tonic",
+        "Emmenagogue",
+        "Diuretic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "immune support",
+        "women's health support",
+        "urinary support"
+      ]
+    },
+    {
+      "id": "taraxacum-officinale",
+      "title": "Dandelion",
+      "category": "medicinal-flora",
+      "plant": "Taraxacum officinale",
+      "family": "Asteraceae",
+      "common_name": [
+        "Dandelion"
+      ],
+      "kashmiri_name": [
+        "Haandh"
+      ],
+      "therapeutic_properties": [
+        "Diuretic",
+        "Tonic",
+        "Liver disorders",
+        "Anti-rheumatic",
+        "Antiviral",
+        "Immunostimulatory"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "urinary support",
+        "immune support",
+        "liver support",
+        "anti-inflammatory",
+        "antimicrobial support"
+      ]
+    },
+    {
+      "id": "verbascum-thapsus",
+      "title": "Mullein",
+      "category": "medicinal-flora",
+      "plant": "Verbascum thapsus",
+      "family": "Scrophulariaceae",
+      "common_name": [
+        "Mullein"
+      ],
+      "kashmiri_name": [
+        "Jangil Tamok"
+      ],
+      "therapeutic_properties": [
+        "Febrifuge",
+        "Aphrodisiac",
+        "Anti-inflammatory",
+        "Demulcent",
+        "Antiviral"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "anti-inflammatory",
+        "antimicrobial support"
+      ]
+    }
+  ]
+}

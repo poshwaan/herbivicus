@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "poppy-seeds",
+      "title": "Poppy Seeds",
+      "category": "flower-seeds",
+      "description": "Oriental poppy seeds for stunning red and orange blooms. Thrives in Kashmir's climate.",
+      "price": {
+        "amount": 99,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 150,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-seeds/poppy-seeds.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "30–120 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "sunflower-seeds",
+      "title": "Sunflower Seeds",
+      "category": "flower-seeds",
+      "description": "Bright sunflower seeds for tall, cheerful blooms. Attracts pollinators and birds.",
+      "price": {
+        "amount": 79,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 200,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/flower-seeds/sunflower-seeds.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "100–300 cm",
+        "difficulty": "Easy"
+      }
+    }
+  ]
+}

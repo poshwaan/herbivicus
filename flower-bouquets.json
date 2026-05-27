@@ -1,0 +1,434 @@
+{
+  "products": [
+    {
+      "id": "friendship-bouquet",
+      "title": "Friendship Bouquet",
+      "subtitle": "A Bouquet for Friendship",
+      "category": "flower-bouquet",
+      "description": "For a best friend, to celebrate friendship or brighten their day.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 15,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/flower-bouquets/friendship-bouquet.jpg"
+        ]
+      },
+      "composition": {
+        "ribbon": "teal chiffon ribbon",
+        "flowers": [
+          {
+            "name": "Zinnia",
+            "meaning": "Everlasting friendship"
+          },
+          {
+            "name": "Apple Blossom",
+            "meaning": "Preference"
+          },
+          {
+            "name": "Pansy",
+            "meaning": "Thinking of you"
+          },
+          {
+            "name": "Eucalyptus",
+            "meaning": "Protection and lasting bonds"
+          }
+        ]
+      }
+    },
+    {
+      "id": "courting-bouquet",
+      "title": "Courting Bouquet",
+      "subtitle": "A Bouquet for Courting",
+      "category": "flower-bouquet",
+      "description": "For a new love, to thrill them or affirm exclusivity.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 12,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-bouquets/courting-bouquet.jpg"
+        ]
+      },
+      "composition": {
+        "ribbon": "silky red ribbon",
+        "flowers": [
+          {
+            "name": "Rose (Blush)",
+            "meaning": "Blossoming romance"
+          },
+          {
+            "name": "Cornflower",
+            "meaning": "Hope in love"
+          },
+          {
+            "name": "Sweet William",
+            "meaning": "Gallantry"
+          },
+          {
+            "name": "Honeysuckle",
+            "meaning": "Devoted affection"
+          }
+        ]
+      }
+    },
+    {
+      "id": "marriage-bouquet",
+      "title": "Marriage Bouquet",
+      "subtitle": "A Bouquet for Marriage",
+      "category": "flower-bouquet",
+      "description": "For weddings, engagements, or newlyweds.",
+      "price": {
+        "amount": 499,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 8,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-bouquets/marriage-bouquet.jpg"
+        ]
+      },
+      "composition": {
+        "ribbon": "white lace bow",
+        "flowers": [
+          {
+            "name": "Rose (Red)",
+            "meaning": "True love"
+          },
+          {
+            "name": "Ivy",
+            "meaning": "Fidelity"
+          },
+          {
+            "name": "Myrtle",
+            "meaning": "Hope and love in marriage"
+          },
+          {
+            "name": "Dahlia",
+            "meaning": "Commitment and eternal love"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sympathy-bouquet",
+      "title": "Sympathy Bouquet",
+      "subtitle": "A Bouquet for Sympathy",
+      "category": "flower-bouquet",
+      "description": "For grief, loss, and difficult times.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-bouquets/sympathy-bouquet.jpg"
+        ]
+      },
+      "composition": {
+        "ribbon": "black velvet ribbon",
+        "flowers": [
+          {
+            "name": "Chrysanthemum",
+            "meaning": "Condolences"
+          },
+          {
+            "name": "Marigold",
+            "meaning": "Grief"
+          },
+          {
+            "name": "Lily of the Valley",
+            "meaning": "Better days ahead"
+          },
+          {
+            "name": "Cypress",
+            "meaning": "Mourning"
+          },
+          {
+            "name": "Mint",
+            "meaning": "Consolation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "regret-sorrow-bouquet",
+      "title": "Regret and Sorrow",
+      "subtitle": "A Bouquet for Regret and Sorrow",
+      "category": "flower-bouquet",
+      "description": "For heartache, separation, and consolation.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 8,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-bouquets/regret-sorrow-bouquet.jpg"
+        ]
+      },
+      "composition": {
+        "ribbon": "thin black bow",
+        "flowers": [
+          {
+            "name": "Asphodel",
+            "meaning": "Regret to the grave"
+          },
+          {
+            "name": "Azalea",
+            "meaning": "Fragility"
+          },
+          {
+            "name": "Snowdrop",
+            "meaning": "Consolation and hope"
+          },
+          {
+            "name": "Rue",
+            "meaning": "Regret"
+          },
+          {
+            "name": "Willow",
+            "meaning": "Mourning"
+          }
+        ]
+      }
+    },
+    {
+      "id": "apology-bouquet",
+      "title": "Apology Bouquet",
+      "subtitle": "A Bouquet for Apology",
+      "category": "flower-bouquet",
+      "description": "To ask for forgiveness or make amends.",
+      "price": {
+        "amount": 499,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 12,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-bouquets/apology-bouquet.jpg"
+        ]
+      },
+      "composition": {
+        "ribbon": "blue cloth braid",
+        "flowers": [
+          {
+            "name": "Hyacinth",
+            "meaning": "Please forgive me"
+          },
+          {
+            "name": "Bluebell",
+            "meaning": "Humility"
+          },
+          {
+            "name": "Peony",
+            "meaning": "Bashfulness"
+          },
+          {
+            "name": "Olive",
+            "meaning": "Peace"
+          }
+        ]
+      }
+    },
+    {
+      "id": "forgotten-obligations-bouquet",
+      "title": "Forgotten Obligations",
+      "subtitle": "A Bouquet for Forgotten Obligations",
+      "category": "flower-bouquet",
+      "description": "To apologize for missed events or forgotten engagements.",
+      "price": {
+        "amount": 499,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-bouquets/forgotten-obligations-bouquet.jpg"
+        ]
+      },
+      "composition": {
+        "ribbon": "green garland",
+        "flowers": [
+          {
+            "name": "Columbine",
+            "meaning": "Foolishness"
+          },
+          {
+            "name": "Rue",
+            "meaning": "Regret"
+          },
+          {
+            "name": "Anemone",
+            "meaning": "Forsaken love"
+          },
+          {
+            "name": "Forget-me-not",
+            "meaning": "I will not forget again"
+          },
+          {
+            "name": "Rosemary",
+            "meaning": "Remembrance"
+          }
+        ]
+      }
+    },
+    {
+      "id": "warnings-bouquet",
+      "title": "Warnings Bouquet",
+      "subtitle": "A Bouquet for Warnings",
+      "category": "flower-bouquet",
+      "description": "To warn someone or signal impending trouble.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 6,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-bouquets/warnings-bouquet.jpg"
+        ]
+      },
+      "composition": {
+        "ribbon": "bright red band",
+        "flowers": [
+          {
+            "name": "Begonia",
+            "meaning": "Warning"
+          },
+          {
+            "name": "Oleander",
+            "meaning": "Caution"
+          },
+          {
+            "name": "Lavender",
+            "meaning": "Distrust"
+          },
+          {
+            "name": "Foxglove",
+            "meaning": "Secrecy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bitter-ends-bouquet",
+      "title": "Bitter Ends",
+      "subtitle": "A Bouquet for Bitter Ends",
+      "category": "flower-bouquet",
+      "description": "A final reminder of a relationship that ended poorly.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 5,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-bouquets/bitter-ends-bouquet.jpg"
+        ]
+      },
+      "composition": {
+        "ribbon": "twine",
+        "flowers": [
+          {
+            "name": "Petunia",
+            "meaning": "Anger and resentment"
+          },
+          {
+            "name": "Datura",
+            "meaning": "Deceitful charms"
+          },
+          {
+            "name": "Tansy",
+            "meaning": "Hostility"
+          },
+          {
+            "name": "Thistle",
+            "meaning": "Misanthropy"
+          },
+          {
+            "name": "Wormwood",
+            "meaning": "Bitterness"
+          }
+        ]
+      }
+    },
+    {
+      "id": "new-beginnings-bouquet",
+      "title": "New Beginnings",
+      "subtitle": "A Bouquet for New Beginnings",
+      "category": "flower-bouquet",
+      "description": "For births, new ventures, or housewarmings.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 14,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-bouquets/new-beginnings-bouquet.jpg"
+        ]
+      },
+      "composition": {
+        "ribbon": "yellow tassel",
+        "flowers": [
+          {
+            "name": "Crocus",
+            "meaning": "Youthful glee"
+          },
+          {
+            "name": "Daisy",
+            "meaning": "Innocence and childhood purity"
+          },
+          {
+            "name": "Lilac",
+            "meaning": "First love"
+          },
+          {
+            "name": "Baby’s Breath",
+            "meaning": "Purity and innocence"
+          },
+          {
+            "name": "Wheat",
+            "meaning": "Riches and abundance"
+          }
+        ]
+      }
+    }
+  ]
+}

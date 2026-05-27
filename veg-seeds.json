@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "cucumber-seeds",
+      "title": "Cucumber Seeds",
+      "category": "veg-seeds",
+      "description": "Crisp cucumber variety for summer cultivation in Kashmir. High yield and disease resistant.",
+      "price": {
+        "amount": 49,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 100,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/veg-seeds/cucumber-seeds.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Twice Weekly",
+        "height": "200–300 cm",
+        "difficulty": "Easy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "garden-maintenance",
+      "title": "Garden Maintenance",
+      "category": "service",
+      "description": "Comprehensive garden maintenance service including lawn mowing, pruning, weeding and fertilization. Weekly or bi-weekly options available.",
+      "price": {
+        "amount": 4999,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/services/garden-maintenance.jpg"
+        ]
+      }
+    }
+  ]
+}
