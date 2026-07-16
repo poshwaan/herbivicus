@@ -6,7 +6,7 @@
       "category": "flower-sapling",
       "description": "Sweet alyssum is a delicate annual ground cover producing masses of tiny, honey-scented white or pink flowers. Native to the Mediterranean, it blooms prolifically and attracts beneficial insects like bees and butterflies.",
       "price": {
-        "amount": 99,
+        "amount": 10,
         "currency": "INR"
       },
       "stock": {
@@ -38,11 +38,11 @@
       "category": "flower-sapling",
       "description": "Also called Peruvian Lily or Lily of the Incas, alstroemeria produces vibrant, long-lasting blooms with characteristic streaked inner petals. Native to South America, it symbolizes friendship and devotion.",
       "price": {
-        "amount": 149,
+        "amount": 49,
         "currency": "INR"
       },
       "stock": {
-        "total": 40,
+        "total": 0,
         "is_featured": false
       },
       "media": {
@@ -71,7 +71,7 @@
       "category": "flower-sapling",
       "description": "Azalea is a flowering shrub prized for its spectacular spring display of large, showy blooms. It prefers acidic soil and partial shade, and is a staple of cottage and Japanese-style gardens.",
       "price": {
-        "amount": 199,
+        "amount": 249,
         "currency": "INR"
       },
       "stock": {
@@ -103,7 +103,7 @@
       "category": "flower-sapling",
       "description": "Garden balsam (Impatiens balsamina) is an old-fashioned annual with cup-shaped, camellia-like flowers nestled among lance-shaped leaves. It thrives in warm, humid conditions and is beloved for its ease of care.",
       "price": {
-        "amount": 99,
+        "amount": 10,
         "currency": "INR"
       },
       "stock": {
@@ -167,7 +167,7 @@
       "category": "flower-sapling",
       "description": "Calendula, or pot marigold, is a bright annual with cheerful orange and yellow daisy-like flowers. Its petals are edible and have been used medicinally since ancient times for their anti-inflammatory and skin-healing properties.",
       "price": {
-        "amount": 99,
+        "amount": 29,
         "currency": "INR"
       },
       "stock": {
@@ -199,7 +199,7 @@
       "category": "flower-sapling",
       "description": "The California poppy is the state flower of California, producing silky, cup-shaped blooms in shades of orange, yellow, and cream. It is drought-tolerant, self-seeding, and thrives in poor, well-drained soils.",
       "price": {
-        "amount": 99,
+        "amount": 10,
         "currency": "INR"
       },
       "stock": {
@@ -231,7 +231,7 @@
       "category": "flower-sapling",
       "description": "Calla lily (Zantedeschia) is renowned for its elegant, trumpet-shaped spathe and glossy arrow-shaped leaves. A favorite in bridal bouquets and ornamental gardens, it conveys purity and magnificent beauty.",
       "price": {
-        "amount": 199,
+        "amount": 349,
         "currency": "INR"
       },
       "stock": {
@@ -263,7 +263,7 @@
       "category": "flower-sapling",
       "description": "Carnations (Dianthus caryophyllus) are among the oldest cultivated flowers, prized for their spicy, clove-like fragrance and ruffled, fringed petals. They symbolize love and fascination and come in virtually every color.",
       "price": {
-        "amount": 99,
+        "amount": 149,
         "currency": "INR"
       },
       "stock": {
@@ -326,7 +326,7 @@
       "category": "flower-sapling",
       "description": "Dahlias are tuberous perennials native to Mexico and Central America, producing showy blooms in an astonishing variety of forms and colors from midsummer until frost. They were once prized as a food source by the Aztecs.",
       "price": {
-        "amount": 199,
+        "amount": 249,
         "currency": "INR"
       },
       "stock": {
@@ -358,7 +358,7 @@
       "category": "flower-sapling",
       "description": "Daffodils (Narcissus) are iconic spring bulbs bearing cheerful yellow or white trumpet-shaped flowers. They are among the first flowers to bloom after winter and are toxic to most animals, deterring pests naturally.",
       "price": {
-        "amount": 199,
+        "amount": 99,
         "currency": "INR"
       },
       "stock": {
@@ -389,7 +389,7 @@
       "category": "flower-sapling",
       "description": "The classic garden daisy features pristine white ray petals surrounding a bright yellow disc center. Simple and cheerful, it has appeared in mythology and literature across cultures as a symbol of innocence and new beginnings.",
       "price": {
-        "amount": 149,
+        "amount": 19,
         "currency": "INR"
       },
       "stock": {
@@ -458,7 +458,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 45,
+        "total": 0,
         "is_featured": false
       },
       "media": {
@@ -485,7 +485,7 @@
       "category": "flower-sapling",
       "description": "Dianthus, commonly called pinks, are fragrant perennial or annual flowers with fringed, tooth-edged petals in shades of pink, red, and white. The name means \"flower of the gods\" in Greek.",
       "price": {
-        "amount": 99,
+        "amount": 19,
         "currency": "INR"
       },
       "stock": {
@@ -517,11 +517,11 @@
       "category": "flower-sapling",
       "description": "Garden geraniums (Pelargonium) are among the most popular container and bedding plants worldwide, valued for their bright flower clusters, attractive leaves, and robust nature. They thrive in sunny spots with well-drained soil.",
       "price": {
-        "amount": 149,
+        "amount": 199,
         "currency": "INR"
       },
       "stock": {
-        "total": 0,
+        "total": 75,
         "is_featured": false
       },
       "media": {
@@ -549,7 +549,7 @@
       "category": "flower-sapling",
       "description": "Godetia (Clarkia amoena), also known as Farewell-to-Spring, is a Western North American wildflower producing large, silky, cup-shaped blooms in shades of pink, red, lavender, and white. It prefers cool weather.",
       "price": {
-        "amount": 99,
+        "amount": 29,
         "currency": "INR"
       },
       "stock": {
@@ -581,7 +581,7 @@
       "category": "flower-sapling",
       "description": "Gladiolus produces dramatic tall spikes of large, funnel-shaped flowers in nearly every color. Originally from South Africa, the corms are planted in spring for summer blooms that are spectacular as cut flowers.",
       "price": {
-        "amount": 149,
+        "amount": 99,
         "currency": "INR"
       },
       "stock": {
@@ -612,7 +612,7 @@
       "category": "flower-sapling",
       "description": "Hollyhocks are stately biennials or perennials that send up towering spikes of large, single or double flowers in a wide range of colors. A cottage garden classic, they often self-seed freely along walls and fences.",
       "price": {
-        "amount": 149,
+        "amount": 29,
         "currency": "INR"
       },
       "stock": {

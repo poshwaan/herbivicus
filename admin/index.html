@@ -1,0 +1,1355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Herbivicus Admin</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --green:       #2d6a4f;
+      --green-mid:   #40916c;
+      --green-light: #52b788;
+      --green-pale:  #d8f3dc;
+      --text:        #111827;
+      --muted:       #6b7280;
+      --border:      #e5e7eb;
+      --bg:          #f9fafb;
+      --white:       #ffffff;
+      --red:         #dc2626;
+      --red-pale:    #fee2e2;
+      --amber:       #d97706;
+      --amber-pale:  #fef3c7;
+      --r:           8px;
+      --shadow:      0 1px 3px rgba(0,0,0,.1), 0 1px 2px rgba(0,0,0,.06);
+      --shadow-md:   0 4px 6px rgba(0,0,0,.07), 0 2px 4px rgba(0,0,0,.05);
+    }
+
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      background: var(--bg);
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* ── Header ─────────────────────────────────────────────────────────────── */
+    .header {
+      background: var(--green);
+      color: #fff;
+      height: 52px;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-shrink: 0;
+      box-shadow: 0 2px 6px rgba(0,0,0,.25);
+      z-index: 10;
+    }
+    .header h1 { font-size: 15px; font-weight: 600; letter-spacing: .02em; flex: 1; }
+    .header-badge {
+      background: rgba(255,255,255,.18);
+      border-radius: 4px;
+      padding: 2px 8px;
+      font-size: 11px;
+      font-weight: 500;
+    }
+
+    /* ── Layout ─────────────────────────────────────────────────────────────── */
+    .layout { display: flex; flex: 1; overflow: hidden; }
+
+    /* ── Sidebar ────────────────────────────────────────────────────────────── */
+    .sidebar {
+      width: 216px;
+      flex-shrink: 0;
+      background: var(--white);
+      border-right: 1px solid var(--border);
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+    }
+    .sidebar-head {
+      padding: 14px 16px 6px;
+      font-size: 10px;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .1em;
+    }
+    .cat-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 8px 16px;
+      cursor: pointer;
+      color: var(--muted);
+      font-size: 13px;
+      border-left: 3px solid transparent;
+      transition: background .12s, color .12s;
+      gap: 8px;
+    }
+    .cat-item:hover { background: var(--green-pale); color: var(--green-mid); }
+    .cat-item.active {
+      background: var(--green-pale);
+      color: var(--green);
+      border-left-color: var(--green);
+      font-weight: 600;
+    }
+    .cat-item .name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .cat-badge {
+      flex-shrink: 0;
+      background: var(--border);
+      color: var(--muted);
+      border-radius: 10px;
+      padding: 1px 7px;
+      font-size: 11px;
+      font-weight: 600;
+    }
+    .cat-item.active .cat-badge { background: var(--green); color: #fff; }
+    .cat-badge.warn { background: var(--amber-pale); color: var(--amber); }
+
+    /* ── Main ───────────────────────────────────────────────────────────────── */
+    .main {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      min-width: 0;
+    }
+
+    /* ── Stats row ──────────────────────────────────────────────────────────── */
+    .stats { display: flex; gap: 12px; flex-wrap: wrap; }
+    .stat {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 12px 16px;
+      flex: 1;
+      min-width: 100px;
+      box-shadow: var(--shadow);
+    }
+    .stat .v { font-size: 24px; font-weight: 700; color: var(--green); line-height: 1; }
+    .stat .l { font-size: 11px; color: var(--muted); margin-top: 4px; text-transform: uppercase; letter-spacing: .05em; }
+
+    /* ── Toolbar ────────────────────────────────────────────────────────────── */
+    .toolbar { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+    .search-wrap { flex: 1; min-width: 180px; position: relative; }
+    .search-wrap svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
+    .search-wrap input {
+      width: 100%;
+      padding: 8px 12px 8px 34px;
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      font-size: 13px;
+      outline: none;
+      background: var(--white);
+      transition: border-color .15s, box-shadow .15s;
+    }
+    .search-wrap input:focus {
+      border-color: var(--green-light);
+      box-shadow: 0 0 0 3px rgba(82,183,136,.15);
+    }
+    .chips { display: flex; gap: 6px; flex-wrap: wrap; }
+    .chip {
+      padding: 5px 11px;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      font-size: 12px;
+      cursor: pointer;
+      color: var(--muted);
+      background: var(--white);
+      transition: all .12s;
+      white-space: nowrap;
+    }
+    .chip:hover { background: var(--green-pale); color: var(--green-mid); border-color: var(--green-light); }
+    .chip.on { background: var(--green-pale); color: var(--green); border-color: var(--green-light); font-weight: 600; }
+
+    /* ── Buttons ────────────────────────────────────────────────────────────── */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 14px;
+      border-radius: var(--r);
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      border: none;
+      transition: background .12s, opacity .12s;
+      white-space: nowrap;
+      font-family: inherit;
+    }
+    .btn:disabled { opacity: .5; cursor: default; }
+    .btn-primary { background: var(--green); color: #fff; }
+    .btn-primary:hover { background: #1f5c3f; }
+    .btn-secondary { background: var(--white); color: var(--text); border: 1px solid var(--border); }
+    .btn-secondary:hover { background: var(--bg); }
+    .btn-danger { background: var(--red-pale); color: var(--red); }
+    .btn-danger:hover { background: #fca5a5; }
+    .btn-ghost { background: transparent; color: var(--muted); padding: 6px 8px; }
+    .btn-ghost:hover { background: var(--bg); color: var(--text); }
+    .btn-sm { padding: 5px 10px; font-size: 12px; }
+
+    /* ── Banner ─────────────────────────────────────────────────────────────── */
+    .banner {
+      background: var(--amber-pale);
+      border: 1px solid #fcd34d;
+      border-radius: var(--r);
+      padding: 10px 14px;
+      font-size: 13px;
+      color: #92400e;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* ── Empty / loading ────────────────────────────────────────────────────── */
+    .empty, .loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 60px 24px;
+      color: var(--muted);
+      gap: 12px;
+      text-align: center;
+    }
+    .empty svg, .loading svg { opacity: .35; }
+    .empty strong { font-size: 15px; color: var(--text); }
+    .loading svg { animation: spin .9s linear infinite; }
+
+    /* ── Table ──────────────────────────────────────────────────────────────── */
+    .table-wrap {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    table { width: 100%; border-collapse: collapse; }
+    thead th {
+      background: var(--bg);
+      padding: 9px 14px;
+      text-align: left;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+    tbody td { padding: 10px 14px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+    tbody tr:last-child td { border-bottom: none; }
+    tbody tr:hover td { background: #f5fdf8; }
+
+    /* ── Product cell ───────────────────────────────────────────────────────── */
+    .prod-cell { display: flex; align-items: center; gap: 10px; }
+    .thumb {
+      width: 40px; height: 40px;
+      border-radius: 6px;
+      object-fit: cover;
+      flex-shrink: 0;
+      background: var(--green-pale);
+    }
+    .thumb-ph {
+      width: 40px; height: 40px;
+      border-radius: 6px;
+      background: var(--green-pale);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+      flex-shrink: 0;
+    }
+    .prod-name {
+      font-weight: 500;
+      font-size: 13px;
+      max-width: 220px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .prod-id {
+      font-size: 11px;
+      color: var(--muted);
+      font-family: 'SF Mono', 'Fira Code', monospace;
+      margin-top: 1px;
+    }
+
+    /* ── Badges ─────────────────────────────────────────────────────────────── */
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 2px 7px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 600;
+    }
+    .badge-out { background: var(--red-pale); color: var(--red); }
+    .badge-low { background: var(--amber-pale); color: var(--amber); }
+    .badge-feat { background: #fef9c3; color: #854d0e; }
+
+    /* ── Inline controls ────────────────────────────────────────────────────── */
+    .price-cell { font-weight: 600; white-space: nowrap; }
+    .stock-wrap { display: flex; align-items: center; gap: 8px; }
+    .stock-input {
+      width: 68px;
+      padding: 5px 8px;
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      font-size: 12px;
+      text-align: center;
+      font-family: inherit;
+      outline: none;
+    }
+    .stock-input:focus { border-color: var(--green-light); box-shadow: 0 0 0 2px rgba(82,183,136,.15); }
+    .toggle {
+      width: 36px; height: 20px;
+      border-radius: 10px;
+      background: var(--border);
+      border: none;
+      cursor: pointer;
+      position: relative;
+      transition: background .18s;
+      flex-shrink: 0;
+    }
+    .toggle.on { background: var(--green-light); }
+    .toggle::after {
+      content: '';
+      position: absolute;
+      top: 2px; left: 2px;
+      width: 16px; height: 16px;
+      border-radius: 50%;
+      background: #fff;
+      transition: left .18s;
+      box-shadow: 0 1px 3px rgba(0,0,0,.2);
+    }
+    .toggle.on::after { left: 18px; }
+
+    /* ── Drawer ─────────────────────────────────────────────────────────────── */
+    .overlay {
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,.35);
+      z-index: 100;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity .2s;
+    }
+    .overlay.open { opacity: 1; pointer-events: all; }
+    .drawer {
+      position: fixed;
+      top: 0; right: 0; bottom: 0;
+      width: 520px;
+      max-width: 96vw;
+      background: var(--white);
+      z-index: 101;
+      box-shadow: -6px 0 32px rgba(0,0,0,.12);
+      transform: translateX(100%);
+      transition: transform .24s cubic-bezier(.4,0,.2,1);
+      display: flex;
+      flex-direction: column;
+    }
+    .drawer.open { transform: translateX(0); }
+    .drawer-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 15px 20px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .drawer-head h2 { font-size: 15px; font-weight: 600; }
+    .drawer-body {
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .drawer-foot {
+      padding: 14px 20px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-shrink: 0;
+    }
+    .drawer-foot .spacer { flex: 1; }
+
+    /* ── Form elements ──────────────────────────────────────────────────────── */
+    .fg { display: flex; flex-direction: column; gap: 4px; }
+    .fg label {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .05em;
+    }
+    .fg label .opt { font-weight: 400; text-transform: none; letter-spacing: 0; font-size: 11px; color: var(--muted); }
+    .f2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .f3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+    input[type=text], input[type=number], textarea, select {
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13px;
+      font-family: inherit;
+      outline: none;
+      width: 100%;
+      background: var(--white);
+      color: var(--text);
+      transition: border-color .15s, box-shadow .15s;
+    }
+    input:focus, textarea:focus, select:focus {
+      border-color: var(--green-light);
+      box-shadow: 0 0 0 3px rgba(82,183,136,.15);
+    }
+    input[readonly] { background: var(--bg); color: var(--muted); cursor: not-allowed; }
+    textarea { resize: vertical; min-height: 80px; }
+
+    /* ── Collapsible section ────────────────────────────────────────────────── */
+    .section {
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      overflow: hidden;
+    }
+    .section-head {
+      padding: 9px 14px;
+      background: var(--bg);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      user-select: none;
+      border: none;
+      width: 100%;
+      font-family: inherit;
+    }
+    .section-head:hover { background: var(--green-pale); color: var(--green); }
+    .section-body { padding: 14px; display: flex; flex-direction: column; gap: 12px; border-top: 1px solid var(--border); }
+    .section-body.hidden { display: none; }
+    .section-body textarea[data-mono] {
+      font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', monospace;
+      font-size: 12px;
+      min-height: 110px;
+    }
+
+    /* ── Toggle row ─────────────────────────────────────────────────────────── */
+    .toggle-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 8px 0;
+      border-top: 1px solid var(--border);
+    }
+    .toggle-row span { font-size: 13px; font-weight: 500; }
+
+    /* ── Image preview ──────────────────────────────────────────────────────── */
+    .img-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 6px; }
+    .img-pr {
+      width: 72px; height: 72px;
+      object-fit: cover;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+    }
+    .img-ph {
+      width: 72px; height: 72px;
+      border-radius: 6px;
+      border: 1px dashed var(--border);
+      background: var(--green-pale);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 22px;
+    }
+
+    /* ── Toast ──────────────────────────────────────────────────────────────── */
+    #toasts {
+      position: fixed;
+      bottom: 20px; right: 20px;
+      z-index: 300;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      pointer-events: none;
+    }
+    .toast {
+      padding: 10px 16px;
+      border-radius: var(--r);
+      font-size: 13px;
+      font-weight: 500;
+      box-shadow: var(--shadow-md);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      animation: slide-up .22s ease;
+      pointer-events: all;
+    }
+    .toast.info  { background: #1e293b; color: #fff; }
+    .toast.ok    { background: var(--green); color: #fff; }
+    .toast.error { background: var(--red);   color: #fff; }
+
+    /* ── Dialog ─────────────────────────────────────────────────────────────── */
+    .dialog-bg {
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,.45);
+      z-index: 200;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .dialog {
+      background: #fff;
+      border-radius: 12px;
+      padding: 24px;
+      max-width: 360px;
+      width: 92%;
+      box-shadow: 0 20px 60px rgba(0,0,0,.22);
+    }
+    .dialog h3 { font-size: 16px; font-weight: 700; margin-bottom: 8px; }
+    .dialog p  { font-size: 13px; color: var(--muted); line-height: 1.55; margin-bottom: 20px; }
+    .dialog-actions { display: flex; gap: 10px; justify-content: flex-end; }
+
+    /* ── Welcome screen ─────────────────────────────────────────────────────── */
+    .welcome {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      flex: 1;
+      gap: 14px;
+      color: var(--muted);
+    }
+    .welcome svg { opacity: .25; }
+    .welcome strong { font-size: 16px; color: var(--text); }
+
+    /* ── Misc ───────────────────────────────────────────────────────────────── */
+    @keyframes slide-up { from { transform: translateY(12px); opacity: 0; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    ::-webkit-scrollbar { width: 5px; height: 5px; }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: #c1c8d0; }
+
+    @media (max-width: 680px) {
+      .sidebar { width: 170px; }
+      .drawer { width: 100vw; }
+      .f2, .f3 { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="header">
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+  <h1>Herbivicus Admin</h1>
+  <span class="header-badge">Local</span>
+</header>
+
+<div class="layout">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-head">Categories</div>
+    <div id="cat-list">
+      <div class="loading" style="padding:24px 16px">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" stroke-opacity=".25"/><path d="M12 3a9 9 0 019 9"/></svg>
+      </div>
+    </div>
+  </aside>
+
+  <main class="main" id="main">
+    <div class="welcome">
+      <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+      <strong>Welcome to Herbivicus Admin</strong>
+      <span>Select a category from the sidebar to get started.</span>
+    </div>
+  </main>
+</div>
+
+<!-- Overlay -->
+<div class="overlay" id="overlay"></div>
+
+<!-- Edit Drawer -->
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true">
+  <div class="drawer-head">
+    <h2 id="drawer-title">Edit Product</h2>
+    <button class="btn btn-ghost" id="drawer-close" aria-label="Close">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+    </button>
+  </div>
+  <div class="drawer-body" id="drawer-body"></div>
+  <div class="drawer-foot">
+    <button class="btn btn-danger btn-sm" id="delete-btn">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14H6L5 6"/><path d="M10 11v6m4-6v6"/><path d="M9 6V4h6v2"/></svg>
+      Delete
+    </button>
+    <div class="spacer"></div>
+    <button class="btn btn-secondary" id="cancel-btn">Cancel</button>
+    <button class="btn btn-primary" id="save-btn">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21H5a2 2 0 01-2-2V5a2 2 0 012-2h11l5 5v11a2 2 0 01-2 2z"/><polyline points="17 21 17 13 7 13 7 21"/><polyline points="7 3 7 8 15 8"/></svg>
+      Save
+    </button>
+  </div>
+</aside>
+
+<div id="toasts"></div>
+
+<script>
+'use strict';
+
+// ── State ─────────────────────────────────────────────────────────────────────
+const S = {
+  cats: [],          // [{id, count, parse_error}]
+  activeCat: null,
+  products: [],      // full list for active category
+  filtered: [],      // after search/filter
+  searchQ: '',
+  filterFeatured: false,
+  filterOutOfStock: false,
+  editing: null,     // product object being edited (clone)
+  isNew: false,
+};
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
+(async () => { await loadCategories(); })();
+
+// ── API ───────────────────────────────────────────────────────────────────────
+async function api(method, path, body) {
+  const opts = { method, headers: {} };
+  if (body !== undefined) {
+    opts.headers['Content-Type'] = 'application/json';
+    opts.body = JSON.stringify(body);
+  }
+  const res = await fetch('/api/' + path, opts);
+  const text = await res.text();
+  let data;
+  try { data = JSON.parse(text); } catch { data = text; }
+  return { ok: res.ok, status: res.status, data };
+}
+
+// ── Categories ────────────────────────────────────────────────────────────────
+async function loadCategories() {
+  const r = await api('GET', 'categories');
+  if (!r.ok) { toast('Failed to load categories', 'error'); return; }
+  S.cats = r.data;
+  renderSidebar();
+}
+
+function renderSidebar() {
+  const el = document.getElementById('cat-list');
+  if (!S.cats.length) {
+    el.innerHTML = '<div style="padding:12px 16px;font-size:13px;color:var(--muted)">No data files found.</div>';
+    return;
+  }
+  el.innerHTML = S.cats.map(c => `
+    <div class="cat-item${c.id === S.activeCat ? ' active' : ''}" data-cat="${h(c.id)}">
+      <span class="name">${h(fmtCat(c.id))}</span>
+      <span class="cat-badge${c.parse_error ? ' warn' : ''}" title="${c.parse_error ? 'JSON parse error' : ''}">${c.count}${c.parse_error ? ' ⚠' : ''}</span>
+    </div>
+  `).join('');
+}
+
+document.getElementById('cat-list').addEventListener('click', e => {
+  const item = e.target.closest('[data-cat]');
+  if (item) loadProducts(item.dataset.cat);
+});
+
+// ── Products ──────────────────────────────────────────────────────────────────
+async function loadProducts(cat) {
+  S.activeCat = cat;
+  S.searchQ = '';
+  S.filterFeatured = false;
+  S.filterOutOfStock = false;
+  renderSidebar();
+  setMain(spinner());
+
+  const r = await api('GET', 'products/' + cat);
+  if (!r.ok) {
+    setMain(`<div class="banner">${icon('warn')} Failed to load. The JSON file may be malformed.</div>`);
+    S.products = [];
+  } else {
+    S.products = r.data.products || [];
+    if (r.data.parse_error) {
+      // file was repaired by a previous save, or show warning
+    }
+  }
+  applyFilter();
+  renderProducts();
+}
+
+function applyFilter() {
+  let list = S.products;
+  const q = S.searchQ.toLowerCase();
+  if (q) list = list.filter(p =>
+    (p.id || '').toLowerCase().includes(q) ||
+    (p.title || '').toLowerCase().includes(q) ||
+    (p.description || '').toLowerCase().includes(q) ||
+    (p.plant || '').toLowerCase().includes(q) ||
+    (p.category || '').toLowerCase().includes(q)
+  );
+  if (S.filterFeatured) list = list.filter(p => p.stock?.is_featured);
+  if (S.filterOutOfStock) list = list.filter(p => typeof p.stock?.total === 'number' && p.stock.total === 0);
+  S.filtered = list;
+}
+
+// ── Render products view ──────────────────────────────────────────────────────
+function renderProducts() {
+  const isMed = S.activeCat === 'medicinal-flora';
+  const total = S.products.length;
+  const featured = S.products.filter(p => p.stock?.is_featured).length;
+  const outStock = S.products.filter(p => typeof p.stock?.total === 'number' && p.stock.total === 0).length;
+
+  let html = `<div class="stats">
+    <div class="stat"><div class="v">${total}</div><div class="l">Products</div></div>
+    ${!isMed ? `
+    <div class="stat"><div class="v">${featured}</div><div class="l">Featured</div></div>
+    <div class="stat"><div class="v">${outStock}</div><div class="l">Out of stock</div></div>
+    ` : ''}
+  </div>
+  <div class="toolbar">
+    <div class="search-wrap">
+      <input type="text" id="search-input" placeholder="Search by title, ID or description…" value="${h(S.searchQ)}">
+    </div>
+    ${!isMed ? `<div class="chips">
+      <button class="chip${S.filterFeatured ? ' on' : ''}" data-filter="featured">⭐ Featured</button>
+      <button class="chip${S.filterOutOfStock ? ' on' : ''}" data-filter="outOfStock">📦 Out of Stock</button>
+    </div>` : ''}
+    <button class="btn btn-primary btn-sm" id="add-btn">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+      Add Product
+    </button>
+  </div>`;
+
+  html += `<div id="table-zone">${tableZoneHtml()}</div>`;
+
+  setMain(html);
+}
+
+function tableZoneHtml() {
+  const isMed = S.activeCat === 'medicinal-flora';
+  if (!S.filtered.length) {
+    return `<div class="empty">
+      <svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 21l-4.35-4.35M11 19a8 8 0 100-16 8 8 0 000 16z"/></svg>
+      <strong>${S.searchQ || S.filterFeatured || S.filterOutOfStock ? 'No results' : 'No products yet'}</strong>
+      <span>${S.searchQ ? 'Try a different search term.' : 'Use the Add Product button above.'}</span>
+    </div>`;
+  }
+  return isMed ? renderMedTable() : renderStdTable();
+}
+
+function refreshTableZone() {
+  const zone = document.getElementById('table-zone');
+  if (zone) zone.innerHTML = tableZoneHtml();
+}
+
+function renderStdTable() {
+  return `<div class="table-wrap"><table>
+    <thead><tr>
+      <th>Product</th>
+      <th>Price</th>
+      <th>Stock</th>
+      <th>Featured</th>
+      <th></th>
+    </tr></thead>
+    <tbody>
+    ${S.filtered.map(p => {
+      const imgs = p.media?.images || [];
+      const thumb = imgs.length
+        ? `<img class="thumb" src="${h(imgs[0])}" alt="" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+        : '';
+      const ph = `<div class="thumb-ph" ${imgs.length ? 'style="display:none"' : ''}>🌿</div>`;
+      const stock = p.stock?.total ?? null;
+      const featured = p.stock?.is_featured ?? false;
+
+      return `<tr data-id="${h(p.id)}">
+        <td>
+          <div class="prod-cell">
+            ${thumb}${ph}
+            <div>
+              <div class="prod-name" title="${h(p.title||'')}">${h(p.title||'—')}</div>
+              <div class="prod-id">${h(p.id||'')}</div>
+            </div>
+          </div>
+        </td>
+        <td class="price-cell">${fmtPrice(p.price)}</td>
+        <td>
+          <input class="stock-input" type="number" min="0" value="${stock ?? ''}" placeholder="—">
+        </td>
+        <td><button class="toggle${featured ? ' on' : ''}" title="${featured ? 'Remove from featured' : 'Mark featured'}"></button></td>
+        <td><button class="btn btn-secondary btn-sm edit-btn">Edit</button></td>
+      </tr>`;
+    }).join('')}
+    </tbody>
+  </table></div>`;
+}
+
+function renderMedTable() {
+  return `<div class="table-wrap"><table>
+    <thead><tr>
+      <th>Title</th>
+      <th>Scientific Name</th>
+      <th>Family</th>
+      <th>Parts Used</th>
+      <th></th>
+    </tr></thead>
+    <tbody>
+    ${S.filtered.map(p => `
+      <tr data-id="${h(p.id)}">
+        <td>
+          <div class="prod-name">${h(p.title||'—')}</div>
+          <div class="prod-id">${h(p.id||'')}</div>
+        </td>
+        <td style="font-size:12px;font-style:italic;color:var(--muted)">${h(p.plant||'')}</td>
+        <td style="font-size:12px;color:var(--muted)">${h(p.family||'')}</td>
+        <td style="font-size:12px">${(p.parts_used||[]).slice(0,4).map(h).join(', ')}${(p.parts_used||[]).length>4?'…':''}</td>
+        <td><button class="btn btn-secondary btn-sm edit-btn">Edit</button></td>
+      </tr>
+    `).join('')}
+    </tbody>
+  </table></div>`;
+}
+
+// ── Inline quick actions ──────────────────────────────────────────────────────
+async function quickUpdateStock(id, value) {
+  const p = S.products.find(x => x.id === id);
+  if (!p) return;
+  const upd = deepClone(p);
+  if (!upd.stock) upd.stock = {};
+  upd.stock.total = parseInt(value, 10) || 0;
+  const r = await api('PUT', `products/${S.activeCat}/${encodeURIComponent(id)}`, upd);
+  if (r.ok) {
+    Object.assign(p, upd);
+    toast('Stock updated', 'ok');
+  } else {
+    toast(r.data?.error || 'Failed to update stock', 'error');
+  }
+}
+
+async function quickToggleFeatured(id) {
+  const p = S.products.find(x => x.id === id);
+  if (!p) return;
+  const upd = deepClone(p);
+  if (!upd.stock) upd.stock = {};
+  upd.stock.is_featured = !upd.stock.is_featured;
+  const r = await api('PUT', `products/${S.activeCat}/${encodeURIComponent(id)}`, upd);
+  if (r.ok) {
+    Object.assign(p, upd);
+    toast(upd.stock.is_featured ? '⭐ Marked as featured' : 'Removed from featured', 'ok');
+    // flip just the toggle button in-place
+    const row = document.querySelector(`tr[data-id="${CSS.escape(id)}"]`);
+    if (row) row.querySelector('.toggle')?.classList.toggle('on', upd.stock.is_featured);
+  } else {
+    toast(r.data?.error || 'Failed', 'error');
+  }
+}
+
+// ── Drawer ────────────────────────────────────────────────────────────────────
+function openEdit(id) {
+  const p = S.products.find(x => x.id === id);
+  if (!p) return;
+  S.editing = deepClone(p);
+  S.isNew = false;
+  document.getElementById('drawer-title').textContent = 'Edit Product';
+  document.getElementById('delete-btn').style.display = '';
+  buildForm(S.editing);
+  openDrawer();
+}
+
+function openNew() {
+  const isMed = S.activeCat === 'medicinal-flora';
+  S.editing = isMed ? {
+    id: '', title: '', category: S.activeCat,
+    plant: '', family: '',
+    common_name: [], kashmiri_name: [],
+    therapeutic_properties: [], parts_used: [], health_benefits: [],
+  } : {
+    id: '', title: '', category: S.activeCat,
+    description: '',
+    price: { amount: 0, currency: 'INR' },
+    stock: { total: 0, is_featured: false },
+    media: { images: [] },
+  };
+  S.isNew = true;
+  document.getElementById('drawer-title').textContent = 'Add Product';
+  document.getElementById('delete-btn').style.display = 'none';
+  buildForm(S.editing);
+  openDrawer();
+}
+
+function openDrawer() {
+  document.getElementById('drawer').classList.add('open');
+  document.getElementById('overlay').classList.add('open');
+  document.getElementById('drawer').focus();
+}
+
+function closeDrawer() {
+  document.getElementById('drawer').classList.remove('open');
+  document.getElementById('overlay').classList.remove('open');
+  S.editing = null;
+}
+
+// ── Form builder ──────────────────────────────────────────────────────────────
+const KNOWN_STANDARD = new Set(['id','title','category','description','price','stock','media','attributes','symbolism','subtitle','composition']);
+const KNOWN_MED      = new Set(['id','title','category','plant','family','common_name','kashmiri_name','therapeutic_properties','parts_used','health_benefits']);
+
+function buildForm(p) {
+  const isMed = S.activeCat === 'medicinal-flora';
+  const known = isMed ? KNOWN_MED : KNOWN_STANDARD;
+  const extra = Object.fromEntries(Object.entries(p).filter(([k]) => !known.has(k)));
+
+  const body = document.getElementById('drawer-body');
+  body.innerHTML = isMed ? medForm(p, extra) : stdForm(p, extra);
+}
+
+function stdForm(p, extra) {
+  const imgs = p.media?.images || [];
+  const attrs = p.attributes || {};
+  const sym = p.symbolism || {};
+  const hasAttrs = Object.keys(attrs).length > 0 || ['flower-saplings','plants','fruit-plants','ornamental-plants','veg-saplings','veg-seeds','flower-seeds','bulbs'].includes(S.activeCat);
+  const hasSym = p.symbolism !== undefined;
+  const hasComp = p.composition !== undefined;
+  const hasExtra = Object.keys(extra).length > 0;
+
+  const imgPreviews = imgs.length
+    ? imgs.map(s => `<img class="img-pr" src="${h(s)}" alt="" loading="lazy" onerror="this.style.display='none'">`).join('')
+    : `<div class="img-ph">🌿</div>`;
+
+  return `
+    <div class="fg">
+      <label>Images</label>
+      <div class="img-row">${imgPreviews}</div>
+      <input type="text" id="f-images" value="${h(imgs.join(', '))}" placeholder="/images/category/name.jpg  (comma-separated)">
+    </div>
+
+    <div class="f2">
+      <div class="fg">
+        <label>ID <span style="color:var(--red)">*</span></label>
+        <input type="text" id="f-id" value="${h(p.id||'')}" placeholder="unique-slug" ${S.isNew ? '' : 'readonly'}>
+      </div>
+      <div class="fg">
+        <label>Category</label>
+        <input type="text" id="f-category" value="${h(p.category||S.activeCat)}" placeholder="category">
+      </div>
+    </div>
+
+    <div class="fg">
+      <label>Title <span style="color:var(--red)">*</span></label>
+      <input type="text" id="f-title" value="${h(p.title||'')}" placeholder="Product title">
+    </div>
+
+    ${p.subtitle !== undefined ? `
+    <div class="fg">
+      <label>Subtitle</label>
+      <input type="text" id="f-subtitle" value="${h(p.subtitle||'')}">
+    </div>` : ''}
+
+    <div class="fg">
+      <label>Description</label>
+      <textarea id="f-description">${h(p.description||'')}</textarea>
+    </div>
+
+    <div class="f3">
+      <div class="fg" style="grid-column:span 2">
+        <label>Price <span class="opt">(amount)</span></label>
+        <input type="number" id="f-price" value="${p.price?.amount ?? ''}" min="0" placeholder="0">
+      </div>
+      <div class="fg">
+        <label>Currency</label>
+        <input type="text" id="f-currency" value="${h(p.price?.currency||'INR')}" placeholder="INR">
+      </div>
+    </div>
+
+    <div class="fg">
+      <label>Stock quantity</label>
+      <input type="number" id="f-stock" value="${p.stock?.total ?? ''}" min="0" placeholder="0">
+    </div>
+
+    <div class="toggle-row">
+      <span>Featured product</span>
+      <button type="button" class="toggle${p.stock?.is_featured ? ' on' : ''}" id="f-featured"></button>
+    </div>
+
+    ${hasAttrs ? `
+    <div class="section">
+      <button type="button" class="section-head" data-toggle="attrs-body">
+        Attributes
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+      <div class="section-body" id="attrs-body">
+        <div class="f2">
+          <div class="fg">
+            <label>Sunlight</label>
+            <input type="text" id="f-attr-sunlight" value="${h(attrs.sunlight||'')}" placeholder="e.g. Full Sun">
+          </div>
+          <div class="fg">
+            <label>Water</label>
+            <input type="text" id="f-attr-water" value="${h(attrs.water||'')}" placeholder="e.g. Weekly">
+          </div>
+          <div class="fg">
+            <label>Height</label>
+            <input type="text" id="f-attr-height" value="${h(attrs.height||'')}" placeholder="e.g. 30–60 cm">
+          </div>
+          <div class="fg">
+            <label>Difficulty</label>
+            <select id="f-attr-difficulty">
+              <option value="">— None —</option>
+              ${['Easy','Moderate','Hard'].map(d => `<option ${attrs.difficulty===d?'selected':''}>${d}</option>`).join('')}
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>` : ''}
+
+    ${hasSym ? `
+    <div class="section">
+      <button type="button" class="section-head" data-toggle="sym-body">
+        Symbolism
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+      <div class="section-body hidden" id="sym-body">
+        <div class="fg">
+          <label>Origin / Story</label>
+          <textarea id="f-sym-origin" style="min-height:64px">${h(sym.origin||'')}</textarea>
+        </div>
+        <div class="fg">
+          <label>Meanings <span class="opt">(comma-separated)</span></label>
+          <input type="text" id="f-sym-meanings" value="${h((sym.meanings||[]).join(', '))}">
+        </div>
+      </div>
+    </div>` : ''}
+
+    ${hasComp ? `
+    <div class="section">
+      <button type="button" class="section-head" data-toggle="comp-body">
+        Composition
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+      <div class="section-body hidden" id="comp-body">
+        <textarea id="f-composition" data-mono>${h(JSON.stringify(p.composition, null, 2))}</textarea>
+      </div>
+    </div>` : ''}
+
+    ${hasExtra ? extraSection(extra) : ''}
+  `;
+}
+
+function medForm(p, extra) {
+  const hasExtra = Object.keys(extra).length > 0;
+  return `
+    <div class="f2">
+      <div class="fg">
+        <label>ID <span style="color:var(--red)">*</span></label>
+        <input type="text" id="f-id" value="${h(p.id||'')}" placeholder="unique-slug" ${S.isNew ? '' : 'readonly'}>
+      </div>
+      <div class="fg">
+        <label>Category</label>
+        <input type="text" id="f-category" value="${h(p.category||S.activeCat)}" readonly>
+      </div>
+    </div>
+
+    <div class="fg">
+      <label>Display Title <span style="color:var(--red)">*</span></label>
+      <input type="text" id="f-title" value="${h(p.title||'')}" placeholder="e.g. Abutilon">
+    </div>
+
+    <div class="fg">
+      <label>Scientific Name <span class="opt">(plant)</span></label>
+      <input type="text" id="f-plant" value="${h(p.plant||'')}" placeholder="e.g. Abutilon theophrastii">
+    </div>
+
+    <div class="fg">
+      <label>Family</label>
+      <input type="text" id="f-family" value="${h(p.family||'')}" placeholder="e.g. Malvaceae">
+    </div>
+
+    <div class="fg">
+      <label>Common Names <span class="opt">(comma-separated)</span></label>
+      <input type="text" id="f-common_name" value="${h((p.common_name||[]).join(', '))}">
+    </div>
+
+    <div class="fg">
+      <label>Kashmiri Names <span class="opt">(comma-separated)</span></label>
+      <input type="text" id="f-kashmiri_name" value="${h((p.kashmiri_name||[]).join(', '))}">
+    </div>
+
+    <div class="fg">
+      <label>Therapeutic Properties <span class="opt">(comma-separated)</span></label>
+      <textarea id="f-therapeutic_properties">${h((p.therapeutic_properties||[]).join(', '))}</textarea>
+    </div>
+
+    <div class="fg">
+      <label>Parts Used <span class="opt">(comma-separated)</span></label>
+      <input type="text" id="f-parts_used" value="${h((p.parts_used||[]).join(', '))}">
+    </div>
+
+    <div class="fg">
+      <label>Health Benefits <span class="opt">(comma-separated)</span></label>
+      <textarea id="f-health_benefits">${h((p.health_benefits||[]).join(', '))}</textarea>
+    </div>
+
+    ${hasExtra ? extraSection(extra) : ''}
+  `;
+}
+
+function extraSection(obj) {
+  return `
+    <div class="section">
+      <button type="button" class="section-head" data-toggle="extra-body">
+        Extra fields (raw JSON)
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+      <div class="section-body hidden" id="extra-body">
+        <textarea id="f-extra" data-mono>${h(JSON.stringify(obj, null, 2))}</textarea>
+      </div>
+    </div>
+  `;
+}
+
+// Collapsible section toggle — delegate on drawer body
+document.getElementById('drawer-body').addEventListener('click', e => {
+  const btn = e.target.closest('[data-toggle]');
+  if (!btn) return;
+  const target = document.getElementById(btn.dataset.toggle);
+  if (!target) return;
+  target.classList.toggle('hidden');
+  // Rotate chevron
+  const chevron = btn.querySelector('svg');
+  if (chevron) chevron.style.transform = target.classList.contains('hidden') ? '' : 'rotate(180deg)';
+});
+
+// ── Save ──────────────────────────────────────────────────────────────────────
+async function saveProduct() {
+  const isMed = S.activeCat === 'medicinal-flora';
+  const v  = id => (document.getElementById(id)?.value ?? '').trim();
+  const va = id => v(id).split(',').map(s => s.trim()).filter(Boolean);
+
+  let product;
+
+  if (isMed) {
+    product = {
+      id:                    v('f-id'),
+      title:                 v('f-title'),
+      category:              v('f-category') || S.activeCat,
+      plant:                 v('f-plant'),
+      family:                v('f-family'),
+      common_name:           va('f-common_name'),
+      kashmiri_name:         va('f-kashmiri_name'),
+      therapeutic_properties: va('f-therapeutic_properties'),
+      parts_used:            va('f-parts_used'),
+      health_benefits:       va('f-health_benefits'),
+    };
+  } else {
+    const isFeatured = document.getElementById('f-featured')?.classList.contains('on') ?? false;
+    product = {
+      id:          v('f-id'),
+      title:       v('f-title'),
+      category:    v('f-category') || S.activeCat,
+      description: v('f-description'),
+      price: {
+        amount:   parseFloat(v('f-price')) || 0,
+        currency: v('f-currency') || 'INR',
+      },
+      stock: {
+        total:       parseInt(v('f-stock'), 10) || 0,
+        is_featured: isFeatured,
+      },
+      media: { images: va('f-images') },
+    };
+
+    // Optional subtitle
+    const subEl = document.getElementById('f-subtitle');
+    if (subEl) product.subtitle = subEl.value.trim();
+
+    // Attributes
+    const attrSunlight = v('f-attr-sunlight');
+    const attrWater    = v('f-attr-water');
+    const attrHeight   = v('f-attr-height');
+    const attrDiff     = v('f-attr-difficulty');
+    const attrs = {};
+    if (attrSunlight) attrs.sunlight  = attrSunlight;
+    if (attrWater)    attrs.water     = attrWater;
+    if (attrHeight)   attrs.height    = attrHeight;
+    if (attrDiff)     attrs.difficulty = attrDiff;
+    if (Object.keys(attrs).length) product.attributes = attrs;
+
+    // Symbolism
+    const symO = document.getElementById('f-sym-origin');
+    const symM = document.getElementById('f-sym-meanings');
+    if (symO || symM) {
+      product.symbolism = {};
+      if (symO) product.symbolism.origin   = symO.value.trim();
+      if (symM) product.symbolism.meanings = symM.value.split(',').map(s => s.trim()).filter(Boolean);
+    }
+
+    // Composition
+    const compEl = document.getElementById('f-composition');
+    if (compEl) {
+      try { product.composition = JSON.parse(compEl.value); }
+      catch { toast('Invalid JSON in Composition', 'error'); return; }
+    }
+  }
+
+  // Extra fields
+  const extraEl = document.getElementById('f-extra');
+  if (extraEl) {
+    try { Object.assign(product, JSON.parse(extraEl.value || '{}')); }
+    catch { toast('Invalid JSON in Extra Fields', 'error'); return; }
+  }
+
+  if (!product.id)    { toast('ID is required',    'error'); return; }
+  if (!product.title) { toast('Title is required', 'error'); return; }
+
+  const btn = document.getElementById('save-btn');
+  btn.disabled = true;
+  btn.textContent = 'Saving…';
+
+  const r = S.isNew
+    ? await api('POST', `products/${S.activeCat}`, product)
+    : await api('PUT',  `products/${S.activeCat}/${encodeURIComponent(product.id)}`, product);
+
+  btn.disabled = false;
+  btn.innerHTML = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21H5a2 2 0 01-2-2V5a2 2 0 012-2h11l5 5v11a2 2 0 01-2 2z"/><polyline points="17 21 17 13 7 13 7 21"/><polyline points="7 3 7 8 15 8"/></svg> Save`;
+
+  if (r.ok) {
+    toast(S.isNew ? 'Product added!' : 'Changes saved!', 'ok');
+    closeDrawer();
+    if (S.isNew) {
+      S.products.push(product);
+      const cat = S.cats.find(c => c.id === S.activeCat);
+      if (cat) cat.count++;
+      renderSidebar();
+    } else {
+      const idx = S.products.findIndex(x => x.id === product.id);
+      if (idx >= 0) S.products[idx] = product;
+    }
+    applyFilter();
+    renderProducts();
+  } else {
+    toast(r.data?.error || 'Save failed', 'error');
+  }
+}
+
+// ── Delete ────────────────────────────────────────────────────────────────────
+function confirmDelete() {
+  if (!S.editing) return;
+  const p = S.editing;
+  const bg = document.createElement('div');
+  bg.className = 'dialog-bg';
+  bg.innerHTML = `
+    <div class="dialog">
+      <h3>Delete product?</h3>
+      <p>Permanently delete <strong>${h(p.title || p.id)}</strong>?<br>This cannot be undone.</p>
+      <div class="dialog-actions">
+        <button class="btn btn-secondary" id="dlg-cancel">Cancel</button>
+        <button class="btn btn-danger"    id="dlg-confirm">Delete</button>
+      </div>
+    </div>`;
+  document.body.appendChild(bg);
+  bg.querySelector('#dlg-cancel').addEventListener('click',  () => bg.remove());
+  bg.querySelector('#dlg-confirm').addEventListener('click', async () => {
+    bg.remove();
+    const id = p.id;
+    const r = await api('DELETE', `products/${S.activeCat}/${encodeURIComponent(id)}`);
+    if (r.ok) {
+      toast('Product deleted', 'ok');
+      closeDrawer();
+      S.products = S.products.filter(x => x.id !== id);
+      const cat = S.cats.find(c => c.id === S.activeCat);
+      if (cat) cat.count--;
+      renderSidebar();
+      applyFilter();
+      renderProducts();
+    } else {
+      toast(r.data?.error || 'Delete failed', 'error');
+    }
+  });
+}
+
+// ── Event wiring ──────────────────────────────────────────────────────────────
+document.getElementById('overlay').addEventListener('click', closeDrawer);
+document.getElementById('drawer-close').addEventListener('click', closeDrawer);
+document.getElementById('cancel-btn').addEventListener('click', closeDrawer);
+document.getElementById('save-btn').addEventListener('click', saveProduct);
+document.getElementById('delete-btn').addEventListener('click', confirmDelete);
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeDrawer(); });
+
+// Stable delegated listeners on #main (survives renderProducts calls)
+document.getElementById('main').addEventListener('input', e => {
+  if (e.target.id === 'search-input') {
+    S.searchQ = e.target.value;
+    applyFilter();
+    refreshTableZone();
+  }
+});
+document.getElementById('main').addEventListener('click', e => {
+  // Filter chips
+  const chip = e.target.closest('[data-filter]');
+  if (chip) {
+    if (chip.dataset.filter === 'featured') S.filterFeatured = !S.filterFeatured;
+    if (chip.dataset.filter === 'outOfStock') S.filterOutOfStock = !S.filterOutOfStock;
+    chip.classList.toggle('on');
+    applyFilter();
+    refreshTableZone();
+    return;
+  }
+  // Add button
+  if (e.target.closest('#add-btn')) { openNew(); return; }
+  // Table row actions
+  const row = e.target.closest('tr[data-id]');
+  if (row) {
+    const id = row.dataset.id;
+    if (e.target.closest('.toggle')) quickToggleFeatured(id);
+    else if (e.target.closest('.edit-btn')) openEdit(id);
+  }
+});
+document.getElementById('main').addEventListener('change', e => {
+  if (e.target.classList.contains('stock-input')) {
+    const row = e.target.closest('tr[data-id]');
+    if (row) quickUpdateStock(row.dataset.id, e.target.value);
+  }
+});
+
+// ── Toasts ────────────────────────────────────────────────────────────────────
+function toast(msg, type = 'info') {
+  const icons = { ok: '✓', error: '✕', info: 'ℹ' };
+  const el = Object.assign(document.createElement('div'), {
+    className: `toast ${type}`,
+    textContent: `${icons[type] || 'ℹ'} ${msg}`,
+  });
+  document.getElementById('toasts').appendChild(el);
+  setTimeout(() => el.remove(), 3500);
+}
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+function h(s) {  // HTML-escape
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+function fmtCat(id) {
+  return id.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+}
+
+function fmtPrice(price) {
+  if (!price) return '—';
+  const sym = price.currency === 'INR' ? '₹' : (price.currency || '');
+  return `${sym}${price.amount ?? '—'}`;
+}
+
+function deepClone(obj) { return JSON.parse(JSON.stringify(obj)); }
+function setMain(html) { document.getElementById('main').innerHTML = html; }
+function spinner() {
+  return `<div class="loading"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" stroke-opacity=".2"/><path d="M12 3a9 9 0 019 9"/></svg> Loading…</div>`;
+}
+function icon(n) {
+  if (n === 'warn') return `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>`;
+  return '';
+}
+</script>
+</body>
+</html>

@@ -1,27 +1,52 @@
 {
   "products": [
     {
-      "id": "red-maple",
-      "title": "Red Maple",
+      "id": "aloe-vera",
+      "title": "Aloe Vera",
       "category": "ornamental-plant",
-      "description": "Elegant Japanese red maple sapling with vibrant red foliage. Thrives in temperate climates like Kashmir. Perfect for gardens and landscapes.",
+      "description": "Known for its medicinal properties, its thick, fleshy leaves contain a soothing gel. Ideal for indoor and outdoor settings.",
       "price": {
-        "amount": 899,
+        "amount": 149,
         "currency": "INR"
       },
       "stock": {
-        "total": 40,
+        "total": 50,
         "is_featured": true
       },
       "media": {
         "images": [
-          "/images/ornamental-plants/red-maple.jpg"
+          "/images/ornamental-plants/aloe-vera.jpg"
         ]
       },
       "attributes": {
         "sunlight": "Full",
         "water": "Weekly",
-        "height": "600–2400 cm",
+        "height": "30–60 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "caladium",
+      "title": "Caladium",
+      "category": "ornamental-plant",
+      "description": "A classic Caladium cultivar with large heart-shaped leaves featuring brilliant white centres and bold green margins and veins. Native to tropical South America, this tuberous plant is prized for its dramatic foliage contrast and thrives in warm humid shaded conditions.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 85,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/bulbs/caladium-candidum-allure.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial to Full Shade",
+        "water": "Twice Weekly",
+        "height": "30–60 cm",
         "difficulty": "Moderate"
       }
     },
@@ -48,6 +73,56 @@
         "water": "Weekly",
         "height": "200–300 cm",
         "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "italian-cypress",
+      "title": "Italian Cypress (Pencil Pine)",
+      "category": "ornamental-plant",
+      "description": "Tall, slender Italian Cypress with dark green foliage. Ideal for formal gardens and Mediterranean landscapes. Requires full sun and well-drained soil.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/plants/italian-pencil-pine.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "500–3000 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "red-maple",
+      "title": "Red Maple",
+      "category": "ornamental-plant",
+      "description": "Elegant Japanese red maple sapling with vibrant red foliage. Thrives in temperate climates like Kashmir. Perfect for gardens and landscapes.",
+      "price": {
+        "amount": 899,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/red-maple.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "600–2400 cm",
+        "difficulty": "Moderate"
       }
     }
   ]
