@@ -1,38 +1,6 @@
 {
   "products": [
     {
-      "id": "alyssum",
-      "title": "Alyssum",
-      "category": "flower-sapling",
-      "description": "Sweet alyssum is a delicate annual ground cover producing masses of tiny, honey-scented white or pink flowers. Native to the Mediterranean, it blooms prolifically and attracts beneficial insects like bees and butterflies.",
-      "price": {
-        "amount": 9,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 120,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/alyssum.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Named 'sweet alyssum' for its honey-like fragrance; Victorians saw its modest, low-growing form as representing worth that surpasses outward appearance.",
-        "meanings": [
-          "Worth beyond beauty",
-          "Sweet worth"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "8–30 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
       "id": "alstroemeria",
       "title": "Alstroemeria",
       "category": "flower-sapling",
@@ -66,6 +34,94 @@
       }
     },
     {
+      "id": "alyssum",
+      "title": "Alyssum",
+      "category": "flower-sapling",
+      "description": "Sweet alyssum is a delicate annual ground cover producing masses of tiny, honey-scented white or pink flowers. Native to the Mediterranean, it blooms prolifically and attracts beneficial insects like bees and butterflies.",
+      "price": {
+        "amount": 9,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 120,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/alyssum.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Named 'sweet alyssum' for its honey-like fragrance; Victorians saw its modest, low-growing form as representing worth that surpasses outward appearance.",
+        "meanings": [
+          "Worth beyond beauty",
+          "Sweet worth"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "8–30 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "american-geranium",
+      "title": "American Geranium",
+      "category": "flower-sapling",
+      "description": "Hardy American geranium variety with showy pink or blue flowers. Excellent perennial for borders. Long blooming season.",
+      "price": {
+        "amount": 349,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/american-geranium.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "30–60 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "aster",
+      "title": "Aster",
+      "category": "flower-sapling",
+      "description": "Asters are daisy-like perennials blooming in late summer and autumn in shades of purple, pink, blue, and white. They are an essential late-season source of nectar for pollinators and add color to the autumn garden.",
+      "price": {
+        "amount": 0,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 0,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/aster.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Its slender petals surrounding a small center inspired delicacy and refinement.",
+        "meanings": [
+          "Daintiness"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "30–120 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
       "id": "azelea",
       "title": "Azelea",
       "category": "flower-sapling",
@@ -95,6 +151,63 @@
         "water": "Weekly",
         "height": "60–180 cm",
         "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "baby-s-breath",
+      "title": "Baby’s Breath",
+      "category": "flower-sapling",
+      "description": "Baby's breath (Gypsophila) produces clouds of tiny, delicate white or pink flowers on wiry branching stems. A staple of the florist's art, it is used to add lightness and texture to bouquets and arrangements.",
+      "price": {
+        "amount": 99,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 0,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/babys-breath.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Named in the 19th century for its delicate scent and bridal-veil appearance.",
+        "meanings": [
+          "Purity",
+          "Innocence"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "60–90 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "baby-sun-rose",
+      "title": "Baby Sun Rose",
+      "category": "flower-sapling",
+      "description": "Low-growing succulent with bright pink flowers. Excellent groundcover for sunny spots. Drought tolerant and heat loving.",
+      "price": {
+        "amount": 99,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/baby-sun-rose.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "5–20 cm",
+        "difficulty": "Easy"
       }
     },
     {
@@ -158,6 +271,63 @@
         "sunlight": "Partial",
         "water": "Weekly",
         "height": "15–60 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "bougainvillea",
+      "title": "Bougainvillea",
+      "category": "flower-sapling",
+      "description": "Vibrant tropical vine with colorful papery bracts. Produces stunning cascades of pink, purple, orange, or red. Thrives in warm, sunny spots.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/bougainvillea.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–500 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "butterfly-weed",
+      "title": "Butterfly Weed",
+      "category": "flower-sapling",
+      "description": "Butterfly weed (Asclepias tuberosa) is a bright North American wildflower producing dense clusters of vibrant orange, yellow, or red flowers. A critical host plant for monarch butterfly caterpillars, it is essential for pollinator gardens.",
+      "price": {
+        "amount": 29,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 0,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/butterfly-weed.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Vital role in butterfly life cycles symbolizes transformation and resilience.",
+        "meanings": [
+          "Transformation",
+          "Attraction"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Bi-Weekly",
+        "height": "30–60 cm",
         "difficulty": "Easy"
       }
     },
@@ -290,12 +460,44 @@
       }
     },
     {
+      "id": "celosia",
+      "title": "Celosia (Cockscomb)",
+      "category": "flower-sapling",
+      "description": "Celosia, is a vibrant annual producing velvety, brain-like flower heads in shades of red, pink, purple, yellow, and orange. The exotic appearance belies its ease of cultivation and heat tolerance.",
+      "price": {
+        "amount": 19,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 70,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/celosia.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "The crested flowers resemble a rooster's comb, symbolizing boldness and confidence.",
+        "meanings": [
+          "Boldness",
+          "Confidence"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "20–90 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
       "id": "chrysanthemum",
       "title": "Chrysanthemum",
       "category": "flower-sapling",
       "description": "Chrysanthemums, or mums, are the quintessential autumn flower, producing dense pompom or daisy-like blooms in a vast spectrum of colors. In East Asian cultures they symbolize longevity and rejuvenation.",
       "price": {
-        "amount": 149,
+        "amount": 99,
         "currency": "INR"
       },
       "stock": {
@@ -321,35 +523,66 @@
       }
     },
     {
-      "id": "dahlia",
-      "title": "Dahlia",
+      "id": "cornflower",
+      "title": "Cornflower",
       "category": "flower-sapling",
-      "description": "Dahlias are tuberous perennials native to Mexico and Central America, producing showy blooms in an astonishing variety of forms and colors from midsummer until frost. They were once prized as a food source by the Aztecs.",
+      "description": "Cornflowers (Centaurea cyanus) are annual wildflowers producing intense sky-blue, purple, pink, or white flowers. Once common in European grain fields, they are now valued as cottage garden plants and cut flowers.",
       "price": {
-        "amount": 249,
+        "amount": 49,
         "currency": "INR"
       },
       "stock": {
-        "total": 50,
-        "is_featured": true
+        "total": 0,
+        "is_featured": false
       },
       "media": {
         "images": [
-          "/images/flower-saplings/dahlia.jpg"
+          "/images/flower-saplings/cornflower.jpg"
         ]
       },
       "symbolism": {
-        "origin": "Long-lasting blooms made it a Victorian wedding symbol.",
+        "origin": "Folklore claimed its longevity predicted whether love would be returned.",
         "meanings": [
-          "Eternal love",
-          "Commitment"
+          "Hope in love"
         ]
       },
       "attributes": {
         "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "30–150 cm",
-        "difficulty": "Moderate"
+        "water": "Weekly",
+        "height": "30–90 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "cosmos",
+      "title": "Cosmos",
+      "category": "flower-sapling",
+      "description": "Cosmos are graceful annuals producing delicate, daisy-like flowers on airy stems in shades of pink, red, orange, purple, and white. Heat and drought tolerant, they bloom prolifically from summer until frost.",
+      "price": {
+        "amount": 9,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 110,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/cosmos.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "The name means 'harmony' and 'order' from the Greek, reflecting its perfect symmetry.",
+        "meanings": [
+          "Order",
+          "Harmony"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "30–120 cm",
+        "difficulty": "Easy"
       }
     },
     {
@@ -381,6 +614,38 @@
         "water": "Weekly",
         "height": "20–50 cm",
         "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "dahlia",
+      "title": "Dahlia",
+      "category": "flower-sapling",
+      "description": "Dahlias are tuberous perennials native to Mexico and Central America, producing showy blooms in an astonishing variety of forms and colors from midsummer until frost. They were once prized as a food source by the Aztecs.",
+      "price": {
+        "amount": 9,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/dahlia.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Long-lasting blooms made it a Victorian wedding symbol.",
+        "meanings": [
+          "Eternal love",
+          "Commitment"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Twice Weekly",
+        "height": "30–150 cm",
+        "difficulty": "Moderate"
       }
     },
     {
@@ -449,37 +714,6 @@
       }
     },
     {
-      "id": "delphinium",
-      "title": "Delphinium (Larkspur)",
-      "category": "flower-sapling",
-      "description": "Delphiniums, also known as larkspur, produce magnificent tall spikes densely packed with spurred flowers in deep blues, purples, and whites. They are a majestic presence in cottage gardens and cutting gardens alike.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/delphinium.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Named for a lark’s foot; associated with lightness.",
-        "meanings": [
-          "Levity"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "60–180 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
       "id": "dianthus",
       "title": "Dianthus",
       "category": "flower-sapling",
@@ -509,6 +743,31 @@
         "water": "Weekly",
         "height": "15–45 cm",
         "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "fuchsia",
+      "title": "Fuchsia",
+      "category": "flower-sapling",
+      "description": "Elegant plant with tubular flowers in contrasting colors. Graceful pendant blooms attract hummingbirds. Prefers cool, shaded locations.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/fuchsia.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Twice Weekly",
+        "height": "30–90 cm",
+        "difficulty": "Moderate"
       }
     },
     {
@@ -544,34 +803,52 @@
       }
     },
     {
-      "id": "godetia",
-      "title": "Godetia",
+      "id": "gerbera-daisy",
+      "title": "Gerbera Daisy",
       "category": "flower-sapling",
-      "description": "Godetia (Clarkia amoena), also known as Farewell-to-Spring, is a Western North American wildflower producing large, silky, cup-shaped blooms in shades of pink, red, lavender, and white. It prefers cool weather.",
+      "description": "Large, vibrant daisy-like flowers in bold colors. Cheerful blooms on long stems. Popular as ornamental plant and cut flower.",
       "price": {
-        "amount": 29,
+        "amount": 199,
         "currency": "INR"
       },
       "stock": {
-        "total": 50,
-        "is_featured": true
+        "total": 45,
+        "is_featured": false
       },
       "media": {
         "images": [
-          "/images/flower-saplings/godetia.jpg"
+          "/images/flower-saplings/gerbera-daisy.jpg"
         ]
       },
-      "symbolism": {
-        "origin": "Called Farewell-to-Spring for its late blooming; its vivid, fleeting flowers inspired a Victorian sense of being utterly captivated.",
-        "meanings": [
-          "Bewitched",
-          "Enthralled"
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Twice Weekly",
+        "height": "30–60 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "ghazania",
+      "title": "Ghazania",
+      "category": "flower-sapling",
+      "description": "Vibrant daisy-like flowers in orange, red, or yellow with distinctive striped patterns. Sun-loving annual or perennial groundcover.",
+      "price": {
+        "amount": 19,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 80,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/ghazania.jpg"
         ]
       },
       "attributes": {
         "sunlight": "Full",
         "water": "Weekly",
-        "height": "30–60 cm",
+        "height": "20–40 cm",
         "difficulty": "Easy"
       }
     },
@@ -604,6 +881,38 @@
         "water": "Weekly",
         "height": "60–150 cm",
         "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "godetia",
+      "title": "Godetia",
+      "category": "flower-sapling",
+      "description": "Godetia (Clarkia amoena), also known as Farewell-to-Spring, is a Western North American wildflower producing large, silky, cup-shaped blooms in shades of pink, red, lavender, and white. It prefers cool weather.",
+      "price": {
+        "amount": 29,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/godetia.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Called Farewell-to-Spring for its late blooming; its vivid, fleeting flowers inspired a Victorian sense of being utterly captivated.",
+        "meanings": [
+          "Bewitched",
+          "Enthralled"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "30–60 cm",
+        "difficulty": "Easy"
       }
     },
     {
@@ -667,6 +976,38 @@
         "water": "Weekly",
         "height": "20–30 cm",
         "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "hydrangea",
+      "title": "Hydrangea",
+      "category": "flower-sapling",
+      "description": "Hydrangeas are magnificent flowering shrubs producing enormous, dome-shaped or lacecap flower heads in shades of blue, pink, white, and purple. The flower color of some varieties is influenced by soil pH, turning blue in acidic soils.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/hydrangea.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Large blooms with few seeds suggested excess show.",
+        "meanings": [
+          "Boastfulness",
+          "Heartlessness"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Twice Weekly",
+        "height": "100–200 cm",
+        "difficulty": "Moderate"
       }
     },
     {
@@ -735,6 +1076,62 @@
       }
     },
     {
+      "id": "kalanchoe",
+      "title": "Kalanchoe",
+      "category": "flower-sapling",
+      "description": "Succulent kalanchoe with fleshy leaves and bright cluster flowers. Very low maintenance, thrives in dry conditions. Perfect for beginners.",
+      "price": {
+        "amount": 69,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 60,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/kalanchoe.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "15–30 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "larkspur",
+      "title": "Larkspur",
+      "category": "flower-sapling",
+      "description": "Larkspur (Delphinium consolida) is an annual producing tall, graceful spikes of spurred flowers in shades of blue, purple, pink, and white. A classic cottage garden and cutting garden annual, it dries beautifully for arrangements.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/larkspur.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Named for a lark’s foot; associated with lightness.",
+        "meanings": [
+          "Levity"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "60–120 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
       "id": "lavender",
       "title": "Lavender",
       "category": "flower-sapling",
@@ -798,6 +1195,37 @@
       }
     },
     {
+      "id": "lily",
+      "title": "Lily",
+      "category": "flower-sapling",
+      "description": "True lilies (Lilium) are stately bulbous perennials producing large, often fragrant trumpet or turks cap flowers on tall stems. They come in a spectacular range of colors and are among the most beloved of all garden flowers.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/lily.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Associated with the Virgin Mary in Christian art.",
+        "meanings": [
+          "Purity"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Weekly",
+        "height": "60–150 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
       "id": "marigold",
       "title": "Marigold",
       "category": "flower-sapling",
@@ -826,6 +1254,31 @@
         "water": "Weekly",
         "height": "15–90 cm",
         "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "miniature-rose",
+      "title": "Miniature Rose",
+      "category": "flower-sapling",
+      "description": "Miniature roses are petite versions of classic roses with tiny, intricately formed blooms. Perfect for containers, bonsai, and compact spaces, they come in all rose colors and bloom prolifically.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/miniature-rose.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Twice Weekly",
+        "height": "20–40 cm",
+        "difficulty": "Moderate"
       }
     },
     {
@@ -858,6 +1311,37 @@
         "water": "Weekly",
         "height": "200–300 cm",
         "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "nerium-oleander",
+      "title": "Nerium Oleander",
+      "category": "flower-sapling",
+      "description": "Nerium oleander is a beautiful, fast-growing Mediterranean shrub producing clusters of fragrant flowers in shades of pink, red, and white throughout summer. Highly ornamental but extremely toxic in all its parts.",
+      "price": {
+        "amount": 249,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 12,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/nerium-oleander.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Poisonous plant linked to tragic Greek myth.",
+        "meanings": [
+          "Caution"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "200–600 cm",
+        "difficulty": "Moderate"
       }
     },
     {
@@ -924,9 +1408,9 @@
     },
     {
       "id": "periwinkle",
-      "title": "Periwinkle",
+      "title": "Periwinkle (Vinca)",
       "category": "flower-sapling",
-      "description": "Periwinkle (Vinca) is a low-maintenance evergreen ground cover or trailing plant with glossy dark green leaves and cheerful five-petaled flowers in blue, violet, or white. It thrives in sun or shade with minimal care.",
+      "description": "Periwinkle is a low-maintenance evergreen ground cover or trailing plant with glossy dark green leaves and cheerful five-petaled flowers in blue, violet, or white. It thrives in sun or shade with minimal care.",
       "price": {
         "amount": 49,
         "currency": "INR"
@@ -951,6 +1435,38 @@
         "sunlight": "Partial",
         "water": "Bi-Weekly",
         "height": "15–30 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "petunia",
+      "title": "Petunia",
+      "category": "flower-sapling",
+      "description": "Petunias are among the most popular summer bedding plants, producing masses of trumpet-shaped flowers in every color of the rainbow throughout the season. Available in trailing and upright forms, they are superb in containers.",
+      "price": {
+        "amount": 19,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/petunia.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Delicate nature likened to wounded emotions.",
+        "meanings": [
+          "Anger",
+          "Resentment"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "15–45 cm",
         "difficulty": "Easy"
       }
     },
@@ -1014,6 +1530,88 @@
         "sunlight": "Full",
         "water": "Twice Weekly",
         "height": "60–150 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "primrose",
+      "title": "Primrose",
+      "category": "flower-sapling",
+      "description": "Primroses (Primula) are charming spring-flowering perennials producing clusters of bright, cheerful blooms in shades of yellow, red, pink, purple, and white. They thrive in cool, moist soil and partial shade.",
+      "price": {
+        "amount": 39,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 59,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/primrose.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Among the first flowers to bloom in spring, symbolizing youth and new beginnings.",
+        "meanings": [
+          "Young love",
+          "Youthfulness"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Weekly",
+        "height": "15–40 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "scented-geranium",
+      "title": "Scented Geranium",
+      "category": "flower-sapling",
+      "description": "Aromatic geranium varieties with fragrant foliage in scents like rose, lemon, and apple. Attractive flowers complement the beautiful leaves.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/scented-geranium.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "30–90 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "snowball-guelder-rose",
+      "title": "Snowball (Guelder Rose)",
+      "category": "flower-sapling",
+      "description": "Deciduous shrub with spectacular white snowball-like flower clusters. Stunning spring display followed by red berries. Classic cottage garden plant.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 15,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/snowball-guelder-rose.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "200–400 cm",
         "difficulty": "Moderate"
       }
     },
@@ -1112,34 +1710,36 @@
       }
     },
     {
-      "id": "lily",
-      "title": "Lily",
+      "id": "tiger-lily",
+      "title": "Tiger Lily",
       "category": "flower-sapling",
-      "description": "True lilies (Lilium) are stately bulbous perennials producing large, often fragrant trumpet or turks cap flowers on tall stems. They come in a spectacular range of colors and are among the most beloved of all garden flowers.",
+      "description": "Tiger lilies (Lilium lancifolium) are exotic perennial bulbs producing nodding turks-cap flowers with distinctive black or dark spots. Hardy, vigorous, and striking, they add drama to any garden.",
       "price": {
-        "amount": 199,
+        "amount": 99,
         "currency": "INR"
       },
       "stock": {
-        "total": 30,
+        "total": 25,
         "is_featured": false
       },
       "media": {
         "images": [
-          "/images/flower-saplings/lily.jpg"
+          "/images/flower-saplings/tiger-lily.jpg"
         ]
       },
       "symbolism": {
-        "origin": "Associated with the Virgin Mary in Christian art.",
+        "origin": "Named for distinctive spotted markings resembling tiger stripes",
         "meanings": [
-          "Purity"
+          "Pride",
+          "Prosperity",
+          "Wealth"
         ]
       },
       "attributes": {
-        "sunlight": "Partial",
+        "sunlight": "Full",
         "water": "Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Moderate"
+        "height": "90–150 cm",
+        "difficulty": "Easy"
       }
     },
     {
@@ -1206,6 +1806,37 @@
       }
     },
     {
+      "id": "yarrow",
+      "title": "Yarrow",
+      "category": "flower-sapling",
+      "description": "Yarrow (Achillea millefolium) is a robust perennial wildflower with feathery aromatic leaves and flat-topped clusters of tiny flowers in white, yellow, pink, or red. Named after Achilles, who is said to have used it to heal wounds.",
+      "price": {
+        "amount": 49,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 0,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/yarrow.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Named after Achilles, who healed wounds with it.",
+        "meanings": [
+          "Cure for a broken heart"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Bi-Weekly",
+        "height": "30–90 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
       "id": "zinnia",
       "title": "Zinnia",
       "category": "flower-sapling",
@@ -1233,2325 +1864,6 @@
         "sunlight": "Full",
         "water": "Weekly",
         "height": "15–90 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "amaryllis",
-      "title": "Amaryllis",
-      "category": "flower-sapling",
-      "description": "Amaryllis (Hippeastrum) produces spectacular large, trumpet-shaped blooms on tall hollow stems, typically in red, white, or pink. Widely grown as a winter-flowering bulb indoors, it is prized for its bold and dramatic presence.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Victorians linked amaryllis to pride because of its tall stalks, bold blooms, and resilience to harsh conditions.",
-        "meanings": [
-          "Pride"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "45–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "anemone",
-      "title": "Anemone",
-      "category": "flower-sapling",
-      "description": "Anemones are delicate, poppy-like flowers with silky petals in vivid shades of red, purple, pink, blue, and white, each with a striking dark center. They bloom in spring and are associated with Greek mythology and Aphrodite.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Greek mythology says anemones sprang from Aphrodite’s tears after the death of Adonis.",
-        "meanings": [
-          "Forsaken love"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "15–45 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "apple-blossom",
-      "title": "Apple Blossom",
-      "category": "flower-sapling",
-      "description": "Apple blossoms are the delicate, five-petaled spring flowers of the apple tree. Pink-tinged in bud and white when open, they perfume orchards with a light, sweet fragrance and herald the arrival of spring.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "From the myth of the Golden Apple of Discord and Paris choosing Aphrodite.",
-        "meanings": [
-          "Preference"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "300–600 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "asphodel",
-      "title": "Asphodel",
-      "category": "flower-sapling",
-      "description": "Asphodel is a tall Mediterranean perennial with strap-like leaves and elegant spikes of white or yellow star-shaped flowers. In Greek mythology, fields of asphodel were said to grow in the underworld.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "In Greek myth, asphodels grew in the underworld and symbolized regret and limbo.",
-        "meanings": [
-          "My regrets follow you to the grave"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "30–100 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "aster",
-      "title": "Aster",
-      "category": "flower-sapling",
-      "description": "Asters are daisy-like perennials blooming in late summer and autumn in shades of purple, pink, blue, and white. They are an essential late-season source of nectar for pollinators and add color to the autumn garden.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Its slender petals surrounding a small center inspired delicacy and refinement.",
-        "meanings": [
-          "Daintiness"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–120 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "baby-s-breath",
-      "title": "Baby’s Breath",
-      "category": "flower-sapling",
-      "description": "Baby's breath (Gypsophila) produces clouds of tiny, delicate white or pink flowers on wiry branching stems. A staple of the florist's art, it is used to add lightness and texture to bouquets and arrangements.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Named in the 19th century for its delicate scent and bridal-veil appearance.",
-        "meanings": [
-          "Purity",
-          "Innocence"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–90 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "basil",
-      "title": "Basil",
-      "category": "flower-sapling",
-      "description": "Basil is a fragrant culinary herb with smooth, glossy leaves and small white or purple flowers. Native to tropical Asia and Africa, it is central to Mediterranean and Southeast Asian cuisines and has long medicinal uses.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Greeks likened basil leaves to the deadly basilisk, associating it with hatred.",
-        "meanings": [
-          "Hate"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "belladonna",
-      "title": "Belladonna",
-      "category": "flower-sapling",
-      "description": "Belladonna (Atropa belladonna), or deadly nightshade, is a poisonous perennial with dull green leaves, bell-shaped purple flowers, and shiny black berries. Historically used in medicine and as a cosmetic, it is extremely toxic.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "A deadly poison historically used to kill, permanently silencing victims.",
-        "meanings": [
-          "Silence"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "100–200 cm",
-        "difficulty": "Expert"
-      }
-    },
-    {
-      "id": "bluebell",
-      "title": "Bluebell",
-      "category": "flower-sapling",
-      "description": "Bluebells are spring-flowering bulbs carpeting woodland floors with a haze of nodding, bell-shaped violet-blue flowers. Native to Western Europe, ancient bluebell woods are a celebrated natural spectacle in Britain.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "The bowed, bell-shaped flowers suggest modesty and devotion.",
-        "meanings": [
-          "Humility",
-          "Faithfulness"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "20–40 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "buttercup",
-      "title": "Buttercup",
-      "category": "flower-sapling",
-      "description": "Buttercups are cheerful perennial wildflowers with glossy, bright yellow petals that reflect light like lacquered gold. Common in meadows and pastures, they are familiar to generations of children for the buttercup chin test.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "From a Victorian game testing buttercups under the chin for a golden glow.",
-        "meanings": [
-          "You are radiant with charm"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–50 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "camellia",
-      "title": "Camellia",
-      "category": "flower-sapling",
-      "description": "Camellias are elegant, evergreen shrubs producing exquisite rose-like flowers in shades of red, pink, and white during winter and early spring. Native to East Asia, they are prized as ornamentals and for tea production.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Popularized by Dumas’ novel *La dame aux camélias* about tragic longing.",
-        "meanings": [
-          "Longing for you"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "100–200 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "cattail",
-      "title": "Cattail",
-      "category": "flower-sapling",
-      "description": "Cattails are tall aquatic or wetland plants with distinctive brown, cylindrical seed heads. They are among the most useful wild plants, with edible starch in the roots, and have been used for weaving and insulation.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Valued historically for food, fuel, insulation, and weaving.",
-        "meanings": [
-          "Peace and prosperity"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Daily",
-        "height": "150–300 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "chamomile",
-      "title": "Chamomile",
-      "category": "flower-sapling",
-      "description": "Chamomile is a low-growing annual or perennial with feathery foliage and cheerful daisy-like flowers. Renowned since ancient Egypt for its calming, medicinal properties, chamomile tea is among the world's most popular herbal infusions.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Used since ancient Egypt for healing and renewal.",
-        "meanings": [
-          "Energy in adversity"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "15–30 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "clematis",
-      "title": "Clematis",
-      "category": "flower-sapling",
-      "description": "Clematis is the queen of climbing plants, producing masses of showy four to eight petaled flowers in an enormous range of sizes, colors, and seasons. With the right variety, a garden wall can be clothed in bloom year-round.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Named for its clever ability to climb and adapt.",
-        "meanings": [
-          "Ingenuity",
-          "Cleverness"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "200–600 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "clover",
-      "title": "Clover",
-      "category": "flower-sapling",
-      "description": "Clover is a low-growing legume with trifoliate leaves and rounded flower heads in white, pink, or red. Essential for soil fertility and beloved by bees, the rare four-leaf clover is a universal symbol of good luck.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Druidic and medieval folklore linked four-leaf clovers to fortune.",
-        "meanings": [
-          "Good luck"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "15–30 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "columbine",
-      "title": "Columbine",
-      "category": "flower-sapling",
-      "description": "Columbines (Aquilegia) are elegant perennials producing distinctive spurred flowers in a wide array of colors and bicolors. They attract hummingbirds and long-tongued bees and self-seed freely in the garden.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Linked to the jester Columbina and the bloom’s hat-like shape.",
-        "meanings": [
-          "Foolishness"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "30–90 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "cornflower",
-      "title": "Cornflower",
-      "category": "flower-sapling",
-      "description": "Cornflowers (Centaurea cyanus) are annual wildflowers producing intense sky-blue, purple, pink, or white flowers. Once common in European grain fields, they are now valued as cottage garden plants and cut flowers.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Folklore claimed its longevity predicted whether love would be returned.",
-        "meanings": [
-          "Hope in love"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–90 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "cowslip",
-      "title": "Cowslip",
-      "category": "flower-sapling",
-      "description": "Cowslips (Primula veris) are spring-flowering perennials with rosettes of crinkled leaves and clusters of nodding, fragrant yellow flowers. A traditional British wildflower, they thrive in meadows and chalk grasslands.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Legend says St. Peter’s dropped keys turned into cowslips.",
-        "meanings": [
-          "Winning grace"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "15–25 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "crocus",
-      "title": "Crocus",
-      "category": "flower-sapling",
-      "description": "Crocuses are among the first flowers to emerge in late winter or early spring, often pushing through snow to reveal their cheerful cup-shaped blooms in purple, white, yellow, and striped varieties. The spice saffron comes from Crocus sativus.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "One of the first flowers to bloom through snow.",
-        "meanings": [
-          "Cheerfulness",
-          "Youthful glee"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "5–15 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "dandelion",
-      "title": "Dandelion",
-      "category": "flower-sapling",
-      "description": "Dandelions are resilient perennial wildflowers with toothed leaves, bright yellow flower heads, and spherical seed clocks. Every part is edible and medicinal, and their early nectar is vital for emerging spring pollinators.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Used for wishes and weather prediction.",
-        "meanings": [
-          "Divination",
-          "Fortune-telling"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "5–30 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "datura",
-      "title": "Datura",
-      "category": "flower-sapling",
-      "description": "Datura, or angel's trumpet, is a dramatic plant producing large, white funnel-shaped flowers that open at dusk and release a heady fragrance. All parts are highly toxic and have been used in shamanic rituals worldwide.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Beautiful but poisonous; linked to witchcraft lore.",
-        "meanings": [
-          "Deceitful charms"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Expert"
-      }
-    },
-    {
-      "id": "dogwood",
-      "title": "Dogwood",
-      "category": "flower-sapling",
-      "description": "Dogwood trees and shrubs are cherished ornamentals prized for their spectacular spring flowers, colorful autumn foliage, and decorative winter bark. The flowering dogwood is the state tree or flower of several US states.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Delicate blooms contrast with extremely strong wood.",
-        "meanings": [
-          "Our love will overcome adversity"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "200–900 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "edelweiss",
-      "title": "Edelweiss",
-      "category": "flower-sapling",
-      "description": "Edelweiss (Leontopodium alpinum) is an iconic Alpine flower with woolly white star-shaped bracts surrounding small yellow florets. Growing in high rocky terrain, it became a symbol of courage for those who dared to collect it.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Dangerous alpine harvesting symbolized bravery.",
-        "meanings": [
-          "Courage",
-          "Daring"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "10–20 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "eucalyptus",
-      "title": "Eucalyptus",
-      "category": "flower-sapling",
-      "description": "Eucalyptus trees are fast-growing Australian natives prized for their aromatic leaves, decorative peeling bark, and nectar-rich flowers. Eucalyptus oil is widely used medicinally, and the trees are vital habitat for koalas.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Used medicinally by Aboriginal peoples.",
-        "meanings": [
-          "Protection"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "300–6000 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "fern",
-      "title": "Fern",
-      "category": "flower-sapling",
-      "description": "Ferns are ancient, non-flowering vascular plants with graceful, divided fronds. Among the oldest land plants on Earth, they thrive in shaded, moist environments and have long been associated with magic and the secret world of nature.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Water-repelling leaves inspired mystical associations.",
-        "meanings": [
-          "Magic",
-          "Secrecy"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Shade",
-        "water": "Twice Weekly",
-        "height": "30–150 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "forget-me-not",
-      "title": "Forget-me-not",
-      "category": "flower-sapling",
-      "description": "Forget-me-nots are small, delicate spring flowers producing clusters of sky-blue blooms with yellow centers. They are among the most beloved of spring flowers and are a universal symbol of remembrance and undying love.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "From a German folktale of lovers separated by a river.",
-        "meanings": [
-          "Forget me not"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "15–30 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "foxglove",
-      "title": "Foxglove",
-      "category": "flower-sapling",
-      "description": "Foxgloves (Digitalis) are tall biennials producing dramatic spikes of tubular, spotted flowers in shades of purple, pink, white, and yellow. The source of the heart medicine digitalis, they are beautiful but highly toxic.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Associated with fairies and dangerous enchantment.",
-        "meanings": [
-          "Riddles",
-          "Secrets"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "hawthorn",
-      "title": "Hawthorn",
-      "category": "flower-sapling",
-      "description": "Hawthorn is a thorny deciduous shrub or small tree smothered in fragrant white or pink flowers in spring. Its red berries, called haws, are a vital winter food for birds, and it was considered sacred in ancient cultures.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Sacred wedding flower in ancient Greece.",
-        "meanings": [
-          "Hope"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "200–800 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "heather",
-      "title": "Heather",
-      "category": "flower-sapling",
-      "description": "Heather (Calluna vulgaris) is a low-growing evergreen shrub carpeting moorlands and heaths with a blaze of pink, purple, or white flowers in late summer. It is the signature plant of the Scottish Highlands.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Scottish legend of sorrow turning to fortune.",
-        "meanings": [
-          "Luck",
-          "Protection"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "hellebore",
-      "title": "Hellebore",
-      "category": "flower-sapling",
-      "description": "Hellebores are evergreen perennials producing nodding, cup-shaped flowers in winter and early spring, often in deep plum, burgundy, white, or spotted. Among the few plants to bloom in the depths of winter, they are prized shade garden plants.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Used medicinally and in Greek healing myths.",
-        "meanings": [
-          "We shall overcome scandal"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "hemlock",
-      "title": "Hemlock",
-      "category": "flower-sapling",
-      "description": "Poison hemlock (Conium maculatum) is a tall biennial with hollow, purple-blotched stems and flat-topped clusters of small white flowers. Notorious as the poison used to execute Socrates, it is extremely toxic.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Infamous poison used in the execution of Socrates.",
-        "meanings": [
-          "Death"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Twice Weekly",
-        "height": "100–200 cm",
-        "difficulty": "Expert"
-      }
-    },
-    {
-      "id": "holly",
-      "title": "Holly",
-      "category": "flower-sapling",
-      "description": "Holly (Ilex) is an evergreen shrub or tree with glossy, spiny leaves and bright red berries. A symbol of Christmas and midwinter festivities, it has been used since ancient times in winter celebrations and for protection.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Used in European folklore for protection and divination.",
-        "meanings": [
-          "Foresight"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Bi-Weekly",
-        "height": "100–1500 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "honeysuckle",
-      "title": "Honeysuckle",
-      "category": "flower-sapling",
-      "description": "Honeysuckle is a beloved climbing or bushy shrub producing sweetly fragrant tubular flowers in yellow, white, and pink that are irresistible to hummingbirds and moths. The sweet nectar can be sucked directly from the flowers.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Victorian belief that it caused dreams of true love.",
-        "meanings": [
-          "Devotion",
-          "Affection"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "200–600 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "hydrangea",
-      "title": "Hydrangea",
-      "category": "flower-sapling",
-      "description": "Hydrangeas are magnificent flowering shrubs producing enormous, dome-shaped or lacecap flower heads in shades of blue, pink, white, and purple. The flower color of some varieties is influenced by soil pH, turning blue in acidic soils.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Large blooms with few seeds suggested excess show.",
-        "meanings": [
-          "Boastfulness",
-          "Heartlessness"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Twice Weekly",
-        "height": "100–200 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "hyssop",
-      "title": "Hyssop",
-      "category": "flower-sapling",
-      "description": "Hyssop is a semi-evergreen aromatic herb with narrow leaves and spikes of small blue, violet, or pink flowers beloved by bees. Used since biblical times for purification, it has culinary and medicinal applications.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Used in ancient Greece and the Bible for purification.",
-        "meanings": [
-          "Cleanliness"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "ivy",
-      "title": "Ivy",
-      "category": "flower-sapling",
-      "description": "Ivy (Hedera) is a vigorous evergreen climbing or ground-covering plant with distinctive lobed leaves. Extraordinarily versatile and hardy, it clings to walls and trees with adhesive rootlets and provides vital winter shelter for wildlife.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Clings even after a tree dies, symbolizing devotion.",
-        "meanings": [
-          "Fidelity",
-          "Attachment"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Shade",
-        "water": "Weekly",
-        "height": "100–3000 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "lady-slipper",
-      "title": "Lady Slipper",
-      "category": "flower-sapling",
-      "description": "Lady slipper orchids (Cypripedium) are among the most spectacular of wildflowers, with their distinctive pouch-like lip in shades of pink, yellow, and white. Among the most difficult orchids to cultivate, they are protected in many countries.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Notoriously difficult and unpredictable to cultivate.",
-        "meanings": [
-          "Capriciousness"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Shade",
-        "water": "Weekly",
-        "height": "15–45 cm",
-        "difficulty": "Expert"
-      }
-    },
-    {
-      "id": "larkspur",
-      "title": "Larkspur",
-      "category": "flower-sapling",
-      "description": "Larkspur (Delphinium consolida) is an annual producing tall, graceful spikes of spurred flowers in shades of blue, purple, pink, and white. A classic cottage garden and cutting garden annual, it dries beautifully for arrangements.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Named for a lark’s foot; associated with lightness.",
-        "meanings": [
-          "Levity"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–120 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "laurel",
-      "title": "Laurel",
-      "category": "flower-sapling",
-      "description": "Bay laurel (Laurus nobilis) is an aromatic evergreen tree or shrub with glossy, leathery leaves used as a culinary herb. In ancient Greece and Rome, laurel wreaths crowned victors, heroes, and emperors as the ultimate symbol of glory.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Crowned ancient Olympic victors.",
-        "meanings": [
-          "Glory",
-          "Victory",
-          "Success"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "200–600 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "lily-of-the-valley",
-      "title": "Lily of the Valley",
-      "category": "flower-sapling",
-      "description": "Lily of the valley (Convallaria majalis) is a delicate woodland perennial producing arching stems of small, intensely fragrant, bell-shaped white flowers in spring. It is one of the most beloved of all spring flowers.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Legend of St. Leonard defeating a dragon.",
-        "meanings": [
-          "Return of happiness"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Shade",
-        "water": "Weekly",
-        "height": "10–20 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "magnolia",
-      "title": "Magnolia",
-      "category": "flower-sapling",
-      "description": "Magnolias are ancient flowering trees and shrubs producing spectacular, goblet or star-shaped flowers in white, pink, purple, and yellow before the leaves emerge in spring. Among the earliest flowering plants on Earth.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Tall, enduring trees symbolized nobility.",
-        "meanings": [
-          "Dignity"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "300–2400 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "mistletoe",
-      "title": "Mistletoe",
-      "category": "flower-sapling",
-      "description": "Mistletoe is a parasitic plant that grows as rounded clumps on tree branches, producing waxy white berries in winter. Sacred to the Druids and central to Norse mythology, it is the basis of the Christmas kissing custom.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Norse myth of Balder’s death and resurrection.",
-        "meanings": [
-          "Surmounting all difficulties"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–100 cm",
-        "difficulty": "Expert"
-      }
-    },
-    {
-      "id": "monkshood",
-      "title": "Monkshood",
-      "category": "flower-sapling",
-      "description": "Monkshood (Aconitum), also called wolfsbane, is a tall perennial producing hooded flowers in deep blue or purple on arching spikes. Beautiful but highly toxic, it was historically used as a poison in warfare and hunting.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Petals resemble a knight’s helmet.",
-        "meanings": [
-          "Chivalry"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Expert"
-      }
-    },
-    {
-      "id": "myrtle",
-      "title": "Myrtle",
-      "category": "flower-sapling",
-      "description": "Myrtle (Myrtus communis) is a fragrant Mediterranean evergreen shrub with small, glossy leaves and white flowers followed by blue-black berries. Sacred to Aphrodite and Venus, it has been used in wedding ceremonies since antiquity.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Sacred to Aphrodite and used in weddings.",
-        "meanings": [
-          "Love"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "100–200 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "nettle",
-      "title": "Nettle",
-      "category": "flower-sapling",
-      "description": "Stinging nettles are vigorous perennials with deeply toothed, dark green leaves covered in hollow stinging hairs. Despite their sting, nettles are highly nutritious, have many medicinal uses, and are vital habitat for butterfly larvae.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "From the painful stings and Andersen’s fairy tale.",
-        "meanings": [
-          "Cruelty"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "oak",
-      "title": "Oak",
-      "category": "flower-sapling",
-      "description": "Oak trees are majestic, long-lived deciduous or evergreen trees producing acorns, the classic fruit of the forest. Sacred to the thunder gods of multiple cultures, the oak is a symbol of strength, endurance, and bravery.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Sacred tree in Greek, Norse, and Celtic cultures.",
-        "meanings": [
-          "Bravery"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "300–4000 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "oleander",
-      "title": "Oleander",
-      "category": "flower-sapling",
-      "description": "Oleander (Nerium oleander) is a beautiful, fast-growing Mediterranean shrub producing clusters of fragrant flowers in shades of pink, red, and white throughout summer. Highly ornamental but extremely toxic in all its parts.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Poisonous plant linked to tragic Greek myth.",
-        "meanings": [
-          "Caution"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "200–600 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "olive",
-      "title": "Olive",
-      "category": "flower-sapling",
-      "description": "The olive tree is one of humanity's oldest cultivated plants, native to the Mediterranean, producing the fruits from which olive oil is pressed. With gnarled silver-leaved beauty and longevity spanning millennia, it is a symbol of peace.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Biblical story of Noah’s dove.",
-        "meanings": [
-          "Peace"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "200–1500 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "orange-blossom",
-      "title": "Orange Blossom",
-      "category": "flower-sapling",
-      "description": "Orange blossoms are the intensely fragrant white flowers of the orange tree (Citrus sinensis). Used in bridal wreaths and as the source of neroli essential oil and orange blossom water, they are among the world's most prized floral scents.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Popularized by Queen Victoria’s wedding.",
-        "meanings": [
-          "Eternal love"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "200–1000 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "orchid",
-      "title": "Orchid",
-      "category": "flower-sapling",
-      "description": "Orchids are one of the largest and most diverse families of flowering plants, with over 25,000 species worldwide. Prized for their extraordinarily beautiful and complex flowers, they have been symbols of luxury and elegance since the Victorian era.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Rare luxury flower in the Victorian era.",
-        "meanings": [
-          "Elegance",
-          "Beauty"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "20–100 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "passionflower",
-      "title": "Passionflower",
-      "category": "flower-sapling",
-      "description": "Passionflowers (Passiflora) are exotic climbing vines producing extraordinarily complex, alien-looking flowers with elaborate fringed coronas. Native to the Americas, the flowers and their symbolic parts were interpreted by Jesuits as symbols of the Passion of Christ.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Jesuits interpreted it as a symbol of Christ’s Passion.",
-        "meanings": [
-          "Faith"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "300–900 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "petunia",
-      "title": "Petunia",
-      "category": "flower-sapling",
-      "description": "Petunias are among the most popular summer bedding plants, producing masses of trumpet-shaped flowers in every color of the rainbow throughout the season. Available in trailing and upright forms, they are superb in containers.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Delicate nature likened to wounded emotions.",
-        "meanings": [
-          "Anger",
-          "Resentment"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "15–45 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "poppy",
-      "title": "Poppy",
-      "category": "flower-sapling",
-      "description": "Poppies produce large, tissue-paper-thin flowers in shades of red, orange, pink, purple, and white. The red poppy is a universal symbol of remembrance for fallen soldiers, while the opium poppy has been cultivated for millennia for its latex.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Associated with opium and the land of the dead.",
-        "meanings": [
-          "Eternal sleep"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–120 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "protea",
-      "title": "Protea",
-      "category": "flower-sapling",
-      "description": "Proteas are dramatic South African flowering shrubs producing large, globe-shaped flower heads with striking cone-like centers. Among the most ancient of flowering plants, named for the shape-changing god Proteus for their extraordinary diversity.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Named after Proteus, the shape-shifting god.",
-        "meanings": [
-          "Transformation"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "100–350 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "queen-anne-s-lace",
-      "title": "Queen Anne’s Lace",
-      "category": "flower-sapling",
-      "description": "Queen Anne's lace (Daucus carota) is a delicate wildflower and the wild ancestor of the cultivated carrot, producing flat-topped clusters of tiny white flowers with a single dark purple floret at the center.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Nest-like flower heads suggested shelter.",
-        "meanings": [
-          "Sanctuary"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–120 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "rose",
-      "title": "Rose",
-      "category": "flower-sapling",
-      "description": "Roses are among the world's most beloved and cultivated flowers, with a history spanning 35 million years. Symbolizing love, beauty, and passion, they are grown in thousands of varieties worldwide and are central to perfumery, medicine, and art.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Long-standing symbol of love in myth and culture.",
-        "meanings": [
-          "Love"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "30–200 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "rosemary",
-      "title": "Rosemary",
-      "category": "flower-sapling",
-      "description": "Rosemary (Salvia rosmarinus) is an aromatic Mediterranean shrub with needle-like silvery-green leaves and small blue flowers. A versatile culinary and medicinal herb, it has been associated with memory and remembrance since antiquity.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Greek scholars wore it to aid memory.",
-        "meanings": [
-          "Remembrance",
-          "Wisdom"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "30–150 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "rue",
-      "title": "Rue",
-      "category": "flower-sapling",
-      "description": "Rue (Ruta graveolens) is a pungent, bitter evergreen herb with blue-green, deeply divided leaves and small yellow flowers. Used medicinally since antiquity, it is associated with regret and was strewn in medieval courts to ward off disease.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Victorians used its bitterness as a warning.",
-        "meanings": [
-          "Regret"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "snapdragon",
-      "title": "Snapdragon",
-      "category": "flower-sapling",
-      "description": "Snapdragons (Antirrhinum majus) are classic cottage garden annuals producing tall spikes of distinctive two-lipped flowers in a wide range of colors. Beloved by children for the snapping action of the hinged blooms when squeezed.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Worn by women to discourage unwanted advances.",
-        "meanings": [
-          "Presumption"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–120 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "snowdrop",
-      "title": "Snowdrop",
-      "category": "flower-sapling",
-      "description": "Snowdrops (Galanthus) are among the earliest flowers of the year, pushing through frozen ground in late winter to reveal their nodding, white bell-shaped flowers. A symbol of hope, they signal the end of winter.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Blooms in winter, signaling spring’s return.",
-        "meanings": [
-          "Consolation",
-          "Hope"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "7–15 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "sweet-pea",
-      "title": "Sweet Pea",
-      "category": "flower-sapling",
-      "description": "Sweet peas (Lathyrus odoratus) are annual climbing plants producing clusters of frilly, intensely fragrant flowers in shades of pink, mauve, red, blue, white, and bicolors. Among the most fragrant of all garden flowers.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Victorian hostess gift.",
-        "meanings": [
-          "Thank you for a lovely time"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "100–200 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "tansy",
-      "title": "Tansy",
-      "category": "flower-sapling",
-      "description": "Tansy (Tanacetum vulgare) is a vigorous, aromatic perennial with finely divided fern-like leaves and clusters of small, bright yellow button flowers. Historically used as an insect repellent, in cooking, and in herbal medicine.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Caused illness when misused medicinally.",
-        "meanings": [
-          "Hostility"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "thistle",
-      "title": "Thistle",
-      "category": "flower-sapling",
-      "description": "Thistles are robust, spiny plants producing purple or pink pom-pom flower heads beloved by goldfinches and bees. The thistle is the national emblem of Scotland, associated with the legend of a Viking invader who cried out on stepping on one.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Biblical and physical prickliness symbolism.",
-        "meanings": [
-          "Misanthropy"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "30–150 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "violet",
-      "title": "Violet",
-      "category": "flower-sapling",
-      "description": "Violets (Viola odorata) are low-growing perennials producing heart-shaped leaves and dainty, sweetly fragrant flowers in deep violet, pale mauve, or white in early spring. The flowers are edible and have been used in perfumery.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Low-growing posture symbolized humility.",
-        "meanings": [
-          "Modesty"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "10–25 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "wheat",
-      "title": "Wheat",
-      "category": "flower-sapling",
-      "description": "Wheat (Triticum) is one of the world's most important cereal crops, with tall stalks bearing heavy heads of grain. As a symbol of fertility and harvest, sheaves of wheat have appeared in religious and cultural ceremonies since Neolithic times.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Ancient symbol of prosperity and harvest.",
-        "meanings": [
-          "Riches",
-          "Abundance"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "willow",
-      "title": "Willow",
-      "category": "flower-sapling",
-      "description": "Willow trees are graceful, moisture-loving trees with long, narrow leaves and distinctive catkins. The weeping willow, with its sweeping, trailing branches, is a classic symbol of mourning and melancholy in literature and art.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Drooping branches associated with grief.",
-        "meanings": [
-          "Mourning"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "300–2400 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "wormwood",
-      "title": "Wormwood",
-      "category": "flower-sapling",
-      "description": "Wormwood (Artemisia absinthium) is a silvery-grey aromatic perennial herb with deeply divided leaves and small yellow flower heads. The source of absinthe's distinctive flavor, it has been used medicinally since ancient times.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Biblical references to suffering and sorrow.",
-        "meanings": [
-          "Bitterness"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "60–120 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "yarrow",
-      "title": "Yarrow",
-      "category": "flower-sapling",
-      "description": "Yarrow (Achillea millefolium) is a robust perennial wildflower with feathery aromatic leaves and flat-topped clusters of tiny flowers in white, yellow, pink, or red. Named after Achilles, who is said to have used it to heal wounds.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Named after Achilles, who healed wounds with it.",
-        "meanings": [
-          "Cure for a broken heart"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "30–90 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "primrose",
-      "title": "Primrose",
-      "category": "flower-sapling",
-      "description": "Primroses (Primula) are charming spring-flowering perennials producing clusters of bright, cheerful blooms in shades of yellow, red, pink, purple, and white. They thrive in cool, moist soil and partial shade.",
-      "price": {
-        "amount": 39,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 60,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/primrose.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Among the first flowers to bloom in spring, symbolizing youth and new beginnings.",
-        "meanings": [
-          "Young love",
-          "Youthfulness"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "15–40 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "viola",
-      "title": "Viola",
-      "category": "flower-sapling",
-      "description": "Violas are delicate, cheerful perennials or annuals producing small, sweetly scented flowers in shades of purple, blue, yellow, and white. More cold-hardy than pansies, they bloom prolifically from spring through early summer.",
-      "price": {
-        "amount": 9,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 150,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/viola.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "In Renaissance art, depicted as a symbol of faithfulness and modesty.",
-        "meanings": [
-          "Faithfulness",
-          "Modesty"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "10–20 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "butterfly-weed",
-      "title": "Butterfly Weed",
-      "category": "flower-sapling",
-      "description": "Butterfly weed (Asclepias tuberosa) is a bright North American wildflower producing dense clusters of vibrant orange, yellow, or red flowers. A critical host plant for monarch butterfly caterpillars, it is essential for pollinator gardens.",
-      "price": {
-        "amount": 29,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 45,
-        "is_featured": true
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/butterfly-weed.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Vital role in butterfly life cycles symbolizes transformation and resilience.",
-        "meanings": [
-          "Transformation",
-          "Attraction"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "celosia",
-      "title": "Celosia",
-      "category": "flower-sapling",
-      "description": "Celosia, or cockscomb, is a vibrant annual producing velvety, brain-like flower heads in shades of red, pink, purple, yellow, and orange. The exotic appearance belies its ease of cultivation and heat tolerance.",
-      "price": {
-        "amount": 15,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 70,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/celosia.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "The crested flowers resemble a rooster's comb, symbolizing boldness and confidence.",
-        "meanings": [
-          "Boldness",
-          "Confidence"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "20–90 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "centaurea",
-      "title": "Centaurea",
-      "category": "flower-sapling",
-      "description": "Centaurea (bachelor's button, cornflower) produces delicate, fringed flowers in shades of blue, purple, pink, and white. Easy to grow from seed and attractive to pollinators, they are a staple of cottage gardens.",
-      "price": {
-        "amount": 15,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 85,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/centaurea.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Named for the centaur of Greek mythology; its bright color symbolized clarity.",
-        "meanings": [
-          "Clarity",
-          "Delicacy"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–90 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "cosmos",
-      "title": "Cosmos",
-      "category": "flower-sapling",
-      "description": "Cosmos are graceful annuals producing delicate, daisy-like flowers on airy stems in shades of pink, red, orange, purple, and white. Heat and drought tolerant, they bloom prolifically from summer until frost.",
-      "price": {
-        "amount": 9,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 110,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/cosmos.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "The name means 'harmony' and 'order' from the Greek, reflecting its perfect symmetry.",
-        "meanings": [
-          "Order",
-          "Harmony"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–120 cm",
         "difficulty": "Easy"
       }
     }

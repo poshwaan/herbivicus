@@ -26,10 +26,35 @@
       }
     },
     {
+      "id": "black-rose-succulent",
+      "title": "Black Rose Succulent",
+      "category": "ornamental-plant",
+      "description": "Stunning dark-leaved succulent forming rose-like clusters. Deep burgundy to black coloring creates dramatic contrast. Collector's favorite.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/black-rose-succulent.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "10–20 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
       "id": "caladium",
       "title": "Caladium",
       "category": "ornamental-plant",
-      "description": "A classic Caladium cultivar with large heart-shaped leaves featuring brilliant white centres and bold green margins and veins. Native to tropical South America, this tuberous plant is prized for its dramatic foliage contrast and thrives in warm humid shaded conditions.",
+      "description": "A classic Caladium cultivar with large heart-shaped leaves featuring brilliant white centres and bold green margins and veins. Native to tropical South America, this tuberous plant is prized for its dramatic foliage contrast.",
       "price": {
         "amount": 149,
         "currency": "INR"
@@ -40,7 +65,7 @@
       },
       "media": {
         "images": [
-          "/images/bulbs/caladium-candidum-allure.jpg"
+          "/images/ornamental-plants/caladium-candidum-allure.jpg"
         ]
       },
       "attributes": {
@@ -51,77 +76,27 @@
       }
     },
     {
-      "id": "money-plant",
-      "title": "Money Plant",
+      "id": "cycas-palm",
+      "title": "Cycas Palm",
       "category": "ornamental-plant",
-      "description": "Popular indoor money plant (Epipremnum aureum) known for its air-purifying qualities. Easy to grow in pots or hanging baskets.",
+      "description": "Ancient tropical palm with feathery fronds. Primitive beauty and tropical appeal. Slow-growing but very long-lived.",
       "price": {
-        "amount": 199,
+        "amount": 249,
         "currency": "INR"
       },
       "stock": {
-        "total": 120,
+        "total": 12,
         "is_featured": false
       },
       "media": {
         "images": [
-          "/images/ornamental-plants/money-plant.jpg"
+          "/images/ornamental-plants/cycas-palm.jpg"
         ]
       },
       "attributes": {
         "sunlight": "Partial",
         "water": "Weekly",
-        "height": "200–300 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "italian-cypress",
-      "title": "Italian Cypress (Pencil Pine)",
-      "category": "ornamental-plant",
-      "description": "Tall, slender Italian Cypress with dark green foliage. Ideal for formal gardens and Mediterranean landscapes. Requires full sun and well-drained soil.",
-      "price": {
-        "amount": 399,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 30,
-        "is_featured": true
-      },
-      "media": {
-        "images": [
-          "/images/plants/italian-pencil-pine.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "500–3000 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "red-maple",
-      "title": "Red Maple",
-      "category": "ornamental-plant",
-      "description": "Elegant Japanese red maple sapling with vibrant red foliage. Thrives in temperate climates like Kashmir. Perfect for gardens and landscapes.",
-      "price": {
-        "amount": 999,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 40,
-        "is_featured": true
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/red-maple.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "600–2400 cm",
+        "height": "100–300 cm",
         "difficulty": "Moderate"
       }
     },
@@ -147,6 +122,531 @@
         "sunlight": "Full",
         "water": "Monthly",
         "height": "30–300 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "echeveria-succulent",
+      "title": "Echeveria Succulent",
+      "category": "ornamental-plant",
+      "description": "Beautiful rosette-forming succulent with thick, fleshy leaves. Pink, blue, or purple tinges depending on variety. Ideal container plant.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/echeveria-succulent.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Bi-Weekly",
+        "height": "10–30 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "english-ivy-creeper",
+      "title": "English Ivy Creeper",
+      "category": "ornamental-plant",
+      "description": "Classic evergreen climbing ivy with glossy green leaves. Perfect for covering walls or trellises. Excellent groundcover for shaded areas.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 45,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/english-ivy-creeper.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Weekly",
+        "height": "500–1000 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "fern",
+      "title": "Fern",
+      "category": "ornamental-plant",
+      "description": "Lush, delicate fern with feathery fronds. Thrives in shade and humidity. Adds tropical elegance to indoor spaces and shaded gardens.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/fern.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Shade",
+        "water": "Twice Weekly",
+        "height": "30–100 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "fir",
+      "title": "Fir",
+      "category": "ornamental-plant",
+      "description": "Majestic evergreen fir tree with needle-like foliage. Beautiful pyramidal form. Ideal for landscapes and as living Christmas tree.",
+      "price": {
+        "amount": 699,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 15,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/fir.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "1000–3000 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "garden-palm",
+      "title": "Garden Palm",
+      "category": "ornamental-plant",
+      "description": "Graceful palm with feathery fronds. Creates tropical ambiance. Hardy variety suitable for indoor and outdoor cultivation.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/garden-palm.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Weekly",
+        "height": "200–400 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "golden-cypress",
+      "title": "Golden Cypress",
+      "category": "ornamental-plant",
+      "description": "Coniferous tree with golden-yellow foliage. Pyramidal form and warm coloring. Year-round ornamental interest for landscapes.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/golden-cypress.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–1000 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "green-pine",
+      "title": "Green Pine",
+      "category": "ornamental-plant",
+      "description": "Evergreen pine tree with soft green needles. Elegant coniferous form. Excellent for landscaping and creating windbreaks.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/green-pine.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "600–2000 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "green-pinwheel-succulent",
+      "title": "Green Pinwheel Succulent",
+      "category": "ornamental-plant",
+      "description": "Charming rosette succulent with lime-green leaves forming pinwheel pattern. Compact and perfect for small spaces and collections.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 35,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/green-pinwheel-succulent.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "8–15 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "hanging-cactus",
+      "title": "Hanging Cactus",
+      "category": "ornamental-plant",
+      "description": "Trailing cactus variety perfect for hanging baskets. Delicate flowers and minimalist care requirements. Beautiful cascading form.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/hanging-cactus.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "30–60 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "italian-cypress",
+      "title": "Italian Cypress (Pencil Pine)",
+      "category": "ornamental-plant",
+      "description": "Tall, slender Italian Cypress with dark green foliage. Ideal for formal gardens and Mediterranean landscapes. Requires full sun and well-drained soil.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/italian-pencil-pine.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "500–3000 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "japanese-spindle",
+      "title": "Japanese Spindle",
+      "category": "ornamental-plant",
+      "description": "Decorative shrub with elegant variegated foliage. Unique fall colors and interesting winged seed pods. Attractive year-round.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/japanese-spindle.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "100–300 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "lemon-cypress",
+      "title": "Lemon Cypress",
+      "category": "ornamental-plant",
+      "description": "Aromatic cypress with feathery bright green foliage. Strong lemon fragrance when brushed. Narrow columnar form, perfect as accent plant.",
+      "price": {
+        "amount": 499,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/lemon-cypress.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "200–300 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "money-plant",
+      "title": "Money Plant (Devil's Ivy)",
+      "category": "ornamental-plant",
+      "description": "Popular indoor money plant (Epipremnum aureum) known for its air-purifying qualities. Easy to grow in pots or hanging baskets.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 120,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/money-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Weekly",
+        "height": "200–300 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "peanut-cactus",
+      "title": "Peanut Cactus",
+      "category": "ornamental-plant",
+      "description": "Unique cactus with segmented stems resembling peanuts. Orange-red flowers bloom in spring. Great for containers and collectors.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/peanut-cactus.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Bi-Weekly",
+        "height": "20–40 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "purple-heart",
+      "title": "Purple Heart",
+      "category": "ornamental-plant",
+      "description": "Tropical shrub with striking deep purple foliage. Small pink or purple flowers add charm. Excellent for adding color to gardens.",
+      "price": {
+        "amount": 99,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/purple-heart.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "60–120 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "red-maple",
+      "title": "Red Maple",
+      "category": "ornamental-plant",
+      "description": "Elegant Japanese red maple sapling with vibrant red foliage. Thrives in temperate climates. Perfect for gardens and landscapes.",
+      "price": {
+        "amount": 999,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/red-maple.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "600–2400 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "rosemary",
+      "title": "Rosemary",
+      "category": "ornamental-plant",
+      "description": "Aromatic Mediterranean herb with needle-like silvery-green leaves and small blue flowers. Versatile culinary and medicinal herb with been associated with memory and remembrance since antiquity.",
+      "price": {
+        "amount": 79,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/rosemary.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Bi-Weekly",
+        "height": "30–150 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "rubber-plant",
+      "title": "Rubber Plant",
+      "category": "ornamental-plant",
+      "description": "Popular indoor plant with large, glossy, deep green leaves. Excellent air purifier. Grows into a statement piece with minimal care.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 35,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/rubber-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Bi-Weekly",
+        "height": "150–300 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "silver-crest",
+      "title": "Silver Crest",
+      "category": "ornamental-plant",
+      "description": "Striking ornamental plant with silvery-white foliage creating dramatic contrast. Low-growing ornamental perfect for edging and containers.",
+      "price": {
+        "amount": 99,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 35,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/silver-crest.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Bi-Weekly",
+        "height": "20–40 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "snake-plant",
+      "title": "Snake Plant",
+      "category": "ornamental-plant",
+      "description": "Striking upright succulent with variegated leaves. Extremely tough and low-maintenance. Excellent air purifier for any space.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 55,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/snake-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Bi-Weekly",
+        "height": "30–150 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "spider-plant",
+      "title": "Spider Plant",
+      "category": "ornamental-plant",
+      "description": "Classic indoor plant with arching, striped leaves. Produces baby plantlets (spiderettes) on runners. Easy care and excellent air purifier.",
+      "price": {
+        "amount": 119,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 80,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/spider-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Weekly",
+        "height": "20–30 cm",
         "difficulty": "Easy"
       }
     }
