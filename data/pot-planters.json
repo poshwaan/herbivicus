@@ -1,3 +1,229 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "aloe-vera",
+      "title": "Aloe Vera",
+      "category": "pot-planter",
+      "description": "Known for its medicinal properties, its thick, fleshy leaves contain a soothing gel. Ideal for indoor and outdoor settings.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/aloe-vera.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "30–60 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "black-rose-succulent",
+      "title": "Black Rose Succulent",
+      "category": "pot-planter",
+      "description": "Stunning dark-leaved succulent forming rose-like clusters. Deep burgundy to black coloring creates dramatic contrast. Collector's favorite.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/black-rose-succulent.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "10–20 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "desert-cactus",
+      "title": "Desert Cactus",
+      "category": "pot-planter",
+      "description": "Low-maintenance desert cactus variety. Ideal for indoor decor and xeriscaping. Requires minimal watering.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 70,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/desert-cactus.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "30–300 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "echeveria-succulent",
+      "title": "Echeveria Succulent",
+      "category": "pot-planter",
+      "description": "Beautiful rosette-forming succulent with thick, fleshy leaves. Pink, blue, or purple tinges depending on variety. Ideal container plant.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/echeveria-succulent.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Bi-Weekly",
+        "height": "10–30 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "green-pinwheel-succulent",
+      "title": "Green Pinwheel Succulent",
+      "category": "pot-planter",
+      "description": "Charming rosette succulent with lime-green leaves forming pinwheel pattern. Compact and perfect for small spaces and collections.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 35,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/green-pinwheel-succulent.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "8–15 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "hanging-cactus",
+      "title": "Hanging Cactus",
+      "category": "pot-planter",
+      "description": "Trailing cactus variety perfect for hanging baskets. Delicate flowers and minimalist care requirements. Beautiful cascading form.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/hanging-cactus.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "30–60 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "kalanchoe",
+      "title": "Kalanchoe",
+      "category": "pot-planter",
+      "description": "Succulent kalanchoe with fleshy leaves and bright cluster flowers. Very low maintenance, thrives in dry conditions. Perfect for beginners.",
+      "price": {
+        "amount": 69,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 60,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/kalanchoe.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "15–30 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "peanut-cactus",
+      "title": "Peanut Cactus",
+      "category": "pot-planter",
+      "description": "Unique cactus with segmented stems resembling peanuts. Orange-red flowers bloom in spring. Great for containers and collectors.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/peanut-cactus.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Bi-Weekly",
+        "height": "20–40 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "snake-plant",
+      "title": "Snake Plant",
+      "category": "pot-planter",
+      "description": "Striking upright succulent with variegated leaves. Extremely tough and low-maintenance. Excellent air purifier for any space.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 55,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/snake-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Bi-Weekly",
+        "height": "30–150 cm",
+        "difficulty": "Easy"
+      }
+    }
+  ]
 }

@@ -6,7 +6,7 @@
       "category": "fertilizer",
       "description": "Rich organic compost made from farm waste. Perfect for all plants. Improves soil structure.",
       "price": {
-        "amount": 99,
+        "amount": 49,
         "currency": "INR"
       },
       "stock": {
@@ -44,7 +44,7 @@
       "category": "fertilizer",
       "description": "High-quality potash fertilizer to promote flowering and fruiting. Enhances plant vigor.",
       "price": {
-        "amount": 99,
+        "amount": 49,
         "currency": "INR"
       },
       "stock": {
@@ -101,7 +101,7 @@
       "category": "fertilizer",
       "description": "Complete micronutrient blend to prevent deficiencies and improve plant health.",
       "price": {
-        "amount": 199,
+        "amount": 99,
         "currency": "INR"
       },
       "stock": {

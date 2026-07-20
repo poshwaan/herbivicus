@@ -1,56 +1,6 @@
 {
   "products": [
     {
-      "id": "aloe-vera",
-      "title": "Aloe Vera",
-      "category": "ornamental-plant",
-      "description": "Known for its medicinal properties, its thick, fleshy leaves contain a soothing gel. Ideal for indoor and outdoor settings.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 50,
-        "is_featured": true
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/aloe-vera.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "black-rose-succulent",
-      "title": "Black Rose Succulent",
-      "category": "ornamental-plant",
-      "description": "Stunning dark-leaved succulent forming rose-like clusters. Deep burgundy to black coloring creates dramatic contrast. Collector's favorite.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 30,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/black-rose-succulent.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Monthly",
-        "height": "10–20 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
       "id": "caladium",
       "title": "Caladium",
       "category": "ornamental-plant",
@@ -70,6 +20,31 @@
       },
       "attributes": {
         "sunlight": "Partial to Full Shade",
+        "water": "Twice Weekly",
+        "height": "30–60 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "cherry-pepper",
+      "title": "Cherry Pepper",
+      "category": "ornamental-plant",
+      "description": "Compact ornamental pepper plant with small, round, cherry-like peppers in vibrant colors. Highly ornamental with attractive foliage and colorful fruit. Prolific producer of mild to moderately hot peppers.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 0,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/cherry-pepper.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
         "water": "Twice Weekly",
         "height": "30–60 cm",
         "difficulty": "Moderate"
@@ -98,56 +73,6 @@
         "water": "Weekly",
         "height": "100–300 cm",
         "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "desert-cactus",
-      "title": "Desert Cactus",
-      "category": "ornamental-plant",
-      "description": "Low-maintenance desert cactus variety. Ideal for indoor decor and xeriscaping. Requires minimal watering.",
-      "price": {
-        "amount": 299,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 70,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/desert-cactus.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Monthly",
-        "height": "30–300 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "echeveria-succulent",
-      "title": "Echeveria Succulent",
-      "category": "ornamental-plant",
-      "description": "Beautiful rosette-forming succulent with thick, fleshy leaves. Pink, blue, or purple tinges depending on variety. Ideal container plant.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 40,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/echeveria-succulent.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "10–30 cm",
-        "difficulty": "Easy"
       }
     },
     {
@@ -301,56 +226,6 @@
       }
     },
     {
-      "id": "green-pinwheel-succulent",
-      "title": "Green Pinwheel Succulent",
-      "category": "ornamental-plant",
-      "description": "Charming rosette succulent with lime-green leaves forming pinwheel pattern. Compact and perfect for small spaces and collections.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 35,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/green-pinwheel-succulent.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Monthly",
-        "height": "8–15 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "hanging-cactus",
-      "title": "Hanging Cactus",
-      "category": "ornamental-plant",
-      "description": "Trailing cactus variety perfect for hanging baskets. Delicate flowers and minimalist care requirements. Beautiful cascading form.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 25,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/hanging-cactus.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Monthly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
       "id": "italian-cypress",
       "title": "Italian Cypress (Pencil Pine)",
       "category": "ornamental-plant",
@@ -447,31 +322,6 @@
         "sunlight": "Partial",
         "water": "Weekly",
         "height": "200–300 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "peanut-cactus",
-      "title": "Peanut Cactus",
-      "category": "ornamental-plant",
-      "description": "Unique cactus with segmented stems resembling peanuts. Orange-red flowers bloom in spring. Great for containers and collectors.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 20,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/peanut-cactus.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "20–40 cm",
         "difficulty": "Easy"
       }
     },
@@ -601,31 +451,6 @@
       }
     },
     {
-      "id": "snake-plant",
-      "title": "Snake Plant",
-      "category": "ornamental-plant",
-      "description": "Striking upright succulent with variegated leaves. Extremely tough and low-maintenance. Excellent air purifier for any space.",
-      "price": {
-        "amount": 199,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 55,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/snake-plant.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Bi-Weekly",
-        "height": "30–150 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
       "id": "spider-plant",
       "title": "Spider Plant",
       "category": "ornamental-plant",
@@ -648,56 +473,6 @@
         "water": "Weekly",
         "height": "20–30 cm",
         "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "kalanchoe",
-      "title": "Kalanchoe",
-      "category": "ornamental-plant",
-      "description": "Succulent plant with attractive fleshy leaves and clusters of colorful flowers. Low-maintenance and drought-tolerant. Excellent for containers and indoor decoration.",
-      "price": {
-        "amount": 69,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 50,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/kalanchoe.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Monthly",
-        "height": "20–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "cherry-pepper",
-      "title": "Cherry Pepper",
-      "category": "ornamental-plant",
-      "description": "Compact ornamental pepper plant with small, round, cherry-like peppers in vibrant colors. Highly ornamental with attractive foliage and colorful fruit. Prolific producer of mild to moderately hot peppers.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/cherry-pepper.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Moderate"
       }
     }
   ]

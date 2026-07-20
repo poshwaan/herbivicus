@@ -96,11 +96,11 @@
       "category": "flower-sapling",
       "description": "Asters are daisy-like perennials blooming in late summer and autumn in shades of purple, pink, blue, and white. They are an essential late-season source of nectar for pollinators and add color to the autumn garden.",
       "price": {
-        "amount": 0,
+        "amount": 9,
         "currency": "INR"
       },
       "stock": {
-        "total": 0,
+        "total": 20,
         "is_featured": false
       },
       "media": {
@@ -154,6 +154,38 @@
       }
     },
     {
+      "id": "baby-sun-rose",
+      "title": "Baby Sun Rose",
+      "category": "flower-sapling",
+      "description": "Low-growing succulent with bright pink flowers. Excellent groundcover for sunny spots. Drought tolerant and heat loving.",
+      "price": {
+        "amount": 99,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/baby-sun-rose.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Its bright, cheerful blooms and sun-loving nature symbolize warmth and joy.",
+        "meanings": [
+          "Warmth",
+          "Joy"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "5–20 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
       "id": "baby-s-breath",
       "title": "Baby’s Breath",
       "category": "flower-sapling",
@@ -182,31 +214,6 @@
         "sunlight": "Full",
         "water": "Weekly",
         "height": "60–90 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "baby-sun-rose",
-      "title": "Baby Sun Rose",
-      "category": "flower-sapling",
-      "description": "Low-growing succulent with bright pink flowers. Excellent groundcover for sunny spots. Drought tolerant and heat loving.",
-      "price": {
-        "amount": 99,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 50,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/baby-sun-rose.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "5–20 cm",
         "difficulty": "Easy"
       }
     },
@@ -1076,31 +1083,6 @@
       }
     },
     {
-      "id": "kalanchoe",
-      "title": "Kalanchoe",
-      "category": "flower-sapling",
-      "description": "Succulent kalanchoe with fleshy leaves and bright cluster flowers. Very low maintenance, thrives in dry conditions. Perfect for beginners.",
-      "price": {
-        "amount": 69,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 60,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/kalanchoe.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Monthly",
-        "height": "15–30 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
       "id": "larkspur",
       "title": "Larkspur",
       "category": "flower-sapling",
@@ -1865,159 +1847,6 @@
         "water": "Weekly",
         "height": "15–90 cm",
         "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "scented-geranium",
-      "title": "Scented Geranium",
-      "category": "flower-sapling",
-      "description": "Aromatic geranium with fragrant foliage and delicate flowers. Leaves release pleasant scent when brushed. Perfect for sensory gardens and container planting.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 30,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/scented-geranium.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "nerium-oleander",
-      "title": "Nerium Oleander",
-      "category": "flower-sapling",
-      "description": "Elegant evergreen shrub with glossy leaves and beautiful rose-like flowers in pink, white, red, or yellow. Highly ornamental and drought-tolerant once established.",
-      "price": {
-        "amount": 249,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 20,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/nerium-oleander.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Mediterranean beauty symbolizing resilience and grace.",
-        "meanings": [
-          "Resilience",
-          "Grace"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "150–300 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "tiger-lily",
-      "title": "Tiger Lily",
-      "category": "flower-sapling",
-      "description": "Striking orange lily with purple-spotted petals and prominent stamens. Exotic and dramatic blooms. Excellent for borders and cut flowers.",
-      "price": {
-        "amount": 99,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 40,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/tiger-lily.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Bold spotted petals resembling a tiger's stripes symbolize wealth and pride.",
-        "meanings": [
-          "Wealth",
-          "Pride"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "snowball-guelder-rose",
-      "title": "Snowball (Guelder Rose)",
-      "category": "flower-sapling",
-      "description": "Deciduous shrub producing large, pure white snowball-like flower clusters in spring. Attractive red berries follow in autumn. Classic garden favorite.",
-      "price": {
-        "amount": 199,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 15,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/snowball-guelder-rose.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Large white blooms symbolize pure beauty and grace.",
-        "meanings": [
-          "Pure beauty",
-          "Grace"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "200–300 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "miniature-rose",
-      "title": "Miniature Rose",
-      "category": "flower-sapling",
-      "description": "Delicate miniature roses with small perfectly formed blooms in every color. Ideal for containers, borders, and indoor decoration.",
-      "price": {
-        "amount": 199,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 35,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/miniature-rose.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Miniature perfection symbolizes grace and elegance in miniature form.",
-        "meanings": [
-          "Grace",
-          "Elegance"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "20–40 cm",
-        "difficulty": "Moderate"
       }
     }
   ]
