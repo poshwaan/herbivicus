@@ -649,6 +649,56 @@
         "height": "20–30 cm",
         "difficulty": "Easy"
       }
+    },
+    {
+      "id": "kalanchoe",
+      "title": "Kalanchoe",
+      "category": "ornamental-plant",
+      "description": "Succulent plant with attractive fleshy leaves and clusters of colorful flowers. Low-maintenance and drought-tolerant. Excellent for containers and indoor decoration.",
+      "price": {
+        "amount": 69,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/kalanchoe.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "20–60 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "cherry-pepper",
+      "title": "Cherry Pepper",
+      "category": "ornamental-plant",
+      "description": "Compact ornamental pepper plant with small, round, cherry-like peppers in vibrant colors. Highly ornamental with attractive foliage and colorful fruit. Prolific producer of mild to moderately hot peppers.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 0,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/cherry-pepper.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Twice Weekly",
+        "height": "30–60 cm",
+        "difficulty": "Moderate"
+      }
     }
   ]
 }

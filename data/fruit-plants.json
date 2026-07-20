@@ -6,7 +6,7 @@
       "category": "fruit-plant",
       "description": "Authentic Ambri apple variety from Kashmir. Rich flavor and aroma. Famous export quality.",
       "price": {
-        "amount": 799,
+        "amount": 699,
         "currency": "INR"
       },
       "stock": {
@@ -31,11 +31,11 @@
       "category": "fruit-plant",
       "description": "Sweet Kashmir cherry variety. Dark red juicy fruits. Perfect for valley climate.",
       "price": {
-        "amount": 799,
+        "amount": 349,
         "currency": "INR"
       },
       "stock": {
-        "total": 1,
+        "total": 5,
         "is_featured": false
       },
       "media": {
@@ -56,11 +56,11 @@
       "category": "fruit-plant",
       "description": "Juicy Kashmir peach variety. Sweet and fragrant fruits. Thrives in temperate climate.",
       "price": {
-        "amount": 849,
+        "amount": 349,
         "currency": "INR"
       },
       "stock": {
-        "total": 3,
+        "total": 5,
         "is_featured": true
       },
       "media": {
@@ -98,6 +98,281 @@
         "water": "Twice Weekly",
         "height": "20–30 cm",
         "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "apricot-plant",
+      "title": "Apricot Plant",
+      "category": "fruit-plant",
+      "description": "Sweet and fragrant apricot variety. Golden fruits perfect for fresh consumption and preserves.",
+      "price": {
+        "amount": 349,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 5,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/apricot-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–600 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "black-grapes-plant",
+      "title": "Black Grapes Plant",
+      "category": "fruit-plant",
+      "description": "Premium black grape variety with large, juicy fruits. Excellent for fresh eating and wine production.",
+      "price": {
+        "amount": 499,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 5,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/black-grapes-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "200–300 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "fig-plant",
+      "title": "Fig Plant",
+      "category": "fruit-plant",
+      "description": "Sweet fig variety with tender, juicy fruits. Prolific bearer in warm climates. Excellent fresh or dried.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/fig-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–500 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "green-grapes-plant",
+      "title": "Green Grapes Plant",
+      "category": "fruit-plant",
+      "description": "Crisp and refreshing green grape variety. Sweet flavor and thin-skinned fruits. Perfect for fresh consumption.",
+      "price": {
+        "amount": 349,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 5,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/green-grapes-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "200–300 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "lemon-plant",
+      "title": "Lemon Plant",
+      "category": "fruit-plant",
+      "description": "Highly productive lemon variety with acidic, juicy fruits. Excellent for culinary use and year-round harvesting.",
+      "price": {
+        "amount": 499,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/lemon-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "200–400 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "orange-plant",
+      "title": "Orange Plant",
+      "category": "fruit-plant",
+      "description": "Sweet orange variety with juicy, seedless fruits. Prolific bearer. Excellent for fresh juice and eating.",
+      "price": {
+        "amount": 499,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/orange-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–600 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "pear-plant",
+      "title": "Pear Plant",
+      "category": "fruit-plant",
+      "description": "Sweet pear variety with juicy, fragrant fruits. Ideal for temperate climates. Excellent for fresh eating and preservation.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/pear-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "400–800 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "plum-plant",
+      "title": "Plum Plant",
+      "category": "fruit-plant",
+      "description": "Juicy plum variety with sweet, flavorful fruits. Excellent for fresh eating and preserves. Self-pollinating.",
+      "price": {
+        "amount": 349,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/plum-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–600 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "pomegranate-plant",
+      "title": "Pomegranate Plant",
+      "category": "fruit-plant",
+      "description": "Ancient fruit variety with jewel-like ruby arils. Versatile culinary uses and ornamental flowers. Excellent for warm climates.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/pomegranate-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–500 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "quince-apple-plant",
+      "title": "Quince Apple Plant",
+      "category": "fruit-plant",
+      "description": "Aromatic quince apple variety with fragrant, golden fruits. Perfect for jams, jellies, and preserves.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/quince-apple-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–600 cm",
+        "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "red-gala-apple-plant",
+      "title": "Red Gala Apple Plant",
+      "category": "fruit-plant",
+      "description": "Premium red Gala apple variety with crisp, sweet fruits. Excellent for fresh eating and export quality.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fruit-plants/red-gala-apple-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–600 cm",
+        "difficulty": "Moderate"
       }
     }
   ]
