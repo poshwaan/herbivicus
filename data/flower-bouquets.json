@@ -11,7 +11,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 15,
+        "total": 1,
         "is_featured": true
       },
       "media": {
@@ -52,7 +52,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 12,
+        "total": 1,
         "is_featured": false
       },
       "media": {
@@ -85,15 +85,14 @@
     {
       "id": "marriage-bouquet",
       "title": "Marriage Bouquet",
-      "subtitle": "A Bouquet for Marriage",
       "category": "flower-bouquet",
       "description": "For weddings, engagements, or newlyweds.",
       "price": {
-        "amount": 499,
+        "amount": 399,
         "currency": "INR"
       },
       "stock": {
-        "total": 8,
+        "total": 1,
         "is_featured": false
       },
       "media": {
@@ -101,6 +100,7 @@
           "/images/flower-bouquets/marriage-bouquet.jpg"
         ]
       },
+      "subtitle": "A Bouquet for Marriage",
       "composition": {
         "ribbon": "white lace bow",
         "flowers": [
@@ -134,7 +134,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 10,
+        "total": 1,
         "is_featured": false
       },
       "media": {
@@ -179,7 +179,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 8,
+        "total": 1,
         "is_featured": false
       },
       "media": {
@@ -216,15 +216,14 @@
     {
       "id": "apology-bouquet",
       "title": "Apology Bouquet",
-      "subtitle": "A Bouquet for Apology",
       "category": "flower-bouquet",
       "description": "To ask for forgiveness or make amends.",
       "price": {
-        "amount": 499,
+        "amount": 399,
         "currency": "INR"
       },
       "stock": {
-        "total": 12,
+        "total": 1,
         "is_featured": false
       },
       "media": {
@@ -232,6 +231,7 @@
           "/images/flower-bouquets/apology-bouquet.jpg"
         ]
       },
+      "subtitle": "A Bouquet for Apology",
       "composition": {
         "ribbon": "blue cloth braid",
         "flowers": [
@@ -257,15 +257,14 @@
     {
       "id": "forgotten-obligations-bouquet",
       "title": "Forgotten Obligations",
-      "subtitle": "A Bouquet for Forgotten Obligations",
       "category": "flower-bouquet",
       "description": "To apologize for missed events or forgotten engagements.",
       "price": {
-        "amount": 499,
+        "amount": 399,
         "currency": "INR"
       },
       "stock": {
-        "total": 10,
+        "total": 1,
         "is_featured": false
       },
       "media": {
@@ -273,6 +272,7 @@
           "/images/flower-bouquets/forgotten-obligations-bouquet.jpg"
         ]
       },
+      "subtitle": "A Bouquet for Forgotten Obligations",
       "composition": {
         "ribbon": "green garland",
         "flowers": [
@@ -310,7 +310,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 6,
+        "total": 1,
         "is_featured": false
       },
       "media": {
@@ -351,7 +351,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 5,
+        "total": 1,
         "is_featured": false
       },
       "media": {
@@ -396,7 +396,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 14,
+        "total": 1,
         "is_featured": false
       },
       "media": {

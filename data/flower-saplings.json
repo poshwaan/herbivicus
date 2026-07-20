@@ -1830,38 +1830,6 @@
       }
     },
     {
-      "id": "cypress",
-      "title": "Cypress",
-      "category": "flower-sapling",
-      "description": "Cypress trees are tall, columnar evergreen conifers with dark, scale-like foliage and a distinctive silhouette. Long associated with Mediterranean landscapes, they have been planted beside graves since antiquity as symbols of mourning.",
-      "price": {
-        "amount": 0,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/app/flower-placeholder.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "Ancient funerary tree tied to the myth of Cyparissus.",
-        "meanings": [
-          "Death",
-          "Mourning"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "300–2500 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
       "id": "dandelion",
       "title": "Dandelion",
       "category": "flower-sapling",

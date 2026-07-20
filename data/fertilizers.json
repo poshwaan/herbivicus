@@ -10,7 +10,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 100,
+        "total": 0,
         "is_featured": false
       },
       "media": {
@@ -25,7 +25,7 @@
       "category": "fertilizer",
       "description": "Premium vermicompost enriched with earthworm castings. Rich in nutrients and beneficial microbes.",
       "price": {
-        "amount": 149,
+        "amount": 19,
         "currency": "INR"
       },
       "stock": {
@@ -48,7 +48,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 60,
+        "total": 0,
         "is_featured": false
       },
       "media": {
@@ -63,7 +63,7 @@
       "category": "fertilizer",
       "description": "Nitrogen-rich urea fertilizer for lush green growth. Ideal for lawns and leafy vegetables.",
       "price": {
-        "amount": 49,
+        "amount": 10,
         "currency": "INR"
       },
       "stock": {
@@ -82,11 +82,11 @@
       "category": "fertilizer",
       "description": "Popular nitrogen and phosphorus fertilizer. Ideal for boosting root growth and early plant development.",
       "price": {
-        "amount": 99,
+        "amount": 35,
         "currency": "INR"
       },
       "stock": {
-        "total": 70,
+        "total": 90,
         "is_featured": false
       },
       "media": {
@@ -105,7 +105,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 75,
+        "total": 0,
         "is_featured": false
       },
       "media": {

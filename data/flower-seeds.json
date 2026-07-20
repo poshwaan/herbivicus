@@ -10,7 +10,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 150,
+        "total": 0,
         "is_featured": false
       },
       "media": {
@@ -31,7 +31,7 @@
       "category": "flower-seeds",
       "description": "Bright sunflower seeds for tall, cheerful blooms. Attracts pollinators and birds.",
       "price": {
-        "amount": 79,
+        "amount": 49,
         "currency": "INR"
       },
       "stock": {
