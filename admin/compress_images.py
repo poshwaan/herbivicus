@@ -6,7 +6,7 @@ from PIL import Image, ImageFile
 # Allow loading of truncated images
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
-IMAGES_DIR = Path(__file__).parent / "images"
+IMAGES_DIR = Path(__file__).parent.parent / "images"
 QUALITY = 85          
 EXTENSIONS = {".jpg", ".jpeg"}
 

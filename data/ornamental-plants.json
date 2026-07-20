@@ -124,6 +124,31 @@
         "height": "600–2400 cm",
         "difficulty": "Moderate"
       }
+    },
+    {
+      "id": "desert-cactus",
+      "title": "Desert Cactus",
+      "category": "ornamental-plant",
+      "description": "Low-maintenance desert cactus variety. Ideal for indoor decor and xeriscaping. Requires minimal watering.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 70,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/desert-cactus.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Monthly",
+        "height": "30–300 cm",
+        "difficulty": "Easy"
+      }
     }
   ]
 }

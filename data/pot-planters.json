@@ -18,31 +18,6 @@
           "/images/pot-planters/coir-hanging-pot.jpg"
         ]
       }
-    },
-    {
-      "id": "desert-cactus",
-      "title": "Desert Cactus",
-      "category": "pot-planter",
-      "description": "Low-maintenance desert cactus variety. Ideal for indoor decor and xeriscaping. Requires minimal watering.",
-      "price": {
-        "amount": 299,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 70,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/pot-planters/desert-cactus.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Monthly",
-        "height": "30–300 cm",
-        "difficulty": "Easy"
-      }
     }
   ]
 }

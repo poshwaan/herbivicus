@@ -6,7 +6,7 @@
       "category": "flower-sapling",
       "description": "Sweet alyssum is a delicate annual ground cover producing masses of tiny, honey-scented white or pink flowers. Native to the Mediterranean, it blooms prolifically and attracts beneficial insects like bees and butterflies.",
       "price": {
-        "amount": 10,
+        "amount": 9,
         "currency": "INR"
       },
       "stock": {
@@ -103,7 +103,7 @@
       "category": "flower-sapling",
       "description": "Garden balsam (Impatiens balsamina) is an old-fashioned annual with cup-shaped, camellia-like flowers nestled among lance-shaped leaves. It thrives in warm, humid conditions and is beloved for its ease of care.",
       "price": {
-        "amount": 10,
+        "amount": 9,
         "currency": "INR"
       },
       "stock": {
@@ -199,7 +199,7 @@
       "category": "flower-sapling",
       "description": "The California poppy is the state flower of California, producing silky, cup-shaped blooms in shades of orange, yellow, and cream. It is drought-tolerant, self-seeding, and thrives in poor, well-drained soils.",
       "price": {
-        "amount": 10,
+        "amount": 9,
         "currency": "INR"
       },
       "stock": {
@@ -3360,6 +3360,198 @@
         "sunlight": "Full",
         "water": "Bi-Weekly",
         "height": "30–90 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "primrose",
+      "title": "Primrose",
+      "category": "flower-sapling",
+      "description": "Primroses (Primula) are charming spring-flowering perennials producing clusters of bright, cheerful blooms in shades of yellow, red, pink, purple, and white. They thrive in cool, moist soil and partial shade.",
+      "price": {
+        "amount": 39,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 60,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/primrose.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Among the first flowers to bloom in spring, symbolizing youth and new beginnings.",
+        "meanings": [
+          "Young love",
+          "Youthfulness"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Weekly",
+        "height": "15–40 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "viola",
+      "title": "Viola",
+      "category": "flower-sapling",
+      "description": "Violas are delicate, cheerful perennials or annuals producing small, sweetly scented flowers in shades of purple, blue, yellow, and white. More cold-hardy than pansies, they bloom prolifically from spring through early summer.",
+      "price": {
+        "amount": 9,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 150,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/viola.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "In Renaissance art, depicted as a symbol of faithfulness and modesty.",
+        "meanings": [
+          "Faithfulness",
+          "Modesty"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Weekly",
+        "height": "10–20 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "butterfly-weed",
+      "title": "Butterfly Weed",
+      "category": "flower-sapling",
+      "description": "Butterfly weed (Asclepias tuberosa) is a bright North American wildflower producing dense clusters of vibrant orange, yellow, or red flowers. A critical host plant for monarch butterfly caterpillars, it is essential for pollinator gardens.",
+      "price": {
+        "amount": 29,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 45,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/butterfly-weed.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Vital role in butterfly life cycles symbolizes transformation and resilience.",
+        "meanings": [
+          "Transformation",
+          "Attraction"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Bi-Weekly",
+        "height": "30–60 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "celosia",
+      "title": "Celosia",
+      "category": "flower-sapling",
+      "description": "Celosia, or cockscomb, is a vibrant annual producing velvety, brain-like flower heads in shades of red, pink, purple, yellow, and orange. The exotic appearance belies its ease of cultivation and heat tolerance.",
+      "price": {
+        "amount": 15,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 70,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/celosia.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "The crested flowers resemble a rooster's comb, symbolizing boldness and confidence.",
+        "meanings": [
+          "Boldness",
+          "Confidence"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "20–90 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "centaurea",
+      "title": "Centaurea",
+      "category": "flower-sapling",
+      "description": "Centaurea (bachelor's button, cornflower) produces delicate, fringed flowers in shades of blue, purple, pink, and white. Easy to grow from seed and attractive to pollinators, they are a staple of cottage gardens.",
+      "price": {
+        "amount": 15,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 85,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/centaurea.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Named for the centaur of Greek mythology; its bright color symbolized clarity.",
+        "meanings": [
+          "Clarity",
+          "Delicacy"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "30–90 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "cosmos",
+      "title": "Cosmos",
+      "category": "flower-sapling",
+      "description": "Cosmos are graceful annuals producing delicate, daisy-like flowers on airy stems in shades of pink, red, orange, purple, and white. Heat and drought tolerant, they bloom prolifically from summer until frost.",
+      "price": {
+        "amount": 9,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 110,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/cosmos.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "The name means 'harmony' and 'order' from the Greek, reflecting its perfect symmetry.",
+        "meanings": [
+          "Order",
+          "Harmony"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "30–120 cm",
         "difficulty": "Easy"
       }
     }

@@ -63,7 +63,7 @@
       "category": "fertilizer",
       "description": "Nitrogen-rich urea fertilizer for lush green growth. Ideal for lawns and leafy vegetables.",
       "price": {
-        "amount": 10,
+        "amount": 9,
         "currency": "INR"
       },
       "stock": {
