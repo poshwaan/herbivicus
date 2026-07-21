@@ -66,31 +66,6 @@
       }
     },
     {
-      "id": "american-geranium",
-      "title": "American Geranium",
-      "category": "flower-sapling",
-      "description": "Hardy American geranium variety with showy pink or blue flowers. Excellent perennial for borders. Long blooming season.",
-      "price": {
-        "amount": 349,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 30,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/american-geranium.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
       "id": "aster",
       "title": "Aster",
       "category": "flower-sapling",
@@ -467,38 +442,6 @@
       }
     },
     {
-      "id": "celosia",
-      "title": "Celosia (Cockscomb)",
-      "category": "flower-sapling",
-      "description": "Celosia, is a vibrant annual producing velvety, brain-like flower heads in shades of red, pink, purple, yellow, and orange. The exotic appearance belies its ease of cultivation and heat tolerance.",
-      "price": {
-        "amount": 19,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 70,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/celosia.jpg"
-        ]
-      },
-      "symbolism": {
-        "origin": "The crested flowers resemble a rooster's comb, symbolizing boldness and confidence.",
-        "meanings": [
-          "Boldness",
-          "Confidence"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "20–90 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
       "id": "chrysanthemum",
       "title": "Chrysanthemum",
       "category": "flower-sapling",
@@ -527,6 +470,38 @@
         "water": "Weekly",
         "height": "30–90 cm",
         "difficulty": "Moderate"
+      }
+    },
+    {
+      "id": "cockscomb",
+      "title": "Cockscomb (Mawal)",
+      "category": "flower-sapling",
+      "description": "Cockscomb (Celosia argentea var. cristata) is a striking annual with velvety, crested flower heads resembling a rooster's comb. It thrives in warm climates and adds bold color to gardens and floral arrangements.",
+      "price": {
+        "amount": 19,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 70,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/flower-saplings/cockscomb.jpg"
+        ]
+      },
+      "symbolism": {
+        "origin": "Its flamboyant crest and vibrant colors made it a Victorian emblem of boldness and daring.",
+        "meanings": [
+          "Boldness",
+          "Daring"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "30–90 cm",
+        "difficulty": "Easy"
       }
     },
     {
@@ -1054,13 +1029,13 @@
       "id": "jasmine",
       "title": "Jasmine",
       "category": "flower-sapling",
-      "description": "Jasmine (Jasminum) is a climbing or shrubby plant producing clusters of small, intensely fragrant white or yellow flowers. Widely used in garlands, tea, and perfumery across Asia, it is a symbol of amiability and grace.",
+      "description": "Jasmine is a climbing or shrubby plant producing clusters of small, intensely fragrant white or yellow flowers. Widely used in garlands, tea, and perfumery across Asia, it is a symbol of amiability and grace.",
       "price": {
         "amount": 99,
         "currency": "INR"
       },
       "stock": {
-        "total": 60,
+        "total": 0,
         "is_featured": false
       },
       "media": {
@@ -1092,7 +1067,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 10,
+        "total": 0,
         "is_featured": false
       },
       "media": {
@@ -1154,7 +1129,7 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 25,
+        "total": 0,
         "is_featured": false
       },
       "media": {
@@ -1180,7 +1155,7 @@
       "id": "lily",
       "title": "Lily",
       "category": "flower-sapling",
-      "description": "True lilies (Lilium) are stately bulbous perennials producing large, often fragrant trumpet or turks cap flowers on tall stems. They come in a spectacular range of colors and are among the most beloved of all garden flowers.",
+      "description": "True lilies are stately bulbous perennials producing large, often fragrant trumpet or turks cap flowers on tall stems. They come in a spectacular range of colors and are among the most beloved of all garden flowers.",
       "price": {
         "amount": 199,
         "currency": "INR"
@@ -1544,31 +1519,6 @@
         "sunlight": "Partial",
         "water": "Weekly",
         "height": "15–40 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "scented-geranium",
-      "title": "Scented Geranium",
-      "category": "flower-sapling",
-      "description": "Aromatic geranium varieties with fragrant foliage in scents like rose, lemon, and apple. Attractive flowers complement the beautiful leaves.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 40,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/flower-saplings/scented-geranium.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–90 cm",
         "difficulty": "Easy"
       }
     },

@@ -27,7 +27,7 @@
     },
     {
       "id": "cherry-pepper",
-      "title": "Cherry Pepper",
+      "title": "Cherry Pepper (Wiri Wiri)",
       "category": "ornamental-plant",
       "description": "Compact ornamental pepper plant with small, round, cherry-like peppers in vibrant colors. Highly ornamental with attractive foliage and colorful fruit. Prolific producer of mild to moderately hot peppers.",
       "price": {
@@ -126,31 +126,6 @@
       }
     },
     {
-      "id": "fir",
-      "title": "Fir",
-      "category": "ornamental-plant",
-      "description": "Majestic evergreen fir tree with needle-like foliage. Beautiful pyramidal form. Ideal for landscapes and as living Christmas tree.",
-      "price": {
-        "amount": 699,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 15,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/fir.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "1000–3000 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
       "id": "garden-palm",
       "title": "Garden Palm",
       "category": "ornamental-plant",
@@ -240,7 +215,7 @@
       },
       "media": {
         "images": [
-          "/images/ornamental-plants/italian-pencil-pine.jpg"
+          "/images/ornamental-plants/italian-cypress.jpg"
         ]
       },
       "attributes": {
@@ -272,31 +247,6 @@
         "sunlight": "Full",
         "water": "Weekly",
         "height": "100–300 cm",
-        "difficulty": "Moderate"
-      }
-    },
-    {
-      "id": "lemon-cypress",
-      "title": "Lemon Cypress",
-      "category": "ornamental-plant",
-      "description": "Aromatic cypress with feathery bright green foliage. Strong lemon fragrance when brushed. Narrow columnar form, perfect as accent plant.",
-      "price": {
-        "amount": 499,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 10,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/lemon-cypress.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "200–300 cm",
         "difficulty": "Moderate"
       }
     },
@@ -422,31 +372,6 @@
         "sunlight": "Partial",
         "water": "Bi-Weekly",
         "height": "150–300 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "silver-crest",
-      "title": "Silver Crest",
-      "category": "ornamental-plant",
-      "description": "Striking ornamental plant with silvery-white foliage creating dramatic contrast. Low-growing ornamental perfect for edging and containers.",
-      "price": {
-        "amount": 99,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 35,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/silver-crest.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "20–40 cm",
         "difficulty": "Easy"
       }
     },
