@@ -11,11 +11,11 @@
       },
       "stock": {
         "total": 85,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
-          "/images/ornamental-plants/caladium-candidum-allure.jpg"
+          "/images/ornamental-plants/caladium.jpg"
         ]
       },
       "attributes": {
@@ -372,6 +372,31 @@
         "sunlight": "Partial",
         "water": "Bi-Weekly",
         "height": "150–300 cm",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": "snake-plant",
+      "title": "Snake Plant",
+      "category": "pot-planter",
+      "description": "Striking upright succulent with variegated leaves. Extremely tough and low-maintenance. Excellent air purifier for any space.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 55,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/snake-plant.jpg"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Partial",
+        "water": "Bi-Weekly",
+        "height": "30–150 cm",
         "difficulty": "Easy"
       }
     },

@@ -15,7 +15,7 @@
       },
       "media": {
         "images": [
-          "/images/ornamental-plants/aloe-vera.jpg"
+          "/images/pot-planters/aloe-vera.jpg"
         ]
       },
       "attributes": {
@@ -40,7 +40,7 @@
       },
       "media": {
         "images": [
-          "/images/ornamental-plants/black-rose-succulent.jpg"
+          "/images/pot-planters/black-rose-succulent.jpg"
         ]
       },
       "attributes": {
@@ -65,7 +65,7 @@
       },
       "media": {
         "images": [
-          "/images/ornamental-plants/desert-cactus.jpg"
+          "/images/pot-planters/desert-cactus.jpg"
         ]
       },
       "attributes": {
@@ -90,7 +90,7 @@
       },
       "media": {
         "images": [
-          "/images/ornamental-plants/echeveria-succulent.jpg"
+          "/images/pot-planters/echeveria-succulent.jpg"
         ]
       },
       "attributes": {
@@ -115,38 +115,13 @@
       },
       "media": {
         "images": [
-          "/images/ornamental-plants/green-pinwheel-succulent.jpg"
+          "/images/pot-planters/green-pinwheel-succulent.jpg"
         ]
       },
       "attributes": {
         "sunlight": "Full",
         "water": "Monthly",
         "height": "8–15 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "hanging-cactus",
-      "title": "Hanging Cactus",
-      "category": "pot-planter",
-      "description": "Trailing cactus variety perfect for hanging baskets. Delicate flowers and minimalist care requirements. Beautiful cascading form.",
-      "price": {
-        "amount": 149,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 25,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/hanging-cactus.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Monthly",
-        "height": "30–60 cm",
         "difficulty": "Easy"
       }
     },
@@ -161,11 +136,11 @@
       },
       "stock": {
         "total": 60,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
-          "/images/flower-saplings/kalanchoe.jpg"
+          "/images/pot-planters/kalanchoe.jpg"
         ]
       },
       "attributes": {
@@ -186,42 +161,17 @@
       },
       "stock": {
         "total": 20,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
-          "/images/ornamental-plants/peanut-cactus.jpg"
+          "/images/pot-planters/peanut-cactus.jpg"
         ]
       },
       "attributes": {
         "sunlight": "Full",
         "water": "Bi-Weekly",
         "height": "20–40 cm",
-        "difficulty": "Easy"
-      }
-    },
-    {
-      "id": "snake-plant",
-      "title": "Snake Plant",
-      "category": "pot-planter",
-      "description": "Striking upright succulent with variegated leaves. Extremely tough and low-maintenance. Excellent air purifier for any space.",
-      "price": {
-        "amount": 199,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 55,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/ornamental-plants/snake-plant.jpg"
-        ]
-      },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Bi-Weekly",
-        "height": "30–150 cm",
         "difficulty": "Easy"
       }
     }

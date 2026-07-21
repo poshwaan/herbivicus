@@ -1,6 +1,44 @@
 {
   "products": [
     {
+      "id": "dap",
+      "title": "DAP (Diammonium Phosphate)",
+      "category": "fertilizer",
+      "description": "Popular nitrogen and phosphorus fertilizer. Ideal for boosting root growth and early plant development.",
+      "price": {
+        "amount": 35,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 90,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fertilizers/dap.jpg"
+        ]
+      }
+    },
+    {
+      "id": "micronutrient-mix",
+      "title": "Micronutrient Mix (Zn, B, Mg, Fe)",
+      "category": "fertilizer",
+      "description": "Complete micronutrient blend to prevent deficiencies and improve plant health.",
+      "price": {
+        "amount": 99,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 0,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/fertilizers/micronutrient-mix.jpg"
+        ]
+      }
+    },
+    {
       "id": "organic-compost",
       "title": "Organic Compost",
       "category": "fertilizer",
@@ -16,25 +54,6 @@
       "media": {
         "images": [
           "/images/fertilizers/organic-compost.jpg"
-        ]
-      }
-    },
-    {
-      "id": "vermicompost",
-      "title": "Vermicompost",
-      "category": "fertilizer",
-      "description": "Premium vermicompost enriched with earthworm castings. Rich in nutrients and beneficial microbes.",
-      "price": {
-        "amount": 19,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 80,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/fertilizers/vermicompost.jpg"
         ]
       }
     },
@@ -77,40 +96,21 @@
       }
     },
     {
-      "id": "dap",
-      "title": "DAP (Diammonium Phosphate)",
+      "id": "vermicompost",
+      "title": "Vermicompost",
       "category": "fertilizer",
-      "description": "Popular nitrogen and phosphorus fertilizer. Ideal for boosting root growth and early plant development.",
+      "description": "Premium vermicompost enriched with earthworm castings. Rich in nutrients and beneficial microbes.",
       "price": {
-        "amount": 35,
+        "amount": 19,
         "currency": "INR"
       },
       "stock": {
-        "total": 90,
+        "total": 80,
         "is_featured": false
       },
       "media": {
         "images": [
-          "/images/fertilizers/dap.jpg"
-        ]
-      }
-    },
-    {
-      "id": "micronutrient-mix",
-      "title": "Micronutrient Mix (Zn, B, Mg, Fe)",
-      "category": "fertilizer",
-      "description": "Complete micronutrient blend to prevent deficiencies and improve plant health.",
-      "price": {
-        "amount": 99,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 0,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/fertilizers/micronutrient-mix.jpg"
+          "/images/fertilizers/vermicompost.jpg"
         ]
       }
     }

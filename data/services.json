@@ -11,7 +11,7 @@
       },
       "stock": {
         "total": 10,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [

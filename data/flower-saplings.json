@@ -291,8 +291,8 @@
         "currency": "INR"
       },
       "stock": {
-        "total": 0,
-        "is_featured": true
+        "total": 30,
+        "is_featured": false
       },
       "media": {
         "images": [
@@ -452,7 +452,7 @@
       },
       "stock": {
         "total": 80,
-        "is_featured": true
+        "is_featured": false
       },
       "media": {
         "images": [
@@ -795,7 +795,7 @@
       },
       "stock": {
         "total": 45,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
