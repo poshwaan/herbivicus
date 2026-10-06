@@ -35,21 +35,20 @@ def process_image(src_path: Path) -> tuple[int, int, str]:
         needs_compression = original_size > COMPRESSION_THRESHOLD
 
         save_kwargs = {
-            "format": "JPEG",
+            "format": "WEBP",
             "quality": QUALITY,
-            "optimize": True,       # Huffman table optimisation
-            "progressive": True,    # Progressive JPEG for better compression
+            "method": 6,  # 0-6: higher = better compression but slower
         }
 
-        # Save as JPG to original location (replacing original)
-        jpg_path = src_path.with_suffix(".jpg")
-        clean_img.save(jpg_path, **save_kwargs)
+        # Save as WebP to original location (replacing original)
+        webp_path = src_path.with_suffix(".webp")
+        clean_img.save(webp_path, **save_kwargs)
 
-        # If original was not JPG, remove it
-        if original_format != ".jpg":
+        # If original was not WebP, remove it
+        if original_format != ".webp":
             src_path.unlink()
 
-        new_size = jpg_path.stat().st_size
+        new_size = webp_path.stat().st_size
         compression_status = "compressed" if needs_compression else "not compressed"
 
         return original_size, new_size, compression_status
@@ -73,7 +72,7 @@ def collect_images(paths, directory, recursive):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Process images: remove metadata, compress if >600KB, convert to JPG."
+        description="Process images: remove metadata, compress if >600KB, convert to WebP."
     )
     parser.add_argument("images", nargs="*", help="Image file paths")
     parser.add_argument(
