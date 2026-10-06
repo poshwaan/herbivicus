@@ -3,7 +3,7 @@
     {
       "id": "poppy-seeds",
       "title": "Poppy Seeds",
-      "category": "flower-seeds",
+      "category": "bulbs-and-seeds",
       "description": "Oriental poppy seeds for stunning red and orange blooms. Thrives in Kashmir's climate.",
       "price": {
         "amount": 99,
@@ -15,7 +15,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-seeds/poppy-seeds.jpg"
+          "/images/bulbs-and-seeds/poppy-seeds.jpg"
         ]
       },
       "attributes": {
@@ -28,7 +28,7 @@
     {
       "id": "sunflower-seeds",
       "title": "Sunflower Seeds",
-      "category": "flower-seeds",
+      "category": "bulbs-and-seeds",
       "description": "Bright sunflower seeds for tall, cheerful blooms. Attracts pollinators and birds.",
       "price": {
         "amount": 49,
@@ -40,7 +40,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-seeds/sunflower-seeds.jpg"
+          "/images/bulbs-and-seeds/sunflower-seeds.jpg"
         ]
       },
       "attributes": {

@@ -911,7 +911,7 @@ function stdForm(p, extra) {
   const imgs = p.media?.images || [];
   const attrs = p.attributes || {};
   const sym = p.symbolism || {};
-  const hasAttrs = Object.keys(attrs).length > 0 || ['flower-saplings','plants','fruit-plants','ornamental-plants','veg-saplings','veg-seeds','flower-seeds','bulbs'].includes(S.activeCat);
+  const hasAttrs = Object.keys(attrs).length > 0 || ['flower-saplings','plants','fruit-plants','ornamental-plants','veg-saplings','veg-seeds','bulbs-and-seeds'].includes(S.activeCat);
   const hasSym = p.symbolism !== undefined;
   const hasComp = p.composition !== undefined;
   const hasExtra = Object.keys(extra).length > 0;
