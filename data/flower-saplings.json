@@ -31,6 +31,25 @@
         "water": "Weekly",
         "height": "60–90 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -63,6 +82,25 @@
         "water": "Weekly",
         "height": "8–30 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -94,6 +132,25 @@
         "water": "Weekly",
         "height": "30–120 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -126,6 +183,25 @@
         "water": "Weekly",
         "height": "60–180 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -158,6 +234,25 @@
         "water": "Weekly",
         "height": "5–20 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -190,6 +285,25 @@
         "water": "Weekly",
         "height": "60–90 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -222,6 +336,25 @@
         "water": "Twice Weekly",
         "height": "30–75 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -254,6 +387,25 @@
         "water": "Weekly",
         "height": "15–60 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -279,6 +431,25 @@
         "water": "Weekly",
         "height": "300–500 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -311,6 +482,25 @@
         "water": "Bi-Weekly",
         "height": "30–60 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -343,6 +533,25 @@
         "water": "Weekly",
         "height": "30–60 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -375,6 +584,25 @@
         "water": "Weekly",
         "height": "20–60 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -407,6 +635,25 @@
         "water": "Weekly",
         "height": "60–90 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Oct-Dec for spring bloom bulbs",
+          "peak_growth": "Feb-Apr",
+          "harvest_or_bloom": "Mar-May",
+          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
+        },
+        "growing_instructions": [
+          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
+          "Choose bright sites with cool winter exposure for strong vernalization.",
+          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+        ],
+        "care_instructions": [
+          "Water lightly after planting, then maintain moderate moisture through flowering.",
+          "Do not cut green leaves immediately after bloom; let foliage yellow naturally.",
+          "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
+          "Lift and divide crowded clumps during dormancy where required."
+        ]
       }
     },
     {
@@ -439,6 +686,25 @@
         "water": "Weekly",
         "height": "30–90 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -470,6 +736,25 @@
         "water": "Weekly",
         "height": "30–90 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -502,6 +787,25 @@
         "water": "Weekly",
         "height": "30–90 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -533,6 +837,25 @@
         "water": "Weekly",
         "height": "30–90 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -565,6 +888,25 @@
         "water": "Weekly",
         "height": "30–120 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -596,6 +938,25 @@
         "water": "Weekly",
         "height": "20–50 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Oct-Dec for spring bloom bulbs",
+          "peak_growth": "Feb-Apr",
+          "harvest_or_bloom": "Mar-May",
+          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
+        },
+        "growing_instructions": [
+          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
+          "Choose bright sites with cool winter exposure for strong vernalization.",
+          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+        ],
+        "care_instructions": [
+          "Water lightly after planting, then maintain moderate moisture through flowering.",
+          "Do not cut green leaves immediately after bloom; let foliage yellow naturally.",
+          "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
+          "Lift and divide crowded clumps during dormancy where required."
+        ]
       }
     },
     {
@@ -628,6 +989,25 @@
         "water": "Twice Weekly",
         "height": "30–150 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -661,6 +1041,25 @@
         "water": "Weekly",
         "height": "20–60 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -693,6 +1092,25 @@
         "water": "Twice Weekly",
         "height": "90–150 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -725,6 +1143,25 @@
         "water": "Weekly",
         "height": "15–45 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -750,6 +1187,25 @@
         "water": "Twice Weekly",
         "height": "30–90 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -782,6 +1238,25 @@
         "water": "Weekly",
         "height": "30–60 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -807,6 +1282,25 @@
         "water": "Twice Weekly",
         "height": "30–60 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -832,6 +1326,25 @@
         "water": "Weekly",
         "height": "20–40 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -863,6 +1376,25 @@
         "water": "Weekly",
         "height": "60–150 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Oct-Dec for spring bloom bulbs",
+          "peak_growth": "Feb-Apr",
+          "harvest_or_bloom": "Mar-May",
+          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
+        },
+        "growing_instructions": [
+          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
+          "Choose bright sites with cool winter exposure for strong vernalization.",
+          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+        ],
+        "care_instructions": [
+          "Water lightly after planting, then maintain moderate moisture through flowering.",
+          "Do not cut green leaves immediately after bloom; let foliage yellow naturally.",
+          "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
+          "Lift and divide crowded clumps during dormancy where required."
+        ]
       }
     },
     {
@@ -895,6 +1427,25 @@
         "water": "Weekly",
         "height": "30–60 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -927,6 +1478,25 @@
         "water": "Weekly",
         "height": "150–250 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -958,6 +1528,25 @@
         "water": "Weekly",
         "height": "20–30 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Oct-Dec for spring bloom bulbs",
+          "peak_growth": "Feb-Apr",
+          "harvest_or_bloom": "Mar-May",
+          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
+        },
+        "growing_instructions": [
+          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
+          "Choose bright sites with cool winter exposure for strong vernalization.",
+          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+        ],
+        "care_instructions": [
+          "Water lightly after planting, then maintain moderate moisture through flowering.",
+          "Do not cut green leaves immediately after bloom; let foliage yellow naturally.",
+          "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
+          "Lift and divide crowded clumps during dormancy where required."
+        ]
       }
     },
     {
@@ -990,6 +1579,25 @@
         "water": "Twice Weekly",
         "height": "100–200 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -1023,6 +1631,25 @@
         "water": "Bi-Weekly",
         "height": "30–120 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Oct-Dec for spring bloom bulbs",
+          "peak_growth": "Feb-Apr",
+          "harvest_or_bloom": "Mar-May",
+          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
+        },
+        "growing_instructions": [
+          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
+          "Choose bright sites with cool winter exposure for strong vernalization.",
+          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+        ],
+        "care_instructions": [
+          "Water lightly after planting, then maintain moderate moisture through flowering.",
+          "Do not cut green leaves immediately after bloom; let foliage yellow naturally.",
+          "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
+          "Lift and divide crowded clumps during dormancy where required."
+        ]
       }
     },
     {
@@ -1055,6 +1682,25 @@
         "water": "Weekly",
         "height": "200–500 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -1086,6 +1732,25 @@
         "water": "Weekly",
         "height": "60–120 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -1117,6 +1782,25 @@
         "water": "Bi-Weekly",
         "height": "30–60 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -1149,6 +1833,25 @@
         "water": "Weekly",
         "height": "200–400 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -1180,6 +1883,25 @@
         "water": "Weekly",
         "height": "60–150 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Oct-Dec for spring bloom bulbs",
+          "peak_growth": "Feb-Apr",
+          "harvest_or_bloom": "Mar-May",
+          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
+        },
+        "growing_instructions": [
+          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
+          "Choose bright sites with cool winter exposure for strong vernalization.",
+          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+        ],
+        "care_instructions": [
+          "Water lightly after planting, then maintain moderate moisture through flowering.",
+          "Do not cut green leaves immediately after bloom; let foliage yellow naturally.",
+          "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
+          "Lift and divide crowded clumps during dormancy where required."
+        ]
       }
     },
     {
@@ -1211,6 +1933,25 @@
         "water": "Weekly",
         "height": "15–90 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -1236,6 +1977,25 @@
         "water": "Twice Weekly",
         "height": "20–40 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -1268,6 +2028,25 @@
         "water": "Weekly",
         "height": "200–300 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -1299,6 +2078,25 @@
         "water": "Weekly",
         "height": "200–600 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -1330,6 +2128,25 @@
         "water": "Weekly",
         "height": "15–30 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -1361,6 +2178,25 @@
         "water": "Weekly",
         "height": "60–100 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -1393,6 +2229,25 @@
         "water": "Bi-Weekly",
         "height": "15–30 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -1425,6 +2280,25 @@
         "water": "Weekly",
         "height": "15–45 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -1457,6 +2331,25 @@
         "water": "Weekly",
         "height": "30–120 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -1488,6 +2381,25 @@
         "water": "Twice Weekly",
         "height": "60–150 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -1520,6 +2432,25 @@
         "water": "Weekly",
         "height": "15–40 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -1545,6 +2476,25 @@
         "water": "Weekly",
         "height": "200–400 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
       }
     },
     {
@@ -1577,6 +2527,25 @@
         "water": "Weekly",
         "height": "30–75 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -1608,6 +2577,25 @@
         "water": "Weekly",
         "height": "100–300 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -1639,6 +2627,25 @@
         "water": "Weekly",
         "height": "30–60 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -1672,6 +2679,25 @@
         "water": "Weekly",
         "height": "90–150 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Oct-Dec for spring bloom bulbs",
+          "peak_growth": "Feb-Apr",
+          "harvest_or_bloom": "Mar-May",
+          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
+        },
+        "growing_instructions": [
+          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
+          "Choose bright sites with cool winter exposure for strong vernalization.",
+          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+        ],
+        "care_instructions": [
+          "Water lightly after planting, then maintain moderate moisture through flowering.",
+          "Do not cut green leaves immediately after bloom; let foliage yellow naturally.",
+          "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
+          "Lift and divide crowded clumps during dormancy where required."
+        ]
       }
     },
     {
@@ -1703,6 +2729,25 @@
         "water": "Weekly",
         "height": "30–60 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Oct-Dec for spring bloom bulbs",
+          "peak_growth": "Feb-Apr",
+          "harvest_or_bloom": "Mar-May",
+          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
+        },
+        "growing_instructions": [
+          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
+          "Choose bright sites with cool winter exposure for strong vernalization.",
+          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+        ],
+        "care_instructions": [
+          "Water lightly after planting, then maintain moderate moisture through flowering.",
+          "Do not cut green leaves immediately after bloom; let foliage yellow naturally.",
+          "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
+          "Lift and divide crowded clumps during dormancy where required."
+        ]
       }
     },
     {
@@ -1735,6 +2780,25 @@
         "water": "Weekly",
         "height": "20–50 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     },
     {
@@ -1766,6 +2830,25 @@
         "water": "Bi-Weekly",
         "height": "30–90 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Sep-Nov or Feb-Mar",
+          "peak_growth": "Oct-Apr",
+          "harvest_or_bloom": "Nov-May",
+          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
+        },
+        "growing_instructions": [
+          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
+          "Transplant during cool weather to reduce stress and improve rooting.",
+          "Pinch early growth in branching varieties for fuller blooming plants."
+        ],
+        "care_instructions": [
+          "Water when topsoil dries; avoid constant wetness during cold spells.",
+          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
+          "Remove spent flowers to prolong bloom duration.",
+          "Provide light afternoon shade in late spring when temperatures rise."
+        ]
       }
     },
     {
@@ -1797,6 +2880,25 @@
         "water": "Weekly",
         "height": "15–90 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "May-Nov",
+          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
+        },
+        "growing_instructions": [
+          "Use full-sun beds with loose, compost-rich, well-drained soil.",
+          "Plant after severe frost risk is over and keep good spacing for airflow.",
+          "Stake taller varieties early to prevent lodging in summer storms."
+        ],
+        "care_instructions": [
+          "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
+          "Deadhead regularly to push continued flowering.",
+          "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
+          "Inspect weekly for aphids/mites and manage early with IPM methods."
+        ]
       }
     }
   ]

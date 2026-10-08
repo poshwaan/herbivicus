@@ -44,7 +44,26 @@
         "immune support",
         "antimicrobial support",
         "heart and circulation support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "adiantum-capillus-veneris",
@@ -87,7 +106,26 @@
         "women's health support",
         "metabolic support",
         "anti-inflammatory"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "aesculus-indica",
@@ -119,7 +157,26 @@
         "women's health support",
         "anti-inflammatory",
         "digestive support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "artemisia-absinthium",
@@ -151,7 +208,26 @@
       "health_benefits": [
         "liver support",
         "anti-inflammatory"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "artemisia-maritima",
@@ -180,7 +256,26 @@
       ],
       "health_benefits": [
         "digestive support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "asparagus-filicinus",
@@ -226,7 +321,26 @@
         "nervous system support",
         "anti-inflammatory",
         "immune support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "berberis-lycium",
@@ -264,7 +378,26 @@
         "digestive support",
         "skin support",
         "antimicrobial support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "cannabis-sativa",
@@ -299,7 +432,26 @@
       "health_benefits": [
         "anti-inflammatory",
         "nervous system support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "centaurea-iberica",
@@ -324,7 +476,26 @@
       ],
       "health_benefits": [
         "skin support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "chenopodium-album",
@@ -356,7 +527,26 @@
         "digestive support",
         "immune support",
         "anti-inflammatory"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "conium-maculatum",
@@ -390,7 +580,26 @@
         "nervous system support",
         "anti-inflammatory",
         "women's health support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "conyza-canadensis",
@@ -429,7 +638,26 @@
         "digestive support",
         "respiratory support",
         "metabolic support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "cuscuta-reflexa",
@@ -459,7 +687,26 @@
         "respiratory support",
         "digestive support",
         "anti-inflammatory"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "datura-stramonium",
@@ -496,7 +743,26 @@
         "respiratory support",
         "anti-inflammatory",
         "heart and circulation support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "daucus-carota",
@@ -529,7 +795,26 @@
         "urinary support",
         "women's health support",
         "metabolic support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "descurainia-sophia",
@@ -558,7 +843,26 @@
       ],
       "health_benefits": [
         "respiratory support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "digitalis-lanata",
@@ -590,7 +894,26 @@
         "heart and circulation support",
         "antimicrobial support",
         "metabolic support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "euphorbia-hispida",
@@ -621,7 +944,26 @@
       "health_benefits": [
         "immune support",
         "skin support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "ficus-carica",
@@ -656,7 +998,26 @@
         "immune support",
         "respiratory support",
         "skin support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "fumaria-indica",
@@ -692,7 +1053,26 @@
         "urinary support",
         "nervous system support",
         "anti-inflammatory"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "gentiana-carinata",
@@ -718,7 +1098,26 @@
       "health_benefits": [
         "digestive support",
         "respiratory support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "hernaria-hirsuta",
@@ -747,7 +1146,26 @@
         "respiratory support",
         "urinary support",
         "heart and circulation support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "hypericum-perforatum",
@@ -781,7 +1199,26 @@
         "urinary support",
         "antimicrobial support",
         "anti-inflammatory"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "iris-decora",
@@ -809,7 +1246,26 @@
       "health_benefits": [
         "skin support",
         "anti-inflammatory"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "iris-kashmiriana",
@@ -833,7 +1289,26 @@
       ],
       "health_benefits": [
         "anti-inflammatory"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "iris-lactea",
@@ -863,7 +1338,26 @@
       "health_benefits": [
         "liver support",
         "urinary support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "juglans-regia",
@@ -896,7 +1390,26 @@
         "digestive support",
         "anti-inflammatory",
         "antimicrobial support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "malva-neglecta",
@@ -924,7 +1437,26 @@
       "health_benefits": [
         "digestive support",
         "respiratory support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "malva-sylvestris",
@@ -953,7 +1485,26 @@
       "health_benefits": [
         "anti-inflammatory",
         "respiratory support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "marrubium-vulgare",
@@ -986,7 +1537,26 @@
         "urinary support",
         "digestive support",
         "metabolic support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "morus-nigra",
@@ -1016,7 +1586,26 @@
         "immune support",
         "digestive support",
         "metabolic support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "narcissus-tazetta",
@@ -1047,7 +1636,26 @@
         "digestive support",
         "urinary support",
         "antimicrobial support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "nepeta-cataria",
@@ -1078,7 +1686,26 @@
         "digestive support",
         "immune support",
         "nervous system support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "ocimum-sanctum",
@@ -1109,7 +1736,26 @@
         "respiratory support",
         "digestive support",
         "metabolic support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "oxalis-corniculata",
@@ -1141,7 +1787,26 @@
         "anti-inflammatory",
         "digestive support",
         "skin support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "polygonum-amplexicaule",
@@ -1167,7 +1832,26 @@
       ],
       "health_benefits": [
         "antimicrobial support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "ricinus-communis",
@@ -1198,7 +1882,26 @@
         "digestive support",
         "women's health support",
         "heart and circulation support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "robinia-pseudoacacia",
@@ -1231,7 +1934,26 @@
         "digestive support",
         "nervous system support",
         "immune support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "rosa-damascena",
@@ -1263,7 +1985,26 @@
         "liver support",
         "anti-inflammatory",
         "nervous system support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "rumex-dentatus",
@@ -1293,7 +2034,26 @@
         "urinary support",
         "anti-inflammatory",
         "metabolic support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "sagittaria-trifolia",
@@ -1322,7 +2082,26 @@
         "urinary support",
         "skin support",
         "respiratory support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "salix-alba",
@@ -1352,7 +2131,26 @@
       "health_benefits": [
         "immune support",
         "anti-inflammatory"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "salix-babylonica",
@@ -1382,7 +2180,26 @@
         "digestive support",
         "anti-inflammatory",
         "women's health support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "salvia-moorcroftiana",
@@ -1411,7 +2228,26 @@
         "digestive support",
         "heart and circulation support",
         "respiratory support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "senecio-vulgaris",
@@ -1441,7 +2277,26 @@
         "urinary support",
         "immune support",
         "digestive support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "siegesbeckia-orientalis",
@@ -1474,7 +2329,26 @@
         "anti-inflammatory",
         "antimicrobial support",
         "metabolic support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "sisymbrium-irio",
@@ -1501,7 +2375,26 @@
       ],
       "health_benefits": [
         "respiratory support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "solanum-nigrum",
@@ -1531,7 +2424,26 @@
         "urinary support",
         "anti-inflammatory",
         "skin support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "stachys-floccosa",
@@ -1559,7 +2471,26 @@
         "immune support",
         "women's health support",
         "urinary support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "taraxacum-officinale",
@@ -1592,7 +2523,26 @@
         "liver support",
         "anti-inflammatory",
         "antimicrobial support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     },
     {
       "id": "verbascum-thapsus",
@@ -1621,7 +2571,26 @@
       "health_benefits": [
         "anti-inflammatory",
         "antimicrobial support"
-      ]
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      }
     }
   ]
 }

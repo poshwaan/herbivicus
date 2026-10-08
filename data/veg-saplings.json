@@ -23,6 +23,25 @@
         "water": "Twice Weekly",
         "height": "10–90 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Leaf harvest Mar-Nov",
+          "pruning_or_dormancy": "Dec-Jan (hard trim and division)"
+        },
+        "growing_instructions": [
+          "Plant rooted runners in partial sun with moist, fertile, well-drained soil.",
+          "Use containers or root barriers to prevent aggressive spreading.",
+          "Pinch shoot tips early to encourage bushy leaf growth."
+        ],
+        "care_instructions": [
+          "Keep soil consistently moist, especially in dry summer periods.",
+          "Feed lightly with compost every 4-6 weeks during active growth.",
+          "Harvest regularly before flowering for best aroma and tenderness.",
+          "Rejuvenate clumps yearly by dividing overcrowded plants."
+        ]
       }
     }
   ]

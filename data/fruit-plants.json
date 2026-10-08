@@ -23,6 +23,25 @@
         "water": "Weekly",
         "height": "300–600 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Dec-Feb (bare-root dormant planting) or Feb-Mar (potted plants)",
+          "peak_growth": "Mar-Jun",
+          "harvest_or_bloom": "May-Sep, depending on cultivar",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Plant in full sun with deep, well-drained loam and good winter chill exposure.",
+          "Keep graft union above soil and stake young plants against valley winds.",
+          "Maintain 4-6 m spacing for canopy airflow and disease control."
+        ],
+        "care_instructions": [
+          "Irrigate deeply every 7-10 days in dry months; reduce during monsoon and winter dormancy.",
+          "Apply compost and balanced NPK in late winter, then top-dress after fruit set.",
+          "Prune during dormancy to keep an open framework and remove dead or crossing wood.",
+          "Use preventive copper/sulfur sprays at bud break where scab/canker pressure is high."
+        ]
       }
     },
     {
@@ -48,6 +67,25 @@
         "water": "Weekly",
         "height": "300–600 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Dec-Feb (bare-root dormant planting) or Feb-Mar (potted plants)",
+          "peak_growth": "Mar-Jun",
+          "harvest_or_bloom": "May-Sep, depending on cultivar",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Plant in full sun with deep, well-drained loam and good winter chill exposure.",
+          "Keep graft union above soil and stake young plants against valley winds.",
+          "Maintain 4-6 m spacing for canopy airflow and disease control."
+        ],
+        "care_instructions": [
+          "Irrigate deeply every 7-10 days in dry months; reduce during monsoon and winter dormancy.",
+          "Apply compost and balanced NPK in late winter, then top-dress after fruit set.",
+          "Prune during dormancy to keep an open framework and remove dead or crossing wood.",
+          "Use preventive copper/sulfur sprays at bud break where scab/canker pressure is high."
+        ]
       }
     },
     {
@@ -73,6 +111,25 @@
         "water": "Weekly",
         "height": "200–300 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Jan-Feb (dormant canes) or Jul-Aug (container vines)",
+          "peak_growth": "Mar-Sep",
+          "harvest_or_bloom": "Jul-Sep",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Train vines on a trellis/pergola in full sun with free-draining soil.",
+          "Keep 2-3 m spacing between vines and orient rows for maximum sunlight.",
+          "Retain well-positioned fruiting canes during winter pruning."
+        ],
+        "care_instructions": [
+          "Water weekly during active growth; increase slightly at berry set and reduce near ripening.",
+          "Mulch the root zone to conserve moisture and suppress weeds.",
+          "Thin dense clusters and side shoots to improve airflow and reduce rot risk.",
+          "Prune hard in dormancy; remove diseased canes immediately."
+        ]
       }
     },
     {
@@ -98,6 +155,25 @@
         "water": "Weekly",
         "height": "400–600 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Dec-Feb (bare-root dormant planting) or Feb-Mar (potted plants)",
+          "peak_growth": "Mar-Jun",
+          "harvest_or_bloom": "May-Sep, depending on cultivar",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Plant in full sun with deep, well-drained loam and good winter chill exposure.",
+          "Keep graft union above soil and stake young plants against valley winds.",
+          "Maintain 4-6 m spacing for canopy airflow and disease control."
+        ],
+        "care_instructions": [
+          "Irrigate deeply every 7-10 days in dry months; reduce during monsoon and winter dormancy.",
+          "Apply compost and balanced NPK in late winter, then top-dress after fruit set.",
+          "Prune during dormancy to keep an open framework and remove dead or crossing wood.",
+          "Use preventive copper/sulfur sprays at bud break where scab/canker pressure is high."
+        ]
       }
     },
     {
@@ -123,6 +199,25 @@
         "water": "Weekly",
         "height": "300–500 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Mar or Jul-Aug",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Jun-Oct",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Plant in full sun in well-drained soil; figs tolerate poorer soils if drainage is good.",
+          "Allow 3-4 m spacing and train to an open bush form.",
+          "Avoid excessive nitrogen to prevent vegetative growth at the expense of fruiting."
+        ],
+        "care_instructions": [
+          "Water deeply every 7-10 days in dry weather, especially during fruit swell.",
+          "Mulch with organic matter but keep mulch away from the stem base.",
+          "Prune lightly in winter to remove weak and crossing branches.",
+          "Harvest fruits when neck softens and skin color deepens; do not pull unripe figs."
+        ]
       }
     },
     {
@@ -148,6 +243,25 @@
         "water": "Weekly",
         "height": "200–300 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Jan-Feb (dormant canes) or Jul-Aug (container vines)",
+          "peak_growth": "Mar-Sep",
+          "harvest_or_bloom": "Jul-Sep",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Train vines on a trellis/pergola in full sun with free-draining soil.",
+          "Keep 2-3 m spacing between vines and orient rows for maximum sunlight.",
+          "Retain well-positioned fruiting canes during winter pruning."
+        ],
+        "care_instructions": [
+          "Water weekly during active growth; increase slightly at berry set and reduce near ripening.",
+          "Mulch the root zone to conserve moisture and suppress weeds.",
+          "Thin dense clusters and side shoots to improve airflow and reduce rot risk.",
+          "Prune hard in dormancy; remove diseased canes immediately."
+        ]
       }
     },
     {
@@ -173,6 +287,25 @@
         "water": "Weekly",
         "height": "200–400 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Mar or Jul-Aug",
+          "peak_growth": "Feb-Oct in multiple flushes",
+          "harvest_or_bloom": "Main crop Nov-Mar (with off-season flushes possible)",
+          "pruning_or_dormancy": "Light shaping in Feb-Mar"
+        },
+        "growing_instructions": [
+          "Choose a frost-protected full-sun site with good drainage and slight mound planting in heavy soils.",
+          "Keep 3-4 m spacing and avoid deep planting around the collar.",
+          "Provide windbreaks in exposed locations to reduce fruit drop."
+        ],
+        "care_instructions": [
+          "Water every 5-7 days in summer and every 10-14 days in cool months.",
+          "Feed with compost and split citrus fertilizer doses from Feb to Sep.",
+          "Remove rootstock suckers and only lightly prune crowded interior shoots.",
+          "Monitor for leaf miner, aphids, and scale; control early with neem or recommended IPM options."
+        ]
       }
     },
     {
@@ -198,6 +331,25 @@
         "water": "Weekly",
         "height": "300–600 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Mar or Jul-Aug",
+          "peak_growth": "Feb-Oct in multiple flushes",
+          "harvest_or_bloom": "Main crop Nov-Mar (with off-season flushes possible)",
+          "pruning_or_dormancy": "Light shaping in Feb-Mar"
+        },
+        "growing_instructions": [
+          "Choose a frost-protected full-sun site with good drainage and slight mound planting in heavy soils.",
+          "Keep 3-4 m spacing and avoid deep planting around the collar.",
+          "Provide windbreaks in exposed locations to reduce fruit drop."
+        ],
+        "care_instructions": [
+          "Water every 5-7 days in summer and every 10-14 days in cool months.",
+          "Feed with compost and split citrus fertilizer doses from Feb to Sep.",
+          "Remove rootstock suckers and only lightly prune crowded interior shoots.",
+          "Monitor for leaf miner, aphids, and scale; control early with neem or recommended IPM options."
+        ]
       }
     },
     {
@@ -223,6 +375,25 @@
         "water": "Twice Weekly",
         "height": "300–600 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Dec-Feb (bare-root dormant planting) or Feb-Mar (potted plants)",
+          "peak_growth": "Mar-Jun",
+          "harvest_or_bloom": "May-Sep, depending on cultivar",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Plant in full sun with deep, well-drained loam and good winter chill exposure.",
+          "Keep graft union above soil and stake young plants against valley winds.",
+          "Maintain 4-6 m spacing for canopy airflow and disease control."
+        ],
+        "care_instructions": [
+          "Irrigate deeply every 7-10 days in dry months; reduce during monsoon and winter dormancy.",
+          "Apply compost and balanced NPK in late winter, then top-dress after fruit set.",
+          "Prune during dormancy to keep an open framework and remove dead or crossing wood.",
+          "Use preventive copper/sulfur sprays at bud break where scab/canker pressure is high."
+        ]
       }
     },
     {
@@ -248,6 +419,25 @@
         "water": "Weekly",
         "height": "400–800 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Dec-Feb (bare-root dormant planting) or Feb-Mar (potted plants)",
+          "peak_growth": "Mar-Jun",
+          "harvest_or_bloom": "May-Sep, depending on cultivar",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Plant in full sun with deep, well-drained loam and good winter chill exposure.",
+          "Keep graft union above soil and stake young plants against valley winds.",
+          "Maintain 4-6 m spacing for canopy airflow and disease control."
+        ],
+        "care_instructions": [
+          "Irrigate deeply every 7-10 days in dry months; reduce during monsoon and winter dormancy.",
+          "Apply compost and balanced NPK in late winter, then top-dress after fruit set.",
+          "Prune during dormancy to keep an open framework and remove dead or crossing wood.",
+          "Use preventive copper/sulfur sprays at bud break where scab/canker pressure is high."
+        ]
       }
     },
     {
@@ -273,6 +463,25 @@
         "water": "Weekly",
         "height": "300–600 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Dec-Feb (bare-root dormant planting) or Feb-Mar (potted plants)",
+          "peak_growth": "Mar-Jun",
+          "harvest_or_bloom": "May-Sep, depending on cultivar",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Plant in full sun with deep, well-drained loam and good winter chill exposure.",
+          "Keep graft union above soil and stake young plants against valley winds.",
+          "Maintain 4-6 m spacing for canopy airflow and disease control."
+        ],
+        "care_instructions": [
+          "Irrigate deeply every 7-10 days in dry months; reduce during monsoon and winter dormancy.",
+          "Apply compost and balanced NPK in late winter, then top-dress after fruit set.",
+          "Prune during dormancy to keep an open framework and remove dead or crossing wood.",
+          "Use preventive copper/sulfur sprays at bud break where scab/canker pressure is high."
+        ]
       }
     },
     {
@@ -298,6 +507,25 @@
         "water": "Weekly",
         "height": "300–500 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Mar or Jul-Aug",
+          "peak_growth": "Mar-Sep",
+          "harvest_or_bloom": "Aug-Oct",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Grow in full sun with well-drained soil and moderate fertility.",
+          "Train as a multi-stem bush or single trunk, keeping 3-4 primary scaffold branches.",
+          "Maintain 3-4 m spacing for better light penetration."
+        ],
+        "care_instructions": [
+          "Irrigate regularly at flowering and fruit set; avoid moisture extremes to reduce cracking.",
+          "Remove excess suckers from the base several times a year.",
+          "Prune lightly in winter to renew fruiting wood.",
+          "Bag or protect fruits in bird-prone sites near ripening."
+        ]
       }
     },
     {
@@ -323,6 +551,25 @@
         "water": "Weekly",
         "height": "300–600 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Dec-Feb (bare-root dormant planting) or Feb-Mar (potted plants)",
+          "peak_growth": "Mar-Jun",
+          "harvest_or_bloom": "May-Sep, depending on cultivar",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Plant in full sun with deep, well-drained loam and good winter chill exposure.",
+          "Keep graft union above soil and stake young plants against valley winds.",
+          "Maintain 4-6 m spacing for canopy airflow and disease control."
+        ],
+        "care_instructions": [
+          "Irrigate deeply every 7-10 days in dry months; reduce during monsoon and winter dormancy.",
+          "Apply compost and balanced NPK in late winter, then top-dress after fruit set.",
+          "Prune during dormancy to keep an open framework and remove dead or crossing wood.",
+          "Use preventive copper/sulfur sprays at bud break where scab/canker pressure is high."
+        ]
       }
     },
     {
@@ -348,6 +595,25 @@
         "water": "Weekly",
         "height": "300–600 cm",
         "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Dec-Feb (bare-root dormant planting) or Feb-Mar (potted plants)",
+          "peak_growth": "Mar-Jun",
+          "harvest_or_bloom": "May-Sep, depending on cultivar",
+          "pruning_or_dormancy": "Dec-Jan"
+        },
+        "growing_instructions": [
+          "Plant in full sun with deep, well-drained loam and good winter chill exposure.",
+          "Keep graft union above soil and stake young plants against valley winds.",
+          "Maintain 4-6 m spacing for canopy airflow and disease control."
+        ],
+        "care_instructions": [
+          "Irrigate deeply every 7-10 days in dry months; reduce during monsoon and winter dormancy.",
+          "Apply compost and balanced NPK in late winter, then top-dress after fruit set.",
+          "Prune during dormancy to keep an open framework and remove dead or crossing wood.",
+          "Use preventive copper/sulfur sprays at bud break where scab/canker pressure is high."
+        ]
       }
     },
     {
@@ -373,6 +639,25 @@
         "water": "Twice Weekly",
         "height": "20–30 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Preferred Sep-Oct (runners) or Feb-Mar (late planting)",
+          "peak_growth": "Mar-May and Sep-Nov",
+          "harvest_or_bloom": "Apr-Jun (spring crop)",
+          "pruning_or_dormancy": "Dec-Jan (remove old runners/leaves)"
+        },
+        "growing_instructions": [
+          "Plant runners on raised beds with rich, well-drained soil and plenty of organic matter.",
+          "Keep crown at soil level and maintain 25-30 cm spacing between plants.",
+          "Use straw or plastic mulch to keep fruits clean and reduce weed pressure."
+        ],
+        "care_instructions": [
+          "Provide frequent light irrigation; avoid waterlogging and wet foliage at night.",
+          "Feed lightly but regularly with compost tea or balanced soluble nutrition.",
+          "Remove extra runners during fruiting to concentrate yield.",
+          "Harvest fully colored fruits every 2-3 days in cool morning hours."
+        ]
       }
     }
   ]

@@ -23,6 +23,25 @@
         "water": "Weekly",
         "height": "30–120 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Oct-Nov (best) or Feb in very cold pockets after frost",
+          "peak_growth": "Nov-Mar",
+          "harvest_or_bloom": "Apr-Jun",
+          "pruning_or_dormancy": "Jun-Jul (seed collection and bed cleanup)"
+        },
+        "growing_instructions": [
+          "Broadcast seeds on fine, well-drained soil and press gently without deep covering.",
+          "Choose full sun and avoid transplanting due to taproot sensitivity.",
+          "Thin seedlings to 20-25 cm spacing after establishment."
+        ],
+        "care_instructions": [
+          "Water lightly until germination, then only when surface dries.",
+          "Avoid heavy nitrogen, which reduces flowering quality.",
+          "Stake taller strains in windy sites.",
+          "Collect dry seed pods when they turn straw-colored."
+        ]
       }
     },
     {
@@ -48,6 +67,25 @@
         "water": "Weekly",
         "height": "100–300 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Mar or Jun-Jul",
+          "peak_growth": "Mar-Sep",
+          "harvest_or_bloom": "May-Oct",
+          "pruning_or_dormancy": "Post-harvest Oct-Nov cleanup"
+        },
+        "growing_instructions": [
+          "Direct sow in full sun at 2-3 cm depth in well-drained loamy soil.",
+          "Space 30-45 cm apart and stake giant cultivars if winds are strong.",
+          "Use phosphorus- and potash-rich basal nutrition for better head formation."
+        ],
+        "care_instructions": [
+          "Water deeply every 5-7 days; do not keep soil constantly soggy.",
+          "Weed early to reduce competition during rapid stem elongation.",
+          "Protect heads from birds as seeds mature.",
+          "Harvest when back of flower head turns yellow-brown and seeds harden."
+        ]
       }
     }
   ]

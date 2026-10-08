@@ -23,6 +23,25 @@
         "water": "Twice Weekly",
         "height": "200–300 cm",
         "difficulty": "Easy"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Apr-Jul (open field), with protected early sowing in Mar",
+          "peak_growth": "May-Aug",
+          "harvest_or_bloom": "Jun-Sep",
+          "pruning_or_dormancy": "Oct-Nov (crop residue cleanup)"
+        },
+        "growing_instructions": [
+          "Direct sow in warm soil on raised beds with full sun exposure.",
+          "Keep 45-60 cm spacing and provide trellis support for cleaner fruits.",
+          "Incorporate compost before sowing for steady vegetative growth."
+        ],
+        "care_instructions": [
+          "Maintain consistent moisture; uneven watering can cause bitterness and misshapen fruits.",
+          "Mulch around vines to reduce evaporation and soil splash.",
+          "Hand-pollination can improve fruit set during cool or rainy spells.",
+          "Harvest tender fruits at regular intervals to sustain production."
+        ]
       }
     }
   ]
