@@ -747,6 +747,50 @@
           "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
         ]
       }
+    },
+    {
+      "id": "bougainvillea",
+      "title": "Bougainvillea",
+      "category": "ornamental-plant",
+      "description": "Vibrant tropical vine with colorful papery bracts. Produces stunning cascades of pink, purple, orange, or red. Thrives in warm, sunny spots.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/ornamental-plants/bougainvillea.webp"
+        ]
+      },
+      "attributes": {
+        "sunlight": "Full",
+        "water": "Weekly",
+        "height": "300–500 cm",
+        "difficulty": "Moderate"
+      },
+      "growing_guide": {
+        "seasons": {
+          "planting": "Feb-Apr or Jul-Sep",
+          "peak_growth": "Mar-Oct",
+          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
+          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
+        },
+        "growing_instructions": [
+          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
+          "Prepare deep, well-drained beds with mature compost before planting.",
+          "Maintain species-appropriate spacing so mature canopies do not crowd."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
+      }
     }
   ]
 }
