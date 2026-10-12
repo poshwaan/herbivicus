@@ -3,7 +3,7 @@
     {
       "id": "garden-maintenance",
       "title": "Garden Maintenance",
-      "category": "service",
+      "category": "gardening-service",
       "description": "Comprehensive garden maintenance service including lawn mowing, pruning, weeding and fertilization. Weekly or bi-weekly options available.",
       "price": {
         "amount": 1999,
@@ -22,7 +22,7 @@
     {
       "id": "weed-control",
       "title": "Weed Control",
-      "category": "service",
+      "category": "gardening-service",
       "description": "Professional weed control service to keep your garden free from unwanted plants. Includes application of eco-friendly herbicides and follow-up visits.",
       "price": {
         "amount": 499,
