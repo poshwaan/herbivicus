@@ -344,7 +344,7 @@
       },
       "stock": {
         "total": 12,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
@@ -398,7 +398,7 @@
       },
       "stock": {
         "total": 25,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
@@ -450,7 +450,7 @@
       },
       "stock": {
         "total": 20,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
