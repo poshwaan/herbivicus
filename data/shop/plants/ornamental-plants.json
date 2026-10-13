@@ -1,0 +1,807 @@
+{
+  "products": [
+    {
+      "id": "caladium",
+      "title": "Caladium",
+      "category": "ornamental-plant",
+      "description": "A classic Caladium cultivar with large heart-shaped leaves featuring brilliant white centres and bold green margins and veins. Native to tropical South America, this tuberous plant is prized for its dramatic foliage contrast.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 85,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/caladium.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "shade",
+        "water": "bi-weekly",
+        "height_cm": "30-60",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Start tubers indoors in April or plant outside in late May after all spring frost risks have passed.",
+          "Vibrant foliage display peaks from June through September in warm, humid shade.",
+          "Cannot survive Kashmir's sub-zero winter; dig up tubers before frost in October and store dry indoors at 15°C.",
+          "Tubers remain completely dormant underground from November through March."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "Native to the Amazon basin, its heart-shaped leaves splashed in crimson and white give it the folk names 'Heart of Jesus' and 'Angel Wings', symbolizing deep joy and divine protection.",
+        "meanings": [
+          "Heart's joy",
+          "Delight",
+          "Protection",
+          "Celebration"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "cherry-pepper",
+      "title": "Cherry Pepper (Wiri Wiri)",
+      "category": "ornamental-plant",
+      "description": "Compact ornamental pepper plant with small, round, cherry-like peppers in vibrant colors. Highly ornamental with attractive foliage and colorful fruit. Prolific producer of mild to moderately hot peppers.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 0,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/cherry-pepper.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-50",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Start seeds indoors in March or transplant container seedlings outdoors in May after final spring frosts.",
+          "Vegetative growth and white flowers peak from June to July in warm valley sunshine.",
+          "Ornamental cherry peppers turn brilliant glossy scarlet and harvest from August through October.",
+          "Plants succumb to early Kashmir freezes in November; harvest mature peppers and collect seeds beforehand."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "Cultivated for both vibrant culinary heat and vivid ornamental beauty; in folk traditions, ornamental chili peppers ward off bad fortune and inspire lively passion.",
+        "meanings": [
+          "Protection",
+          "Vibrant passion",
+          "Zest for life",
+          "Warm energy"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "cycas-palm",
+      "title": "Cycas Palm",
+      "category": "ornamental-plant",
+      "description": "Ancient tropical palm with feathery fronds. Primitive beauty and tropical appeal. Slow-growing but very long-lived.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 8,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/cycas-palm.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "60-150",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true,
+        "fragrant": false,
+        "edible": false
+      },
+      "symbolism": {
+        "origin": "One of the oldest surviving plant lineages on Earth, dating back over 200 million years to the Jurassic era; universally represents longevity, noble dignity, and ancient endurance.",
+        "meanings": [
+          "Longevity",
+          "Ancient endurance",
+          "Noble dignity",
+          "Timeless strength"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant or repot in gritty, well-draining soil in May after frosty nights conclude.",
+          "A new flush of stiff feathery fronds emerges during warm summer months from June through August.",
+          "Tender to Kashmir's freezing sub-zero chills; move into protected sunrooms or indoors from November to March.",
+          "Water sparingly once every 2-3 weeks during winter rest from December through February."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "english-ivy-creeper",
+      "title": "English Ivy Creeper",
+      "category": "ornamental-plant",
+      "description": "Classic evergreen climbing ivy with glossy green leaves. Perfect for covering walls or trellises. Excellent groundcover for shaded areas.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 45,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/english-ivy-creeper.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "200-500",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": true
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant rooted climbers in garden borders or planters in March-April or September-October.",
+          "Rapid vine extension and leaf coverage occur across Kashmir spring and summer from May to August.",
+          "Completely frost-hardy down to -15°C; maintains glossy evergreen foliage throughout snowy valley winters.",
+          "Prune vigorous shoots in late February or March just before early spring growth starts."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "In classical Greco-Roman mythology, ivy was sacred to Dionysus and represented binding friendship; in Christian and Victorian lore, it is the quintessential emblem of evergreen fidelity.",
+        "meanings": [
+          "Fidelity",
+          "Evergreen loyalty",
+          "Steadfast friendship",
+          "Affection"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "fern",
+      "title": "Fern",
+      "category": "ornamental-plant",
+      "description": "Lush, delicate fern with feathery fronds. Thrives in shade and humidity. Adds tropical elegance to indoor spaces and shaded gardens.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/fern.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "shade",
+        "water": "bi-weekly",
+        "height_cm": "40-80",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Divide rhizomes and repot in moist, humus-rich soil in mid-spring from April to May.",
+          "Graceful arching fronds unfurl rapidly through summer from May to September in cool, moist shade.",
+          "Potted ferns require heated indoor shelter away from freezing winter drafts from November to March.",
+          "Growth slows from December to February; mist fronds to counteract dry indoor heater air."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "In European and Celtic folklore, the mysterious seedless reproduction of ferns led to myths of invisibility and magic; in Victorian floriography, ferns symbolize sincerity and humble grace.",
+        "meanings": [
+          "Sincerity",
+          "Humility",
+          "Secret bond",
+          "Grace in quiet places"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "garden-palm",
+      "title": "Garden Palm",
+      "category": "ornamental-plant",
+      "description": "Graceful palm with feathery fronds. Creates tropical ambiance. Hardy variety suitable for indoor and outdoor cultivation.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/garden-palm.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "100-200",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Repot into fertile, aerated compost in late spring during April or May.",
+          "Active fan frond development takes place from June through August in sheltered sunny spots.",
+          "Sensitive to prolonged valley snow and freezing frost; house indoors or in a greenhouse from November through March.",
+          "Winter dormancy from December to February requires only light monthly hydration."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "In ancient Mediterranean, Middle Eastern, and Asian traditions, palm fronds were waved in triumphant celebrations and carried as symbols of victory, peace, and sacred hospitality.",
+        "meanings": [
+          "Victory",
+          "Peace",
+          "Hospitality",
+          "Warm welcome"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "golden-cypress",
+      "title": "Golden Cypress",
+      "category": "ornamental-plant",
+      "description": "Coniferous tree with golden-yellow foliage. Pyramidal form and warm coloring. Year-round ornamental interest for landscapes.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/golden-cypress.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "200-400",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Transplant container saplings into garden beds from March to April or October to November.",
+          "Vigorous golden-chartreuse foliage development takes place from April through August.",
+          "Exceptionally frost-hardy in Srinagar; withstands sub-zero freezes and snow loads without injury.",
+          "Lightly trim hedge outline in late February or July; avoid hard pruning into bare wood in winter."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "Coniferous evergreens maintain their lush vitality throughout freezing winters; the bright golden foliage of this cypress represents hope, winter light, and prosperity.",
+        "meanings": [
+          "Hope in adversity",
+          "Golden prosperity",
+          "Winter constancy",
+          "Resilience"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "green-pine",
+      "title": "Green Pine",
+      "category": "ornamental-plant",
+      "description": "Evergreen pine tree with soft green needles. Elegant coniferous form. Excellent for landscaping and creating windbreaks.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/green-pine.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "300-600",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant young nursery pines in early spring from March to April before candle extension begins.",
+          "New needle candles push strongly across sunny days from April through July.",
+          "Native to Kashmir's mountains; completely cold-hardy through severe freezing winters and heavy snow.",
+          "Dormant from November to February; brush heavy wet snow off young branches to prevent bending."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "In Himalayan, Japanese, and Chinese traditions, the evergreen pine is the premier emblem of moral fortitude, winter longevity, and an unbending spirit in mountain gales.",
+        "meanings": [
+          "Longevity",
+          "Moral fortitude",
+          "Winter constancy",
+          "Steadfast honor"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "italian-cypress",
+      "title": "Italian Cypress (Pencil Pine)",
+      "category": "ornamental-plant",
+      "description": "Tall, slender Italian Cypress with dark green foliage. Ideal for formal gardens and Mediterranean landscapes. Requires full sun and well-drained soil.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/italian-cypress.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "300-600",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant columnar saplings in well-drained sunny soil in March-April or October.",
+          "Vertical spire growth peaks between May and August in warm valley sun.",
+          "Hardy in valley conditions; loosely tie upper spires to prevent splaying under heavy snow from December to February.",
+          "Prune errant lateral sprays in late winter in February before spring sap begins flowing."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "Sacred to Pluto in classical antiquity, Italian Cypress has stood as the dignified guardian of Mediterranean and Persian gardens for millennia, symbolizing eternity and architectural grace.",
+        "meanings": [
+          "Eternal soul",
+          "Dignity",
+          "Immortality",
+          "Solemn elegance"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "japanese-spindle",
+      "title": "Japanese Spindle",
+      "category": "ornamental-plant",
+      "description": "Decorative shrub with elegant variegated foliage. Unique fall colors and interesting winged seed pods. Attractive year-round.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/japanese-spindle.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "100-200",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Set out evergreen hedge saplings in March-April or during autumn in October.",
+          "Dense glossy foliage pushes actively from April through August.",
+          "Fully winter-hardy across Srinagar; easily survives frost and sub-zero temperatures down to -12°C.",
+          "Shear hedge lines in late February or mid-summer in July."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "Euonymus japonicus was planted in traditional Japanese and courtyard hedge gardens to signify steadfast protection, companionship, and beauty through all seasons.",
+        "meanings": [
+          "Steadfast companionship",
+          "Protective boundary",
+          "Enduring beauty"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "purple-heart",
+      "title": "Purple Heart",
+      "category": "ornamental-plant",
+      "description": "Tropical shrub with striking deep purple foliage. Small pink or purple flowers add charm. Excellent for adding color to gardens.",
+      "price": {
+        "amount": 99,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/purple-heart.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "20-40",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Root cuttings or plant outdoor planters in May after the risk of frost has passed.",
+          "Intense violet-purple foliage and pink blossoms thrive from June to September in full sun.",
+          "Fleshy stems rot in freezing temperatures; bring containers indoors from November through March.",
+          "Trim back leggy winter stems in March before new spring growth emerges."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "Tradescantia pallida thrives under blazing sun, deepening its velvety violet color; it symbolizes emotional depth, royalty, and authentic fidelity through adversity.",
+        "meanings": [
+          "Emotional depth",
+          "Regal dignity",
+          "Fidelity",
+          "Resilience"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "red-maple",
+      "title": "Red Maple",
+      "category": "ornamental-plant",
+      "description": "Elegant Japanese red maple sapling with vibrant red foliage. Thrives in temperate climates. Perfect for gardens and landscapes.",
+      "price": {
+        "amount": 999,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/red-maple.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "300-600",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant bare-root or potted saplings in early spring during March or autumn in October.",
+          "Fresh leaf growth develops from April to July, followed by brilliant crimson fall foliage in October.",
+          "Fully winter-hardy; drops leaves naturally in November and rests dormant through winter cold.",
+          "Prune only in late summer or early winter; avoid spring pruning when sap bleeds profusely."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "Celebrated in Asian and North American landscape traditions; the transformative autumn red foliage symbolizes balance, natural harmony, and the peaceful wisdom of passing seasons.",
+        "meanings": [
+          "Balance",
+          "Natural harmony",
+          "Autumn wisdom",
+          "Graceful reserve"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "rosemary",
+      "title": "Rosemary",
+      "category": "ornamental-plant",
+      "description": "Aromatic Mediterranean herb with needle-like silvery-green leaves and small blue flowers. Versatile culinary and medicinal herb with been associated with memory and remembrance since antiquity.",
+      "price": {
+        "amount": 79,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/rosemary.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "60-120",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true,
+        "edible": true
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Transplant saplings into gritty, free-draining garden soil in April or May.",
+          "Fragrant needle growth and pale blue flowers peak from May through August.",
+          "Moderately frost hardy; mulch root base heavily or protect against severe -5°C snow freezes from December to February.",
+          "Prune lightly after summer flowering in August; avoid cutting into old woody stems in winter."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "symbolism": {
+        "origin": "Derived from Latin 'Rosmarinus' (Dew of the Sea); immortalized by Shakespeare ('there's rosemary, that's for remembrance'), it is the historic symbol of fidelity and remembrance.",
+        "meanings": [
+          "Remembrance",
+          "Fidelity",
+          "Wisdom",
+          "Affectionate memories"
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "bougainvillea",
+      "title": "Bougainvillea",
+      "category": "ornamental-plant",
+      "description": "Vibrant tropical vine with colorful papery bracts. Produces stunning cascades of pink, purple, orange, or red. Thrives in warm, sunny spots.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 2,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/bougainvillea.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "200-400",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true,
+        "fragrant": false,
+        "edible": false
+      },
+      "symbolism": {
+        "origin": "Named after French navigator Louis Antoine de Bougainville; its cascading cascades of paper-like bracts symbolize warm hospitality, passion, and vibrant celebration of life.",
+        "meanings": [
+          "Warm hospitality",
+          "Vibrant passion",
+          "Celebration",
+          "Welcoming abundance"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant in large containers and place in full sun in May after all spring frosts end.",
+          "Profuse paper bracts flower vigorously throughout warm summer and early autumn from June to October.",
+          "Cannot survive Srinagar's freezing winter outdoors; must be moved into a heated sunroom or greenhouse from November through March.",
+          "Prune structural branches in March as new buds swell indoors."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow slight surface drying before next irrigation.",
+          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
+          "Prune after major bloom flush or during dormancy depending on species.",
+          "Remove diseased foliage promptly and improve airflow around dense plants."
+        ]
+      },
+      "is_potted": true
+    }
+  ]
+}

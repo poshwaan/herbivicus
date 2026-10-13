@@ -1,0 +1,647 @@
+{
+  "products": [
+    {
+      "id": "aloe-vera-gift",
+      "title": "Aloe Vera Gift Planter",
+      "category": "gift-plant",
+      "cross_listed_from": "succulents-and-cacti",
+      "original_product_id": "aloe-vera",
+      "description": "Easy-care healing Aloe Vera plant presented in a stylish handcrafted ceramic gift planter with personalized tag.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/aloe-vera.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-50",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Known as the 'Plant of Immortality' in ancient Egyptian papyri; presented across Mediterranean and Asian cultures as a living talisman of healing, protection, and endurance.",
+        "meanings": [
+          "Healing",
+          "Protection",
+          "Resilience",
+          "Good health",
+          "Immortality"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Potted in decorative gift planter with drainage; maintain indoors in bright natural light.",
+          "Growth continues at a gentle pace from May through August.",
+          "Keep indoors in heated living areas away from freezing window drafts from November through March.",
+          "Water sparingly once every 2-3 weeks in winter from December to February."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow soil to dry completely before next irrigation.",
+          "Keep indoors near bright window during cold winter months (above 10°C).",
+          "Never leave root ball sitting in pooled drainage water.",
+          "Harvest lowest outer fleshy leaves cleanly from base as needed for skin soothing."
+        ]
+      }
+    },
+    {
+      "id": "black-rose-succulent-gift",
+      "title": "Black Rose Succulent Gift Planter",
+      "category": "gift-plant",
+      "cross_listed_from": "succulents-and-cacti",
+      "original_product_id": "black-rose-succulent",
+      "description": "Dramatic dark rosette succulent in a minimalist geometric gift pot. A sophisticated living gift.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/black-rose-succulent.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "25-45",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Aeonium arboreum 'Zwartkop' produces dramatic dark burgundy-black rosettes; in botanical symbolism, it signifies elegance, transformative mystery, and quiet individuality.",
+        "meanings": [
+          "Elegance",
+          "Mystery",
+          "Individuality",
+          "Enduring grace"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Display in bright indoor windows receiving cool morning light.",
+          "Rosette tightens and darkens into rich purple-black in spring (April-May) and autumn (September-October).",
+          "Keep strictly indoors protected from frost and freezing weather from November through March.",
+          "Water lightly every 2-3 weeks when soil is completely dry."
+        ],
+        "care_instructions": [
+          "Water moderately in spring and autumn; reduce watering significantly in hot summer dormancy.",
+          "Protect from severe winter frost below 0°C by keeping indoors near south window.",
+          "Dust rosettes with soft dry brush to maintain velvety sheen."
+        ]
+      }
+    },
+    {
+      "id": "desert-cactus-gift",
+      "title": "Desert Cactus Desktop Gift",
+      "category": "gift-plant",
+      "cross_listed_from": "succulents-and-cacti",
+      "original_product_id": "desert-cactus",
+      "description": "Charming low-maintenance desert cactus in a ceramic planter. Perfect for office desks and warm spaces.",
+      "price": {
+        "amount": 349,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/desert-cactus.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "15-30",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "In Native American and Southwestern lore, cacti symbolize maternal warmth, unyielding endurance, and protective love because they survive and thrive in the harshest conditions.",
+        "meanings": [
+          "Endurance",
+          "Protective love",
+          "Perseverance",
+          "Warmth"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Keep on a sunny desk or window ledge with direct sunlight.",
+          "Thrives with light watering in warm months from May through August.",
+          "Overwinter in heated rooms away from sub-zero drafts from November through March.",
+          "Withhold water almost completely during winter from December to February."
+        ],
+        "care_instructions": [
+          "Water thoroughly every 2-3 weeks during summer; let soil become bone dry.",
+          "Suspend watering almost entirely from November through February during cold winter rest.",
+          "Keep in well-ventilated dry room away from high humidity."
+        ]
+      }
+    },
+    {
+      "id": "echeveria-succulent-gift",
+      "title": "Echeveria Succulent Gift Planter",
+      "category": "gift-plant",
+      "cross_listed_from": "succulents-and-cacti",
+      "original_product_id": "echeveria-succulent",
+      "description": "Exquisite symmetrical rosette succulent nestled in a decorated terracotta planter. A delightful housewarming gift.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 35,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/echeveria-succulent.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "10-20",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Named after Mexican botanical artist Atanasio Echeverría; its compact water-storing geometric petals symbolize enduring affection, balanced beauty, and persistence.",
+        "meanings": [
+          "Enduring affection",
+          "Harmonious beauty",
+          "Persistence",
+          "Quiet grace"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Display on sunny interior windowsills with 4-5 hours of light.",
+          "Maintains symmetrical rosette form throughout summer from May to September.",
+          "Must be kept indoors at comfortable room temperatures from November through March.",
+          "Water once every 3 weeks in winter; avoid letting water pool in rosette center."
+        ],
+        "care_instructions": [
+          "Water directly onto soil around base using soak-and-dry method.",
+          "Never allow water drops to sit inside the central rosette crown to prevent fungal rot.",
+          "Remove withered dried lower leaves promptly to prevent pest harboring."
+        ]
+      }
+    },
+    {
+      "id": "green-pinwheel-succulent-gift",
+      "title": "Green Pinwheel Succulent Gift",
+      "category": "gift-plant",
+      "cross_listed_from": "succulents-and-cacti",
+      "original_product_id": "green-pinwheel-succulent",
+      "description": "Charming pinwheel-shaped lime green succulent in a decorative gift pot.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/green-pinwheel-succulent.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "20-35",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "The circular pinwheel geometry of Aeonium rosettes has long symbolized good fortune, refreshing vitality, and continuous renewal in domestic spaces.",
+        "meanings": [
+          "Good fortune",
+          "Continuous renewal",
+          "Vitality",
+          "Harmony"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Position in bright filtered sunlight indoors.",
+          "Produces branching mini-rosettes actively during April-May and September-October.",
+          "Keep safely indoors away from outdoor frost from November through March.",
+          "Allow potting mix to dry out fully before adding water."
+        ],
+        "care_instructions": [
+          "Water when top half of container mix dries out during active autumn-spring growth.",
+          "Keep in frost-free room during freezing Kashmir winter.",
+          "Rotate pot weekly so rosette grows evenly symmetrical toward light."
+        ]
+      }
+    },
+    {
+      "id": "kalanchoe-gift",
+      "title": "Blooming Kalanchoe Gift Plant",
+      "category": "gift-plant",
+      "cross_listed_from": "potted-flowering-plants",
+      "original_product_id": "kalanchoe",
+      "description": "Bright flowering succulent with clusters of cheerful blossoms, gift-wrapped with decorative ribbon.",
+      "price": {
+        "amount": 249,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/kalanchoe.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "winter",
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "20-35",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Celebrated in Asian botanical traditions and European floristry as a plant of endurance, prosperity, and continuous affection due to its enduring blooms.",
+        "meanings": [
+          "Enduring affection",
+          "Prosperity",
+          "Persistence",
+          "Good health"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Gift-ready blooming plant ideal for indoor tabletops in winter and spring.",
+          "Clusters of cheerful flowers remain in full bloom from December through April indoors.",
+          "Keep at normal indoor room temperatures (15-22°C) protected from winter freezes Nov-Mar.",
+          "Water when the top inch of soil feels dry; avoid standing water in decorative outer sleeve."
+        ],
+        "care_instructions": [
+          "Water thoroughly only when potting mix is completely dry; avoid standing water in saucers.",
+          "Feed with diluted low-nitrogen succulent fertilizer once a month in summer.",
+          "Trim spent flower stalks at base when blooming cycle finishes to encourage lush foliage.",
+          "Provide 14 hours of daily darkness for 6 weeks in autumn to re-induce flower bud formation."
+        ]
+      }
+    },
+    {
+      "id": "peanut-cactus-gift",
+      "title": "Peanut Cactus Gift Planter",
+      "category": "gift-plant",
+      "cross_listed_from": "succulents-and-cacti",
+      "original_product_id": "peanut-cactus",
+      "description": "Playful segmented cactus in an artisanal planter, producing striking orange-red flowers.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/peanut-cactus.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "10-20",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Echinopsis chamaecereus produces playful clumping peanut-like finger stems that bloom in fiery orange; it symbolizes tenacious resilience and finding joy in rugged terrain.",
+        "meanings": [
+          "Tenacious resilience",
+          "Playful joy",
+          "Warmth",
+          "Unpretentious charm"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Keep in sunny desktop locations or bright window sills.",
+          "Bright orange flowers appear in May-June if kept cool but frost-free over winter.",
+          "Protect indoors from Kashmir's freezing weather from November through March.",
+          "Keep soil dry during cold winter months from December to February."
+        ],
+        "care_instructions": [
+          "Water every 10-14 days in summer; keep completely dry in winter.",
+          "A cool winter rest (5-10°C) is required to trigger sensational spring flowering.",
+          "Handle finger offsets gently when repotting."
+        ]
+      }
+    },
+    {
+      "id": "miniature-rose-gift",
+      "title": "Miniature Rose Gift Planter",
+      "category": "gift-plant",
+      "cross_listed_from": "potted-flowering-plants",
+      "original_product_id": "miniature-rose",
+      "description": "Romantic petite rose bush full of buds and blooms, presented in a decorative gift planter.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/miniature-rose.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "bi-weekly",
+        "height_cm": "20-35",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Developed through dwarf rose selection; in floriography, miniature roses symbolize delicate charm, promise, and affectionate devotion.",
+        "meanings": [
+          "Delicate charm",
+          "Sweet promise",
+          "Affection",
+          "Petite perfection"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Keep in a very bright window receiving at least 4 hours of direct morning sun.",
+          "Blooms repeatedly from May through October; deadhead spent mini-roses promptly.",
+          "During freezing winter months from December to February, keep in a cool, bright frost-free veranda.",
+          "Prune stems back lightly in late February to encourage vigorous new spring buds."
+        ],
+        "care_instructions": [
+          "Water deeply when top 2-3 cm of potting media feels dry; avoid wetting leaves at sunset.",
+          "Feed every 3 weeks with balanced seaweed or organic rose feed during active bud flushes.",
+          "Deadhead spent blooms above an outward-facing 5-leaflet leaf to stimulate fresh buds.",
+          "Protect pots from deep freezing soil in harsh Kashmir winter with burlap insulation."
+        ]
+      }
+    },
+    {
+      "id": "money-plant-gift",
+      "title": "Money Plant Living Gift",
+      "category": "gift-plant",
+      "cross_listed_from": "indoor-plants",
+      "original_product_id": "money-plant",
+      "description": "Symbol of prosperity and good fortune. Potted in an ornamental glazed planter, perfect for congratulations and milestones.",
+      "price": {
+        "amount": 249,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/money-plant.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "60-150",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "In Vastu Shastra and Feng Shui traditions, Epipremnum aureum is renowned as the primary living magnet for wealth, prosperity, and positive domestic chi.",
+        "meanings": [
+          "Prosperity",
+          "Abundance",
+          "Good fortune",
+          "Positive energy",
+          "Vitality"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Lush auspicious indoor climber ideal for living rooms and home offices.",
+          "Active trailing vine growth continues from May through September in indirect light.",
+          "Keep comfortably indoors in heated rooms away from frost and cold windows from November through March.",
+          "Water once every 7-10 days in summer; cut back to once every 2 weeks in winter."
+        ],
+        "care_instructions": [
+          "Water when the top 3 cm of soil dries; tolerant of occasional underwatering.",
+          "Wipe broad heart-shaped leaves with damp cloth periodically to maximize photosynthesis.",
+          "Feed with balanced houseplant fertilizer once a month in spring and summer.",
+          "Trim trailing vines to encourage bushy, lush canopy growth."
+        ]
+      }
+    },
+    {
+      "id": "snake-plant-gift",
+      "title": "Snake Plant Desktop Gift",
+      "category": "gift-plant",
+      "cross_listed_from": "indoor-plants",
+      "original_product_id": "snake-plant",
+      "description": "Hardy air-purifying snake plant presented in an elegant matte ceramic desktop planter.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/snake-plant.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "bi-weekly",
+        "height_cm": "40-80",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "In Asian and African folk traditions, the upright sword leaves of Sansevieria symbolize a protective shield against negative energy, embodying clean energy and resolute endurance.",
+        "meanings": [
+          "Protective energy",
+          "Purification",
+          "Perseverance",
+          "Clean air",
+          "Good luck"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Extremely durable tabletop air purifier that thrives in low to bright indirect light.",
+          "Maintains sharp architectural upright leaves year-round.",
+          "Keep strictly indoors protected from freezing cold temperatures from November through March.",
+          "Water sparingly once a month during winter dormancy from December to February."
+        ],
+        "care_instructions": [
+          "Allow potting mix to dry out completely between waterings; exceptionally drought tolerant.",
+          "Water sparingly once every 4-6 weeks in winter; avoid water settling in leaf rosettes.",
+          "Wipe architectural leaves with damp cloth to remove room dust.",
+          "Repot only when tightly root-bound every 3-4 years."
+        ]
+      }
+    },
+    {
+      "id": "spider-plant-gift",
+      "title": "Spider Plant Hanging Gift Planter",
+      "category": "gift-plant",
+      "cross_listed_from": "indoor-plants",
+      "original_product_id": "spider-plant",
+      "description": "Fresh variegated striped spider plant in a gift-ready hanging planter pot.",
+      "price": {
+        "amount": 249,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/gift-plants/spider-plant.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "25-45",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "As a prolific producer of baby plantlets ('spiderettes'), Chlorophytum comosum has long symbolized domestic fertility, renewal, abundance, and effortless cleansing.",
+        "meanings": [
+          "Rebirth",
+          "Domestic harmony",
+          "Fertility",
+          "Cleansing",
+          "Affection"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Display in hanging planters or on tabletops in bright indirect indoor light.",
+          "Produces cascading runner plantlets abundantly from May through August.",
+          "Not frost hardy; keep indoors at room temperatures from November through March.",
+          "Water when topsoil dries; reduce hydration in winter from December to February."
+        ],
+        "care_instructions": [
+          "Water evenly when the top 2 cm of soil dries; avoid waterlogged saucers.",
+          "Use chlorine-free or filtered water if leaf tips turn brown.",
+          "Feed monthly during active spring and summer growth.",
+          "Clip and propagate plantlets into small gift pots once aerial roots form."
+        ]
+      }
+    }
+  ]
+}

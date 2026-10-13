@@ -1,0 +1,243 @@
+{
+  "products": [
+    {
+      "id": "money-plant",
+      "title": "Money Plant (Devil's Ivy)",
+      "category": "indoor-plant",
+      "description": "Popular indoor money plant (Epipremnum aureum) known for its air-purifying qualities. Easy to grow in pots or hanging baskets.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/indoor-plants/money-plant.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "150-300",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "In Vastu Shastra and Feng Shui traditions, Epipremnum aureum is renowned as the primary living magnet for wealth, prosperity, and positive domestic chi.",
+        "meanings": [
+          "Prosperity",
+          "Abundance",
+          "Good fortune",
+          "Positive energy",
+          "Vitality"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant or repot in well-drained loamy compost during mild spring weather from April to June.",
+          "Active vine expansion occurs from May through September in bright, indirect indoor sunlight.",
+          "Tender to Kashmir's freezing winters; keep strictly indoors in heated rooms away from frost and cold window drafts from November through March.",
+          "Dormant during winter; reduce watering to once every 10-14 days from December through February."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "rubber-plant",
+      "title": "Rubber Plant (Large)",
+      "category": "indoor-plant",
+      "description": "Popular indoor plant with large, glossy, deep green leaves. Excellent air purifier. Grows into a statement piece with minimal care.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 2,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/indoor-plants/rubber-plant.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "100-200",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true,
+        "fragrant": false,
+        "edible": false
+      },
+      "symbolism": {
+        "origin": "In botanical lore and Feng Shui, Ficus elastica represents abundance, resilience, grounding strength, and financial stability due to its thick, sturdy, oval leaves.",
+        "meanings": [
+          "Abundance",
+          "Resilience",
+          "Grounding strength",
+          "Prosperity",
+          "Steady growth"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Repot into rich, aerated potting soil between April and June as indoor spring temperatures rise.",
+          "Foliage expands steadily from May to September in bright, filtered sunlight.",
+          "Not frost hardy in Kashmir; maintain indoors at 15°C+ with protection from sub-zero drafts and heater vents from November through March.",
+          "Growth slows from December to February; water sparingly only when the top 3 inches of potting mix feel dry."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "snake-plant",
+      "title": "Snake Plant",
+      "category": "indoor-plant",
+      "description": "Striking upright succulent with variegated leaves. Extremely tough and low-maintenance. Excellent air purifier for any space.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 15,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/indoor-plants/snake-plant.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "bi-weekly",
+        "height_cm": "60-120",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true,
+        "fragrant": false,
+        "edible": false
+      },
+      "symbolism": {
+        "origin": "In Asian and African folk traditions, the upright sword leaves of Sansevieria symbolize a protective shield against negative energy, embodying clean energy and resolute endurance.",
+        "meanings": [
+          "Protective energy",
+          "Purification",
+          "Perseverance",
+          "Clean air",
+          "Good luck"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Repot or divide rhizomes in spring between April and June in gritty potting compost.",
+          "Steady vegetative growth occurs across warm summer months from June through August.",
+          "Vulnerable to freezing winter damage in Srinagar; house indoors year-round, especially November through March.",
+          "Near-dormant from December to February; water only once a month or less to prevent cold wet root rot."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "spider-plant",
+      "title": "Spider Plant",
+      "category": "indoor-plant",
+      "description": "Classic indoor plant with arching, striped leaves. Produces baby plantlets (spiderettes) on runners. Easy care and excellent air purifier.",
+      "price": {
+        "amount": 99,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/indoor-plants/spider-plant.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "30-60",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true,
+        "fragrant": false,
+        "edible": false
+      },
+      "symbolism": {
+        "origin": "As a prolific producer of baby plantlets ('spiderettes'), Chlorophytum comosum has long symbolized domestic fertility, renewal, abundance, and effortless cleansing.",
+        "meanings": [
+          "Rebirth",
+          "Domestic harmony",
+          "Fertility",
+          "Cleansing",
+          "Affection"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Repot parent plants or root plantlet runners in fresh compost during mid-spring from April to May.",
+          "Produces rapid runner offsets and lush foliage throughout summer from May to August.",
+          "Sensitive to winter frost damage in Kashmir; requires indoor room temperatures from November through March.",
+          "Growth slows during cold months from December to February; allow topsoil to dry before watering."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "is_potted": true
+    }
+  ]
+}

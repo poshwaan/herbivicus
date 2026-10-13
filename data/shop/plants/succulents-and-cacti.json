@@ -1,0 +1,396 @@
+{
+  "products": [
+    {
+      "id": "aloe-vera",
+      "title": "Aloe Vera",
+      "category": "succulents-and-cacti",
+      "description": "Known for its medicinal properties, its thick, fleshy leaves contain a soothing gel. Ideal for indoor and outdoor settings.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 50,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/succulents-and-cacti/aloe-vera.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-60",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Known as the 'Plant of Immortality' in ancient Egyptian papyri; presented across Mediterranean and Asian cultures as a living talisman of healing, protection, and endurance.",
+        "meanings": [
+          "Healing",
+          "Protection",
+          "Resilience",
+          "Good health",
+          "Immortality"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Pot in gritty cactus mix containing perlite and coarse sand in April or May.",
+          "Active succulent leaf growth and pup production occur from June through August.",
+          "Extremely frost-tender; cannot tolerate freezing temperatures and must stay indoors from November to March.",
+          "Dormant in cold weather from December to February; water only once a month."
+        ],
+        "care_instructions": [
+          "Water deeply, then allow soil to dry completely before next irrigation.",
+          "Keep indoors near bright window during cold winter months (above 10°C).",
+          "Never leave root ball sitting in pooled drainage water.",
+          "Harvest lowest outer fleshy leaves cleanly from base as needed for skin soothing."
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "black-rose-succulent",
+      "title": "Black Rose Succulent",
+      "category": "succulents-and-cacti",
+      "description": "Stunning dark-leaved succulent forming rose-like clusters. Deep burgundy to black coloring creates dramatic contrast. Collector's favorite.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/succulents-and-cacti/black-rose-succulent.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "40-80",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true,
+        "fragrant": false,
+        "edible": false
+      },
+      "symbolism": {
+        "origin": "Aeonium arboreum 'Zwartkop' produces dramatic dark burgundy-black rosettes; in botanical symbolism, it signifies elegance, transformative mystery, and quiet individuality.",
+        "meanings": [
+          "Elegance",
+          "Mystery",
+          "Individuality",
+          "Enduring grace"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Repot in gritty porous compost in spring during April or autumn in September.",
+          "Grows actively in cool spring and autumn; slows down during peak summer heat in July.",
+          "Frost will turn fleshy leaves to mush; bring indoors to a bright windowsill from November through March.",
+          "Keep nearly dry during cold winter dormancy from December to February."
+        ],
+        "care_instructions": [
+          "Water moderately in spring and autumn; reduce watering significantly in hot summer dormancy.",
+          "Protect from severe winter frost below 0°C by keeping indoors near south window.",
+          "Dust rosettes with soft dry brush to maintain velvety sheen."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "desert-cactus",
+      "title": "Desert Cactus",
+      "category": "succulents-and-cacti",
+      "description": "Low-maintenance desert cactus variety. Ideal for indoor decor and xeriscaping. Requires minimal watering.",
+      "price": {
+        "amount": 299,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 70,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/succulents-and-cacti/desert-cactus.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "20-40",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "In Native American and Southwestern lore, cacti symbolize maternal warmth, unyielding endurance, and protective love because they survive and thrive in the harshest conditions.",
+        "meanings": [
+          "Endurance",
+          "Protective love",
+          "Perseverance",
+          "Warmth"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant in mineral pumice and sand cactus mix in late spring from May to June.",
+          "Active growth and occasional flowers occur from June through August in full sun.",
+          "Must stay strictly indoors in warm, dry rooms away from snow and freezing cold from November to March.",
+          "Withhold watering completely during cold winter months from December to February."
+        ],
+        "care_instructions": [
+          "Water thoroughly every 2-3 weeks during summer; let soil become bone dry.",
+          "Suspend watering almost entirely from November through February during cold winter rest.",
+          "Keep in well-ventilated dry room away from high humidity."
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "echeveria-succulent",
+      "title": "Echeveria Succulent",
+      "category": "succulents-and-cacti",
+      "description": "Beautiful rosette-forming succulent with thick, fleshy leaves. Pink, blue, or purple tinges depending on variety. Ideal container plant.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/succulents-and-cacti/echeveria-succulent.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "10-25",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Named after Mexican botanical artist Atanasio Echeverría; its compact water-storing geometric petals symbolize enduring affection, balanced beauty, and persistence.",
+        "meanings": [
+          "Enduring affection",
+          "Harmonious beauty",
+          "Persistence",
+          "Quiet grace"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Repot rosettes into free-draining succulent soil in April or May.",
+          "Forms compact, colorful leaf rosettes from May to September in bright sunshine.",
+          "Freezing temperatures destroy succulent foliage; overwinter indoors on a sunny sill from November through March.",
+          "Water only once every 3-4 weeks from December to February."
+        ],
+        "care_instructions": [
+          "Water directly onto soil around base using soak-and-dry method.",
+          "Never allow water drops to sit inside the central rosette crown to prevent fungal rot.",
+          "Remove withered dried lower leaves promptly to prevent pest harboring."
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "green-pinwheel-succulent",
+      "title": "Green Pinwheel Succulent",
+      "category": "succulents-and-cacti",
+      "description": "Charming rosette succulent with lime-green leaves forming pinwheel pattern. Compact and perfect for small spaces and collections.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 35,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/succulents-and-cacti/green-pinwheel-succulent.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "30-50",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "The circular pinwheel geometry of Aeonium rosettes has long symbolized good fortune, refreshing vitality, and continuous renewal in domestic spaces.",
+        "meanings": [
+          "Good fortune",
+          "Continuous renewal",
+          "Vitality",
+          "Harmony"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Root branch cuttings in sandy cactus compost in April or September.",
+          "Active growth runs through mild spring (April-May) and autumn (September-October).",
+          "Not frost hardy in Kashmir; protect indoors in well-lit rooms from November through March.",
+          "Reduce water to once monthly during cold winter months from December to February."
+        ],
+        "care_instructions": [
+          "Water when top half of container mix dries out during active autumn-spring growth.",
+          "Keep in frost-free room during freezing Kashmir winter.",
+          "Rotate pot weekly so rosette grows evenly symmetrical toward light."
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "kalanchoe",
+      "title": "Kalanchoe",
+      "category": "succulents-and-cacti",
+      "description": "Succulent kalanchoe with fleshy leaves and bright cluster flowers. Very low maintenance, thrives in dry conditions. Perfect for beginners.",
+      "price": {
+        "amount": 69,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 60,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/succulents-and-cacti/kalanchoe.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "winter",
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "20-40",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Celebrated in Asian botanical traditions and European floristry as a plant of endurance, prosperity, and continuous affection due to its enduring blooms.",
+        "meanings": [
+          "Enduring affection",
+          "Prosperity",
+          "Persistence",
+          "Good health"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Repot after winter bloom fades in April or May in well-drained compost.",
+          "Builds foliage through summer (June-August); short autumn days in October initiate flower buds.",
+          "Must be kept indoors at 15-20°C from November through March for vibrant winter blooming.",
+          "Water moderately while in bloom; let topsoil dry out between waterings."
+        ],
+        "care_instructions": [
+          "Water thoroughly only when potting mix is completely dry; avoid standing water in saucers.",
+          "Feed with diluted low-nitrogen succulent fertilizer once a month in summer.",
+          "Trim spent flower stalks at base when blooming cycle finishes to encourage lush foliage.",
+          "Provide 14 hours of daily darkness for 6 weeks in autumn to re-induce flower bud formation."
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "peanut-cactus",
+      "title": "Peanut Cactus",
+      "category": "succulents-and-cacti",
+      "description": "Unique cactus with segmented stems resembling peanuts. Orange-red flowers bloom in spring. Great for containers and collectors.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/succulents-and-cacti/peanut-cactus.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "10-20",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Echinopsis chamaecereus produces playful clumping peanut-like finger stems that bloom in fiery orange; it symbolizes tenacious resilience and finding joy in rugged terrain.",
+        "meanings": [
+          "Tenacious resilience",
+          "Playful joy",
+          "Warmth",
+          "Unpretentious charm"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant clustering finger stems in gritty cactus compost in April or May.",
+          "Produces striking bright scarlet-orange flowers in late spring from May to June.",
+          "Requires cool but frost-free winter rest (5-10°C) indoors from November to March to set flower buds.",
+          "Keep soil completely dry from December to February."
+        ],
+        "care_instructions": [
+          "Water every 10-14 days in summer; keep completely dry in winter.",
+          "A cool winter rest (5-10°C) is required to trigger sensational spring flowering.",
+          "Handle finger offsets gently when repotting."
+        ]
+      },
+      "is_potted": false
+    }
+  ]
+}

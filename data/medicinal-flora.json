@@ -63,7 +63,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "adiantum-capillus-veneris",
@@ -125,7 +126,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "aesculus-indica",
@@ -176,7 +178,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "artemisia-absinthium",
@@ -227,7 +230,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "artemisia-maritima",
@@ -275,7 +279,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "asparagus-filicinus",
@@ -340,7 +345,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "berberis-lycium",
@@ -397,7 +403,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "cannabis-sativa",
@@ -451,7 +458,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "centaurea-iberica",
@@ -495,7 +503,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "chenopodium-album",
@@ -546,7 +555,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "conium-maculatum",
@@ -599,7 +609,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "conyza-canadensis",
@@ -657,7 +668,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "cuscuta-reflexa",
@@ -706,7 +718,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "datura-stramonium",
@@ -762,7 +775,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "daucus-carota",
@@ -814,7 +828,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "descurainia-sophia",
@@ -862,7 +877,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "digitalis-lanata",
@@ -913,7 +929,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "euphorbia-hispida",
@@ -963,7 +980,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "ficus-carica",
@@ -1017,7 +1035,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "fumaria-indica",
@@ -1072,7 +1091,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "gentiana-carinata",
@@ -1117,7 +1137,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "hernaria-hirsuta",
@@ -1165,7 +1186,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "hypericum-perforatum",
@@ -1218,7 +1240,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "iris-decora",
@@ -1265,7 +1288,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "iris-kashmiriana",
@@ -1308,7 +1332,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "iris-lactea",
@@ -1357,7 +1382,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "juglans-regia",
@@ -1409,7 +1435,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "malva-neglecta",
@@ -1456,7 +1483,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "malva-sylvestris",
@@ -1504,7 +1532,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "marrubium-vulgare",
@@ -1556,7 +1585,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "morus-nigra",
@@ -1605,7 +1635,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "narcissus-tazetta",
@@ -1655,7 +1686,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "nepeta-cataria",
@@ -1705,7 +1737,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "ocimum-sanctum",
@@ -1755,7 +1788,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "oxalis-corniculata",
@@ -1806,7 +1840,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "polygonum-amplexicaule",
@@ -1851,7 +1886,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "ricinus-communis",
@@ -1901,7 +1937,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "robinia-pseudoacacia",
@@ -1953,7 +1990,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "rosa-damascena",
@@ -2004,7 +2042,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "rumex-dentatus",
@@ -2053,7 +2092,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "sagittaria-trifolia",
@@ -2101,7 +2141,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "salix-alba",
@@ -2150,7 +2191,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "salix-babylonica",
@@ -2199,7 +2241,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "salvia-moorcroftiana",
@@ -2247,7 +2290,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "senecio-vulgaris",
@@ -2296,7 +2340,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "siegesbeckia-orientalis",
@@ -2348,7 +2393,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "sisymbrium-irio",
@@ -2394,7 +2440,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "solanum-nigrum",
@@ -2443,7 +2490,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "stachys-floccosa",
@@ -2490,7 +2538,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "taraxacum-officinale",
@@ -2542,7 +2591,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     },
     {
       "id": "verbascum-thapsus",
@@ -2590,7 +2640,8 @@
           "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
           "Record harvest date and batch to maintain traceability for medicinal handling."
         ]
-      }
+      },
+      "display_only": true
     }
   ]
 }

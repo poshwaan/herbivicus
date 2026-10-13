@@ -11,13 +11,15 @@
       },
       "stock": {
         "total": 10,
-        "is_featured": true
+        "is_featured": false
       },
       "media": {
         "images": [
-          "/images/services/garden-maintenance.webp"
+          "/images/shop/gardening-services/garden-maintenance.webp"
         ]
-      }
+      },
+      "standalone": true,
+      "quote_based": true
     },
     {
       "id": "weed-control",
@@ -34,9 +36,11 @@
       },
       "media": {
         "images": [
-          "/images/services/weed-control.webp"
+          "/images/shop/gardening-services/weed-control.webp"
         ]
-      }
+      },
+      "standalone": true,
+      "quote_based": true
     }
   ]
 }

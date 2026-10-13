@@ -1,0 +1,554 @@
+{
+  "products": [
+    {
+      "id": "miniature-rose-potted",
+      "title": "Miniature Rose",
+      "category": "potted-flowering-plant",
+      "description": "Petite rose bush full of delicate buds and blooms, presented in a decorative container pot. Ideal for patios and bright window areas.",
+      "price": {
+        "amount": 249,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/potted-flowering-plants/miniature-rose.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "bi-weekly",
+        "height_cm": "20-40",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false
+      },
+      "symbolism": {
+        "origin": "Developed from historic Chinese dwarf roses; in Victorian floriography, miniature roses symbolize delicate charm, youthful romance, and heartfelt simplicity.",
+        "meanings": [
+          "Delicate charm",
+          "Sweet promise",
+          "Youthful romance",
+          "Petite perfection"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Pot or repot in nutrient-rich loamy mix in March or April as new growth commences.",
+          "Flushes repeated sprays of tiny roses from May through October with regular deadheading.",
+          "Hardy outdoors, but protect container roots from freezing through by sheltering pots against walls or in cool verandas Dec-Feb.",
+          "Prune stems back by one-third in late February before spring bud break."
+        ],
+        "care_instructions": [
+          "Water deeply when top 2-3 cm of potting media feels dry; avoid wetting leaves at sunset.",
+          "Feed every 3 weeks with balanced seaweed or organic rose feed during active bud flushes.",
+          "Deadhead spent blooms above an outward-facing 5-leaflet leaf to stimulate fresh buds.",
+          "Protect pots from deep freezing soil in harsh Kashmir winter with burlap insulation."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "kalanchoe-potted",
+      "title": "Flowering Kalanchoe",
+      "category": "potted-flowering-plant",
+      "description": "Succulent kalanchoe with fleshy green foliage and long-lasting clusters of vibrant blooms in a desktop pot.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/potted-flowering-plants/kalanchoe.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "winter",
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "20-35",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Celebrated in Asian botanical traditions and European floristry as a plant of endurance, prosperity, and continuous affection due to its enduring blooms.",
+        "meanings": [
+          "Enduring affection",
+          "Prosperity",
+          "Persistence",
+          "Good health"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Repot into well-aerated succulent mix in April or May after winter flowering fades.",
+          "Builds lush fleshy foliage outdoors in partial shade from June through August.",
+          "Requires heated indoor placement from November to March; blooms prolifically indoors from December through April.",
+          "Water only when soil is dry to the touch, avoiding standing water in saucers."
+        ],
+        "care_instructions": [
+          "Allow soil to dry out almost completely between waterings; avoid standing water in saucers.",
+          "Feed with diluted low-nitrogen succulent fertilizer once a month in summer.",
+          "Trim spent flower stalks at base when blooming cycle finishes to encourage lush foliage.",
+          "Provide 14 hours of daily darkness for 6 weeks in autumn to re-induce flower bud formation."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "geranium-potted",
+      "title": "Garden Geranium",
+      "category": "potted-flowering-plant",
+      "description": "Vibrant flowering zonal geranium thriving in a container pot. Classic balcony and windowsill favorite.",
+      "price": {
+        "amount": 249,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/potted-flowering-plants/geranium.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "bi-weekly",
+        "height_cm": "30-50",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "The showy scarlet blooms were considered deceptively simple; Victorians used it to gently signal folly or a lack of depth.",
+        "meanings": [
+          "Folly",
+          "Stupidity"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Pot in rich, well-drained loam and move outdoors to sunny balconies in late April after frost.",
+          "Spectacular continuous flower heads bloom from May through October.",
+          "Not frost hardy in Kashmir winters; must be brought indoors to a sunny windowsill or frost-free porch from November through March.",
+          "Cut back leggy stems by half in March before returning plants outdoors."
+        ],
+        "care_instructions": [
+          "Water thoroughly, then let top 3 cm dry out before irrigating again.",
+          "Pinch growing tips on young shoots to encourage bushy branching.",
+          "Remove spent flower umbels to prevent seed production and extend blooming season.",
+          "Move indoors or into a frost-free porch before severe winter frost."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "begonia-potted",
+      "title": "Flowering Begonia",
+      "category": "potted-flowering-plant",
+      "description": "Lush flowering begonia boasting delicate petals and ornamental foliage, potted in a decorative container.",
+      "price": {
+        "amount": 199,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/potted-flowering-plants/begonia.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "bi-weekly",
+        "height_cm": "25-45",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Named after Michel Bégon; its sound-alike phrase “be gone” suggested caution.",
+        "meanings": [
+          "To repay a favor",
+          "A warning"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant tubers or potted nursery starts in moist, shaded containers in late April or May.",
+          "Lush waxy blooms flower continuously from June through October in dappled shade.",
+          "Very sensitive to cold and frost; move indoors or store dormant tubers frost-free from November to March.",
+          "Reduce water in winter; resume regular watering in April."
+        ],
+        "care_instructions": [
+          "Keep soil consistently moist to touch but never soggy.",
+          "Water around the base; avoid getting water on hairy foliage and flower petals.",
+          "Feed every 2 weeks during peak flowering with mild liquid fertilizer.",
+          "Reduce water in late autumn as natural seasonal rest begins."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "fuchsia-potted",
+      "title": "Fuchsia",
+      "category": "potted-flowering-plant",
+      "description": "Elegant flowering plant with dangling, bell-shaped bi-color blossoms potted for patio and veranda display.",
+      "price": {
+        "amount": 249,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 15,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/potted-flowering-plants/fuchsia.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "bi-weekly",
+        "height_cm": "30-60",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Discovered in the Caribbean and named in honor of German botanist Leonhart Fuchs; in Victorian floriography, its nodding, pendulous blossoms represented confiding love and humble elegance.",
+        "meanings": [
+          "Confiding love",
+          "Amiability",
+          "Humble elegance",
+          "Graceful charm"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Pot up in rich, moist compost and place in cool, sheltered morning sun in late April.",
+          "Trailing teardrop bell flowers bloom from June through October in Kashmir's mild summers.",
+          "Cannot survive freezing winter temperatures; overwinter in a frost-free cool room (5-10°C) from November through March.",
+          "Prune branches back hard in March before spring growth re-ignites."
+        ],
+        "care_instructions": [
+          "Water regularly to keep root ball evenly moist, especially in warm weather.",
+          "Mist foliage lightly on dry warm mornings to elevate local humidity.",
+          "Deadhead spent flowers before seed berries form to maintain bloom clusters.",
+          "Cut back stems by half in late autumn and overwinter in a cool, protected shed or porch."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "azalea-potted",
+      "title": "Flowering Azalea",
+      "category": "potted-flowering-plant",
+      "description": "Spectacular blooming shrub covered in massed petals, potted in a premium ceramic planter.",
+      "price": {
+        "amount": 349,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 15,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/potted-flowering-plants/azelea.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "35-65",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Azaleas are short-lived and sensitive to excess water, symbolizing fragility and restraint.",
+        "meanings": [
+          "Fragility",
+          "Temperance"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant in acidic, ericaceous peat-rich compost in early spring in March or autumn in October.",
+          "Produces an explosion of vibrant ruffled blooms from April through May.",
+          "Moderately hardy; protect container roots from freezing solid by placing on sheltered porches Nov-Feb.",
+          "Prune lightly immediately after flowering in June; never prune in autumn or winter when buds are set."
+        ],
+        "care_instructions": [
+          "Water with rainwater or soft water to maintain soil acidity; keep root ball consistently moist.",
+          "Prune lightly immediately after blooming stops in late spring.",
+          "Feed with specific ericaceous acid-loving plant fertilizer in spring.",
+          "Mulch pot surface with pine needles to retain cool root moisture."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "hydrangea-potted",
+      "title": "Hydrangea",
+      "category": "potted-flowering-plant",
+      "description": "Stunning large mophead blooms in a decorative container pot. Instant garden color and elegance.",
+      "price": {
+        "amount": 499,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 12,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/potted-flowering-plants/hydrangea.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "daily",
+        "height_cm": "60-120",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false
+      },
+      "symbolism": {
+        "origin": "Large blooms with few seeds suggested excess show.",
+        "meanings": [
+          "Boastfulness",
+          "Heartlessness"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Pot in moisture-retentive loamy compost and place in morning sun or partial shade in April.",
+          "Large mophead flower clusters open in June and hold colorful heads through September.",
+          "Deciduous and winter hardy; stems overwinter dormant from November to March under thick mulch.",
+          "Prune spent flower heads in late winter in February down to the first pair of healthy plump buds."
+        ],
+        "care_instructions": [
+          "Hydrangeas have high water requirements; water deeply daily during warm summer spells.",
+          "Top-dress with organic mulch to prevent surface evaporation.",
+          "Deadhead flower heads in late winter above the first pair of healthy plump buds.",
+          "Feed in early spring with balanced slow-release granular plant food."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "chrysanthemum-potted",
+      "title": "Chrysanthemum",
+      "category": "potted-flowering-plant",
+      "description": "Decorative potted mum blooming with dense, colorful daisy-like flower heads.",
+      "price": {
+        "amount": 149,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/potted-flowering-plants/chrysanthemum.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "40-75",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Commonly used in European funerals and All Souls’ Day rituals.",
+        "meanings": [
+          "Condolences"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Pot rooted cuttings in fertile garden soil in May or June.",
+          "Pinch growing tips until mid-July to build bushy branching and abundant bud sites.",
+          "Srinagar's autumn centerpiece: blooms in vivid splendor from September through November.",
+          "Cut stems back to soil level after flowering in December; crowns overwinter safely under mulch."
+        ],
+        "care_instructions": [
+          "Water consistently at soil level; avoid wetting leaves to ward off powdery mildew.",
+          "Pinch back stem tips until mid-July to create dense, multi-branched floral domes.",
+          "Feed with high-potassium fertilizer every 2 weeks once buds form.",
+          "Cut back dead stems to base after winter frost finishes flowering."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "gerbera-daisy-potted",
+      "title": "Gerbera Daisy",
+      "category": "potted-flowering-plant",
+      "description": "Cheerful, bold flowering gerbera daisy potted for bright indoor or patio spots.",
+      "price": {
+        "amount": 249,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/potted-flowering-plants/gerbera-daisy.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "bi-weekly",
+        "height_cm": "25-45",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Named after German botanist Traugott Gerber; in the language of flowers, the wide-open, cheerful rays and vivid palette of gerberas symbolize unabashed joy and pure innocence.",
+        "meanings": [
+          "Cheerfulness",
+          "Pure innocence",
+          "Joyful celebration",
+          "Warmth"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant in porous, well-draining soil keeping crown slightly above soil level in April or May.",
+          "Produces vibrant daisy blooms on sturdy stalks from May through September in bright sun.",
+          "Tender to Kashmir sub-zero freezes; bring pots indoors to a warm, sunny room from November through March.",
+          "Water at the soil base only; keep barely moist during winter dormancy from December to February."
+        ],
+        "care_instructions": [
+          "Water deeply only when the top few centimeters of soil feel dry.",
+          "Never let water settle in the central crown rosette.",
+          "Fertilize every 2-3 weeks with balanced bloom-booster fertilizer.",
+          "Pull spent stems gently from the base rather than cutting halfway."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "calla-lily-potted",
+      "title": "Calla Lily",
+      "category": "potted-flowering-plant",
+      "description": "Graceful trumpet-shaped ivory spathes with deep green foliage in an elegant container pot.",
+      "price": {
+        "amount": 399,
+        "currency": "INR"
+      },
+      "stock": {
+        "total": 10,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/potted-flowering-plants/calla-lily.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "bi-weekly",
+        "height_cm": "45-75",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Its pure white spathe and flawless, sculpted form made it a symbol of regal magnificence in Victorian parlors and bridal ceremonies.",
+        "meanings": [
+          "Magnificent beauty",
+          "Purity"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant rhizomes in humus-rich, moist potting mix in April after freezing risks subside.",
+          "Elegant architectural spathe blooms unfurl from late May through August.",
+          "Tender to outdoor winter freezing; move pots indoors or lift rhizomes in October before frost.",
+          "Store dormant rhizomes in dry peat at 10-15°C from November through March."
+        ],
+        "care_instructions": [
+          "Keep soil evenly moist during active growth and blooming flush.",
+          "Feed monthly with liquid potassium-rich fertilizer while flowering.",
+          "Withhold water in late autumn to allow rhizomes to enter mandatory dry winter dormancy.",
+          "Store dormant rhizomes in a dry, frost-free location during sub-zero winter temperatures."
+        ]
+      },
+      "is_potted": true
+    }
+  ]
+}

@@ -3,7 +3,7 @@
     {
       "id": "alstroemeria",
       "title": "Alstroemeria",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Also called Peruvian Lily or Lily of the Incas, alstroemeria produces vibrant, long-lasting blooms with characteristic streaked inner petals. Native to South America, it symbolizes friendship and devotion.",
       "price": {
         "amount": 49,
@@ -15,8 +15,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/alstroemeria.webp"
+          "/images/shop/flowers/saplings-and-seedlings/alstroemeria.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "60-90",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "The leaves twist as they grow outward, symbolizing the trials, turns, and steadfast support found in a true friendship.",
@@ -26,23 +39,12 @@
           "Mutual support"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "60–90 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Transplant nursery saplings into fertile, organic-rich soil in April after frost risk passes, or in October.",
+          "Vegetative growth accelerates in May, followed by long-lasting exotic blooms from June through August.",
+          "Mulch root zone with 10 cm of straw or dry leaves in November before ground freezes to protect underground rhizomes.",
+          "Cut spent stems down to the ground in late autumn; dormant underground from December to February."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -50,12 +52,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "alyssum",
       "title": "Alyssum",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Sweet alyssum is a delicate annual ground cover producing masses of tiny, honey-scented white or pink flowers. Native to the Mediterranean, it blooms prolifically and attracts beneficial insects like bees and butterflies.",
       "price": {
         "amount": 9,
@@ -67,8 +70,22 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/alyssum.webp"
+          "/images/shop/flowers/saplings-and-seedlings/alyssum.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "10-30",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Named 'sweet alyssum' for its honey-like fragrance; Victorians saw its modest, low-growing form as representing worth that surpasses outward appearance.",
@@ -77,23 +94,12 @@
           "Sweet worth"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "8–30 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant saplings into borders or rockeries from late March through April.",
+          "Spreads a dense, honey-scented carpet of white and purple blossoms from April through June.",
+          "Shear back by half after the first bloom flush in July to encourage a second flowering in September.",
+          "Lightly frost tolerant in autumn, but naturally finishes its cycle before severe winter freezes in November."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -101,12 +107,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "aster",
       "title": "Aster",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Asters are daisy-like perennials blooming in late summer and autumn in shades of purple, pink, blue, and white. They are an essential late-season source of nectar for pollinators and add color to the autumn garden.",
       "price": {
         "amount": 9,
@@ -118,8 +125,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/aster.webp"
+          "/images/shop/flowers/saplings-and-seedlings/aster.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-90",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Its slender petals surrounding a small center inspired delicacy and refinement.",
@@ -127,23 +147,12 @@
           "Daintiness"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–120 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant nursery starts outdoors in May after the last spring frost.",
+          "Grows bushy foliage through June and July in full sun and well-drained loam.",
+          "Prolific star-shaped flower heads bloom vibrantly from August through October as valley days cool.",
+          "Collect seed heads and remove spent annual stems in November before ground freezes."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -151,12 +160,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "azelea",
       "title": "Azelea",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Azalea is a flowering shrub prized for its spectacular spring display of large, showy blooms. It prefers acidic soil and partial shade, and is a staple of cottage and Japanese-style gardens.",
       "price": {
         "amount": 249,
@@ -168,8 +178,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/azelea.webp"
+          "/images/shop/flowers/saplings-and-seedlings/azelea.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "60-150",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Azaleas are short-lived and sensitive to excess water, symbolizing fragility and restraint.",
@@ -178,23 +200,12 @@
           "Temperance"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "60–180 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant saplings in acidic, organic-rich, sheltered garden beds in March or October.",
+          "Stunning flush of ruffled blooms covers bushes from April to May.",
+          "Active root and bud formation takes place from June through August.",
+          "Shelter from harsh winds and mulch heavily before December; dormant during Kashmir's winter snows."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -202,12 +213,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "baby-sun-rose",
       "title": "Baby Sun Rose",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Low-growing succulent with bright pink flowers. Excellent groundcover for sunny spots. Drought tolerant and heat loving.",
       "price": {
         "amount": 99,
@@ -219,8 +231,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/baby-sun-rose.webp"
+          "/images/shop/flowers/saplings-and-seedlings/baby-sun-rose.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "10-20",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
       },
       "symbolism": {
         "origin": "Its bright, cheerful blooms and sun-loving nature symbolize warmth and joy.",
@@ -229,23 +253,12 @@
           "Joy"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "5–20 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant in sunny rockeries or hanging baskets in May once night temperatures stay above 10°C.",
+          "Fleshy trailing stems and bright magenta blooms spread vigorously from June through September.",
+          "Extremely frost-tender and will turn to mush in freezing cold; bring indoors or take cuttings in October.",
+          "Must have indoor protection in a warm, sunny room from November through March."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -253,12 +266,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "baby-s-breath",
       "title": "Baby’s Breath",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Baby's breath (Gypsophila) produces clouds of tiny, delicate white or pink flowers on wiry branching stems. A staple of the florist's art, it is used to add lightness and texture to bouquets and arrangements.",
       "price": {
         "amount": 99,
@@ -270,8 +284,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/babys-breath.webp"
+          "/images/shop/flowers/saplings-and-seedlings/babys-breath.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "60-90",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Named in the 19th century for its delicate scent and bridal-veil appearance.",
@@ -280,23 +306,12 @@
           "Innocence"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–90 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant into well-drained, alkaline garden soil in April or early May.",
+          "Produces airy clouds of tiny white flowers continuously from June through August.",
+          "Cut plants back to basal foliage in autumn after blooming ceases.",
+          "Deep taproots overwinter safely under Kashmir snow from December to February."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -304,12 +319,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "balsam",
       "title": "Balsam",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Garden balsam (Impatiens balsamina) is an old-fashioned annual with cup-shaped, camellia-like flowers nestled among lance-shaped leaves. It thrives in warm, humid conditions and is beloved for its ease of care.",
       "price": {
         "amount": 9,
@@ -321,8 +337,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/balsam.webp"
+          "/images/shop/flowers/saplings-and-seedlings/balsam.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "partial",
+        "water": "bi-weekly",
+        "height_cm": "30-75",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Ripe seed pods burst open at the slightest touch, giving rise to the genus name Impatiens and a Victorian symbol of restless ardor.",
@@ -331,23 +359,12 @@
           "Ardent love"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Twice Weekly",
-        "height": "30–75 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Plant tender saplings outdoors in mid-May once all threat of late spring frost has passed.",
+          "Lush succulent stems and vibrant cup-shaped blooms peak from July through September.",
+          "Provide consistent moisture and partial afternoon shade during warm summer weeks.",
+          "Killed by early Kashmir autumn frost in October; collect explosive seed pods beforehand."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -355,12 +372,13 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "begonia",
       "title": "Begonia",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Begonias are versatile flowering plants prized for their colorful blooms and attractive foliage. Available in hundreds of varieties, they are ideal for shade gardens, hanging baskets, and containers, blooming from spring to frost.",
       "price": {
         "amount": 149,
@@ -372,8 +390,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/begonia.webp"
+          "/images/shop/flowers/saplings-and-seedlings/begonia.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "20-50",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
       },
       "symbolism": {
         "origin": "Named after Michel Bégon; its sound-alike phrase “be gone” suggested caution.",
@@ -382,23 +413,12 @@
           "A warning"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "15–60 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Transplant potted starts into dappled shade borders or containers in late May.",
+          "Continuous waxy blooms and ornamental foliage perform from June through October.",
+          "Cannot withstand freezing Kashmir winter temperatures; dig tubers or move pots indoors before October frosts.",
+          "Store tubers or keep potted plants indoors in a frost-free room from November through March."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -406,12 +426,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "butterfly-weed",
       "title": "Butterfly Weed",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Butterfly weed (Asclepias tuberosa) is a bright North American wildflower producing dense clusters of vibrant orange, yellow, or red flowers. A critical host plant for monarch butterfly caterpillars, it is essential for pollinator gardens.",
       "price": {
         "amount": 29,
@@ -423,8 +444,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/butterfly-weed.webp"
+          "/images/shop/flowers/saplings-and-seedlings/butterfly-weed.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "40-80",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Vital role in butterfly life cycles symbolizes transformation and resilience.",
@@ -433,23 +466,12 @@
           "Attraction"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Set out nursery seedlings in sunny, well-draining garden soil in April or May.",
+          "Bright orange flower umbels bloom profusely from June through August, attracting pollinators.",
+          "Herbaceous stems die back to the ground naturally after first autumn frosts in October.",
+          "Deep taproots are extremely cold-hardy, resting dormant under snow from November to March."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -457,12 +479,13 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "calendula",
       "title": "Calendula",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Calendula, or pot marigold, is a bright annual with cheerful orange and yellow daisy-like flowers. Its petals are edible and have been used medicinally since ancient times for their anti-inflammatory and skin-healing properties.",
       "price": {
         "amount": 29,
@@ -474,8 +497,22 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/calendula.webp"
+          "/images/shop/flowers/saplings-and-seedlings/calendula.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-60",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "edible": true
       },
       "symbolism": {
         "origin": "Flowers open and close faithfully with the sun each day; Victorians associated this constancy with grief borne quietly and sacred affection.",
@@ -484,23 +521,12 @@
           "Grief"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant hardy seedlings outdoors in March-April for spring blooms, or in August for autumn color.",
+          "Thrives in Kashmir's cool weather, flowering heavily from April to June and again September to November.",
+          "Tolerates light frosts with ease, though peak blooming slows during hot July weeks.",
+          "Clear spent plants in late November before hard sub-zero freezes set in."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -508,12 +534,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "california-poppy",
       "title": "California Poppy",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "The California poppy is the state flower of California, producing silky, cup-shaped blooms in shades of orange, yellow, and cream. It is drought-tolerant, self-seeding, and thrives in poor, well-drained soils.",
       "price": {
         "amount": 9,
@@ -525,8 +552,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/california-poppy.webp"
+          "/images/shop/flowers/saplings-and-seedlings/california-poppy.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "25-45",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Its brilliant golden petals, glowing like sunlight across the hills, evoked visions of wealth and the promise of good fortune.",
@@ -535,23 +575,12 @@
           "Hope for the future"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "20–60 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant starts with care or sow directly into gravelly garden beds in late March or April.",
+          "Silky golden-orange petals bloom profusely from May through July under sunny skies.",
+          "Self-seeds readily before annual plants decline in late summer.",
+          "Seeds overwinter naturally in cold valley soil and germinate reliably the following spring."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -559,12 +588,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "calla-lily",
       "title": "Calla Lily",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Calla lily (Zantedeschia) is renowned for its elegant, trumpet-shaped spathe and glossy arrow-shaped leaves. A favorite in bridal bouquets and ornamental gardens, it conveys purity and magnificent beauty.",
       "price": {
         "amount": 349,
@@ -576,8 +606,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/calla-lily.webp"
+          "/images/shop/flowers/saplings-and-seedlings/calla-lily.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "50-90",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
       },
       "symbolism": {
         "origin": "Its pure white spathe and flawless, sculpted form made it a symbol of regal magnificence in Victorian parlors and bridal ceremonies.",
@@ -586,23 +628,12 @@
           "Purity"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "60–90 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Oct-Dec for spring bloom bulbs",
-          "peak_growth": "Feb-Apr",
-          "harvest_or_bloom": "Mar-May",
-          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
-        },
         "growing_instructions": [
-          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
-          "Choose bright sites with cool winter exposure for strong vernalization.",
-          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+          "Plant rhizomes or potted saplings in fertile, moist soil in May after frost danger clears.",
+          "Architectural ivory spathes bloom beautifully from late June through August.",
+          "Not cold-hardy in Srinagar; lift rhizomes before October frosts and store in dry peat.",
+          "Keep overwintering rhizomes indoors at 10-15°C from November through March."
         ],
         "care_instructions": [
           "Water lightly after planting, then maintain moderate moisture through flowering.",
@@ -610,12 +641,13 @@
           "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
           "Lift and divide crowded clumps during dormancy where required."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "carnation",
       "title": "Carnation",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Carnations (Dianthus caryophyllus) are among the oldest cultivated flowers, prized for their spicy, clove-like fragrance and ruffled, fringed petals. They symbolize love and fascination and come in virtually every color.",
       "price": {
         "amount": 149,
@@ -623,12 +655,26 @@
       },
       "stock": {
         "total": 65,
-        "is_featured": true
+        "is_featured": false
       },
       "media": {
         "images": [
-          "/images/flower-saplings/carnation.webp"
+          "/images/shop/flowers/saplings-and-seedlings/carnation.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "40-75",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Linked to the Virgin Mary’s tears at Christ’s crucifixion.",
@@ -637,23 +683,12 @@
           "Heartache"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–90 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant rooted saplings into rich, alkaline valley loam in April or September.",
+          "Clove-scented ruffled flowers bloom abundantly from May through July.",
+          "Deadhead spent blooms to encourage continuous flowering into late summer.",
+          "Overwinters safely outdoors with light mulch to protect evergreen basal foliage from Dec-Feb."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -661,12 +696,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "chrysanthemum",
       "title": "Chrysanthemum",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Chrysanthemums, or mums, are the quintessential autumn flower, producing dense pompom or daisy-like blooms in a vast spectrum of colors. In East Asian cultures they symbolize longevity and rejuvenation.",
       "price": {
         "amount": 99,
@@ -678,8 +714,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/chrysanthemum.webp"
+          "/images/shop/flowers/saplings-and-seedlings/chrysanthemum.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "45-90",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Commonly used in European funerals and All Souls’ Day rituals.",
@@ -687,23 +735,12 @@
           "Condolences"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–90 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Plant young rooted cuttings in fertile garden soil in May or June.",
+          "Pinch shoot tips every 2-3 weeks until mid-July to build sturdy, multi-branched mounds.",
+          "Srinagar's autumn glory: flowers burst into spectacular bloom from late September through November.",
+          "Cut stalks to ground level after blooming in December; root crowns overwinter safely under snow."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -711,12 +748,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "cockscomb",
       "title": "Cockscomb (Mawal)",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Cockscomb (Celosia argentea var. cristata) is a striking annual with velvety, crested flower heads resembling a rooster's comb. It thrives in warm climates and adds bold color to gardens and floral arrangements.",
       "price": {
         "amount": 19,
@@ -728,8 +766,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/cockscomb.webp"
+          "/images/shop/flowers/saplings-and-seedlings/cockscomb.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-80",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Its flamboyant crest and vibrant colors made it a Victorian emblem of boldness and daring.",
@@ -738,23 +789,12 @@
           "Daring"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–90 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Transplant saplings outdoors in late May once valley soil is warm and frosts have ended.",
+          "Foliage and velvety crested flowerheads grow vigorously through June and July.",
+          "Kashmir's traditional Mawal blooms intensely from August through October; harvest petals for Rogan Josh coloring.",
+          "Killed by early November frost; collect dry seeds before winter arrives."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -762,12 +802,13 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "cornflower",
       "title": "Cornflower",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Cornflowers (Centaurea cyanus) are annual wildflowers producing intense sky-blue, purple, pink, or white flowers. Once common in European grain fields, they are now valued as cottage garden plants and cut flowers.",
       "price": {
         "amount": 49,
@@ -779,8 +820,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/cornflower.webp"
+          "/images/shop/flowers/saplings-and-seedlings/cornflower.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "40-80",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Folklore claimed its longevity predicted whether love would be returned.",
@@ -788,23 +842,12 @@
           "Hope in love"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–90 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant seedlings into open garden borders in late March or April.",
+          "Vibrant blue buttons bloom profusely from May through July in cool valley weather.",
+          "Deadhead spent flowers regularly to extend blooming into August.",
+          "Annual life cycle ends as summer heats up; self-sown seeds overwinter under winter snow."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -812,12 +855,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "cosmos",
       "title": "Cosmos",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Cosmos are graceful annuals producing delicate, daisy-like flowers on airy stems in shades of pink, red, orange, purple, and white. Heat and drought tolerant, they bloom prolifically from summer until frost.",
       "price": {
         "amount": 9,
@@ -829,8 +873,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/cosmos.webp"
+          "/images/shop/flowers/saplings-and-seedlings/cosmos.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "60-120",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "The name means 'harmony' and 'order' from the Greek, reflecting its perfect symmetry.",
@@ -839,23 +896,12 @@
           "Harmony"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–120 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Plant saplings in garden beds in mid-May after all spring frost risks have cleared.",
+          "Feathery foliage grows rapidly in June, followed by prolific daisy-like blooms from July to October.",
+          "Tolerates poor soil and summer heat without extra fertilizer.",
+          "Blackens quickly with first hard frost in late October or November; collect seeds before freeze."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -863,12 +909,13 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "daffodil",
       "title": "Daffodil",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Daffodils (Narcissus) are iconic spring bulbs bearing cheerful yellow or white trumpet-shaped flowers. They are among the first flowers to bloom after winter and are toxic to most animals, deterring pests naturally.",
       "price": {
         "amount": 99,
@@ -880,8 +927,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/daffodil.webp"
+          "/images/shop/flowers/saplings-and-seedlings/daffodil.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "25-45",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "From the myth of Narcissus falling in love with his reflection.",
@@ -889,23 +949,12 @@
           "Unrequited love"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "20–50 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Oct-Dec for spring bloom bulbs",
-          "peak_growth": "Feb-Apr",
-          "harvest_or_bloom": "Mar-May",
-          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
-        },
         "growing_instructions": [
-          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
-          "Choose bright sites with cool winter exposure for strong vernalization.",
-          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+          "Plant bulbs in October-November or transplant early potted starts in March.",
+          "Chills deeply under winter snow during Chillai Kalan (December-January).",
+          "Bright golden trumpets bloom across Srinagar from late March through April.",
+          "Allow green leaves to wither naturally until June to recharge bulbs for next spring."
         ],
         "care_instructions": [
           "Water lightly after planting, then maintain moderate moisture through flowering.",
@@ -913,12 +962,13 @@
           "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
           "Lift and divide crowded clumps during dormancy where required."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "dahlia",
       "title": "Dahlia",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Dahlias are tuberous perennials native to Mexico and Central America, producing showy blooms in an astonishing variety of forms and colors from midsummer until frost. They were once prized as a food source by the Aztecs.",
       "price": {
         "amount": 9,
@@ -926,12 +976,25 @@
       },
       "stock": {
         "total": 50,
-        "is_featured": true
+        "is_featured": false
       },
       "media": {
         "images": [
-          "/images/flower-saplings/dahlia.webp"
+          "/images/shop/flowers/saplings-and-seedlings/dahlia.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "bi-weekly",
+        "height_cm": "60-150",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Long-lasting blooms made it a Victorian wedding symbol.",
@@ -940,23 +1003,12 @@
           "Commitment"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "30–150 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Plant sprouted tubers or saplings in rich, manure-amended soil in mid-May after last frost.",
+          "Produces immense multi-colored dinner-plate blooms from July through October.",
+          "Stake heavy tall cultivars securely against gusty valley summer rainstorms.",
+          "Frost kills top growth in late October; dig tubers, dry gently, and store frost-free from Nov-Mar."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -964,12 +1016,13 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "daisy",
       "title": "Daisy",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "The classic garden daisy features pristine white ray petals surrounding a bright yellow disc center. Simple and cheerful, it has appeared in mythology and literature across cultures as a symbol of innocence and new beginnings.",
       "price": {
         "amount": 19,
@@ -981,8 +1034,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/daisy.webp"
+          "/images/shop/flowers/saplings-and-seedlings/daisy.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-70",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Appears in Norse, Celtic, and Roman mythology as a symbol of innocence.",
@@ -992,23 +1058,12 @@
           "Purity"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "20–60 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Plant saplings in fertile garden soil in March-April or September-October.",
+          "Classic white-and-yellow cheerful blooms open profusely from May through July.",
+          "Cut back spent flower stalks to the basal rosette in August to trigger autumn re-blooming.",
+          "Basal foliage overwinters safely under snow; fully hardy through valley winter freezes."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -1016,12 +1071,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "damask-rose",
       "title": "Damask Rose",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "The Damask rose (Rosa damascena) is a legendary ancient rose originating in the Middle East, famed for its intensely rich fragrance. It is the primary source of rose water and rose attar used in perfumery worldwide.",
       "price": {
         "amount": 299,
@@ -1033,8 +1089,22 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/damask-rose.webp"
+          "/images/shop/flowers/saplings-and-seedlings/damask-rose.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "90-150",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Brought to Europe by Crusaders from Damascus; its intoxicating fragrance and layered petals became synonymous with timeless, devoted love.",
@@ -1043,23 +1113,12 @@
           "Bashful love"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "90–150 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant bare-root or potted bushes in sunny beds in February-March or November.",
+          "Kashmir's historic fragrant rose blooms abundantly from late May through June.",
+          "Prune bushes annually in late February before spring bud burst, removing old wood.",
+          "Fully winter-hardy; rests dormant outdoors throughout freezing December and January."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -1067,12 +1126,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "dianthus",
       "title": "Dianthus",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Dianthus, commonly called pinks, are fragrant perennial or annual flowers with fringed, tooth-edged petals in shades of pink, red, and white. The name means \"flower of the gods\" in Greek.",
       "price": {
         "amount": 19,
@@ -1084,8 +1144,22 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/dianthus.webp"
+          "/images/shop/flowers/saplings-and-seedlings/dianthus.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "20-40",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "The name means 'flower of the gods' in Greek; Victorians used it to express a love that was both divine and boldly declared.",
@@ -1094,23 +1168,12 @@
           "Boldness"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "15–45 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Plant saplings in gravelly, alkaline borders in April or September.",
+          "Frilled spicy-scented blossoms cover compact blue-grey mounds from May through July.",
+          "Shear back spent flowers in midsummer to stimulate neat foliage and autumn rebloom.",
+          "Completely cold-hardy; semi-evergreen foliage withstands snow cover from Dec-Feb."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -1118,12 +1181,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "fuchsia",
       "title": "Fuchsia",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Elegant plant with tubular flowers in contrasting colors. Graceful pendant blooms attract hummingbirds. Prefers cool, shaded locations.",
       "price": {
         "amount": 199,
@@ -1135,26 +1199,27 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/fuchsia.webp"
+          "/images/shop/flowers/saplings-and-seedlings/fuchsia.webp"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Twice Weekly",
-        "height": "30–90 cm",
-        "difficulty": "Moderate"
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "bi-weekly",
+        "height_cm": "30-80",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
       },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant in cool, dappled morning light or containers in mid-May once night chills abate.",
+          "Two-toned pendent bell flowers drape gracefully from June through September.",
+          "Cannot survive Kashmir outdoor winter freezing; bring potted plants indoors in October.",
+          "Overwinter in a cool, bright, frost-free room (5-10°C) with minimal water from Nov-Mar."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -1162,12 +1227,22 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "symbolism": {
+        "origin": "Discovered in the Caribbean and named in honor of German botanist Leonhart Fuchs; in Victorian floriography, its nodding, pendulous blossoms represented confiding love and humble elegance.",
+        "meanings": [
+          "Confiding love",
+          "Amiability",
+          "Humble elegance",
+          "Graceful charm"
+        ]
+      },
+      "is_potted": false
     },
     {
       "id": "geranium",
       "title": "Geranium",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Garden geraniums (Pelargonium) are among the most popular container and bedding plants worldwide, valued for their bright flower clusters, attractive leaves, and robust nature. They thrive in sunny spots with well-drained soil.",
       "price": {
         "amount": 199,
@@ -1179,8 +1254,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/geranium.webp"
+          "/images/shop/flowers/saplings-and-seedlings/geranium.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-60",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
       },
       "symbolism": {
         "origin": "The showy scarlet blooms were considered deceptively simple; Victorians used it to gently signal folly or a lack of depth.",
@@ -1189,23 +1277,12 @@
           "Stupidity"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Move potted starts outdoors to sunny balconies in late April or early May.",
+          "Large rounded flower trusses bloom continuously in vibrant colors from May through October.",
+          "Tender to Kashmir sub-zero freezes; bring pots indoors to a sunny window from Nov-Mar.",
+          "Cut back leggy stems by half in March before placing back outdoors for spring."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -1213,12 +1290,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "gerbera-daisy",
       "title": "Gerbera Daisy",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Large, vibrant daisy-like flowers in bold colors. Cheerful blooms on long stems. Popular as ornamental plant and cut flower.",
       "price": {
         "amount": 199,
@@ -1226,30 +1304,32 @@
       },
       "stock": {
         "total": 45,
-        "is_featured": true
+        "is_featured": false
       },
       "media": {
         "images": [
-          "/images/flower-saplings/gerbera-daisy.webp"
+          "/images/shop/flowers/saplings-and-seedlings/gerbera-daisy.webp"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Moderate"
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "bi-weekly",
+        "height_cm": "30-50",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
       },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Plant in well-draining garden soil or pots in May, keeping the central crown slightly elevated.",
+          "Stately, bold blooms rise on sturdy stems from June through September.",
+          "Tender perennial that cannot survive freezing Kashmir ground; move pots indoors in October.",
+          "Keep on a sunny windowsill at 15-20°C from November through March."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -1257,12 +1337,22 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "symbolism": {
+        "origin": "Named after German botanist Traugott Gerber; in the language of flowers, the wide-open, cheerful rays and vivid palette of gerberas symbolize unabashed joy and pure innocence.",
+        "meanings": [
+          "Cheerfulness",
+          "Pure innocence",
+          "Joyful celebration",
+          "Warmth"
+        ]
+      },
+      "is_potted": false
     },
     {
       "id": "ghazania",
       "title": "Ghazania",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Vibrant daisy-like flowers in orange, red, or yellow with distinctive striped patterns. Sun-loving annual or perennial groundcover.",
       "price": {
         "amount": 19,
@@ -1274,26 +1364,28 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/ghazania.webp"
+          "/images/shop/flowers/saplings-and-seedlings/ghazania.webp"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "20–40 cm",
-        "difficulty": "Easy"
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "20-35",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
       },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Plant nursery seedlings in full, hot sun in May once night frost risk has ended.",
+          "Brilliant daisy flowers open wide during sunny hours from June through October.",
+          "Tender in Kashmir; treat as an annual or dig up and pot indoors before hard frosts in November.",
+          "Winter over in a bright indoor room with minimal water from December to February."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -1301,12 +1393,22 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "symbolism": {
+        "origin": "Named after 15th-century scholar Theodorus Gaza; native to South Africa, the Treasure Flower opens only in bright sunshine, embodying brilliance and uncovering treasures in hardship.",
+        "meanings": [
+          "Brilliance",
+          "Treasure",
+          "Sun-worship",
+          "Optimism"
+        ]
+      },
+      "is_potted": false
     },
     {
       "id": "gladiolus",
       "title": "Gladiolus",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Gladiolus produces dramatic tall spikes of large, funnel-shaped flowers in nearly every color. Originally from South Africa, the corms are planted in spring for summer blooms that are spectacular as cut flowers.",
       "price": {
         "amount": 99,
@@ -1318,8 +1420,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/gladiolus.webp"
+          "/images/shop/flowers/saplings-and-seedlings/gladiolus.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "70-130",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "From *gladius*, Latin for sword.",
@@ -1327,23 +1441,12 @@
           "You pierce my heart"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Oct-Dec for spring bloom bulbs",
-          "peak_growth": "Feb-Apr",
-          "harvest_or_bloom": "Mar-May",
-          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
-        },
         "growing_instructions": [
-          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
-          "Choose bright sites with cool winter exposure for strong vernalization.",
-          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+          "Plant corms in sunny garden beds in staggered sets from mid-April through May.",
+          "Tall spikes laden with ruffled florets bloom dramatically from July through September.",
+          "Stake heavy spikes to keep them upright during summer rainstorms.",
+          "Lift corms in late October before hard freeze, cure in shade, and store frost-free Nov-Mar."
         ],
         "care_instructions": [
           "Water lightly after planting, then maintain moderate moisture through flowering.",
@@ -1351,12 +1454,13 @@
           "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
           "Lift and divide crowded clumps during dormancy where required."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "godetia",
       "title": "Godetia",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Godetia (Clarkia amoena), also known as Farewell-to-Spring, is a Western North American wildflower producing large, silky, cup-shaped blooms in shades of pink, red, lavender, and white. It prefers cool weather.",
       "price": {
         "amount": 29,
@@ -1364,12 +1468,25 @@
       },
       "stock": {
         "total": 50,
-        "is_featured": true
+        "is_featured": false
       },
       "media": {
         "images": [
-          "/images/flower-saplings/godetia.webp"
+          "/images/shop/flowers/saplings-and-seedlings/godetia.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-60",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Called Farewell-to-Spring for its late blooming; its vivid, fleeting flowers inspired a Victorian sense of being utterly captivated.",
@@ -1378,23 +1495,12 @@
           "Enthralled"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant seedlings into borders in late March or April as valley weather warms.",
+          "Silky satin cup blooms in pink, coral, and white flower profusely in June and July.",
+          "Thrives in cool spring conditions; struggles once intense midsummer heat arrives.",
+          "Clears out in late summer; reseed in autumn or early spring."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -1402,12 +1508,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "hollyhock",
       "title": "Hollyhock",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Hollyhocks are stately biennials or perennials that send up towering spikes of large, single or double flowers in a wide range of colors. A cottage garden classic, they often self-seed freely along walls and fences.",
       "price": {
         "amount": 29,
@@ -1419,8 +1526,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/hollyhock.webp"
+          "/images/shop/flowers/saplings-and-seedlings/hollyhock.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "biennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "150-240",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Its towering spikes reaching skyward above garden walls inspired Victorians to see it as the emblem of lofty ambition and fertile abundance.",
@@ -1429,23 +1548,12 @@
           "Fecundity"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "150–250 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Plant saplings against garden walls or fences in April or September.",
+          "Towering stately spires covered in saucer blooms soar from June through August.",
+          "Stems die back naturally after flowering in autumn; cut down spent stalks in October.",
+          "Deep taproots are extremely cold-hardy, surviving frozen ground through winter without damage."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -1453,12 +1561,13 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "hyacinth",
       "title": "Hyacinth",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Hyacinths are spring-blooming bulbs renowned for their intensely sweet, heady fragrance and dense racemes of small, star-shaped flowers. They are perfect for forcing indoors in winter for early color and scent.",
       "price": {
         "amount": 199,
@@ -1470,8 +1579,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/hyacinth.webp"
+          "/images/shop/flowers/saplings-and-seedlings/hyacinth.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "20-30",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": true,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "From Apollo’s grief over Hyacinthus in Greek myth.",
@@ -1479,23 +1601,12 @@
           "Please forgive me"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "20–30 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Oct-Dec for spring bloom bulbs",
-          "peak_growth": "Feb-Apr",
-          "harvest_or_bloom": "Mar-May",
-          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
-        },
         "growing_instructions": [
-          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
-          "Choose bright sites with cool winter exposure for strong vernalization.",
-          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+          "Plant bulbs in October-November or transplant potted spring starts in March.",
+          "Requires severe cold chilling during Chillai Kalan (December-January) for bud development.",
+          "Dense intensely fragrant floral spikes bloom across April in Srinagar gardens.",
+          "Cut spent bloom spikes in May, allowing foliage to wither naturally until June dormancy."
         ],
         "care_instructions": [
           "Water lightly after planting, then maintain moderate moisture through flowering.",
@@ -1503,12 +1614,13 @@
           "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
           "Lift and divide crowded clumps during dormancy where required."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "hydrangea",
       "title": "Hydrangea",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Hydrangeas are magnificent flowering shrubs producing enormous, dome-shaped or lacecap flower heads in shades of blue, pink, white, and purple. The flower color of some varieties is influenced by soil pH, turning blue in acidic soils.",
       "price": {
         "amount": 399,
@@ -1520,8 +1632,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/hydrangea.webp"
+          "/images/shop/flowers/saplings-and-seedlings/hydrangea.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "bi-weekly",
+        "height_cm": "100-180",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Large blooms with few seeds suggested excess show.",
@@ -1530,23 +1655,12 @@
           "Heartlessness"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Twice Weekly",
-        "height": "100–200 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant in rich, moisture-retentive soil with dappled morning light in March-April or October.",
+          "Massive mophead flower clusters open in June and retain antique color into September.",
+          "Deciduous branches lose foliage in November and overwinter dormant under snow.",
+          "Prune only dead flower heads in February; do not cut old canes which bear next year's flower buds."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -1554,12 +1668,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "iris",
       "title": "Iris",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Irises are elegant perennials with distinctive sword-like foliage and intricate, bearded or beardless flowers. Named after the Greek goddess of the rainbow, they come in virtually every color and combination.",
       "price": {
         "amount": 99,
@@ -1571,8 +1686,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/iris.webp"
+          "/images/shop/flowers/saplings-and-seedlings/iris.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "40-90",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Symbol of victory in Egyptian and Frankish history.",
@@ -1582,23 +1709,12 @@
           "Faith"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "30–120 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Oct-Dec for spring bloom bulbs",
-          "peak_growth": "Feb-Apr",
-          "harvest_or_bloom": "Mar-May",
-          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
-        },
         "growing_instructions": [
-          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
-          "Choose bright sites with cool winter exposure for strong vernalization.",
-          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+          "Plant rhizomes in well-drained sunny ground in September-October or early March.",
+          "Kashmir's revered Mazarposh iris produces iconic royal purple and white blooms in April and May.",
+          "Sword-shaped foliage stays tidy through summer with minimal supplemental water.",
+          "Completely cold-hardy; rhizomes rest comfortably beneath frozen ground and snow Dec-Feb."
         ],
         "care_instructions": [
           "Water lightly after planting, then maintain moderate moisture through flowering.",
@@ -1606,12 +1722,13 @@
           "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
           "Lift and divide crowded clumps during dormancy where required."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "jasmine",
       "title": "Jasmine",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Jasmine is a climbing or shrubby plant producing clusters of small, intensely fragrant white or yellow flowers. Widely used in garlands, tea, and perfumery across Asia, it is a symbol of amiability and grace.",
       "price": {
         "amount": 99,
@@ -1623,8 +1740,22 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/jasmine.webp"
+          "/images/shop/flowers/saplings-and-seedlings/jasmine.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "200-450",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Celebratory flower in many Asian cultures.",
@@ -1633,23 +1764,12 @@
           "Cheerfulness"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "200–500 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant rooted climbers against sunny south-facing walls or trellises in March or October.",
+          "Intensely fragrant star-shaped white blossoms perfume the air from May through August.",
+          "Semi-deciduous in Kashmir; mulch base well before December freeze.",
+          "Prune tangled stems and shape climber in late February before spring buds swell."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -1657,12 +1777,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "larkspur",
       "title": "Larkspur",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Larkspur (Delphinium consolida) is an annual producing tall, graceful spikes of spurred flowers in shades of blue, purple, pink, and white. A classic cottage garden and cutting garden annual, it dries beautifully for arrangements.",
       "price": {
         "amount": 149,
@@ -1674,8 +1795,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/larkspur.webp"
+          "/images/shop/flowers/saplings-and-seedlings/larkspur.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "60-110",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Named for a lark’s foot; associated with lightness.",
@@ -1683,23 +1817,12 @@
           "Levity"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–120 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant seedlings in late March or April into fertile, sunny garden borders.",
+          "Spikes of delicate spurred blossoms in blue, lilac, and pink bloom in May and June.",
+          "Prefers Kashmir's cool spring temperatures; declines as July summer heat peaks.",
+          "Collect seeds in July; self-sown seeds overwinter naturally in the soil."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -1707,12 +1830,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "lavender",
       "title": "Lavender",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Lavender is an aromatic Mediterranean shrub producing spikes of small purple flowers beloved by pollinators. Its dried flowers and essential oil are used extensively in aromatherapy, cosmetics, and culinary applications.",
       "price": {
         "amount": 199,
@@ -1724,8 +1848,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/lavender.webp"
+          "/images/shop/flowers/saplings-and-seedlings/lavender.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "40-70",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Linked to venomous snakes and Cleopatra’s legend.",
@@ -1733,23 +1870,12 @@
           "Distrust"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant saplings in gritty, fast-draining sunny soil in April or May.",
+          "Aromatic purple flower spikes open in abundance from June through August.",
+          "Lightly shear spent blooms in late August to maintain a compact rounded shrub.",
+          "Hardy English lavender overwinters under Kashmir snow down to -15°C with good drainage."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -1757,12 +1883,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "lilac",
       "title": "Lilac",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Lilacs are deciduous shrubs or small trees that produce spectacular clusters of intensely fragrant flowers in spring. Hardy and long-lived, they are a cherished feature of temperate gardens and a symbol of first love.",
       "price": {
         "amount": 299,
@@ -1774,8 +1901,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/lilac.webp"
+          "/images/shop/flowers/saplings-and-seedlings/lilac.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "200-350",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Greek myth of Pan and Syringa.",
@@ -1784,23 +1924,12 @@
           "Reminiscence"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "200–400 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant bare-root or potted shrubs in fertile alkaline loam in February-March or November.",
+          "Intensely fragrant conical flower panicles burst into bloom across April and May.",
+          "Prune lightly right after flowering in June; avoids cutting next spring's pre-formed flower buds.",
+          "Fully frost-hardy deciduous shrub that requires winter chilling during Chillai Kalan to bloom."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -1808,12 +1937,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "lily",
       "title": "Lily",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "True lilies are stately bulbous perennials producing large, often fragrant trumpet or turks cap flowers on tall stems. They come in a spectacular range of colors and are among the most beloved of all garden flowers.",
       "price": {
         "amount": 199,
@@ -1825,8 +1955,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/lily.webp"
+          "/images/shop/flowers/saplings-and-seedlings/lily.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "60-120",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Associated with the Virgin Mary in Christian art.",
@@ -1834,23 +1977,12 @@
           "Purity"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Oct-Dec for spring bloom bulbs",
-          "peak_growth": "Feb-Apr",
-          "harvest_or_bloom": "Mar-May",
-          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
-        },
         "growing_instructions": [
-          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
-          "Choose bright sites with cool winter exposure for strong vernalization.",
-          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+          "Plant bulbs 15 cm deep in humus-rich, well-draining soil in October-November or March.",
+          "Sturdy stems produce dramatic, scented outward-facing trumpet flowers in June and July.",
+          "Cut spent flowers but allow stem foliage to stay green through autumn to build bulb reserves.",
+          "Bulbs overwinter completely unharmed beneath frozen valley soils and snow cover."
         ],
         "care_instructions": [
           "Water lightly after planting, then maintain moderate moisture through flowering.",
@@ -1858,12 +1990,13 @@
           "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
           "Lift and divide crowded clumps during dormancy where required."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "marigold",
       "title": "Marigold",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Marigolds are cheerful, sun-loving annuals producing bold pompom flowers in shades of orange, yellow, and gold. Easy to grow and prolific, they are widely used as companion plants to deter garden pests.",
       "price": {
         "amount": 49,
@@ -1875,8 +2008,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/marigold.webp"
+          "/images/shop/flowers/saplings-and-seedlings/marigold.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "25-75",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Used in Day of the Dead rituals and Aztec lore.",
@@ -1884,23 +2030,12 @@
           "Grief"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "15–90 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Transplant saplings into sunny garden beds in mid-May once frost danger has passed.",
+          "Vigorous golden-orange blooms flower profusely from June right through October.",
+          "Deadhead spent blooms regularly to encourage dense branching and pest-deterring foliage.",
+          "Foliage blackens at first hard frost in late October or November; clear annual bed before winter."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -1908,12 +2043,13 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "miniature-rose",
       "title": "Miniature Rose",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Miniature roses are petite versions of classic roses with tiny, intricately formed blooms. Perfect for containers, bonsai, and compact spaces, they come in all rose colors and bloom prolifically.",
       "price": {
         "amount": 199,
@@ -1925,26 +2061,29 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/miniature-rose.webp"
+          "/images/shop/flowers/saplings-and-seedlings/miniature-rose.webp"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "20–40 cm",
-        "difficulty": "Moderate"
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "bi-weekly",
+        "height_cm": "20-40",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant saplings in rich, loamy, well-draining garden soil in March-April or October.",
+          "Flushes repeat sprays of miniature double roses from May through October.",
+          "Hardy in ground, but protect root base with mulch or compost before December freezes.",
+          "Prune stems back by one-third in late February to shape bush before spring budding."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -1952,12 +2091,22 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "symbolism": {
+        "origin": "Selected from heritage Chinese dwarf roses; in Victorian floriography, miniature roses symbolize delicate charm, youthful romance, and heartfelt simplicity.",
+        "meanings": [
+          "Delicate charm",
+          "Sweet promise",
+          "Youthful romance",
+          "Petite perfection"
+        ]
+      },
+      "is_potted": false
     },
     {
       "id": "morning-glory",
       "title": "Morning Glory",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Morning glories are fast-growing annual vines producing a profusion of trumpet-shaped flowers that open fresh each morning. Their vibrant blooms in blue, purple, pink, and white make them ideal for fences and trellises.",
       "price": {
         "amount": 49,
@@ -1969,8 +2118,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/morning-glory.webp"
+          "/images/shop/flowers/saplings-and-seedlings/morning-glory.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "200-350",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Flowers bloom brilliantly each morning only to close by afternoon; Victorians read this as a token of fleeting affection and love in vain.",
@@ -1979,23 +2141,12 @@
           "Love in vain"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "200–300 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Transplant tender vines or sow along fences in mid-May once soil is thoroughly warm.",
+          "Fast-climbing vines produce fresh trumpet blooms every morning from July through September.",
+          "Thrives in sunny, sheltered valley locations with consistent summer watering.",
+          "Killed by early autumn frost in October; collect dry seeds before vine clears."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -2003,12 +2154,13 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "nerium-oleander",
       "title": "Nerium Oleander",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Nerium oleander is a beautiful, fast-growing Mediterranean shrub producing clusters of fragrant flowers in shades of pink, red, and white throughout summer. Highly ornamental but extremely toxic in all its parts.",
       "price": {
         "amount": 249,
@@ -2020,8 +2172,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/nerium-oleander.webp"
+          "/images/shop/flowers/saplings-and-seedlings/nerium-oleander.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "150-300",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
       },
       "symbolism": {
         "origin": "Poisonous plant linked to tragic Greek myth.",
@@ -2029,23 +2193,12 @@
           "Caution"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "200–600 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant in large containers and place outdoors in hot, full sun in May.",
+          "Abundant clusters of pink, white, or red blooms flower continuously from June through September.",
+          "Tender to Kashmir's freezing winters; must be moved indoors or into a glasshouse from Nov-Mar.",
+          "Prune lightly in early spring in March before new shoots push; all parts are toxic if ingested."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -2053,12 +2206,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "pansy",
       "title": "Pansy",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Pansies are charming cool-weather annuals with distinctive \"face\" markings on their velvety petals. Available in an extraordinary range of colors and bi-colors, they are a beloved staple of spring and autumn gardens.",
       "price": {
         "amount": 49,
@@ -2070,8 +2224,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/pansy.webp"
+          "/images/shop/flowers/saplings-and-seedlings/pansy.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "autumn"
+        ],
+        "lifecycle": "biennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "15-25",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "From the French *pensée*, meaning thought.",
@@ -2079,23 +2246,12 @@
           "You occupy my thoughts"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "15–30 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant hardy seedlings in September-October or early spring in March.",
+          "One of Srinagar's premier cool-season flowers, blooming across October-November and March-May.",
+          "Survives heavy snow and frost under blankets of mulch, perking right back up as snow melts.",
+          "Naturally fades in hot July summer weather; replace with summer annuals."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -2103,12 +2259,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "peony",
       "title": "Peony",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Peonies are long-lived herbaceous perennials producing enormous, luxuriously fragrant blooms in shades of white, pink, and red. Among the most cherished of all garden flowers, they can live and bloom for over a century.",
       "price": {
         "amount": 299,
@@ -2120,8 +2277,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/peony.webp"
+          "/images/shop/flowers/saplings-and-seedlings/peony.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "60-100",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Greek nymphs hid by transforming into peonies.",
@@ -2129,23 +2299,12 @@
           "Bashfulness"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "60–100 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant root crowns 5 cm below soil level in fertile, humus-rich beds in October or March.",
+          "Requires cold winter dormancy to set flower buds; blossoms unfurl lavishly in May and June.",
+          "Stake heavy double flower heads to keep them upright during spring valley showers.",
+          "Stems die back naturally in November; root crowns overwinter safely under heavy snow."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -2153,12 +2312,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "periwinkle",
       "title": "Periwinkle (Vinca)",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Periwinkle is a low-maintenance evergreen ground cover or trailing plant with glossy dark green leaves and cheerful five-petaled flowers in blue, violet, or white. It thrives in sun or shade with minimal care.",
       "price": {
         "amount": 49,
@@ -2170,8 +2330,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/periwinkle.webp"
+          "/images/shop/flowers/saplings-and-seedlings/periwinkle.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "15-30",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Evergreen and enduring, its small persistent flowers were treasured by Victorians as an emblem of cherished memories and tender recollection.",
@@ -2180,23 +2353,12 @@
           "Sweet remembrances"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Bi-Weekly",
-        "height": "15–30 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Transplant saplings outdoors in late May once temperatures remain reliably warm.",
+          "Glossy leaves and flat pastel blooms thrive through hot summer days from June through September.",
+          "Heat and drought tolerant once roots establish in well-drained soil.",
+          "Sensitive to cold and killed by first autumn frosts in October; treat as an annual in Kashmir."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -2204,12 +2366,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "petunia",
       "title": "Petunia",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Petunias are among the most popular summer bedding plants, producing masses of trumpet-shaped flowers in every color of the rainbow throughout the season. Available in trailing and upright forms, they are superb in containers.",
       "price": {
         "amount": 19,
@@ -2221,8 +2384,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/petunia.webp"
+          "/images/shop/flowers/saplings-and-seedlings/petunia.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "20-40",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Delicate nature likened to wounded emotions.",
@@ -2231,23 +2407,12 @@
           "Resentment"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "15–45 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant starts into flowerbeds, window boxes, or hanging baskets in mid-May after last frost.",
+          "Prodigious trumpet flowers cascade continuously from June right through October.",
+          "Pinch back spent blooms and leggy stems in July to maintain compact floriferous habit.",
+          "Killed by early winter freezes in November; clear containers before snow."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -2255,12 +2420,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "phlox",
       "title": "Phlox",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Phlox is a North American native producing masses of star-shaped, fragrant flowers in a wide range of colors. Garden phlox is a cottage garden staple, while creeping phlox creates a carpet of spring color.",
       "price": {
         "amount": 99,
@@ -2272,8 +2438,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/phlox.webp"
+          "/images/shop/flowers/saplings-and-seedlings/phlox.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "40-90",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Dense clusters of individual flowers growing as one mass symbolized hearts united and complete unanimity of feeling.",
@@ -2282,23 +2461,12 @@
           "Unanimity"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–120 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Plant nursery saplings in rich, moist, sunny garden soil in April or October.",
+          "Large rounded fragrant flower heads bloom profusely from late June through August.",
+          "Ensure good air circulation around stems to prevent powdery mildew during humid July days.",
+          "Cut stalks down to ground level in November; roots overwinter completely dormant beneath snow."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -2306,12 +2474,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "pink-rose",
       "title": "Pink Rose",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "The traditional Kashmiri pink rose is a heritage variety prized for its full, fragrant blooms in delicate shades of pink. Grown in the famous rose gardens of Kashmir, it is used for rose water and as an ornamental.",
       "price": {
         "amount": 299,
@@ -2323,8 +2492,23 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/pink-rose.webp"
+          "/images/shop/flowers/saplings-and-seedlings/pink-rose.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "70-130",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Long-standing symbol of love in myth and culture.",
@@ -2332,23 +2516,12 @@
           "Love"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Twice Weekly",
-        "height": "60–150 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant bare-root roses in February-March or potted plants in April in fertile loamy beds.",
+          "Produces repeated flushes of delicate pink blooms from May through October.",
+          "Deadhead faded roses promptly to stimulate continuous fresh flower bud shoots.",
+          "Prune bush back by half in late February; mound soil or compost over bud union from Dec-Feb."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -2356,12 +2529,13 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "primrose",
       "title": "Primrose",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Primroses (Primula) are charming spring-flowering perennials producing clusters of bright, cheerful blooms in shades of yellow, red, pink, purple, and white. They thrive in cool, moist soil and partial shade.",
       "price": {
         "amount": 39,
@@ -2373,8 +2547,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/primrose.webp"
+          "/images/shop/flowers/saplings-and-seedlings/primrose.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "15-30",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Among the first flowers to bloom in spring, symbolizing youth and new beginnings.",
@@ -2383,23 +2569,12 @@
           "Youthfulness"
         ]
       },
-      "attributes": {
-        "sunlight": "Partial",
-        "water": "Weekly",
-        "height": "15–40 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Plant in cool, humus-rich soil under partial shade in September-October or early March.",
+          "One of Kashmir's cherished first spring bloomers, opening colorful clusters in March and April.",
+          "Thrives in moist, mossy garden borders during early spring melt.",
+          "Foliage rests through hot summer; evergreen rosettes overwinter safely under winter snow."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -2407,12 +2582,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "snowball-guelder-rose",
       "title": "Snowball (Guelder Rose)",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Deciduous shrub with spectacular white snowball-like flower clusters. Stunning spring display followed by red berries. Classic cottage garden plant.",
       "price": {
         "amount": 199,
@@ -2424,26 +2600,27 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/snowball-guelder-rose.webp"
+          "/images/shop/flowers/saplings-and-seedlings/snowball-guelder-rose.webp"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "200–400 cm",
-        "difficulty": "Moderate"
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "200-350",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Sep",
-          "peak_growth": "Mar-Oct",
-          "harvest_or_bloom": "Main bloom Mar-Jun and/or Sep-Nov, variety dependent",
-          "pruning_or_dormancy": "Dec-Feb (light to moderate pruning)"
-        },
         "growing_instructions": [
-          "Plant in seasonally suitable light: full sun for most bloomers, partial shade for shade-lovers.",
-          "Prepare deep, well-drained beds with mature compost before planting.",
-          "Maintain species-appropriate spacing so mature canopies do not crowd."
+          "Plant bare-root or container shrubs in fertile garden soil in March or November.",
+          "Spectacular huge globular white flower clusters blanket the bush in May and early June.",
+          "Leaves turn brilliant wine-red in October before shedding in November.",
+          "Fully cold-hardy deciduous shrub; withstands heavy Kashmir snow and winter freezes without shelter."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -2451,12 +2628,22 @@
           "Prune after major bloom flush or during dormancy depending on species.",
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
-      }
+      },
+      "symbolism": {
+        "origin": "Viburnum opulus has a long tradition in Slavic, European, and Kashmiri lore; its pristine spherical white blooms represent peace, thoughts of heaven, and sweet memories.",
+        "meanings": [
+          "Peace",
+          "Heavenly thoughts",
+          "Sweet memories",
+          "Grace under trial"
+        ]
+      },
+      "is_potted": false
     },
     {
       "id": "stocks",
       "title": "Stocks",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Stocks (Matthiola incana) are old-fashioned annuals or biennials producing tall spikes of densely packed, intensely fragrant flowers in shades of pink, white, red, and purple. Their sweet scent fills gardens in spring.",
       "price": {
         "amount": 99,
@@ -2468,8 +2655,22 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/stocks.webp"
+          "/images/shop/flowers/saplings-and-seedlings/stocks.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-70",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Long-lasting blooms and an enduring sweet fragrance led Victorians to see it as a symbol of a life lived in contented, lasting beauty.",
@@ -2478,23 +2679,12 @@
           "Contented existence"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–75 cm",
-        "difficulty": "Moderate"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant seedlings in September-October or early spring in March.",
+          "Intensely clove-scented flower spikes bloom in early spring from April to May, and again in autumn.",
+          "Thrives in cool valley air; slows down during hot July midsummer.",
+          "Frost-hardy annual that survives light freezes but finishes after autumn flowering."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -2502,12 +2692,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "sunflower",
       "title": "Sunflower",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Sunflowers are iconic annual plants native to North America, growing tall with large, golden ray flowers surrounding a central disc. They track the sun when young and produce nutritious seeds loved by birds and humans.",
       "price": {
         "amount": 149,
@@ -2519,8 +2710,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/sunflower.webp"
+          "/images/shop/flowers/saplings-and-seedlings/sunflower.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "120-250",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Inca gold symbolism misled Spanish explorers.",
@@ -2528,23 +2731,12 @@
           "False riches"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "100–300 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Transplant saplings or sow directly in sunny fertile beds in May after last spring frost.",
+          "Grows rapidly under long valley summer sun through June and July.",
+          "Towering golden heads bloom boldly from July through September, yielding seeds in October.",
+          "Remove spent stalks after seed harvest in October before winter freezes commence."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -2552,12 +2744,13 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "sweet-william",
       "title": "Sweet William",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Sweet William (Dianthus barbatus) is a biennial or short-lived perennial producing dense, domed clusters of small, fragrant flowers in striking patterns of red, pink, white, and bicolors. A cottage garden classic.",
       "price": {
         "amount": 99,
@@ -2569,8 +2762,22 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/sweet-william.webp"
+          "/images/shop/flowers/saplings-and-seedlings/sweet-william.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer"
+        ],
+        "lifecycle": "biennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-60",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
       },
       "symbolism": {
         "origin": "Named for folkloric gallant young men.",
@@ -2578,23 +2785,12 @@
           "Gallantry"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Transplant saplings in October or March into well-drained, fertile soil.",
+          "Dense flat clusters of fragrant bi-colored fringed flowers bloom abundantly from May to July.",
+          "Self-seeds readily to ensure blooms year after year in cottage borders.",
+          "Evergreen basal rosettes easily endure snow cover and sub-zero cold from Dec-Feb."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -2602,12 +2798,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "tiger-lily",
       "title": "Tiger Lily",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Tiger lilies (Lilium lancifolium) are exotic perennial bulbs producing nodding turks-cap flowers with distinctive black or dark spots. Hardy, vigorous, and striking, they add drama to any garden.",
       "price": {
         "amount": 99,
@@ -2619,8 +2816,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/tiger-lily.webp"
+          "/images/shop/flowers/saplings-and-seedlings/tiger-lily.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "90-140",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Named for distinctive spotted markings resembling tiger stripes",
@@ -2630,23 +2839,12 @@
           "Wealth"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "90–150 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Oct-Dec for spring bloom bulbs",
-          "peak_growth": "Feb-Apr",
-          "harvest_or_bloom": "Mar-May",
-          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
-        },
         "growing_instructions": [
-          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
-          "Choose bright sites with cool winter exposure for strong vernalization.",
-          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+          "Plant bulbs 15 cm deep in rich, organic, well-draining soil in October-November or March.",
+          "Produces vigorous tall stems bearing pendulous orange spotted reflexed petals in July and August.",
+          "Produces small black bulbils along leaf axils that can be planted in autumn.",
+          "Extremely cold-hardy; bulbs overwinter comfortably beneath frozen ground and snow."
         ],
         "care_instructions": [
           "Water lightly after planting, then maintain moderate moisture through flowering.",
@@ -2654,12 +2852,13 @@
           "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
           "Lift and divide crowded clumps during dormancy where required."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "tulip",
       "title": "Tulip",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Tulips are beloved spring-blooming bulbs native to Central Asia, producing elegant cup-shaped flowers in virtually every color of the spectrum. They were the subject of the famous 17th-century Dutch Tulipmania speculation.",
       "price": {
         "amount": 199,
@@ -2671,8 +2870,20 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/tulip.webp"
+          "/images/shop/flowers/saplings-and-seedlings/tulip.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-55",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Turkish legend of tragic devotion.",
@@ -2680,23 +2891,12 @@
           "I declare my love for you"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "30–60 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Oct-Dec for spring bloom bulbs",
-          "peak_growth": "Feb-Apr",
-          "harvest_or_bloom": "Mar-May",
-          "pruning_or_dormancy": "May-Jul (post-bloom bulb ripening)"
-        },
         "growing_instructions": [
-          "Plant bulbs at 2-3 times bulb height depth in free-draining soil.",
-          "Choose bright sites with cool winter exposure for strong vernalization.",
-          "Keep bulb shoulders dry by avoiding low-lying waterlogged beds."
+          "Plant bulbs in October-November, or set out cold-chilled potted saplings in March.",
+          "Requires intense chilling through Chillai Kalan (December-January) to activate flower buds.",
+          "Srinagar's celebrated tulip season peaks from late March through April across the valley.",
+          "Allow foliage to turn yellow and dry naturally by June before removing spent leaves."
         ],
         "care_instructions": [
           "Water lightly after planting, then maintain moderate moisture through flowering.",
@@ -2704,12 +2904,13 @@
           "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
           "Lift and divide crowded clumps during dormancy where required."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "verbena",
       "title": "Verbena",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Verbena is a sun-loving annual or perennial producing clusters of small, brightly colored flowers in shades of purple, pink, red, and white. Long-blooming and heat-tolerant, it is excellent for containers and hanging baskets.",
       "price": {
         "amount": 99,
@@ -2721,8 +2922,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/verbena.webp"
+          "/images/shop/flowers/saplings-and-seedlings/verbena.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "20-50",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Revered in Druidic and Roman sacred rites; Victorians regarded it as a charm of enchantment and a sincere plea for wishes to be granted.",
@@ -2731,23 +2945,12 @@
           "Sensibility"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "20–50 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Transplant into sunny garden beds or containers in mid-May once nights warm up.",
+          "Dense flower clusters in jewel tones bloom continuously from June through October.",
+          "Shear back midseason in August to stimulate a strong flush of autumn blooms.",
+          "Tender in Kashmir; treat as an annual or shelter potted specimens indoors Nov-Mar."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -2755,12 +2958,13 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "yarrow",
       "title": "Yarrow",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Yarrow (Achillea millefolium) is a robust perennial wildflower with feathery aromatic leaves and flat-topped clusters of tiny flowers in white, yellow, pink, or red. Named after Achilles, who is said to have used it to heal wounds.",
       "price": {
         "amount": 49,
@@ -2772,8 +2976,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/yarrow.webp"
+          "/images/shop/flowers/saplings-and-seedlings/yarrow.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "40-80",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Named after Achilles, who healed wounds with it.",
@@ -2781,23 +2998,12 @@
           "Cure for a broken heart"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Bi-Weekly",
-        "height": "30–90 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Sep-Nov or Feb-Mar",
-          "peak_growth": "Oct-Apr",
-          "harvest_or_bloom": "Nov-May",
-          "pruning_or_dormancy": "Jun-Aug (heat management and cleanup)"
-        },
         "growing_instructions": [
-          "Start in fertile, well-drained soil and a site with 4-6 hours of direct sun.",
-          "Transplant during cool weather to reduce stress and improve rooting.",
-          "Pinch early growth in branching varieties for fuller blooming plants."
+          "Plant saplings in lean to moderately fertile, well-draining garden soil in April or September.",
+          "Flat clusters of tiny blooms in pastel and vibrant shades flower from June through September.",
+          "Cut back spent flower stalks to ground level in late autumn to keep foliage tidy.",
+          "Native mountain perennial; completely cold-hardy through freezing valley winters."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -2805,12 +3011,13 @@
           "Remove spent flowers to prolong bloom duration.",
           "Provide light afternoon shade in late spring when temperatures rise."
         ]
-      }
+      },
+      "is_potted": false
     },
     {
       "id": "zinnia",
       "title": "Zinnia",
-      "category": "flower-sapling",
+      "category": "saplings-and-seedlings",
       "description": "Zinnias are vibrant, heat-loving annuals native to Mexico, producing bold daisy-like flowers in every color except blue. Easy to grow from seed and highly attractive to butterflies, they bloom continuously from summer to frost.",
       "price": {
         "amount": 99,
@@ -2822,8 +3029,21 @@
       },
       "media": {
         "images": [
-          "/images/flower-saplings/zinnia.webp"
+          "/images/shop/flowers/saplings-and-seedlings/zinnia.webp"
         ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "annual",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-80",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
       },
       "symbolism": {
         "origin": "Easy growth and reseeding symbolized lasting bonds.",
@@ -2831,23 +3051,12 @@
           "Everlasting friendship"
         ]
       },
-      "attributes": {
-        "sunlight": "Full",
-        "water": "Weekly",
-        "height": "15–90 cm",
-        "difficulty": "Easy"
-      },
       "growing_guide": {
-        "seasons": {
-          "planting": "Feb-Apr or Jul-Aug",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "May-Nov",
-          "pruning_or_dormancy": "Dec-Jan (post-season cleanup)"
-        },
         "growing_instructions": [
-          "Use full-sun beds with loose, compost-rich, well-drained soil.",
-          "Plant after severe frost risk is over and keep good spacing for airflow.",
-          "Stake taller varieties early to prevent lodging in summer storms."
+          "Transplant nursery starts in mid-May after the last spring frost into full valley sunshine.",
+          "Prolific bright multi-layered blooms burst open from July through October.",
+          "Deadhead spent blooms weekly to encourage branching and nonstop new bud development.",
+          "Extremely frost-sensitive; leaves blacken at first autumn frost in late October, concluding lifecycle."
         ],
         "care_instructions": [
           "Irrigate deeply 1-2 times weekly depending on heat and soil drainage.",
@@ -2855,7 +3064,8 @@
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
         ]
-      }
+      },
+      "is_potted": false
     }
   ]
 }

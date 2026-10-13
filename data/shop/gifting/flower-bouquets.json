@@ -15,7 +15,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-bouquets/apology-bouquet.webp"
+          "/images/shop/gifting/flower-bouquets/apology-bouquet.webp"
         ]
       },
       "subtitle": "A Bouquet for Apology",
@@ -57,7 +57,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-bouquets/bitter-ends-bouquet.webp"
+          "/images/shop/gifting/flower-bouquets/bitter-ends-bouquet.webp"
         ]
       },
       "composition": {
@@ -102,7 +102,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-bouquets/courting-bouquet.webp"
+          "/images/shop/gifting/flower-bouquets/courting-bouquet.webp"
         ]
       },
       "composition": {
@@ -142,7 +142,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-bouquets/forgotten-obligations-bouquet.webp"
+          "/images/shop/gifting/flower-bouquets/forgotten-obligations-bouquet.webp"
         ]
       },
       "subtitle": "A Bouquet for Forgotten Obligations",
@@ -184,11 +184,11 @@
       },
       "stock": {
         "total": 0,
-        "is_featured": true
+        "is_featured": false
       },
       "media": {
         "images": [
-          "/images/flower-bouquets/friendship-bouquet.webp"
+          "/images/shop/gifting/flower-bouquets/friendship-bouquet.webp"
         ]
       },
       "composition": {
@@ -228,7 +228,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-bouquets/marriage-bouquet.webp"
+          "/images/shop/gifting/flower-bouquets/marriage-bouquet.webp"
         ]
       },
       "subtitle": "A Bouquet for Marriage",
@@ -270,7 +270,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-bouquets/new-beginnings-bouquet.webp"
+          "/images/shop/gifting/flower-bouquets/new-beginnings-bouquet.webp"
         ]
       },
       "composition": {
@@ -315,7 +315,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-bouquets/regret-sorrow-bouquet.webp"
+          "/images/shop/gifting/flower-bouquets/regret-sorrow-bouquet.webp"
         ]
       },
       "composition": {
@@ -360,7 +360,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-bouquets/sympathy-bouquet.webp"
+          "/images/shop/gifting/flower-bouquets/sympathy-bouquet.webp"
         ]
       },
       "composition": {
@@ -405,7 +405,7 @@
       },
       "media": {
         "images": [
-          "/images/flower-bouquets/warnings-bouquet.webp"
+          "/images/shop/gifting/flower-bouquets/warnings-bouquet.webp"
         ]
       },
       "composition": {
