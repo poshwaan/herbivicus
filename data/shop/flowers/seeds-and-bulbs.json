@@ -7,7 +7,8 @@
       "description": "Oriental poppy seeds for stunning red and orange blooms. Thrives in Kashmir's climate.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -62,7 +63,8 @@
       "description": "Bright sunflower seeds for tall, cheerful blooms. Attracts pollinators and birds.",
       "price": {
         "amount": 49,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -118,7 +120,8 @@
       "description": "Premium Dutch tulip flower bulbs ready for autumn and winter planting. Produces vibrant cup-shaped spring blooms.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 50,
@@ -168,7 +171,8 @@
       "description": "High-grade narcissus bulbs producing cheerful trumpet-shaped golden-yellow spring blooms. Naturalizes easily.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 40,
@@ -219,7 +223,8 @@
       "description": "Prized spring-blooming bulbs renowned for their dense flower spikes and intoxicating sweet fragrance.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 35,
@@ -244,7 +249,7 @@
         "fragrant": true
       },
       "symbolism": {
-        "origin": "From Apollo’s grief over Hyacinthus in Greek myth.",
+        "origin": "From Apollo\u2019s grief over Hyacinthus in Greek myth.",
         "meanings": [
           "Please forgive me"
         ]
@@ -270,7 +275,8 @@
       "description": "Summer-flowering sword lily corms producing dramatic, tall spikes of colorful blossoms.",
       "price": {
         "amount": 89,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 45,
@@ -320,7 +326,8 @@
       "description": "Stately perennial lily bulbs producing majestic, large trumpet flowers. Return reliably year after year.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 40,

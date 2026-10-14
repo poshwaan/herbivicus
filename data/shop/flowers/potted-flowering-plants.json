@@ -7,7 +7,8 @@
       "description": "Petite rose bush full of delicate buds and blooms, presented in a decorative container pot. Ideal for patios and bright window areas.",
       "price": {
         "amount": 249,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 25,
@@ -64,7 +65,8 @@
       "description": "Succulent kalanchoe with fleshy green foliage and long-lasting clusters of vibrant blooms in a desktop pot.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -120,7 +122,8 @@
       "description": "Vibrant flowering zonal geranium thriving in a container pot. Classic balcony and windowsill favorite.",
       "price": {
         "amount": 249,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -175,7 +178,8 @@
       "description": "Lush flowering begonia boasting delicate petals and ornamental foliage, potted in a decorative container.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -201,7 +205,7 @@
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Named after Michel Bégon; its sound-alike phrase “be gone” suggested caution.",
+        "origin": "Named after Michel B\u00e9gon; its sound-alike phrase \u201cbe gone\u201d suggested caution.",
         "meanings": [
           "To repay a favor",
           "A warning"
@@ -224,17 +228,18 @@
       "is_potted": true
     },
     {
-      "id": "fuchsia-potted",
+      "id": "fuchsia",
       "title": "Fuchsia",
       "category": "potted-flowering-plant",
-      "description": "Elegant flowering plant with dangling, bell-shaped bi-color blossoms potted for patio and veranda display.",
+      "description": "An elegant flowering plant with dangling, bell-shaped blossoms in contrasting colours. Ideal for adding graceful colour to patios, balconies, and verandas.",
       "price": {
-        "amount": 249,
-        "currency": "INR"
+        "amount": 299,
+        "currency": "INR",
+        "discount_percent": 33
       },
       "stock": {
-        "total": 15,
-        "is_featured": false
+        "total": 6,
+        "is_featured": true
       },
       "media": {
         "images": [
@@ -249,14 +254,14 @@
         ],
         "lifecycle": "perennial",
         "sunlight": "partial",
-        "water": "bi-weekly",
-        "height_cm": "30-60",
+        "water": "regular",
+        "height_cm": "40-60",
         "difficulty": "moderate",
         "frost_hardy": false,
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Discovered in the Caribbean and named in honor of German botanist Leonhart Fuchs; in Victorian floriography, its nodding, pendulous blossoms represented confiding love and humble elegance.",
+        "origin": "Native to the Americas and parts of the Pacific, fuchsia was named in honour of German botanist Leonhart Fuchs. Its graceful, pendulous blossoms have inspired associations with confiding love, amiability, and delicate elegance.",
         "meanings": [
           "Confiding love",
           "Amiability",
@@ -266,16 +271,18 @@
       },
       "growing_guide": {
         "growing_instructions": [
-          "Pot up in rich, moist compost and place in cool, sheltered morning sun in late April.",
-          "Trailing teardrop bell flowers bloom from June through October in Kashmir's mild summers.",
-          "Cannot survive freezing winter temperatures; overwinter in a frost-free cool room (5-10°C) from November through March.",
-          "Prune branches back hard in March before spring growth re-ignites."
+          "Grow in rich, well-draining potting mix and place in partial shade or gentle morning sun.",
+          "Enjoy the main flowering display from summer into autumn, provided the plant receives adequate light, water, and nutrients.",
+          "Protect from frost in Kashmir. Move the pot to a cool, frost-free location before freezing temperatures arrive.",
+          "During winter dormancy, reduce watering and keep the compost slightly moist rather than waterlogged.",
+          "Prune in early spring, removing dead growth and shortening stems as needed to encourage fresh, bushy growth."
         ],
         "care_instructions": [
-          "Water regularly to keep root ball evenly moist, especially in warm weather.",
-          "Mist foliage lightly on dry warm mornings to elevate local humidity.",
-          "Deadhead spent flowers before seed berries form to maintain bloom clusters.",
-          "Cut back stems by half in late autumn and overwinter in a cool, protected shed or porch."
+          "Check the compost regularly and water when the surface begins to dry; container plants may need daily watering during hot weather.",
+          "Apply a balanced liquid fertilizer during active growth according to the product label.",
+          "Remove spent flowers to encourage continued blooming and maintain a tidy appearance.",
+          "Ensure the pot has drainage holes and never leave the roots sitting in standing water.",
+          "Inspect for aphids, whiteflies, and spider mites, treating infestations promptly."
         ]
       },
       "is_potted": true
@@ -287,10 +294,11 @@
       "description": "Spectacular blooming shrub covered in massed petals, potted in a premium ceramic planter.",
       "price": {
         "amount": 349,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
-        "total": 15,
+        "total": 6,
         "is_featured": false
       },
       "media": {
@@ -340,7 +348,8 @@
       "description": "Stunning large mophead blooms in a decorative container pot. Instant garden color and elegance.",
       "price": {
         "amount": 499,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 12,
@@ -394,7 +403,8 @@
       "description": "Decorative potted mum blooming with dense, colorful daisy-like flower heads.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 25,
@@ -418,7 +428,7 @@
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Commonly used in European funerals and All Souls’ Day rituals.",
+        "origin": "Commonly used in European funerals and All Souls\u2019 Day rituals.",
         "meanings": [
           "Condolences"
         ]
@@ -446,7 +456,8 @@
       "description": "Cheerful, bold flowering gerbera daisy potted for bright indoor or patio spots.",
       "price": {
         "amount": 249,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -503,7 +514,8 @@
       "description": "Graceful trumpet-shaped ivory spathes with deep green foliage in an elegant container pot.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 10,
@@ -539,7 +551,7 @@
           "Plant rhizomes in humus-rich, moist potting mix in April after freezing risks subside.",
           "Elegant architectural spathe blooms unfurl from late May through August.",
           "Tender to outdoor winter freezing; move pots indoors or lift rhizomes in October before frost.",
-          "Store dormant rhizomes in dry peat at 10-15°C from November through March."
+          "Store dormant rhizomes in dry peat at 10-15\u00b0C from November through March."
         ],
         "care_instructions": [
           "Keep soil evenly moist during active growth and blooming flush.",

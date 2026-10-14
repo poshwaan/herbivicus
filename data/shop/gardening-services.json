@@ -7,7 +7,8 @@
       "description": "Comprehensive garden maintenance service including lawn mowing, pruning, weeding and fertilization. Weekly or bi-weekly options available.",
       "price": {
         "amount": 1999,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 10,
@@ -28,7 +29,8 @@
       "description": "Professional weed control service to keep your garden free from unwanted plants. Includes application of eco-friendly herbicides and follow-up visits.",
       "price": {
         "amount": 499,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 10,

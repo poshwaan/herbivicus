@@ -7,7 +7,8 @@
       "description": "To ask for forgiveness or make amends.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -49,7 +50,8 @@
       "description": "A final reminder of a relationship that ended poorly.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -94,7 +96,8 @@
       "description": "For a new love, to thrill them or affirm exclusivity.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -134,7 +137,8 @@
       "description": "To apologize for missed events or forgotten engagements.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -180,7 +184,8 @@
       "description": "For a best friend, to celebrate friendship or brighten their day.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -220,7 +225,8 @@
       "description": "For weddings, engagements, or newlyweds.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -262,7 +268,8 @@
       "description": "For births, new ventures, or housewarmings.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -289,7 +296,7 @@
             "meaning": "First love"
           },
           {
-            "name": "Baby’s Breath",
+            "name": "Baby\u2019s Breath",
             "meaning": "Purity and innocence"
           },
           {
@@ -307,7 +314,8 @@
       "description": "For heartache, separation, and consolation.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -352,7 +360,8 @@
       "description": "For grief, loss, and difficult times.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -397,7 +406,8 @@
       "description": "To warn someone or signal impending trouble.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,

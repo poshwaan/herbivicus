@@ -7,7 +7,8 @@
       "description": "Known for its medicinal properties, its thick, fleshy leaves contain a soothing gel. Ideal for indoor and outdoor settings.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 50,
@@ -51,7 +52,7 @@
         ],
         "care_instructions": [
           "Water deeply, then allow soil to dry completely before next irrigation.",
-          "Keep indoors near bright window during cold winter months (above 10°C).",
+          "Keep indoors near bright window during cold winter months (above 10\u00b0C).",
           "Never leave root ball sitting in pooled drainage water.",
           "Harvest lowest outer fleshy leaves cleanly from base as needed for skin soothing."
         ]
@@ -65,7 +66,8 @@
       "description": "Stunning dark-leaved succulent forming rose-like clusters. Deep burgundy to black coloring creates dramatic contrast. Collector's favorite.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -109,7 +111,7 @@
         ],
         "care_instructions": [
           "Water moderately in spring and autumn; reduce watering significantly in hot summer dormancy.",
-          "Protect from severe winter frost below 0°C by keeping indoors near south window.",
+          "Protect from severe winter frost below 0\u00b0C by keeping indoors near south window.",
           "Dust rosettes with soft dry brush to maintain velvety sheen."
         ]
       },
@@ -122,7 +124,8 @@
       "description": "Low-maintenance desert cactus variety. Ideal for indoor decor and xeriscaping. Requires minimal watering.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 70,
@@ -177,10 +180,11 @@
       "description": "Beautiful rosette-forming succulent with thick, fleshy leaves. Pink, blue, or purple tinges depending on variety. Ideal container plant.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 50
       },
       "stock": {
-        "total": 40,
+        "total": 9,
         "is_featured": false
       },
       "media": {
@@ -233,7 +237,8 @@
       "description": "Charming rosette succulent with lime-green leaves forming pinwheel pattern. Compact and perfect for small spaces and collections.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 35,
@@ -288,7 +293,8 @@
       "description": "Succulent kalanchoe with fleshy leaves and bright cluster flowers. Very low maintenance, thrives in dry conditions. Perfect for beginners.",
       "price": {
         "amount": 69,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 60,
@@ -325,7 +331,7 @@
         "growing_instructions": [
           "Repot after winter bloom fades in April or May in well-drained compost.",
           "Builds foliage through summer (June-August); short autumn days in October initiate flower buds.",
-          "Must be kept indoors at 15-20°C from November through March for vibrant winter blooming.",
+          "Must be kept indoors at 15-20\u00b0C from November through March for vibrant winter blooming.",
           "Water moderately while in bloom; let topsoil dry out between waterings."
         ],
         "care_instructions": [
@@ -344,7 +350,8 @@
       "description": "Unique cactus with segmented stems resembling peanuts. Orange-red flowers bloom in spring. Great for containers and collectors.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -381,12 +388,12 @@
         "growing_instructions": [
           "Plant clustering finger stems in gritty cactus compost in April or May.",
           "Produces striking bright scarlet-orange flowers in late spring from May to June.",
-          "Requires cool but frost-free winter rest (5-10°C) indoors from November to March to set flower buds.",
+          "Requires cool but frost-free winter rest (5-10\u00b0C) indoors from November to March to set flower buds.",
           "Keep soil completely dry from December to February."
         ],
         "care_instructions": [
           "Water every 10-14 days in summer; keep completely dry in winter.",
-          "A cool winter rest (5-10°C) is required to trigger sensational spring flowering.",
+          "A cool winter rest (5-10\u00b0C) is required to trigger sensational spring flowering.",
           "Handle finger offsets gently when repotting."
         ]
       },

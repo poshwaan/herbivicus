@@ -7,7 +7,8 @@
       "description": "Popular indoor money plant (Epipremnum aureum) known for its air-purifying qualities. Easy to grow in pots or hanging baskets.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -65,7 +66,8 @@
       "description": "Popular indoor plant with large, glossy, deep green leaves. Excellent air purifier. Grows into a statement piece with minimal care.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 2,
@@ -106,7 +108,7 @@
         "growing_instructions": [
           "Repot into rich, aerated potting soil between April and June as indoor spring temperatures rise.",
           "Foliage expands steadily from May to September in bright, filtered sunlight.",
-          "Not frost hardy in Kashmir; maintain indoors at 15°C+ with protection from sub-zero drafts and heater vents from November through March.",
+          "Not frost hardy in Kashmir; maintain indoors at 15\u00b0C+ with protection from sub-zero drafts and heater vents from November through March.",
           "Growth slows from December to February; water sparingly only when the top 3 inches of potting mix feel dry."
         ],
         "care_instructions": [
@@ -125,7 +127,8 @@
       "description": "Striking upright succulent with variegated leaves. Extremely tough and low-maintenance. Excellent air purifier for any space.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 15,
@@ -186,7 +189,8 @@
       "description": "Classic indoor plant with arching, striped leaves. Produces baby plantlets (spiderettes) on runners. Easy care and excellent air purifier.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,

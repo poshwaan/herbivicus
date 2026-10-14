@@ -7,7 +7,8 @@
       "description": "A classic Caladium cultivar with large heart-shaped leaves featuring brilliant white centres and bold green margins and veins. Native to tropical South America, this tuberous plant is prized for its dramatic foliage contrast.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 85,
@@ -34,7 +35,7 @@
         "growing_instructions": [
           "Start tubers indoors in April or plant outside in late May after all spring frost risks have passed.",
           "Vibrant foliage display peaks from June through September in warm, humid shade.",
-          "Cannot survive Kashmir's sub-zero winter; dig up tubers before frost in October and store dry indoors at 15°C.",
+          "Cannot survive Kashmir's sub-zero winter; dig up tubers before frost in October and store dry indoors at 15\u00b0C.",
           "Tubers remain completely dormant underground from November through March."
         ],
         "care_instructions": [
@@ -62,7 +63,8 @@
       "description": "Compact ornamental pepper plant with small, round, cherry-like peppers in vibrant colors. Highly ornamental with attractive foliage and colorful fruit. Prolific producer of mild to moderately hot peppers.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -113,12 +115,13 @@
     },
     {
       "id": "cycas-palm",
-      "title": "Cycas Palm",
+      "title": "Cycas Palm (Young)",
       "category": "ornamental-plant",
-      "description": "Ancient tropical palm with feathery fronds. Primitive beauty and tropical appeal. Slow-growing but very long-lived.",
+      "description": "A slow-growing, ancient cycad with a sturdy trunk and glossy, feather-like evergreen fronds. Adds a sculptural, tropical look to indoor spaces, patios, and sheltered gardens. Toxic if ingested; keep away from pets and children.",
       "price": {
-        "amount": 149,
-        "currency": "INR"
+        "amount": 249,
+        "currency": "INR",
+        "discount_percent": 60
       },
       "stock": {
         "total": 8,
@@ -132,13 +135,12 @@
       "properties": {
         "season": [
           "spring",
-          "summer",
-          "autumn"
+          "summer"
         ],
         "lifecycle": "perennial",
         "sunlight": "partial",
         "water": "weekly",
-        "height_cm": "60-150",
+        "height_cm": "30-40",
         "difficulty": "moderate",
         "frost_hardy": false,
         "indoor_suitable": true,
@@ -146,29 +148,30 @@
         "edible": false
       },
       "symbolism": {
-        "origin": "One of the oldest surviving plant lineages on Earth, dating back over 200 million years to the Jurassic era; universally represents longevity, noble dignity, and ancient endurance.",
+        "origin": "Cycads are an ancient lineage of seed plants that existed long before modern flowering plants. Their longevity and enduring form inspire associations with resilience, permanence, and timeless strength.",
         "meanings": [
           "Longevity",
           "Ancient endurance",
-          "Noble dignity",
-          "Timeless strength"
+          "Timeless strength",
+          "Resilience"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Plant or repot in gritty, well-draining soil in May after frosty nights conclude.",
-          "A new flush of stiff feathery fronds emerges during warm summer months from June through August.",
-          "Tender to Kashmir's freezing sub-zero chills; move into protected sunrooms or indoors from November to March.",
-          "Water sparingly once every 2-3 weeks during winter rest from December through February."
+          "Grow in well-draining soil enriched with gritty material. Use a pot with drainage holes to prevent waterlogging.",
+          "Place in bright, filtered light or partial shade, protecting foliage from harsh afternoon sun when acclimating.",
+          "Keep outdoors only during frost-free weather in Kashmir. Move to a bright, sheltered indoor space before temperatures approach freezing.",
+          "Water thoroughly when the upper soil has dried, allowing excess water to drain. Reduce watering during winter and avoid keeping the soil constantly wet."
         ],
         "care_instructions": [
-          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
-          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
-          "Prune shape-forming shrubs in late winter before active spring flush.",
-          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+          "Use a well-draining potting mix and avoid standing water around the roots.",
+          "Feed sparingly with a balanced fertilizer during active growth, following the product label.",
+          "Remove only dead or damaged fronds; healthy green fronds support the plant's growth.",
+          "Inspect periodically for scale insects, mealybugs, and spider mites.",
+          "Keep away from children and pets. All parts of Cycas revoluta are toxic if ingested, particularly the seeds."
         ]
       },
-      "is_potted": false
+      "is_potted": true
     },
     {
       "id": "english-ivy-creeper",
@@ -177,7 +180,8 @@
       "description": "Classic evergreen climbing ivy with glossy green leaves. Perfect for covering walls or trellises. Excellent groundcover for shaded areas.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 45,
@@ -207,7 +211,7 @@
         "growing_instructions": [
           "Plant rooted climbers in garden borders or planters in March-April or September-October.",
           "Rapid vine extension and leaf coverage occur across Kashmir spring and summer from May to August.",
-          "Completely frost-hardy down to -15°C; maintains glossy evergreen foliage throughout snowy valley winters.",
+          "Completely frost-hardy down to -15\u00b0C; maintains glossy evergreen foliage throughout snowy valley winters.",
           "Prune vigorous shoots in late February or March just before early spring growth starts."
         ],
         "care_instructions": [
@@ -235,7 +239,8 @@
       "description": "Lush, delicate fern with feathery fronds. Thrives in shade and humidity. Adds tropical elegance to indoor spaces and shaded gardens.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 50,
@@ -292,7 +297,8 @@
       "description": "Graceful palm with feathery fronds. Creates tropical ambiance. Hardy variety suitable for indoor and outdoor cultivation.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -349,7 +355,8 @@
       "description": "Coniferous tree with golden-yellow foliage. Pyramidal form and warm coloring. Year-round ornamental interest for landscapes.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -407,7 +414,8 @@
       "description": "Evergreen pine tree with soft green needles. Elegant coniferous form. Excellent for landscaping and creating windbreaks.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -465,7 +473,8 @@
       "description": "Tall, slender Italian Cypress with dark green foliage. Ideal for formal gardens and Mediterranean landscapes. Requires full sun and well-drained soil.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -523,7 +532,8 @@
       "description": "Decorative shrub with elegant variegated foliage. Unique fall colors and interesting winged seed pods. Attractive year-round.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 25,
@@ -553,7 +563,7 @@
         "growing_instructions": [
           "Set out evergreen hedge saplings in March-April or during autumn in October.",
           "Dense glossy foliage pushes actively from April through August.",
-          "Fully winter-hardy across Srinagar; easily survives frost and sub-zero temperatures down to -12°C.",
+          "Fully winter-hardy across Srinagar; easily survives frost and sub-zero temperatures down to -12\u00b0C.",
           "Shear hedge lines in late February or mid-summer in July."
         ],
         "care_instructions": [
@@ -580,7 +590,8 @@
       "description": "Tropical shrub with striking deep purple foliage. Small pink or purple flowers add charm. Excellent for adding color to gardens.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 40,
@@ -636,7 +647,8 @@
       "description": "Elegant Japanese red maple sapling with vibrant red foliage. Thrives in temperate climates. Perfect for gardens and landscapes.",
       "price": {
         "amount": 999,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 40,
@@ -693,7 +705,8 @@
       "description": "Aromatic Mediterranean herb with needle-like silvery-green leaves and small blue flowers. Versatile culinary and medicinal herb with been associated with memory and remembrance since antiquity.",
       "price": {
         "amount": 79,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 40,
@@ -724,7 +737,7 @@
         "growing_instructions": [
           "Transplant saplings into gritty, free-draining garden soil in April or May.",
           "Fragrant needle growth and pale blue flowers peak from May through August.",
-          "Moderately frost hardy; mulch root base heavily or protect against severe -5°C snow freezes from December to February.",
+          "Moderately frost hardy; mulch root base heavily or protect against severe -5\u00b0C snow freezes from December to February.",
           "Prune lightly after summer flowering in August; avoid cutting into old woody stems in winter."
         ],
         "care_instructions": [
@@ -752,7 +765,8 @@
       "description": "Vibrant tropical vine with colorful papery bracts. Produces stunning cascades of pink, purple, orange, or red. Thrives in warm, sunny spots.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 2,

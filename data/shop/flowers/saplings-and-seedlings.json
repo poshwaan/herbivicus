@@ -7,7 +7,8 @@
       "description": "Also called Peruvian Lily or Lily of the Incas, alstroemeria produces vibrant, long-lasting blooms with characteristic streaked inner petals. Native to South America, it symbolizes friendship and devotion.",
       "price": {
         "amount": 49,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -62,7 +63,8 @@
       "description": "Sweet alyssum is a delicate annual ground cover producing masses of tiny, honey-scented white or pink flowers. Native to the Mediterranean, it blooms prolifically and attracts beneficial insects like bees and butterflies.",
       "price": {
         "amount": 9,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 120,
@@ -117,7 +119,8 @@
       "description": "Asters are daisy-like perennials blooming in late summer and autumn in shades of purple, pink, blue, and white. They are an essential late-season source of nectar for pollinators and add color to the autumn garden.",
       "price": {
         "amount": 9,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -170,7 +173,8 @@
       "description": "Azalea is a flowering shrub prized for its spectacular spring display of large, showy blooms. It prefers acidic soil and partial shade, and is a staple of cottage and Japanese-style gardens.",
       "price": {
         "amount": 249,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -223,7 +227,8 @@
       "description": "Low-growing succulent with bright pink flowers. Excellent groundcover for sunny spots. Drought tolerant and heat loving.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 50,
@@ -255,7 +260,7 @@
       },
       "growing_guide": {
         "growing_instructions": [
-          "Plant in sunny rockeries or hanging baskets in May once night temperatures stay above 10°C.",
+          "Plant in sunny rockeries or hanging baskets in May once night temperatures stay above 10\u00b0C.",
           "Fleshy trailing stems and bright magenta blooms spread vigorously from June through September.",
           "Extremely frost-tender and will turn to mush in freezing cold; bring indoors or take cuttings in October.",
           "Must have indoor protection in a warm, sunny room from November through March."
@@ -271,12 +276,13 @@
     },
     {
       "id": "baby-s-breath",
-      "title": "Baby’s Breath",
+      "title": "Baby\u2019s Breath",
       "category": "saplings-and-seedlings",
       "description": "Baby's breath (Gypsophila) produces clouds of tiny, delicate white or pink flowers on wiry branching stems. A staple of the florist's art, it is used to add lightness and texture to bouquets and arrangements.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -329,7 +335,8 @@
       "description": "Garden balsam (Impatiens balsamina) is an old-fashioned annual with cup-shaped, camellia-like flowers nestled among lance-shaped leaves. It thrives in warm, humid conditions and is beloved for its ease of care.",
       "price": {
         "amount": 9,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 65,
@@ -382,7 +389,8 @@
       "description": "Begonias are versatile flowering plants prized for their colorful blooms and attractive foliage. Available in hundreds of varieties, they are ideal for shade gardens, hanging baskets, and containers, blooming from spring to frost.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 75,
@@ -407,7 +415,7 @@
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Named after Michel Bégon; its sound-alike phrase “be gone” suggested caution.",
+        "origin": "Named after Michel B\u00e9gon; its sound-alike phrase \u201cbe gone\u201d suggested caution.",
         "meanings": [
           "To repay a favor",
           "A warning"
@@ -436,7 +444,8 @@
       "description": "Butterfly weed (Asclepias tuberosa) is a bright North American wildflower producing dense clusters of vibrant orange, yellow, or red flowers. A critical host plant for monarch butterfly caterpillars, it is essential for pollinator gardens.",
       "price": {
         "amount": 29,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -489,7 +498,8 @@
       "description": "Calendula, or pot marigold, is a bright annual with cheerful orange and yellow daisy-like flowers. Its petals are edible and have been used medicinally since ancient times for their anti-inflammatory and skin-healing properties.",
       "price": {
         "amount": 29,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 70,
@@ -544,7 +554,8 @@
       "description": "The California poppy is the state flower of California, producing silky, cup-shaped blooms in shades of orange, yellow, and cream. It is drought-tolerant, self-seeding, and thrives in poor, well-drained soils.",
       "price": {
         "amount": 9,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 60,
@@ -598,7 +609,8 @@
       "description": "Calla lily (Zantedeschia) is renowned for its elegant, trumpet-shaped spathe and glossy arrow-shaped leaves. A favorite in bridal bouquets and ornamental gardens, it conveys purity and magnificent beauty.",
       "price": {
         "amount": 349,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 25,
@@ -633,7 +645,7 @@
           "Plant rhizomes or potted saplings in fertile, moist soil in May after frost danger clears.",
           "Architectural ivory spathes bloom beautifully from late June through August.",
           "Not cold-hardy in Srinagar; lift rhizomes before October frosts and store in dry peat.",
-          "Keep overwintering rhizomes indoors at 10-15°C from November through March."
+          "Keep overwintering rhizomes indoors at 10-15\u00b0C from November through March."
         ],
         "care_instructions": [
           "Water lightly after planting, then maintain moderate moisture through flowering.",
@@ -651,7 +663,8 @@
       "description": "Carnations (Dianthus caryophyllus) are among the oldest cultivated flowers, prized for their spicy, clove-like fragrance and ruffled, fringed petals. They symbolize love and fascination and come in virtually every color.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 65,
@@ -677,9 +690,9 @@
         "fragrant": true
       },
       "symbolism": {
-        "origin": "Linked to the Virgin Mary’s tears at Christ’s crucifixion.",
+        "origin": "Linked to the Virgin Mary\u2019s tears at Christ\u2019s crucifixion.",
         "meanings": [
-          "Mother’s eternal love",
+          "Mother\u2019s eternal love",
           "Heartache"
         ]
       },
@@ -706,7 +719,8 @@
       "description": "Chrysanthemums, or mums, are the quintessential autumn flower, producing dense pompom or daisy-like blooms in a vast spectrum of colors. In East Asian cultures they symbolize longevity and rejuvenation.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 80,
@@ -730,7 +744,7 @@
         "indoor_suitable": false
       },
       "symbolism": {
-        "origin": "Commonly used in European funerals and All Souls’ Day rituals.",
+        "origin": "Commonly used in European funerals and All Souls\u2019 Day rituals.",
         "meanings": [
           "Condolences"
         ]
@@ -758,7 +772,8 @@
       "description": "Cockscomb (Celosia argentea var. cristata) is a striking annual with velvety, crested flower heads resembling a rooster's comb. It thrives in warm climates and adds bold color to gardens and floral arrangements.",
       "price": {
         "amount": 19,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 70,
@@ -812,7 +827,8 @@
       "description": "Cornflowers (Centaurea cyanus) are annual wildflowers producing intense sky-blue, purple, pink, or white flowers. Once common in European grain fields, they are now valued as cottage garden plants and cut flowers.",
       "price": {
         "amount": 49,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -865,7 +881,8 @@
       "description": "Cosmos are graceful annuals producing delicate, daisy-like flowers on airy stems in shades of pink, red, orange, purple, and white. Heat and drought tolerant, they bloom prolifically from summer until frost.",
       "price": {
         "amount": 9,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 110,
@@ -919,7 +936,8 @@
       "description": "Daffodils (Narcissus) are iconic spring bulbs bearing cheerful yellow or white trumpet-shaped flowers. They are among the first flowers to bloom after winter and are toxic to most animals, deterring pests naturally.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 90,
@@ -972,7 +990,8 @@
       "description": "Dahlias are tuberous perennials native to Mexico and Central America, producing showy blooms in an astonishing variety of forms and colors from midsummer until frost. They were once prized as a food source by the Aztecs.",
       "price": {
         "amount": 9,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 50,
@@ -1026,7 +1045,8 @@
       "description": "The classic garden daisy features pristine white ray petals surrounding a bright yellow disc center. Simple and cheerful, it has appeared in mythology and literature across cultures as a symbol of innocence and new beginnings.",
       "price": {
         "amount": 19,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 85,
@@ -1081,7 +1101,8 @@
       "description": "The Damask rose (Rosa damascena) is a legendary ancient rose originating in the Middle East, famed for its intensely rich fragrance. It is the primary source of rose water and rose attar used in perfumery worldwide.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 40,
@@ -1136,7 +1157,8 @@
       "description": "Dianthus, commonly called pinks, are fragrant perennial or annual flowers with fringed, tooth-edged petals in shades of pink, red, and white. The name means \"flower of the gods\" in Greek.",
       "price": {
         "amount": 19,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 75,
@@ -1185,68 +1207,14 @@
       "is_potted": false
     },
     {
-      "id": "fuchsia",
-      "title": "Fuchsia",
-      "category": "saplings-and-seedlings",
-      "description": "Elegant plant with tubular flowers in contrasting colors. Graceful pendant blooms attract hummingbirds. Prefers cool, shaded locations.",
-      "price": {
-        "amount": 199,
-        "currency": "INR"
-      },
-      "stock": {
-        "total": 20,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/flowers/saplings-and-seedlings/fuchsia.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "summer"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "partial",
-        "water": "bi-weekly",
-        "height_cm": "30-80",
-        "difficulty": "moderate",
-        "frost_hardy": false,
-        "indoor_suitable": true
-      },
-      "growing_guide": {
-        "growing_instructions": [
-          "Plant in cool, dappled morning light or containers in mid-May once night chills abate.",
-          "Two-toned pendent bell flowers drape gracefully from June through September.",
-          "Cannot survive Kashmir outdoor winter freezing; bring potted plants indoors in October.",
-          "Overwinter in a cool, bright, frost-free room (5-10°C) with minimal water from Nov-Mar."
-        ],
-        "care_instructions": [
-          "Water deeply, then allow slight surface drying before next irrigation.",
-          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
-          "Prune after major bloom flush or during dormancy depending on species.",
-          "Remove diseased foliage promptly and improve airflow around dense plants."
-        ]
-      },
-      "symbolism": {
-        "origin": "Discovered in the Caribbean and named in honor of German botanist Leonhart Fuchs; in Victorian floriography, its nodding, pendulous blossoms represented confiding love and humble elegance.",
-        "meanings": [
-          "Confiding love",
-          "Amiability",
-          "Humble elegance",
-          "Graceful charm"
-        ]
-      },
-      "is_potted": false
-    },
-    {
       "id": "geranium",
       "title": "Geranium",
       "category": "saplings-and-seedlings",
       "description": "Garden geraniums (Pelargonium) are among the most popular container and bedding plants worldwide, valued for their bright flower clusters, attractive leaves, and robust nature. They thrive in sunny spots with well-drained soil.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 75,
@@ -1300,7 +1268,8 @@
       "description": "Large, vibrant daisy-like flowers in bold colors. Cheerful blooms on long stems. Popular as ornamental plant and cut flower.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 45,
@@ -1329,7 +1298,7 @@
           "Plant in well-draining garden soil or pots in May, keeping the central crown slightly elevated.",
           "Stately, bold blooms rise on sturdy stems from June through September.",
           "Tender perennial that cannot survive freezing Kashmir ground; move pots indoors in October.",
-          "Keep on a sunny windowsill at 15-20°C from November through March."
+          "Keep on a sunny windowsill at 15-20\u00b0C from November through March."
         ],
         "care_instructions": [
           "Water when topsoil dries; avoid constant wetness during cold spells.",
@@ -1356,7 +1325,8 @@
       "description": "Vibrant daisy-like flowers in orange, red, or yellow with distinctive striped patterns. Sun-loving annual or perennial groundcover.",
       "price": {
         "amount": 19,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 80,
@@ -1412,7 +1382,8 @@
       "description": "Gladiolus produces dramatic tall spikes of large, funnel-shaped flowers in nearly every color. Originally from South Africa, the corms are planted in spring for summer blooms that are spectacular as cut flowers.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 45,
@@ -1464,7 +1435,8 @@
       "description": "Godetia (Clarkia amoena), also known as Farewell-to-Spring, is a Western North American wildflower producing large, silky, cup-shaped blooms in shades of pink, red, lavender, and white. It prefers cool weather.",
       "price": {
         "amount": 29,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 50,
@@ -1518,7 +1490,8 @@
       "description": "Hollyhocks are stately biennials or perennials that send up towering spikes of large, single or double flowers in a wide range of colors. A cottage garden classic, they often self-seed freely along walls and fences.",
       "price": {
         "amount": 29,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 70,
@@ -1571,7 +1544,8 @@
       "description": "Hyacinths are spring-blooming bulbs renowned for their intensely sweet, heady fragrance and dense racemes of small, star-shaped flowers. They are perfect for forcing indoors in winter for early color and scent.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 40,
@@ -1596,7 +1570,7 @@
         "fragrant": true
       },
       "symbolism": {
-        "origin": "From Apollo’s grief over Hyacinthus in Greek myth.",
+        "origin": "From Apollo\u2019s grief over Hyacinthus in Greek myth.",
         "meanings": [
           "Please forgive me"
         ]
@@ -1624,7 +1598,8 @@
       "description": "Hydrangeas are magnificent flowering shrubs producing enormous, dome-shaped or lacecap flower heads in shades of blue, pink, white, and purple. The flower color of some varieties is influenced by soil pH, turning blue in acidic soils.",
       "price": {
         "amount": 399,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 10,
@@ -1678,7 +1653,8 @@
       "description": "Irises are elegant perennials with distinctive sword-like foliage and intricate, bearded or beardless flowers. Named after the Greek goddess of the rainbow, they come in virtually every color and combination.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 35,
@@ -1732,7 +1708,8 @@
       "description": "Jasmine is a climbing or shrubby plant producing clusters of small, intensely fragrant white or yellow flowers. Widely used in garlands, tea, and perfumery across Asia, it is a symbol of amiability and grace.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -1787,7 +1764,8 @@
       "description": "Larkspur (Delphinium consolida) is an annual producing tall, graceful spikes of spurred flowers in shades of blue, purple, pink, and white. A classic cottage garden and cutting garden annual, it dries beautifully for arrangements.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -1812,7 +1790,7 @@
         "indoor_suitable": false
       },
       "symbolism": {
-        "origin": "Named for a lark’s foot; associated with lightness.",
+        "origin": "Named for a lark\u2019s foot; associated with lightness.",
         "meanings": [
           "Levity"
         ]
@@ -1840,7 +1818,8 @@
       "description": "Lavender is an aromatic Mediterranean shrub producing spikes of small purple flowers beloved by pollinators. Its dried flowers and essential oil are used extensively in aromatherapy, cosmetics, and culinary applications.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 55,
@@ -1865,7 +1844,7 @@
         "fragrant": true
       },
       "symbolism": {
-        "origin": "Linked to venomous snakes and Cleopatra’s legend.",
+        "origin": "Linked to venomous snakes and Cleopatra\u2019s legend.",
         "meanings": [
           "Distrust"
         ]
@@ -1875,7 +1854,7 @@
           "Plant saplings in gritty, fast-draining sunny soil in April or May.",
           "Aromatic purple flower spikes open in abundance from June through August.",
           "Lightly shear spent blooms in late August to maintain a compact rounded shrub.",
-          "Hardy English lavender overwinters under Kashmir snow down to -15°C with good drainage."
+          "Hardy English lavender overwinters under Kashmir snow down to -15\u00b0C with good drainage."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -1893,7 +1872,8 @@
       "description": "Lilacs are deciduous shrubs or small trees that produce spectacular clusters of intensely fragrant flowers in spring. Hardy and long-lived, they are a cherished feature of temperate gardens and a symbol of first love.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -1947,7 +1927,8 @@
       "description": "True lilies are stately bulbous perennials producing large, often fragrant trumpet or turks cap flowers on tall stems. They come in a spectacular range of colors and are among the most beloved of all garden flowers.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -2000,7 +1981,8 @@
       "description": "Marigolds are cheerful, sun-loving annuals producing bold pompom flowers in shades of orange, yellow, and gold. Easy to grow and prolific, they are widely used as companion plants to deter garden pests.",
       "price": {
         "amount": 49,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 150,
@@ -2053,7 +2035,8 @@
       "description": "Miniature roses are petite versions of classic roses with tiny, intricately formed blooms. Perfect for containers, bonsai, and compact spaces, they come in all rose colors and bloom prolifically.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -2110,7 +2093,8 @@
       "description": "Morning glories are fast-growing annual vines producing a profusion of trumpet-shaped flowers that open fresh each morning. Their vibrant blooms in blue, purple, pink, and white make them ideal for fences and trellises.",
       "price": {
         "amount": 49,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 80,
@@ -2164,7 +2148,8 @@
       "description": "Nerium oleander is a beautiful, fast-growing Mediterranean shrub producing clusters of fragrant flowers in shades of pink, red, and white throughout summer. Highly ornamental but extremely toxic in all its parts.",
       "price": {
         "amount": 249,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 12,
@@ -2216,7 +2201,8 @@
       "description": "Pansies are charming cool-weather annuals with distinctive \"face\" markings on their velvety petals. Available in an extraordinary range of colors and bi-colors, they are a beloved staple of spring and autumn gardens.",
       "price": {
         "amount": 49,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 200,
@@ -2241,7 +2227,7 @@
         "indoor_suitable": false
       },
       "symbolism": {
-        "origin": "From the French *pensée*, meaning thought.",
+        "origin": "From the French *pens\u00e9e*, meaning thought.",
         "meanings": [
           "You occupy my thoughts"
         ]
@@ -2269,7 +2255,8 @@
       "description": "Peonies are long-lived herbaceous perennials producing enormous, luxuriously fragrant blooms in shades of white, pink, and red. Among the most cherished of all garden flowers, they can live and bloom for over a century.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -2322,7 +2309,8 @@
       "description": "Periwinkle is a low-maintenance evergreen ground cover or trailing plant with glossy dark green leaves and cheerful five-petaled flowers in blue, violet, or white. It thrives in sun or shade with minimal care.",
       "price": {
         "amount": 49,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 99,
@@ -2376,7 +2364,8 @@
       "description": "Petunias are among the most popular summer bedding plants, producing masses of trumpet-shaped flowers in every color of the rainbow throughout the season. Available in trailing and upright forms, they are superb in containers.",
       "price": {
         "amount": 19,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 50,
@@ -2430,7 +2419,8 @@
       "description": "Phlox is a North American native producing masses of star-shaped, fragrant flowers in a wide range of colors. Garden phlox is a cottage garden staple, while creeping phlox creates a carpet of spring color.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 60,
@@ -2484,7 +2474,8 @@
       "description": "The traditional Kashmiri pink rose is a heritage variety prized for its full, fragrant blooms in delicate shades of pink. Grown in the famous rose gardens of Kashmir, it is used for rose water and as an ornamental.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 35,
@@ -2539,7 +2530,8 @@
       "description": "Primroses (Primula) are charming spring-flowering perennials producing clusters of bright, cheerful blooms in shades of yellow, red, pink, purple, and white. They thrive in cool, moist soil and partial shade.",
       "price": {
         "amount": 39,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 59,
@@ -2592,7 +2584,8 @@
       "description": "Deciduous shrub with spectacular white snowball-like flower clusters. Stunning spring display followed by red berries. Classic cottage garden plant.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 15,
@@ -2647,7 +2640,8 @@
       "description": "Stocks (Matthiola incana) are old-fashioned annuals or biennials producing tall spikes of densely packed, intensely fragrant flowers in shades of pink, white, red, and purple. Their sweet scent fills gardens in spring.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 55,
@@ -2702,7 +2696,8 @@
       "description": "Sunflowers are iconic annual plants native to North America, growing tall with large, golden ray flowers surrounding a central disc. They track the sun when young and produce nutritious seeds loved by birds and humans.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 80,
@@ -2754,7 +2749,8 @@
       "description": "Sweet William (Dianthus barbatus) is a biennial or short-lived perennial producing dense, domed clusters of small, fragrant flowers in striking patterns of red, pink, white, and bicolors. A cottage garden classic.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 50,
@@ -2808,7 +2804,8 @@
       "description": "Tiger lilies (Lilium lancifolium) are exotic perennial bulbs producing nodding turks-cap flowers with distinctive black or dark spots. Hardy, vigorous, and striking, they add drama to any garden.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 25,
@@ -2862,7 +2859,8 @@
       "description": "Tulips are beloved spring-blooming bulbs native to Central Asia, producing elegant cup-shaped flowers in virtually every color of the spectrum. They were the subject of the famous 17th-century Dutch Tulipmania speculation.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 100,
@@ -2914,7 +2912,8 @@
       "description": "Verbena is a sun-loving annual or perennial producing clusters of small, brightly colored flowers in shades of purple, pink, red, and white. Long-blooming and heat-tolerant, it is excellent for containers and hanging baskets.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 90,
@@ -2968,7 +2967,8 @@
       "description": "Yarrow (Achillea millefolium) is a robust perennial wildflower with feathery aromatic leaves and flat-topped clusters of tiny flowers in white, yellow, pink, or red. Named after Achilles, who is said to have used it to heal wounds.",
       "price": {
         "amount": 49,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 0,
@@ -3021,7 +3021,8 @@
       "description": "Zinnias are vibrant, heat-loving annuals native to Mexico, producing bold daisy-like flowers in every color except blue. Easy to grow from seed and highly attractive to butterflies, they bloom continuously from summer to frost.",
       "price": {
         "amount": 99,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 100,

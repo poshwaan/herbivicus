@@ -7,7 +7,8 @@
       "description": "Bundle of 10 long-stemmed ruffled carnations with sweet clove fragrance and exceptional 2-week vase life.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -31,9 +32,9 @@
         "fragrant": true
       },
       "symbolism": {
-        "origin": "Linked to the Virgin Mary’s tears at Christ’s crucifixion.",
+        "origin": "Linked to the Virgin Mary\u2019s tears at Christ\u2019s crucifixion.",
         "meanings": [
-          "Mother’s eternal love",
+          "Mother\u2019s eternal love",
           "Heartache"
         ]
       },
@@ -64,7 +65,8 @@
       "description": "Heirloom Kashmiri Damask roses harvested at dawn for intoxicating fragrance and natural velvet petals.",
       "price": {
         "amount": 349,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -121,7 +123,8 @@
       "description": "Traditional pink garden roses freshly cut on sturdy stems. Romantic and fragrant.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 25,
@@ -178,7 +181,8 @@
       "description": "Radiant, bold-colored gerbera daisy stems that bring vibrant energy to any floral vase arrangement.",
       "price": {
         "amount": 249,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 25,
@@ -237,7 +241,8 @@
       "description": "Stately tall flowering spikes with successive blossoms, perfect for dramatic tall vase displays.",
       "price": {
         "amount": 199,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -291,7 +296,8 @@
       "description": "Cloud-like clusters of tiny delicate white gypsophila blossoms, ideal as standalone filler or airy decor.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 40,
@@ -346,7 +352,8 @@
       "description": "Spectacular star-shaped trumpet blooms with intense fragrance and commanding tabletop presence.",
       "price": {
         "amount": 299,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 20,
@@ -401,7 +408,8 @@
       "description": "Crisp, elegant spring tulip stems in an array of bright and pastel tones for gifting.",
       "price": {
         "amount": 249,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 25,
@@ -455,7 +463,8 @@
       "description": "Peruvian lily stems featuring multiple miniature lily-like blooms per stem with superior vase longevity.",
       "price": {
         "amount": 179,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 30,
@@ -512,7 +521,8 @@
       "description": "Abundant spray mums with multiple colorful blooms per stem. Outstanding long-lasting vase flowers.",
       "price": {
         "amount": 149,
-        "currency": "INR"
+        "currency": "INR",
+        "discount_percent": 0
       },
       "stock": {
         "total": 35,
@@ -534,7 +544,7 @@
         "difficulty": "easy"
       },
       "symbolism": {
-        "origin": "Commonly used in European funerals and All Souls’ Day rituals.",
+        "origin": "Commonly used in European funerals and All Souls\u2019 Day rituals.",
         "meanings": [
           "Condolences"
         ]
