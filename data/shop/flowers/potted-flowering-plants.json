@@ -116,18 +116,18 @@
       "is_potted": true
     },
     {
-      "id": "geranium-potted",
+      "id": "geranium",
       "title": "Garden Geranium",
       "category": "potted-flowering-plant",
-      "description": "Vibrant flowering zonal geranium thriving in a container pot. Classic balcony and windowsill favorite.",
+      "description": "A colourful zonal geranium with vibrant flower clusters and rounded, often patterned foliage. Ideal for sunny balconies, windowsills, patios, and container displays.",
       "price": {
-        "amount": 249,
+        "amount": 399,
         "currency": "INR",
-        "discount_percent": 0
+        "discount_percent": 62
       },
       "stock": {
         "total": 20,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
@@ -142,31 +142,34 @@
         ],
         "lifecycle": "perennial",
         "sunlight": "full",
-        "water": "bi-weekly",
-        "height_cm": "30-50",
+        "water": "weekly",
+        "height_cm": "30-60",
         "difficulty": "easy",
         "frost_hardy": false,
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "The showy scarlet blooms were considered deceptively simple; Victorians used it to gently signal folly or a lack of depth.",
+        "origin": "Garden geraniums, commonly classified as Pelargonium cultivars, have inspired varied symbolic meanings across flower colours and Victorian floral traditions. Their abundant blooms and distinctive foliage evoke friendship, comfort, and positive feelings.",
         "meanings": [
-          "Folly",
-          "Stupidity"
+          "Friendship",
+          "Comfort",
+          "Positive feelings",
+          "Gentle affection"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Pot in rich, well-drained loam and move outdoors to sunny balconies in late April after frost.",
-          "Spectacular continuous flower heads bloom from May through October.",
-          "Not frost hardy in Kashmir winters; must be brought indoors to a sunny windowsill or frost-free porch from November through March.",
-          "Cut back leggy stems by half in March before returning plants outdoors."
+          "Grow in a well-draining potting mix and place in a sunny location with several hours of sunlight daily.",
+          "Move outdoors during frost-free weather in spring. Flowering can continue through summer and autumn under favourable conditions.",
+          "Protect from frost during Kashmir winters by moving the pot to a bright, frost-free indoor location.",
+          "In early spring, remove dead growth and trim leggy stems to encourage compact, bushy growth."
         ],
         "care_instructions": [
-          "Water thoroughly, then let top 3 cm dry out before irrigating again.",
-          "Pinch growing tips on young shoots to encourage bushy branching.",
-          "Remove spent flower umbels to prevent seed production and extend blooming season.",
-          "Move indoors or into a frost-free porch before severe winter frost."
+          "Water thoroughly when the upper layer of potting mix has dried, allowing excess water to drain freely.",
+          "Apply a balanced flowering-plant fertilizer during active growth according to the product label.",
+          "Remove faded flower clusters and yellowing leaves to maintain a tidy appearance and encourage further flowering.",
+          "Pinch back young shoots when needed to promote bushier growth.",
+          "Inspect periodically for aphids, whiteflies, and fungal problems, particularly when ventilation is poor."
         ]
       },
       "is_potted": true
@@ -205,7 +208,7 @@
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Named after Michel B\u00e9gon; its sound-alike phrase \u201cbe gone\u201d suggested caution.",
+        "origin": "Named after Michel Bégon; its sound-alike phrase “be gone” suggested caution.",
         "meanings": [
           "To repay a favor",
           "A warning"
@@ -353,7 +356,7 @@
       },
       "stock": {
         "total": 12,
-        "is_featured": true
+        "is_featured": false
       },
       "media": {
         "images": [
@@ -428,7 +431,7 @@
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Commonly used in European funerals and All Souls\u2019 Day rituals.",
+        "origin": "Commonly used in European funerals and All Souls’ Day rituals.",
         "meanings": [
           "Condolences"
         ]
@@ -551,7 +554,7 @@
           "Plant rhizomes in humus-rich, moist potting mix in April after freezing risks subside.",
           "Elegant architectural spathe blooms unfurl from late May through August.",
           "Tender to outdoor winter freezing; move pots indoors or lift rhizomes in October before frost.",
-          "Store dormant rhizomes in dry peat at 10-15\u00b0C from November through March."
+          "Store dormant rhizomes in dry peat at 10-15°C from November through March."
         ],
         "care_instructions": [
           "Keep soil evenly moist during active growth and blooming flush.",

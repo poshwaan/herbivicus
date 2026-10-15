@@ -52,7 +52,7 @@
         ],
         "care_instructions": [
           "Water deeply, then allow soil to dry completely before next irrigation.",
-          "Keep indoors near bright window during cold winter months (above 10\u00b0C).",
+          "Keep indoors near bright window during cold winter months (above 10°C).",
           "Never leave root ball sitting in pooled drainage water.",
           "Harvest lowest outer fleshy leaves cleanly from base as needed for skin soothing."
         ]
@@ -111,7 +111,7 @@
         ],
         "care_instructions": [
           "Water moderately in spring and autumn; reduce watering significantly in hot summer dormancy.",
-          "Protect from severe winter frost below 0\u00b0C by keeping indoors near south window.",
+          "Protect from severe winter frost below 0°C by keeping indoors near south window.",
           "Dust rosettes with soft dry brush to maintain velvety sheen."
         ]
       },
@@ -185,7 +185,7 @@
       },
       "stock": {
         "total": 9,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
@@ -331,7 +331,7 @@
         "growing_instructions": [
           "Repot after winter bloom fades in April or May in well-drained compost.",
           "Builds foliage through summer (June-August); short autumn days in October initiate flower buds.",
-          "Must be kept indoors at 15-20\u00b0C from November through March for vibrant winter blooming.",
+          "Must be kept indoors at 15-20°C from November through March for vibrant winter blooming.",
           "Water moderately while in bloom; let topsoil dry out between waterings."
         ],
         "care_instructions": [
@@ -388,12 +388,12 @@
         "growing_instructions": [
           "Plant clustering finger stems in gritty cactus compost in April or May.",
           "Produces striking bright scarlet-orange flowers in late spring from May to June.",
-          "Requires cool but frost-free winter rest (5-10\u00b0C) indoors from November to March to set flower buds.",
+          "Requires cool but frost-free winter rest (5-10°C) indoors from November to March to set flower buds.",
           "Keep soil completely dry from December to February."
         ],
         "care_instructions": [
           "Water every 10-14 days in summer; keep completely dry in winter.",
-          "A cool winter rest (5-10\u00b0C) is required to trigger sensational spring flowering.",
+          "A cool winter rest (5-10°C) is required to trigger sensational spring flowering.",
           "Handle finger offsets gently when repotting."
         ]
       },

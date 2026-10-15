@@ -1207,61 +1207,6 @@
       "is_potted": false
     },
     {
-      "id": "geranium",
-      "title": "Geranium",
-      "category": "saplings-and-seedlings",
-      "description": "Garden geraniums (Pelargonium) are among the most popular container and bedding plants worldwide, valued for their bright flower clusters, attractive leaves, and robust nature. They thrive in sunny spots with well-drained soil.",
-      "price": {
-        "amount": 199,
-        "currency": "INR",
-        "discount_percent": 0
-      },
-      "stock": {
-        "total": 75,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/flowers/saplings-and-seedlings/geranium.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "summer",
-          "autumn"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "full",
-        "water": "weekly",
-        "height_cm": "30-60",
-        "difficulty": "easy",
-        "frost_hardy": false,
-        "indoor_suitable": true
-      },
-      "symbolism": {
-        "origin": "The showy scarlet blooms were considered deceptively simple; Victorians used it to gently signal folly or a lack of depth.",
-        "meanings": [
-          "Folly",
-          "Stupidity"
-        ]
-      },
-      "growing_guide": {
-        "growing_instructions": [
-          "Move potted starts outdoors to sunny balconies in late April or early May.",
-          "Large rounded flower trusses bloom continuously in vibrant colors from May through October.",
-          "Tender to Kashmir sub-zero freezes; bring pots indoors to a sunny window from Nov-Mar.",
-          "Cut back leggy stems by half in March before placing back outdoors for spring."
-        ],
-        "care_instructions": [
-          "Water deeply, then allow slight surface drying before next irrigation.",
-          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
-          "Prune after major bloom flush or during dormancy depending on species.",
-          "Remove diseased foliage promptly and improve airflow around dense plants."
-        ]
-      },
-      "is_potted": false
-    },
-    {
       "id": "gerbera-daisy",
       "title": "Gerbera Daisy",
       "category": "saplings-and-seedlings",

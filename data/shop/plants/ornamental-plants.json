@@ -35,7 +35,7 @@
         "growing_instructions": [
           "Start tubers indoors in April or plant outside in late May after all spring frost risks have passed.",
           "Vibrant foliage display peaks from June through September in warm, humid shade.",
-          "Cannot survive Kashmir's sub-zero winter; dig up tubers before frost in October and store dry indoors at 15\u00b0C.",
+          "Cannot survive Kashmir's sub-zero winter; dig up tubers before frost in October and store dry indoors at 15°C.",
           "Tubers remain completely dormant underground from November through March."
         ],
         "care_instructions": [
@@ -177,15 +177,15 @@
       "id": "english-ivy-creeper",
       "title": "English Ivy Creeper",
       "category": "ornamental-plant",
-      "description": "Classic evergreen climbing ivy with glossy green leaves. Perfect for covering walls or trellises. Excellent groundcover for shaded areas.",
+      "description": "An evergreen climbing plant with glossy green leaves, ideal for covering trellises, walls, hanging planters, and shaded garden areas. Vigorous and easy to maintain, it also works well as groundcover.",
       "price": {
-        "amount": 299,
+        "amount": 399,
         "currency": "INR",
-        "discount_percent": 0
+        "discount_percent": 37
       },
       "stock": {
-        "total": 45,
-        "is_featured": false
+        "total": 4,
+        "is_featured": true
       },
       "media": {
         "images": [
@@ -202,35 +202,36 @@
         "lifecycle": "perennial",
         "sunlight": "partial",
         "water": "weekly",
-        "height_cm": "200-500",
+        "height_cm": "100-120",
         "difficulty": "easy",
         "frost_hardy": true,
         "indoor_suitable": true
       },
-      "growing_guide": {
-        "growing_instructions": [
-          "Plant rooted climbers in garden borders or planters in March-April or September-October.",
-          "Rapid vine extension and leaf coverage occur across Kashmir spring and summer from May to August.",
-          "Completely frost-hardy down to -15\u00b0C; maintains glossy evergreen foliage throughout snowy valley winters.",
-          "Prune vigorous shoots in late February or March just before early spring growth starts."
-        ],
-        "care_instructions": [
-          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
-          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
-          "Prune shape-forming shrubs in late winter before active spring flush.",
-          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
-        ]
-      },
       "symbolism": {
-        "origin": "In classical Greco-Roman mythology, ivy was sacred to Dionysus and represented binding friendship; in Christian and Victorian lore, it is the quintessential emblem of evergreen fidelity.",
+        "origin": "In Greek and Roman traditions, ivy was associated with Dionysus and enduring bonds. Its evergreen foliage and clinging growth have long made it a symbol of fidelity, steadfast friendship, and lasting affection.",
         "meanings": [
           "Fidelity",
           "Evergreen loyalty",
           "Steadfast friendship",
-          "Affection"
+          "Lasting affection"
         ]
       },
-      "is_potted": false
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant in well-draining soil during spring or autumn, choosing a location with partial shade or filtered sunlight.",
+          "Allow climbing stems to spread along a suitable trellis or support, or let the plant trail from a container.",
+          "English ivy tolerates cold conditions once established, but protect potted plants from severe frost and freezing winds in Kashmir.",
+          "Trim excessive growth in late winter or early spring to control its spread and maintain the desired shape."
+        ],
+        "care_instructions": [
+          "Water when the upper layer of soil begins to dry, adjusting frequency for weather, container size, and drainage.",
+          "Use a balanced fertilizer sparingly during active growth if needed.",
+          "Remove dead, damaged, or yellowing leaves and trim overgrown stems as required.",
+          "Inspect periodically for spider mites, scale insects, and aphids.",
+          "Wear gloves when pruning if your skin is sensitive. Keep away from children and pets, as the foliage and berries are toxic if ingested."
+        ]
+      },
+      "is_potted": true
     },
     {
       "id": "fern",
@@ -563,7 +564,7 @@
         "growing_instructions": [
           "Set out evergreen hedge saplings in March-April or during autumn in October.",
           "Dense glossy foliage pushes actively from April through August.",
-          "Fully winter-hardy across Srinagar; easily survives frost and sub-zero temperatures down to -12\u00b0C.",
+          "Fully winter-hardy across Srinagar; easily survives frost and sub-zero temperatures down to -12°C.",
           "Shear hedge lines in late February or mid-summer in July."
         ],
         "care_instructions": [
@@ -737,7 +738,7 @@
         "growing_instructions": [
           "Transplant saplings into gritty, free-draining garden soil in April or May.",
           "Fragrant needle growth and pale blue flowers peak from May through August.",
-          "Moderately frost hardy; mulch root base heavily or protect against severe -5\u00b0C snow freezes from December to February.",
+          "Moderately frost hardy; mulch root base heavily or protect against severe -5°C snow freezes from December to February.",
           "Prune lightly after summer flowering in August; avoid cutting into old woody stems in winter."
         ],
         "care_instructions": [
@@ -764,9 +765,8 @@
       "category": "ornamental-plant",
       "description": "Vibrant tropical vine with colorful papery bracts. Produces stunning cascades of pink, purple, orange, or red. Thrives in warm, sunny spots.",
       "price": {
-        "amount": 199,
-        "currency": "INR",
-        "discount_percent": 0
+        "amount": 249,
+        "currency": "INR"
       },
       "stock": {
         "total": 2,
@@ -815,7 +815,7 @@
           "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
       },
-      "is_potted": true
+      "is_potted": "true"
     }
   ]
 }
