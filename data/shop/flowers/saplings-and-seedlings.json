@@ -1264,8 +1264,8 @@
       "is_potted": false
     },
     {
-      "id": "ghazania",
-      "title": "Ghazania",
+      "id": "gazania",
+      "title": "Gazania",
       "category": "saplings-and-seedlings",
       "description": "Vibrant daisy-like flowers in orange, red, or yellow with distinctive striped patterns. Sun-loving annual or perennial groundcover.",
       "price": {
@@ -1279,7 +1279,7 @@
       },
       "media": {
         "images": [
-          "/images/shop/flowers/saplings-and-seedlings/ghazania.webp"
+          "/images/shop/flowers/saplings-and-seedlings/gazania.webp"
         ]
       },
       "properties": {
