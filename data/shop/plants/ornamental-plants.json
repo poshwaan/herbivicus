@@ -174,8 +174,8 @@
       "is_potted": true
     },
     {
-      "id": "english-ivy-creeper",
-      "title": "English Ivy Creeper",
+      "id": "english-ivy",
+      "title": "English Ivy",
       "category": "ornamental-plant",
       "description": "An evergreen climbing plant with glossy green leaves, ideal for covering trellises, walls, hanging planters, and shaded garden areas. Vigorous and easy to maintain, it also works well as groundcover.",
       "price": {
@@ -189,7 +189,7 @@
       },
       "media": {
         "images": [
-          "/images/shop/plants/ornamental-plants/english-ivy-creeper.webp"
+          "/images/shop/plants/ornamental-plants/english-ivy.webp"
         ]
       },
       "properties": {
