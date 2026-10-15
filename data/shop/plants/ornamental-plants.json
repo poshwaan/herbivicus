@@ -292,6 +292,67 @@
       "is_potted": false
     },
     {
+      "id": "fir",
+      "title": "Fir",
+      "category": "ornamental-plant",
+      "description": "An elegant evergreen conifer with needle-like foliage and a naturally graceful form. Fir trees add year-round greenery, texture, and structure to gardens and landscapes. Best suited to outdoor planting in cool climates, with adequate space for mature growth.",
+      "price": {
+        "amount": 1199,
+        "currency": "INR",
+        "discount_percent": 38
+      },
+      "stock": {
+        "total": 18,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/fir.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "60-100",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": false
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant in well-drained soil in a location with good light and sufficient space for the tree to mature.",
+          "Plant during suitable mild weather, such as spring or early autumn, while avoiding waterlogged or frozen ground.",
+          "Water regularly while the young tree establishes, keeping the soil moist but never waterlogged.",
+          "Most suitable fir species tolerate cold conditions, but hardiness varies by species and young plants may need protection from drying winds and severe exposure.",
+          "Choose the permanent planting location carefully, as many fir trees eventually grow much taller and wider than nursery specimens."
+        ],
+        "care_instructions": [
+          "Check soil moisture and adjust watering according to rainfall, temperature, and drainage rather than following a rigid schedule.",
+          "Apply a light layer of organic mulch around the root zone, keeping it clear of the trunk.",
+          "Use compost or a suitable fertilizer sparingly when needed, following soil conditions and product instructions.",
+          "Avoid routine pruning; remove dead or damaged branches when necessary and preserve the natural growth form.",
+          "Monitor for scale insects, aphids, and signs of root or needle disease, and address problems early."
+        ]
+      },
+      "symbolism": {
+        "origin": "As evergreen trees that retain their foliage through winter, firs are commonly associated with endurance and continuity. Their persistent greenery inspires symbolic associations with renewal, protection, and stability.",
+        "meanings": [
+          "Endurance",
+          "Renewal",
+          "Protection",
+          "Stability"
+        ]
+      },
+      "is_potted": true
+    },
+    {
       "id": "garden-palm",
       "title": "Garden Palm",
       "category": "ornamental-plant",
@@ -588,15 +649,15 @@
       "id": "purple-heart",
       "title": "Purple Heart",
       "category": "ornamental-plant",
-      "description": "Tropical shrub with striking deep purple foliage. Small pink or purple flowers add charm. Excellent for adding color to gardens.",
+      "description": "A striking ornamental plant with rich purple foliage and delicate pink flowers. Its trailing growth and vivid colour make it ideal for garden borders, containers, hanging planters, and decorative outdoor displays.",
       "price": {
-        "amount": 99,
+        "amount": 299,
         "currency": "INR",
-        "discount_percent": 0
+        "discount_percent": 50
       },
       "stock": {
         "total": 40,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
@@ -605,6 +666,7 @@
       },
       "properties": {
         "season": [
+          "spring",
           "summer",
           "autumn"
         ],
@@ -618,28 +680,29 @@
       },
       "growing_guide": {
         "growing_instructions": [
-          "Root cuttings or plant outdoor planters in May after the risk of frost has passed.",
-          "Intense violet-purple foliage and pink blossoms thrive from June to September in full sun.",
-          "Fleshy stems rot in freezing temperatures; bring containers indoors from November through March.",
-          "Trim back leggy winter stems in March before new spring growth emerges."
+          "Plant in well-draining soil during spring after the risk of frost has passed.",
+          "Provide full sun for the deepest purple foliage, introducing the plant to direct sunlight gradually.",
+          "Protect from frost and freezing temperatures in Kashmir by moving potted plants to a bright, sheltered indoor location during winter.",
+          "Trim long or leggy stems in spring to encourage compact, bushy growth. Stem cuttings can be used for propagation."
         ],
         "care_instructions": [
-          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
-          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
-          "Prune shape-forming shrubs in late winter before active spring flush.",
-          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+          "Water when the upper layer of soil begins to dry, allowing excess water to drain freely.",
+          "Reduce watering during cold weather when growth slows, and avoid waterlogged soil.",
+          "Apply a balanced fertilizer sparingly during active growth according to the product label.",
+          "Pinch growing tips and remove damaged or yellowing leaves to maintain a neat appearance.",
+          "Inspect periodically for mealybugs, aphids, and signs of fungal problems."
         ]
       },
       "symbolism": {
-        "origin": "Tradescantia pallida thrives under blazing sun, deepening its velvety violet color; it symbolizes emotional depth, royalty, and authentic fidelity through adversity.",
+        "origin": "Purple Heart, Tradescantia pallida, is admired for its vivid violet foliage and resilient, spreading growth. Its rich colour and enduring appearance inspire associations with dignity, individuality, and perseverance.",
         "meanings": [
           "Emotional depth",
-          "Regal dignity",
-          "Fidelity",
+          "Dignity",
+          "Individuality",
           "Resilience"
         ]
       },
-      "is_potted": false
+      "is_potted": true
     },
     {
       "id": "red-maple",
@@ -763,10 +826,11 @@
       "id": "bougainvillea",
       "title": "Bougainvillea",
       "category": "ornamental-plant",
-      "description": "Vibrant tropical vine with colorful papery bracts. Produces stunning cascades of pink, purple, orange, or red. Thrives in warm, sunny spots.",
+      "description": "A vibrant flowering shrub or climbing plant known for its colorful, papery bracts in shades of pink, purple, orange, red, and white. Bougainvillea adds dramatic color to sunny gardens, balconies, and patios, thriving in warm conditions with plenty of direct sunlight.",
       "price": {
-        "amount": 249,
-        "currency": "INR"
+        "amount": 599,
+        "currency": "INR",
+        "discount_percent": 50
       },
       "stock": {
         "total": 2,
@@ -788,34 +852,37 @@
         "height_cm": "200-400",
         "difficulty": "moderate",
         "frost_hardy": false,
-        "indoor_suitable": true,
+        "indoor_suitable": false,
         "fragrant": false,
         "edible": false
       },
       "symbolism": {
-        "origin": "Named after French navigator Louis Antoine de Bougainville; its cascading cascades of paper-like bracts symbolize warm hospitality, passion, and vibrant celebration of life.",
+        "origin": "Named after French explorer Louis Antoine de Bougainville, this colorful ornamental plant is admired for its vivid bracts and vigorous growth. Its bold appearance inspires associations with hospitality, passion, and joyful celebration.",
         "meanings": [
           "Warm hospitality",
-          "Vibrant passion",
+          "Passion",
           "Celebration",
-          "Welcoming abundance"
+          "Abundance"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Plant in large containers and place in full sun in May after all spring frosts end.",
-          "Profuse paper bracts flower vigorously throughout warm summer and early autumn from June to October.",
-          "Cannot survive Srinagar's freezing winter outdoors; must be moved into a heated sunroom or greenhouse from November through March.",
-          "Prune structural branches in March as new buds swell indoors."
+          "Plant in a well-draining potting mix and use a container with drainage holes if growing in a pot.",
+          "Provide at least six hours of direct sunlight daily for healthy growth and abundant flowering.",
+          "Keep outdoors in a sunny, sheltered location during warm weather, but protect from frost and freezing temperatures.",
+          "In Kashmir, move container-grown plants to a bright, protected, frost-free location before winter temperatures drop sharply.",
+          "Allow the soil to dry partially between waterings. Avoid excessive moisture, especially during cool weather.",
+          "Prune lightly after flowering or as needed to control growth, and wear gloves because the stems may have sharp thorns."
         ],
         "care_instructions": [
-          "Water deeply, then allow slight surface drying before next irrigation.",
-          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
-          "Prune after major bloom flush or during dormancy depending on species.",
-          "Remove diseased foliage promptly and improve airflow around dense plants."
+          "Water thoroughly when the upper layer of soil has dried, allowing excess water to drain away.",
+          "Reduce watering during winter when growth slows, while preventing the root ball from remaining excessively wet.",
+          "Use a balanced or flowering-plant fertilizer according to the label during active growth, avoiding excessive nitrogen that encourages foliage over flowers.",
+          "Remove dead or damaged branches and trim overly long shoots to maintain the desired shape.",
+          "Inspect periodically for aphids, mealybugs, and scale insects, and maintain good airflow around the plant."
         ]
       },
-      "is_potted": "true"
+      "is_potted": true
     }
   ]
 }

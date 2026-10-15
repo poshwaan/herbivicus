@@ -124,11 +124,11 @@
       "id": "snake-plant",
       "title": "Snake Plant",
       "category": "indoor-plant",
-      "description": "Striking upright succulent with variegated leaves. Extremely tough and low-maintenance. Excellent air purifier for any space.",
+      "description": "A striking, upright succulent with stiff, sword-shaped leaves and attractive green variegation. Exceptionally low-maintenance and tolerant of low light, making it a popular choice for homes, offices, and modern interiors.",
       "price": {
-        "amount": 149,
+        "amount": 299,
         "currency": "INR",
-        "discount_percent": 0
+        "discount_percent": 60
       },
       "stock": {
         "total": 15,
@@ -157,27 +157,29 @@
         "edible": false
       },
       "symbolism": {
-        "origin": "In Asian and African folk traditions, the upright sword leaves of Sansevieria symbolize a protective shield against negative energy, embodying clean energy and resolute endurance.",
+        "origin": "The snake plant, formerly classified as Sansevieria trifasciata and now known as Dracaena trifasciata, is admired for its upright, sword-shaped foliage. Its resilient growth and strong architectural form inspire associations with protection, perseverance, and good fortune.",
         "meanings": [
-          "Protective energy",
-          "Purification",
+          "Protection",
           "Perseverance",
-          "Clean air",
-          "Good luck"
+          "Resilience",
+          "Good fortune",
+          "Strength"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Repot or divide rhizomes in spring between April and June in gritty potting compost.",
-          "Steady vegetative growth occurs across warm summer months from June through August.",
-          "Vulnerable to freezing winter damage in Srinagar; house indoors year-round, especially November through March.",
-          "Near-dormant from December to February; water only once a month or less to prevent cold wet root rot."
+          "Grow in a well-draining succulent potting mix in a container with drainage holes. Repot in spring when the roots become crowded.",
+          "Place in bright, indirect light or partial shade. The plant tolerates low light, although growth may be slower.",
+          "Keep indoors during Kashmir winters and protect from frost, freezing temperatures, and cold drafts.",
+          "Allow the potting mix to dry completely between waterings. Reduce watering considerably during winter when growth slows."
         ],
         "care_instructions": [
-          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
-          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
-          "Prune shape-forming shrubs in late winter before active spring flush.",
-          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+          "Water thoroughly only when the soil has dried completely, and empty excess water from the saucer.",
+          "Avoid overwatering, especially in winter, as waterlogged soil can cause root rot.",
+          "Feed sparingly with a balanced fertilizer during active growth according to the product label.",
+          "Remove damaged or yellowing leaves at the base using clean pruning tools.",
+          "Inspect periodically for mealybugs and scale insects.",
+          "Keep away from pets and children, as ingestion can cause gastrointestinal upset."
         ]
       },
       "is_potted": true
@@ -186,11 +188,11 @@
       "id": "spider-plant",
       "title": "Spider Plant",
       "category": "indoor-plant",
-      "description": "Classic indoor plant with arching, striped leaves. Produces baby plantlets (spiderettes) on runners. Easy care and excellent air purifier.",
+      "description": "A popular indoor plant with graceful, arching green-and-white striped leaves. Produces baby plantlets on trailing runners and adds fresh greenery to shelves, windowsills, and hanging planters. Easy to grow and suitable for beginners.",
       "price": {
-        "amount": 99,
+        "amount": 299,
         "currency": "INR",
-        "discount_percent": 0
+        "discount_percent": 60
       },
       "stock": {
         "total": 20,
@@ -218,27 +220,29 @@
         "edible": false
       },
       "symbolism": {
-        "origin": "As a prolific producer of baby plantlets ('spiderettes'), Chlorophytum comosum has long symbolized domestic fertility, renewal, abundance, and effortless cleansing.",
+        "origin": "The spider plant, Chlorophytum comosum, is admired for its cascading foliage and abundant baby plantlets. These characteristics inspire associations with growth, renewal, nurturing, and abundance.",
         "meanings": [
-          "Rebirth",
-          "Domestic harmony",
-          "Fertility",
-          "Cleansing",
-          "Affection"
+          "Renewal",
+          "Growth",
+          "Nurturing",
+          "Abundance",
+          "Domestic harmony"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Repot parent plants or root plantlet runners in fresh compost during mid-spring from April to May.",
-          "Produces rapid runner offsets and lush foliage throughout summer from May to August.",
-          "Sensitive to winter frost damage in Kashmir; requires indoor room temperatures from November through March.",
-          "Growth slows during cold months from December to February; allow topsoil to dry before watering."
+          "Grow in a well-draining potting mix in a container with drainage holes. Repot in spring when the roots become crowded.",
+          "Place in bright, indirect light or partial shade. Protect the leaves from harsh afternoon sunlight.",
+          "Keep indoors during Kashmir winters and protect from frost and cold drafts.",
+          "Allow the upper layer of soil to dry slightly between waterings, reducing watering during cooler months.",
+          "Propagate by rooting the baby plantlets that develop on mature trailing runners."
         ],
         "care_instructions": [
-          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
-          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
-          "Prune shape-forming shrubs in late winter before active spring flush.",
-          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+          "Water thoroughly when the upper soil begins to dry, allowing excess water to drain freely.",
+          "Apply a balanced houseplant fertilizer during active growth according to the product label.",
+          "Remove brown leaf tips and yellowing leaves with clean scissors.",
+          "Inspect periodically for spider mites, mealybugs, and scale insects.",
+          "Avoid waterlogging and protect the plant from sudden temperature changes."
         ]
       },
       "is_potted": true

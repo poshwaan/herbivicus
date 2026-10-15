@@ -60,22 +60,22 @@
       "is_potted": false
     },
     {
-      "id": "apricot-plant",
-      "title": "Apricot Plant",
+      "id": "apricot-hybrid",
+      "title": "Apricot (Hybrid)",
       "category": "fruit-plant",
-      "description": "Sweet and fragrant apricot variety. Golden fruits perfect for fresh consumption and preserves.",
+      "description": "A deciduous fruit tree grown for its attractive spring blossoms and sweet, golden-orange apricots. Suitable for sunny gardens and orchards, its fruits can be enjoyed fresh or used in jams, preserves, and desserts. Fruit quality, ripening time, and yield depend on the hybrid variety and growing conditions.",
       "price": {
-        "amount": 349,
+        "amount": 2999,
         "currency": "INR",
-        "discount_percent": 0
+        "discount_percent": 50
       },
       "stock": {
         "total": 5,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
-          "/images/shop/plants/fruit-plants/apricot-plant.webp"
+          "/images/shop/plants/fruit-plants/apricot-hybrid.webp"
         ]
       },
       "properties": {
@@ -86,36 +86,39 @@
         "lifecycle": "perennial",
         "sunlight": "full",
         "water": "weekly",
-        "height_cm": "300-500",
-        "difficulty": "easy",
+        "height_cm": "250-300",
+        "difficulty": "moderate",
         "frost_hardy": true,
         "indoor_suitable": false,
         "edible": true
       },
       "growing_guide": {
         "growing_instructions": [
-          "Plant bare-root trees in January-February before early spring bud swell.",
-          "Early white-pink blossoms open in late March to early April; protect from late spring frosts.",
-          "Sweet apricots ripen and harvest from late June through July.",
-          "Prune branches in late winter in February before spring sap begins to rise."
+          "Plant in well-drained soil in a sunny, open location with sufficient space for the tree to mature.",
+          "Plant bare-root trees during dormancy, generally in late winter or early spring when the soil is workable and before active growth begins.",
+          "Apricot trees flower in spring, but early blossoms can be damaged by late frosts. Choose a site with good air drainage and avoid frost pockets.",
+          "Fruit typically ripens during summer, with the exact harvest period depending on the cultivar, elevation, and local climate.",
+          "Provide regular moisture while young trees establish and during fruit development, avoiding waterlogged soil.",
+          "Prune lightly to establish an open, balanced framework and remove dead, damaged, or crossing branches."
         ],
         "care_instructions": [
-          "Irrigate deeply every 7-10 days in dry months; reduce during monsoon and winter dormancy.",
-          "Apply compost and balanced NPK in late winter, then top-dress after fruit set.",
-          "Prune during dormancy to keep an open framework and remove dead or crossing wood.",
-          "Use preventive copper/sulfur sprays at bud break where scab/canker pressure is high."
+          "Water deeply when the soil begins to dry, adjusting frequency for rainfall, temperature, and soil drainage rather than relying on a fixed weekly schedule.",
+          "Apply mature compost around the root zone without piling it against the trunk, and use additional fertilizer only as needed.",
+          "Maintain a light mulch layer to conserve soil moisture and regulate root-zone temperature.",
+          "Avoid heavy pruning and unnecessary pruning during wet weather, as apricot trees can be susceptible to wood diseases.",
+          "Monitor for aphids, fungal diseases, and signs of branch dieback; use appropriate treatments only when necessary and follow product instructions."
         ]
       },
       "symbolism": {
-        "origin": "Thriving in high-altitude Himalayan valleys, golden apricots are celebrated across Central Asia as emblems of fertile good fortune, longevity, and sun-drenched joy.",
+        "origin": "Apricot trees are valued in many fruit-growing cultures for their spring blossoms and golden summer harvest. Their seasonal cycle inspires associations with prosperity, renewal, abundance, and longevity.",
         "meanings": [
-          "Good fortune",
-          "Fertility",
-          "Longevity",
-          "Sunny abundance"
+          "Prosperity",
+          "Renewal",
+          "Abundance",
+          "Longevity"
         ]
       },
-      "is_potted": false
+      "is_potted": true
     },
     {
       "id": "black-grapes-plant",

@@ -11,7 +11,7 @@
         "discount_percent": 0
       },
       "stock": {
-        "total": 50,
+        "total": 0,
         "is_featured": false
       },
       "media": {
@@ -63,11 +63,11 @@
       "id": "black-rose-succulent",
       "title": "Black Rose Succulent",
       "category": "succulents-and-cacti",
-      "description": "Stunning dark-leaved succulent forming rose-like clusters. Deep burgundy to black coloring creates dramatic contrast. Collector's favorite.",
+      "description": "A striking ornamental succulent with dark burgundy to nearly black, rose-shaped rosettes. Its dramatic foliage adds contrast to succulent collections, decorative containers, and bright indoor spaces.",
       "price": {
         "amount": 149,
         "currency": "INR",
-        "discount_percent": 0
+        "discount_percent": 50
       },
       "stock": {
         "total": 30,
@@ -94,25 +94,27 @@
         "edible": false
       },
       "symbolism": {
-        "origin": "Aeonium arboreum 'Zwartkop' produces dramatic dark burgundy-black rosettes; in botanical symbolism, it signifies elegance, transformative mystery, and quiet individuality.",
+        "origin": "The Black Rose Succulent, commonly associated with Aeonium arboreum 'Zwartkop', is admired for its dramatic dark foliage and sculptural rosettes. Its distinctive appearance inspires associations with elegance, mystery, individuality, and transformation.",
         "meanings": [
           "Elegance",
           "Mystery",
           "Individuality",
-          "Enduring grace"
+          "Transformation"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Repot in gritty porous compost in spring during April or autumn in September.",
-          "Grows actively in cool spring and autumn; slows down during peak summer heat in July.",
-          "Frost will turn fleshy leaves to mush; bring indoors to a bright windowsill from November through March.",
-          "Keep nearly dry during cold winter dormancy from December to February."
+          "Grow in a gritty, well-draining succulent mix in a pot with drainage holes. Repot when the plant outgrows its container or the growing medium needs refreshing.",
+          "Provide bright light and gentle direct sunlight, gradually acclimating the plant to stronger sun to encourage deep burgundy foliage.",
+          "Protect from frost and freezing temperatures in Kashmir by moving the pot to a bright, sheltered indoor location during winter.",
+          "Allow the soil to dry between waterings. Reduce watering during hot summer weather when growth may slow, and avoid leaving the roots in cold, wet soil during winter."
         ],
         "care_instructions": [
-          "Water moderately in spring and autumn; reduce watering significantly in hot summer dormancy.",
-          "Protect from severe winter frost below 0°C by keeping indoors near south window.",
-          "Dust rosettes with soft dry brush to maintain velvety sheen."
+          "Water thoroughly when the growing medium has dried sufficiently, allowing excess water to drain away.",
+          "Avoid overwatering, particularly during dormancy or cool weather, to prevent root and stem rot.",
+          "Remove dead or damaged leaves from around the base of the rosettes.",
+          "Ensure adequate light and airflow to maintain compact growth and healthy foliage.",
+          "Inspect periodically for mealybugs, aphids, and other common succulent pests."
         ]
       },
       "is_potted": true
@@ -177,7 +179,7 @@
       "id": "echeveria-succulent",
       "title": "Echeveria Succulent",
       "category": "succulents-and-cacti",
-      "description": "Beautiful rosette-forming succulent with thick, fleshy leaves. Pink, blue, or purple tinges depending on variety. Ideal container plant.",
+      "description": "A compact, rosette-forming succulent with thick, fleshy leaves that may display soft pink, blue, green, or purple tones depending on the variety. An elegant, low-maintenance choice for bright windowsills, decorative pots, and succulent collections.",
       "price": {
         "amount": 149,
         "currency": "INR",
@@ -207,38 +209,40 @@
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Named after Mexican botanical artist Atanasio Echeverría; its compact water-storing geometric petals symbolize enduring affection, balanced beauty, and persistence.",
+        "origin": "Named in honour of Mexican botanical artist Atanasio Echeverría, Echeveria is admired for its symmetrical rosettes and sculptural foliage. Its graceful form inspires associations with harmony, enduring affection, and understated beauty.",
         "meanings": [
           "Enduring affection",
           "Harmonious beauty",
-          "Persistence",
+          "Resilience",
           "Quiet grace"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Repot rosettes into free-draining succulent soil in April or May.",
-          "Forms compact, colorful leaf rosettes from May to September in bright sunshine.",
-          "Freezing temperatures destroy succulent foliage; overwinter indoors on a sunny sill from November through March.",
-          "Water only once every 3-4 weeks from December to February."
+          "Grow in a gritty, well-draining succulent mix in a pot with drainage holes. Repot when the plant outgrows its container or the soil needs refreshing.",
+          "Provide bright light and several hours of gentle sunlight daily, gradually acclimating the plant to stronger direct sun.",
+          "Keep indoors or in a frost-free sheltered location during Kashmir winters, as freezing temperatures can damage or kill the plant.",
+          "Allow the soil to dry completely between waterings. Water less frequently in winter when growth slows."
         ],
         "care_instructions": [
-          "Water directly onto soil around base using soak-and-dry method.",
-          "Never allow water drops to sit inside the central rosette crown to prevent fungal rot.",
-          "Remove withered dried lower leaves promptly to prevent pest harboring."
+          "Water the soil directly using the soak-and-dry method, allowing excess water to drain away.",
+          "Avoid water collecting in the centre of the rosette, especially in cool conditions.",
+          "Remove dried lower leaves carefully to keep the plant tidy and reduce pest-hiding spots.",
+          "Avoid overwatering and ensure the potting mix drains freely to prevent root rot.",
+          "Inspect periodically for mealybugs and other common succulent pests."
         ]
       },
-      "is_potted": false
+      "is_potted": true
     },
     {
       "id": "green-pinwheel-succulent",
       "title": "Green Pinwheel Succulent",
       "category": "succulents-and-cacti",
-      "description": "Charming rosette succulent with lime-green leaves forming pinwheel pattern. Compact and perfect for small spaces and collections.",
+      "description": "A compact ornamental succulent with fresh green, rosette-shaped foliage arranged in an attractive pinwheel pattern. Ideal for succulent collections, rock gardens, and bright windowsills.",
       "price": {
         "amount": 149,
         "currency": "INR",
-        "discount_percent": 0
+        "discount_percent": 50
       },
       "stock": {
         "total": 35,
@@ -263,42 +267,45 @@
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "The circular pinwheel geometry of Aeonium rosettes has long symbolized good fortune, refreshing vitality, and continuous renewal in domestic spaces.",
+        "origin": "Green pinwheel succulents are admired for their symmetrical rosettes and fresh green foliage. Their circular growth pattern inspires associations with renewal, harmony, vitality, and good fortune.",
         "meanings": [
           "Good fortune",
-          "Continuous renewal",
+          "Renewal",
           "Vitality",
           "Harmony"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Root branch cuttings in sandy cactus compost in April or September.",
-          "Active growth runs through mild spring (April-May) and autumn (September-October).",
-          "Not frost hardy in Kashmir; protect indoors in well-lit rooms from November through March.",
-          "Reduce water to once monthly during cold winter months from December to February."
+          "Grow in a gritty, well-draining succulent mix. Use a container with drainage holes if planting in a pot.",
+          "Provide bright light with gentle direct sunlight, gradually acclimating the plant to stronger sun.",
+          "Protect from frost and freezing temperatures in Kashmir by moving tender varieties to a bright, sheltered indoor location during winter.",
+          "Allow the growing medium to dry between waterings. Reduce watering during cold weather and avoid waterlogged soil.",
+          "Propagate suitable varieties from healthy stem cuttings during active growth, allowing cut surfaces to dry before planting."
         ],
         "care_instructions": [
-          "Water when top half of container mix dries out during active autumn-spring growth.",
-          "Keep in frost-free room during freezing Kashmir winter.",
-          "Rotate pot weekly so rosette grows evenly symmetrical toward light."
+          "Water thoroughly when the growing medium has dried sufficiently, allowing excess water to drain away.",
+          "Avoid overwatering, especially during cool weather or periods of slow growth.",
+          "Remove dead or damaged leaves to maintain a clean rosette.",
+          "Rotate the plant occasionally if it receives light mainly from one direction.",
+          "Inspect periodically for mealybugs, aphids, and signs of rot."
         ]
       },
-      "is_potted": false
+      "is_potted": true
     },
     {
       "id": "kalanchoe",
       "title": "Kalanchoe",
       "category": "succulents-and-cacti",
-      "description": "Succulent kalanchoe with fleshy leaves and bright cluster flowers. Very low maintenance, thrives in dry conditions. Perfect for beginners.",
+      "description": "A compact flowering succulent with fleshy green leaves and clusters of vibrant blooms. Easy to care for and ideal for bright indoor spaces, windowsills, and decorative pots.",
       "price": {
-        "amount": 69,
+        "amount": 249,
         "currency": "INR",
-        "discount_percent": 0
+        "discount_percent": 60
       },
       "stock": {
         "total": 60,
-        "is_featured": false
+        "is_featured": true
       },
       "media": {
         "images": [
@@ -319,39 +326,42 @@
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Celebrated in Asian botanical traditions and European floristry as a plant of endurance, prosperity, and continuous affection due to its enduring blooms.",
+        "origin": "Kalanchoe is valued in ornamental horticulture for its long-lasting flower clusters and resilient succulent foliage. Its enduring blooms inspire associations with lasting affection, perseverance, and vitality.",
         "meanings": [
           "Enduring affection",
-          "Prosperity",
-          "Persistence",
-          "Good health"
+          "Perseverance",
+          "Vitality",
+          "Lasting beauty"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Repot after winter bloom fades in April or May in well-drained compost.",
-          "Builds foliage through summer (June-August); short autumn days in October initiate flower buds.",
-          "Must be kept indoors at 15-20°C from November through March for vibrant winter blooming.",
-          "Water moderately while in bloom; let topsoil dry out between waterings."
+          "Grow in a well-draining succulent potting mix in a pot with drainage holes.",
+          "Place in a bright location with indirect sunlight or gentle morning sun to support healthy growth and flowering.",
+          "Protect from frost and freezing temperatures in Kashmir by keeping the plant indoors during winter.",
+          "Allow the potting mix to dry completely before watering again, and reduce watering during cooler months.",
+          "Remove faded flower clusters after blooming to maintain a tidy appearance and encourage healthy new growth."
         ],
         "care_instructions": [
-          "Water thoroughly only when potting mix is completely dry; avoid standing water in saucers.",
-          "Feed with diluted low-nitrogen succulent fertilizer once a month in summer.",
-          "Trim spent flower stalks at base when blooming cycle finishes to encourage lush foliage.",
-          "Provide 14 hours of daily darkness for 6 weeks in autumn to re-induce flower bud formation."
+          "Water thoroughly only when the potting mix has dried, and empty any excess water from the saucer.",
+          "Avoid overwatering, as consistently wet soil can cause root rot.",
+          "Apply a diluted succulent fertilizer during active growth according to the product label.",
+          "Provide bright light and good air circulation to maintain compact growth.",
+          "Inspect periodically for mealybugs, aphids, and signs of fungal disease.",
+          "Keep away from cats and dogs, as kalanchoe plants can be toxic if ingested."
         ]
       },
-      "is_potted": false
+      "is_potted": true
     },
     {
       "id": "peanut-cactus",
       "title": "Peanut Cactus",
       "category": "succulents-and-cacti",
-      "description": "Unique cactus with segmented stems resembling peanuts. Orange-red flowers bloom in spring. Great for containers and collectors.",
+      "description": "A distinctive clumping cactus with slender, finger-like stems resembling peanuts and vibrant orange-red flowers in spring. Compact and easy to grow, making it a striking addition to cactus collections and decorative containers.",
       "price": {
-        "amount": 149,
+        "amount": 299,
         "currency": "INR",
-        "discount_percent": 0
+        "discount_percent": 50
       },
       "stock": {
         "total": 20,
@@ -376,9 +386,9 @@
         "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Echinopsis chamaecereus produces playful clumping peanut-like finger stems that bloom in fiery orange; it symbolizes tenacious resilience and finding joy in rugged terrain.",
+        "origin": "The Peanut Cactus, Echinopsis chamaecereus, is admired for its unusual clustered stems and vivid seasonal flowers. Its resilient growth and cheerful blooms inspire associations with perseverance, warmth, and simple joy.",
         "meanings": [
-          "Tenacious resilience",
+          "Resilience",
           "Playful joy",
           "Warmth",
           "Unpretentious charm"
@@ -386,18 +396,21 @@
       },
       "growing_guide": {
         "growing_instructions": [
-          "Plant clustering finger stems in gritty cactus compost in April or May.",
-          "Produces striking bright scarlet-orange flowers in late spring from May to June.",
-          "Requires cool but frost-free winter rest (5-10°C) indoors from November to March to set flower buds.",
-          "Keep soil completely dry from December to February."
+          "Grow in gritty, well-draining cactus compost in a container with drainage holes.",
+          "Provide bright light and several hours of sunlight daily, gradually acclimating the plant to direct sun.",
+          "Protect from frost and freezing temperatures in Kashmir by keeping the cactus in a bright, sheltered indoor location during winter.",
+          "Allow the growing medium to dry completely between waterings, keeping it much drier during the cool winter rest.",
+          "Provide a cool, frost-free winter rest where possible to encourage flowering in the following spring."
         ],
         "care_instructions": [
-          "Water every 10-14 days in summer; keep completely dry in winter.",
-          "A cool winter rest (5-10°C) is required to trigger sensational spring flowering.",
-          "Handle finger offsets gently when repotting."
+          "Water thoroughly during active growth only after the growing medium has dried completely, allowing excess water to drain.",
+          "Reduce watering substantially during winter and avoid wet soil in cold conditions.",
+          "Handle the delicate stems carefully when repotting or separating offsets.",
+          "Remove dead plant material and inspect periodically for mealybugs and signs of rot.",
+          "Use a suitable cactus fertilizer sparingly during active growth according to the product label."
         ]
       },
-      "is_potted": false
+      "is_potted": true
     }
   ]
 }

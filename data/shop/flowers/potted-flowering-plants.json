@@ -59,67 +59,10 @@
       "is_potted": true
     },
     {
-      "id": "kalanchoe-potted",
-      "title": "Flowering Kalanchoe",
-      "category": "potted-flowering-plant",
-      "description": "Succulent kalanchoe with fleshy green foliage and long-lasting clusters of vibrant blooms in a desktop pot.",
-      "price": {
-        "amount": 199,
-        "currency": "INR",
-        "discount_percent": 0
-      },
-      "stock": {
-        "total": 30,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/flowers/potted-flowering-plants/kalanchoe.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "winter",
-          "spring"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "partial",
-        "water": "weekly",
-        "height_cm": "20-35",
-        "difficulty": "easy",
-        "frost_hardy": false,
-        "indoor_suitable": true
-      },
-      "symbolism": {
-        "origin": "Celebrated in Asian botanical traditions and European floristry as a plant of endurance, prosperity, and continuous affection due to its enduring blooms.",
-        "meanings": [
-          "Enduring affection",
-          "Prosperity",
-          "Persistence",
-          "Good health"
-        ]
-      },
-      "growing_guide": {
-        "growing_instructions": [
-          "Repot into well-aerated succulent mix in April or May after winter flowering fades.",
-          "Builds lush fleshy foliage outdoors in partial shade from June through August.",
-          "Requires heated indoor placement from November to March; blooms prolifically indoors from December through April.",
-          "Water only when soil is dry to the touch, avoiding standing water in saucers."
-        ],
-        "care_instructions": [
-          "Allow soil to dry out almost completely between waterings; avoid standing water in saucers.",
-          "Feed with diluted low-nitrogen succulent fertilizer once a month in summer.",
-          "Trim spent flower stalks at base when blooming cycle finishes to encourage lush foliage.",
-          "Provide 14 hours of daily darkness for 6 weeks in autumn to re-induce flower bud formation."
-        ]
-      },
-      "is_potted": true
-    },
-    {
       "id": "geranium",
-      "title": "Garden Geranium",
+      "title": "Geranium",
       "category": "potted-flowering-plant",
-      "description": "A colourful zonal geranium with vibrant flower clusters and rounded, often patterned foliage. Ideal for sunny balconies, windowsills, patios, and container displays.",
+      "description": "A colourful zonal geranium with vibrant flower clusters and rounded, often patterned foliage. Ideal for sunny balconies, windowsills, patios and container displays.",
       "price": {
         "amount": 399,
         "currency": "INR",
