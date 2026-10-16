@@ -260,7 +260,7 @@
       },
       "growing_guide": {
         "growing_instructions": [
-          "Plant in sunny rockeries or hanging baskets in May once night temperatures stay above 10\u00b0C.",
+          "Plant in sunny rockeries or hanging baskets in May once night temperatures stay above 10°C.",
           "Fleshy trailing stems and bright magenta blooms spread vigorously from June through September.",
           "Extremely frost-tender and will turn to mush in freezing cold; bring indoors or take cuttings in October.",
           "Must have indoor protection in a warm, sunny room from November through March."
@@ -276,7 +276,7 @@
     },
     {
       "id": "baby-s-breath",
-      "title": "Baby\u2019s Breath",
+      "title": "Baby’s Breath",
       "category": "saplings-and-seedlings",
       "description": "Baby's breath (Gypsophila) produces clouds of tiny, delicate white or pink flowers on wiry branching stems. A staple of the florist's art, it is used to add lightness and texture to bouquets and arrangements.",
       "price": {
@@ -378,61 +378,6 @@
           "Deadhead regularly to push continued flowering.",
           "Feed with balanced fertilizer every 3-4 weeks during active bloom.",
           "Inspect weekly for aphids/mites and manage early with IPM methods."
-        ]
-      },
-      "is_potted": false
-    },
-    {
-      "id": "begonia",
-      "title": "Begonia",
-      "category": "saplings-and-seedlings",
-      "description": "Begonias are versatile flowering plants prized for their colorful blooms and attractive foliage. Available in hundreds of varieties, they are ideal for shade gardens, hanging baskets, and containers, blooming from spring to frost.",
-      "price": {
-        "amount": 149,
-        "currency": "INR",
-        "discount_percent": 0
-      },
-      "stock": {
-        "total": 75,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/flowers/saplings-and-seedlings/begonia.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "summer",
-          "autumn"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "partial",
-        "water": "weekly",
-        "height_cm": "20-50",
-        "difficulty": "easy",
-        "frost_hardy": false,
-        "indoor_suitable": true
-      },
-      "symbolism": {
-        "origin": "Named after Michel B\u00e9gon; its sound-alike phrase \u201cbe gone\u201d suggested caution.",
-        "meanings": [
-          "To repay a favor",
-          "A warning"
-        ]
-      },
-      "growing_guide": {
-        "growing_instructions": [
-          "Transplant potted starts into dappled shade borders or containers in late May.",
-          "Continuous waxy blooms and ornamental foliage perform from June through October.",
-          "Cannot withstand freezing Kashmir winter temperatures; dig tubers or move pots indoors before October frosts.",
-          "Store tubers or keep potted plants indoors in a frost-free room from November through March."
-        ],
-        "care_instructions": [
-          "Water deeply, then allow slight surface drying before next irrigation.",
-          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
-          "Prune after major bloom flush or during dormancy depending on species.",
-          "Remove diseased foliage promptly and improve airflow around dense plants."
         ]
       },
       "is_potted": false
@@ -606,14 +551,14 @@
       "id": "calla-lily",
       "title": "Calla Lily",
       "category": "saplings-and-seedlings",
-      "description": "Calla lily (Zantedeschia) is renowned for its elegant, trumpet-shaped spathe and glossy arrow-shaped leaves. A favorite in bridal bouquets and ornamental gardens, it conveys purity and magnificent beauty.",
+      "description": "Graceful trumpet-shaped ivory spathes with deep green foliage in an elegant container pot.",
       "price": {
-        "amount": 349,
+        "amount": 399,
         "currency": "INR",
         "discount_percent": 0
       },
       "stock": {
-        "total": 25,
+        "total": 10,
         "is_featured": false
       },
       "media": {
@@ -623,12 +568,13 @@
       },
       "properties": {
         "season": [
+          "spring",
           "summer"
         ],
         "lifecycle": "perennial",
         "sunlight": "partial",
-        "water": "weekly",
-        "height_cm": "50-90",
+        "water": "bi-weekly",
+        "height_cm": "45-75",
         "difficulty": "moderate",
         "frost_hardy": false,
         "indoor_suitable": true
@@ -642,19 +588,19 @@
       },
       "growing_guide": {
         "growing_instructions": [
-          "Plant rhizomes or potted saplings in fertile, moist soil in May after frost danger clears.",
-          "Architectural ivory spathes bloom beautifully from late June through August.",
-          "Not cold-hardy in Srinagar; lift rhizomes before October frosts and store in dry peat.",
-          "Keep overwintering rhizomes indoors at 10-15\u00b0C from November through March."
+          "Plant rhizomes in humus-rich, moist potting mix in April after freezing risks subside.",
+          "Elegant architectural spathe blooms unfurl from late May through August.",
+          "Tender to outdoor winter freezing; move pots indoors or lift rhizomes in October before frost.",
+          "Store dormant rhizomes in dry peat at 10-15°C from November through March."
         ],
         "care_instructions": [
-          "Water lightly after planting, then maintain moderate moisture through flowering.",
-          "Do not cut green leaves immediately after bloom; let foliage yellow naturally.",
-          "Feed with low-nitrogen, high-potash fertilizer at shoot emergence and after flowering.",
-          "Lift and divide crowded clumps during dormancy where required."
+          "Keep soil evenly moist during active growth and blooming flush.",
+          "Feed monthly with liquid potassium-rich fertilizer while flowering.",
+          "Withhold water in late autumn to allow rhizomes to enter mandatory dry winter dormancy.",
+          "Store dormant rhizomes in a dry, frost-free location during sub-zero winter temperatures."
         ]
       },
-      "is_potted": false
+      "is_potted": true
     },
     {
       "id": "carnation",
@@ -690,9 +636,9 @@
         "fragrant": true
       },
       "symbolism": {
-        "origin": "Linked to the Virgin Mary\u2019s tears at Christ\u2019s crucifixion.",
+        "origin": "Linked to the Virgin Mary’s tears at Christ’s crucifixion.",
         "meanings": [
-          "Mother\u2019s eternal love",
+          "Mother’s eternal love",
           "Heartache"
         ]
       },
@@ -716,15 +662,15 @@
       "id": "chrysanthemum",
       "title": "Chrysanthemum",
       "category": "saplings-and-seedlings",
-      "description": "Chrysanthemums, or mums, are the quintessential autumn flower, producing dense pompom or daisy-like blooms in a vast spectrum of colors. In East Asian cultures they symbolize longevity and rejuvenation.",
+      "description": "Decorative potted mum blooming with dense, colorful daisy-like flower heads.",
       "price": {
-        "amount": 99,
+        "amount": 149,
         "currency": "INR",
         "discount_percent": 0
       },
       "stock": {
-        "total": 80,
-        "is_featured": false
+        "total": 25,
+        "is_featured": true
       },
       "media": {
         "images": [
@@ -738,32 +684,32 @@
         "lifecycle": "perennial",
         "sunlight": "full",
         "water": "weekly",
-        "height_cm": "45-90",
-        "difficulty": "moderate",
+        "height_cm": "40-75",
+        "difficulty": "easy",
         "frost_hardy": true,
-        "indoor_suitable": false
+        "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Commonly used in European funerals and All Souls\u2019 Day rituals.",
+        "origin": "Commonly used in European funerals and All Souls’ Day rituals.",
         "meanings": [
           "Condolences"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Plant young rooted cuttings in fertile garden soil in May or June.",
-          "Pinch shoot tips every 2-3 weeks until mid-July to build sturdy, multi-branched mounds.",
-          "Srinagar's autumn glory: flowers burst into spectacular bloom from late September through November.",
-          "Cut stalks to ground level after blooming in December; root crowns overwinter safely under snow."
+          "Pot rooted cuttings in fertile garden soil in May or June.",
+          "Pinch growing tips until mid-July to build bushy branching and abundant bud sites.",
+          "Srinagar's autumn centerpiece: blooms in vivid splendor from September through November.",
+          "Cut stems back to soil level after flowering in December; crowns overwinter safely under mulch."
         ],
         "care_instructions": [
-          "Water when topsoil dries; avoid constant wetness during cold spells.",
-          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
-          "Remove spent flowers to prolong bloom duration.",
-          "Provide light afternoon shade in late spring when temperatures rise."
+          "Water consistently at soil level; avoid wetting leaves to ward off powdery mildew.",
+          "Pinch back stem tips until mid-July to create dense, multi-branched floral domes.",
+          "Feed with high-potassium fertilizer every 2 weeks once buds form.",
+          "Cut back dead stems to base after winter frost finishes flowering."
         ]
       },
-      "is_potted": false
+      "is_potted": true
     },
     {
       "id": "cockscomb",
@@ -1207,61 +1153,174 @@
       "is_potted": false
     },
     {
-      "id": "gerbera-daisy",
-      "title": "Gerbera Daisy",
+      "id": "azalea",
+      "title": "Azalea",
       "category": "saplings-and-seedlings",
-      "description": "Large, vibrant daisy-like flowers in bold colors. Cheerful blooms on long stems. Popular as ornamental plant and cut flower.",
+      "description": "Spectacular blooming shrub covered in massed petals, potted in a premium ceramic planter.",
+      "price": {
+        "amount": 349,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "stock": {
+        "total": 6,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/saplings-and-seedlings/azelea.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "35-65",
+        "difficulty": "moderate",
+        "frost_hardy": true,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Azaleas are short-lived and sensitive to excess water, symbolizing fragility and restraint.",
+        "meanings": [
+          "Fragility",
+          "Temperance"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant in acidic, ericaceous peat-rich compost in early spring in March or autumn in October.",
+          "Produces an explosion of vibrant ruffled blooms from April through May.",
+          "Moderately hardy; protect container roots from freezing solid by placing on sheltered porches Nov-Feb.",
+          "Prune lightly immediately after flowering in June; never prune in autumn or winter when buds are set."
+        ],
+        "care_instructions": [
+          "Water with rainwater or soft water to maintain soil acidity; keep root ball consistently moist.",
+          "Prune lightly immediately after blooming stops in late spring.",
+          "Feed with specific ericaceous acid-loving plant fertilizer in spring.",
+          "Mulch pot surface with pine needles to retain cool root moisture."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "begonia",
+      "title": "Flowering Begonia",
+      "category": "saplings-and-seedlings",
+      "description": "Lush flowering begonia boasting delicate petals and ornamental foliage, potted in a decorative container.",
       "price": {
         "amount": 199,
         "currency": "INR",
         "discount_percent": 0
       },
       "stock": {
-        "total": 45,
+        "total": 20,
         "is_featured": false
       },
       "media": {
         "images": [
-          "/images/shop/flowers/saplings-and-seedlings/gerbera-daisy.webp"
+          "/images/shop/flowers/saplings-and-seedlings/begonia.webp"
         ]
       },
       "properties": {
         "season": [
+          "spring",
           "summer",
           "autumn"
         ],
         "lifecycle": "perennial",
-        "sunlight": "full",
+        "sunlight": "partial",
         "water": "bi-weekly",
-        "height_cm": "30-50",
+        "height_cm": "25-45",
         "difficulty": "moderate",
         "frost_hardy": false,
         "indoor_suitable": true
       },
+      "symbolism": {
+        "origin": "Named after Michel Bégon; its sound-alike phrase “be gone” suggested caution.",
+        "meanings": [
+          "To repay a favor",
+          "A warning"
+        ]
+      },
       "growing_guide": {
         "growing_instructions": [
-          "Plant in well-draining garden soil or pots in May, keeping the central crown slightly elevated.",
-          "Stately, bold blooms rise on sturdy stems from June through September.",
-          "Tender perennial that cannot survive freezing Kashmir ground; move pots indoors in October.",
-          "Keep on a sunny windowsill at 15-20\u00b0C from November through March."
+          "Plant tubers or potted nursery starts in moist, shaded containers in late April or May.",
+          "Lush waxy blooms flower continuously from June through October in dappled shade.",
+          "Very sensitive to cold and frost; move indoors or store dormant tubers frost-free from November to March.",
+          "Reduce water in winter; resume regular watering in April."
         ],
         "care_instructions": [
-          "Water when topsoil dries; avoid constant wetness during cold spells.",
-          "Feed with compost plus low-dose phosphorus-potassium every 3-4 weeks.",
-          "Remove spent flowers to prolong bloom duration.",
-          "Provide light afternoon shade in late spring when temperatures rise."
+          "Keep soil consistently moist to touch but never soggy.",
+          "Water around the base; avoid getting water on hairy foliage and flower petals.",
+          "Feed every 2 weeks during peak flowering with mild liquid fertilizer.",
+          "Reduce water in late autumn as natural seasonal rest begins."
         ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "fuchsia",
+      "title": "Fuchsia",
+      "category": "saplings-and-seedlings",
+      "description": "An elegant flowering plant with dangling, bell-shaped blossoms in contrasting colours. Ideal for adding graceful colour to patios, balconies, and verandas.",
+      "price": {
+        "amount": 299,
+        "currency": "INR",
+        "discount_percent": 33
+      },
+      "stock": {
+        "total": 6,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/saplings-and-seedlings/fuchsia.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "regular",
+        "height_cm": "40-60",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
       },
       "symbolism": {
-        "origin": "Named after German botanist Traugott Gerber; in the language of flowers, the wide-open, cheerful rays and vivid palette of gerberas symbolize unabashed joy and pure innocence.",
+        "origin": "Native to the Americas and parts of the Pacific, fuchsia was named in honour of German botanist Leonhart Fuchs. Its graceful, pendulous blossoms have inspired associations with confiding love, amiability, and delicate elegance.",
         "meanings": [
-          "Cheerfulness",
-          "Pure innocence",
-          "Joyful celebration",
-          "Warmth"
+          "Confiding love",
+          "Amiability",
+          "Humble elegance",
+          "Graceful charm"
         ]
       },
-      "is_potted": false
+      "growing_guide": {
+        "growing_instructions": [
+          "Grow in rich, well-draining potting mix and place in partial shade or gentle morning sun.",
+          "Enjoy the main flowering display from summer into autumn, provided the plant receives adequate light, water, and nutrients.",
+          "Protect from frost in Kashmir. Move the pot to a cool, frost-free location before freezing temperatures arrive.",
+          "During winter dormancy, reduce watering and keep the compost slightly moist rather than waterlogged.",
+          "Prune in early spring, removing dead growth and shortening stems as needed to encourage fresh, bushy growth."
+        ],
+        "care_instructions": [
+          "Check the compost regularly and water when the surface begins to dry; container plants may need daily watering during hot weather.",
+          "Apply a balanced liquid fertilizer during active growth according to the product label.",
+          "Remove spent flowers to encourage continued blooming and maintain a tidy appearance.",
+          "Ensure the pot has drainage holes and never leave the roots sitting in standing water.",
+          "Inspect for aphids, whiteflies, and spider mites, treating infestations promptly."
+        ]
+      },
+      "is_potted": true
     },
     {
       "id": "gazania",
@@ -1319,6 +1378,123 @@
         ]
       },
       "is_potted": false
+    },
+    {
+      "id": "geranium",
+      "title": "Geranium",
+      "category": "saplings-and-seedlings",
+      "description": "A colourful zonal geranium with vibrant flower clusters and rounded, often patterned foliage. Ideal for sunny balconies, windowsills, patios and container displays.",
+      "price": {
+        "amount": 399,
+        "currency": "INR",
+        "discount_percent": 62
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/saplings-and-seedlings/geranium.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-60",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Garden geraniums, commonly classified as Pelargonium cultivars, have inspired varied symbolic meanings across flower colours and Victorian floral traditions. Their abundant blooms and distinctive foliage evoke friendship, comfort, and positive feelings.",
+        "meanings": [
+          "Friendship",
+          "Comfort",
+          "Positive feelings",
+          "Gentle affection"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Grow in a well-draining potting mix and place in a sunny location with several hours of sunlight daily.",
+          "Move outdoors during frost-free weather in spring. Flowering can continue through summer and autumn under favourable conditions.",
+          "Protect from frost during Kashmir winters by moving the pot to a bright, frost-free indoor location.",
+          "In early spring, remove dead growth and trim leggy stems to encourage compact, bushy growth."
+        ],
+        "care_instructions": [
+          "Water thoroughly when the upper layer of potting mix has dried, allowing excess water to drain freely.",
+          "Apply a balanced flowering-plant fertilizer during active growth according to the product label.",
+          "Remove faded flower clusters and yellowing leaves to maintain a tidy appearance and encourage further flowering.",
+          "Pinch back young shoots when needed to promote bushier growth.",
+          "Inspect periodically for aphids, whiteflies, and fungal problems, particularly when ventilation is poor."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "gerbera-daisy",
+      "title": "Gerbera Daisy",
+      "category": "saplings-and-seedlings",
+      "description": "Cheerful, bold flowering gerbera daisy potted for bright indoor or patio spots.",
+      "price": {
+        "amount": 249,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/saplings-and-seedlings/gerbera-daisy.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "bi-weekly",
+        "height_cm": "25-45",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "Named after German botanist Traugott Gerber; in the language of flowers, the wide-open, cheerful rays and vivid palette of gerberas symbolize unabashed joy and pure innocence.",
+        "meanings": [
+          "Cheerfulness",
+          "Pure innocence",
+          "Joyful celebration",
+          "Warmth"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant in porous, well-draining soil keeping crown slightly above soil level in April or May.",
+          "Produces vibrant daisy blooms on sturdy stalks from May through September in bright sun.",
+          "Tender to Kashmir sub-zero freezes; bring pots indoors to a warm, sunny room from November through March.",
+          "Water at the soil base only; keep barely moist during winter dormancy from December to February."
+        ],
+        "care_instructions": [
+          "Water deeply only when the top few centimeters of soil feel dry.",
+          "Never let water settle in the central crown rosette.",
+          "Fertilize every 2-3 weeks with balanced bloom-booster fertilizer.",
+          "Pull spent stems gently from the base rather than cutting halfway."
+        ]
+      },
+      "is_potted": true
     },
     {
       "id": "gladiolus",
@@ -1515,7 +1691,7 @@
         "fragrant": true
       },
       "symbolism": {
-        "origin": "From Apollo\u2019s grief over Hyacinthus in Greek myth.",
+        "origin": "From Apollo’s grief over Hyacinthus in Greek myth.",
         "meanings": [
           "Please forgive me"
         ]
@@ -1540,14 +1716,14 @@
       "id": "hydrangea",
       "title": "Hydrangea",
       "category": "saplings-and-seedlings",
-      "description": "Hydrangeas are magnificent flowering shrubs producing enormous, dome-shaped or lacecap flower heads in shades of blue, pink, white, and purple. The flower color of some varieties is influenced by soil pH, turning blue in acidic soils.",
+      "description": "Stunning large mophead blooms in a decorative container pot. Instant garden color and elegance.",
       "price": {
-        "amount": 399,
+        "amount": 499,
         "currency": "INR",
         "discount_percent": 0
       },
       "stock": {
-        "total": 10,
+        "total": 12,
         "is_featured": false
       },
       "media": {
@@ -1562,8 +1738,8 @@
         ],
         "lifecycle": "perennial",
         "sunlight": "partial",
-        "water": "bi-weekly",
-        "height_cm": "100-180",
+        "water": "daily",
+        "height_cm": "60-120",
         "difficulty": "moderate",
         "frost_hardy": true,
         "indoor_suitable": false
@@ -1577,19 +1753,19 @@
       },
       "growing_guide": {
         "growing_instructions": [
-          "Plant in rich, moisture-retentive soil with dappled morning light in March-April or October.",
-          "Massive mophead flower clusters open in June and retain antique color into September.",
-          "Deciduous branches lose foliage in November and overwinter dormant under snow.",
-          "Prune only dead flower heads in February; do not cut old canes which bear next year's flower buds."
+          "Pot in moisture-retentive loamy compost and place in morning sun or partial shade in April.",
+          "Large mophead flower clusters open in June and hold colorful heads through September.",
+          "Deciduous and winter hardy; stems overwinter dormant from November to March under thick mulch.",
+          "Prune spent flower heads in late winter in February down to the first pair of healthy plump buds."
         ],
         "care_instructions": [
-          "Water deeply, then allow slight surface drying before next irrigation.",
-          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
-          "Prune after major bloom flush or during dormancy depending on species.",
-          "Remove diseased foliage promptly and improve airflow around dense plants."
+          "Hydrangeas have high water requirements; water deeply daily during warm summer spells.",
+          "Top-dress with organic mulch to prevent surface evaporation.",
+          "Deadhead flower heads in late winter above the first pair of healthy plump buds.",
+          "Feed in early spring with balanced slow-release granular plant food."
         ]
       },
-      "is_potted": false
+      "is_potted": true
     },
     {
       "id": "iris",
@@ -1735,7 +1911,7 @@
         "indoor_suitable": false
       },
       "symbolism": {
-        "origin": "Named for a lark\u2019s foot; associated with lightness.",
+        "origin": "Named for a lark’s foot; associated with lightness.",
         "meanings": [
           "Levity"
         ]
@@ -1789,7 +1965,7 @@
         "fragrant": true
       },
       "symbolism": {
-        "origin": "Linked to venomous snakes and Cleopatra\u2019s legend.",
+        "origin": "Linked to venomous snakes and Cleopatra’s legend.",
         "meanings": [
           "Distrust"
         ]
@@ -1799,7 +1975,7 @@
           "Plant saplings in gritty, fast-draining sunny soil in April or May.",
           "Aromatic purple flower spikes open in abundance from June through August.",
           "Lightly shear spent blooms in late August to maintain a compact rounded shrub.",
-          "Hardy English lavender overwinters under Kashmir snow down to -15\u00b0C with good drainage."
+          "Hardy English lavender overwinters under Kashmir snow down to -15°C with good drainage."
         ],
         "care_instructions": [
           "Water deeply, then allow slight surface drying before next irrigation.",
@@ -1977,14 +2153,14 @@
       "id": "miniature-rose",
       "title": "Miniature Rose",
       "category": "saplings-and-seedlings",
-      "description": "Miniature roses are petite versions of classic roses with tiny, intricately formed blooms. Perfect for containers, bonsai, and compact spaces, they come in all rose colors and bloom prolifically.",
+      "description": "Petite rose bush full of delicate buds and blooms, presented in a decorative container pot. Ideal for patios and bright window areas.",
       "price": {
-        "amount": 199,
+        "amount": 249,
         "currency": "INR",
         "discount_percent": 0
       },
       "stock": {
-        "total": 30,
+        "total": 25,
         "is_featured": false
       },
       "media": {
@@ -2006,22 +2182,8 @@
         "frost_hardy": true,
         "indoor_suitable": false
       },
-      "growing_guide": {
-        "growing_instructions": [
-          "Plant saplings in rich, loamy, well-draining garden soil in March-April or October.",
-          "Flushes repeat sprays of miniature double roses from May through October.",
-          "Hardy in ground, but protect root base with mulch or compost before December freezes.",
-          "Prune stems back by one-third in late February to shape bush before spring budding."
-        ],
-        "care_instructions": [
-          "Water deeply, then allow slight surface drying before next irrigation.",
-          "Mulch roots to buffer temperature swings in Kashmir winters and summer heat.",
-          "Prune after major bloom flush or during dormancy depending on species.",
-          "Remove diseased foliage promptly and improve airflow around dense plants."
-        ]
-      },
       "symbolism": {
-        "origin": "Selected from heritage Chinese dwarf roses; in Victorian floriography, miniature roses symbolize delicate charm, youthful romance, and heartfelt simplicity.",
+        "origin": "Developed from historic Chinese dwarf roses; in Victorian floriography, miniature roses symbolize delicate charm, youthful romance, and heartfelt simplicity.",
         "meanings": [
           "Delicate charm",
           "Sweet promise",
@@ -2029,7 +2191,21 @@
           "Petite perfection"
         ]
       },
-      "is_potted": false
+      "growing_guide": {
+        "growing_instructions": [
+          "Pot or repot in nutrient-rich loamy mix in March or April as new growth commences.",
+          "Flushes repeated sprays of tiny roses from May through October with regular deadheading.",
+          "Hardy outdoors, but protect container roots from freezing through by sheltering pots against walls or in cool verandas Dec-Feb.",
+          "Prune stems back by one-third in late February before spring bud break."
+        ],
+        "care_instructions": [
+          "Water deeply when top 2-3 cm of potting media feels dry; avoid wetting leaves at sunset.",
+          "Feed every 3 weeks with balanced seaweed or organic rose feed during active bud flushes.",
+          "Deadhead spent blooms above an outward-facing 5-leaflet leaf to stimulate fresh buds.",
+          "Protect pots from deep freezing soil in harsh Kashmir winter with burlap insulation."
+        ]
+      },
+      "is_potted": true
     },
     {
       "id": "morning-glory",
@@ -2172,7 +2348,7 @@
         "indoor_suitable": false
       },
       "symbolism": {
-        "origin": "From the French *pens\u00e9e*, meaning thought.",
+        "origin": "From the French *pensée*, meaning thought.",
         "meanings": [
           "You occupy my thoughts"
         ]

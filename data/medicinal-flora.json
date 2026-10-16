@@ -1,6 +1,58 @@
 {
   "products": [
     {
+      "id": "artemisia-absinthium",
+      "title": "Absinth",
+      "category": "medicinal-flora",
+      "plant": "Artemisia absinthium",
+      "family": "Asteraceae",
+      "common_name": [
+        "Absinth",
+        "Wormwood"
+      ],
+      "kashmiri_name": [
+        "Tethwan",
+        "Damer"
+      ],
+      "therapeutic_properties": [
+        "Chronic fever",
+        "Swelling",
+        "Liver inflammation",
+        "Rheumatism",
+        "Intestinal parasites",
+        "Hepatoprotective"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "anti-inflammatory"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
       "id": "abutilon-theophrastii",
       "title": "Abutilon",
       "category": "medicinal-flora",
@@ -67,33 +119,190 @@
       "display_only": true
     },
     {
-      "id": "adiantum-capillus-veneris",
-      "title": "Maiden Hair Fern",
+      "id": "fumaria-indica",
+      "title": "American Fumitory",
       "category": "medicinal-flora",
-      "plant": "Adiantum capillus-veneris",
-      "family": "Adiantaceae",
+      "plant": "Fumaria indica",
+      "family": "Fumariaceae",
       "common_name": [
-        "Maiden Hair Fern",
-        "Lady Fern",
-        "Avenca",
-        "Venus Hair Fern"
+        "American Fumitory"
       ],
       "kashmiri_name": [
-        "Geowthir"
+        "Shahtar"
       ],
       "therapeutic_properties": [
-        "Demulcent",
-        "Hair tonic",
-        "Expectorant",
-        "Febrifuge",
-        "Antitumorogenic",
-        "Anticold",
-        "Emmenagogue",
+        "Hepatoprotective",
+        "Anthelmintic",
+        "Diuretic",
+        "Diaphoretic",
+        "Blood purifier",
+        "Antipyretic",
+        "Sedative",
+        "Antidepressant",
+        "Analgesic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "digestive support",
+        "urinary support",
+        "nervous system support",
+        "anti-inflammatory"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "berberis-lycium",
+      "title": "Barberry",
+      "category": "medicinal-flora",
+      "plant": "Berberis lycium",
+      "family": "Berberidaceae",
+      "common_name": [
+        "Barberry"
+      ],
+      "kashmiri_name": [
+        "Kawdach"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Tonic",
+        "Purgative",
+        "Antiseptic",
+        "Jaundice",
+        "Dyspepsia",
+        "Blood purifier",
+        "Antimalarial",
+        "Anti-arthritic",
         "Antimicrobial",
+        "Cytotoxic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "immune support",
+        "digestive support",
+        "skin support",
+        "antimicrobial support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "robinia-pseudoacacia",
+      "title": "Black Locust",
+      "category": "medicinal-flora",
+      "plant": "Robinia pseudoacacia",
+      "family": "Papilionaceae",
+      "common_name": [
+        "Black Locust"
+      ],
+      "kashmiri_name": [
+        "Tikar",
+        "Kikar"
+      ],
+      "therapeutic_properties": [
+        "Astringent",
+        "Diuretic",
+        "Emetic",
+        "Laxative",
+        "Sedative",
+        "Tonic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "urinary support",
+        "digestive support",
+        "nervous system support",
+        "immune support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "morus-nigra",
+      "title": "Black Mulberry",
+      "category": "medicinal-flora",
+      "plant": "Morus nigra",
+      "family": "Moraceae",
+      "common_name": [
+        "Black Mulberry"
+      ],
+      "kashmiri_name": [
+        "Shahtul"
+      ],
+      "therapeutic_properties": [
+        "Nutritive",
+        "Refrigerant",
+        "Laxative",
         "Hypoglycaemic",
-        "Anti-inflammatory",
-        "Antiodontalgic",
-        "Antiviral"
+        "Hypotensive"
       ],
       "parts_used": [
         "Root",
@@ -102,11 +311,160 @@
       ],
       "health_benefits": [
         "immune support",
-        "respiratory support",
-        "antimicrobial support",
+        "digestive support",
+        "metabolic support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "solanum-nigrum",
+      "title": "Black Nightshade",
+      "category": "medicinal-flora",
+      "plant": "Solanum nigrum",
+      "family": "Solanaceae",
+      "common_name": [
+        "Black Nightshade"
+      ],
+      "kashmiri_name": [
+        "Kambai"
+      ],
+      "therapeutic_properties": [
+        "Diuretic",
+        "Anti-inflammatory",
+        "Analgesic",
+        "Anti-dermatitis",
+        "Anti-edematic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "urinary support",
+        "anti-inflammatory",
+        "skin support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "ricinus-communis",
+      "title": "Castor",
+      "category": "medicinal-flora",
+      "plant": "Ricinus communis",
+      "family": "Euphorbiaceae",
+      "common_name": [
+        "Castor"
+      ],
+      "kashmiri_name": [
+        "Arandi"
+      ],
+      "therapeutic_properties": [
+        "Constipation",
+        "Colic",
+        "Diarrhoea",
+        "Dysentery",
+        "Amenorrhea",
+        "Hemorrhoids"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
         "women's health support",
-        "metabolic support",
-        "anti-inflammatory"
+        "heart and circulation support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "nepeta-cataria",
+      "title": "Catnip",
+      "category": "medicinal-flora",
+      "plant": "Nepeta cataria",
+      "family": "Lamiaceae",
+      "common_name": [
+        "Catnip"
+      ],
+      "kashmiri_name": [
+        "Gandh Sooi"
+      ],
+      "therapeutic_properties": [
+        "Carminative",
+        "Tonic",
+        "Diaphoretic",
+        "Sedative",
+        "Antispasmodic",
+        "Insomnia"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "immune support",
+        "nervous system support"
       ],
       "growing_guide": {
         "seasons": {
@@ -182,26 +540,23 @@
       "display_only": true
     },
     {
-      "id": "artemisia-absinthium",
-      "title": "Absinth",
+      "id": "senecio-vulgaris",
+      "title": "Common Groundsel",
       "category": "medicinal-flora",
-      "plant": "Artemisia absinthium",
+      "plant": "Senecio vulgaris",
       "family": "Asteraceae",
       "common_name": [
-        "Absinth",
-        "Wormwood"
+        "Common Groundsel"
       ],
       "kashmiri_name": [
-        "Tethwan",
-        "Damer"
+        "-"
       ],
       "therapeutic_properties": [
-        "Chronic fever",
-        "Swelling",
-        "Liver inflammation",
-        "Rheumatism",
-        "Intestinal parasites",
-        "Hepatoprotective"
+        "Diaphoretic",
+        "Diuretic",
+        "Tonic",
+        "Purgative",
+        "Emetic"
       ],
       "parts_used": [
         "Root",
@@ -209,7 +564,217 @@
         "Flowers"
       ],
       "health_benefits": [
+        "urinary support",
+        "immune support",
+        "digestive support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "malva-sylvestris",
+      "title": "Common Mallow",
+      "category": "medicinal-flora",
+      "plant": "Malva sylvestris",
+      "family": "Malvaceae",
+      "common_name": [
+        "Common Mallow"
+      ],
+      "kashmiri_name": [
+        "Aurum Satchel"
+      ],
+      "therapeutic_properties": [
+        "Demulcent",
+        "Emollient",
+        "Anti-inflammatory",
+        "Cough",
+        "Colds"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "anti-inflammatory",
+        "respiratory support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "taraxacum-officinale",
+      "title": "Dandelion",
+      "category": "medicinal-flora",
+      "plant": "Taraxacum officinale",
+      "family": "Asteraceae",
+      "common_name": [
+        "Dandelion"
+      ],
+      "kashmiri_name": [
+        "Haandh"
+      ],
+      "therapeutic_properties": [
+        "Diuretic",
+        "Tonic",
+        "Liver disorders",
+        "Anti-rheumatic",
+        "Antiviral",
+        "Immunostimulatory"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "urinary support",
+        "immune support",
         "liver support",
+        "anti-inflammatory",
+        "antimicrobial support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "datura-stramonium",
+      "title": "Devil’s Apple",
+      "category": "medicinal-flora",
+      "plant": "Datura stramonium",
+      "family": "Solanaceae",
+      "common_name": [
+        "Devil’s Apple",
+        "Jimson Weed",
+        "Thorn Apple"
+      ],
+      "kashmiri_name": [
+        "Datur"
+      ],
+      "therapeutic_properties": [
+        "Antiseptic",
+        "Anodyne",
+        "Narcotic",
+        "Sedative",
+        "Bronchitis",
+        "Epilepsy",
+        "Anti-rheumatic",
+        "Anti-hemorrhoidal"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "skin support",
+        "nervous system support",
+        "respiratory support",
+        "anti-inflammatory",
+        "heart and circulation support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "cuscuta-reflexa",
+      "title": "Dodder",
+      "category": "medicinal-flora",
+      "plant": "Cuscuta reflexa",
+      "family": "Cuscutaceae",
+      "common_name": [
+        "Dodder"
+      ],
+      "kashmiri_name": [
+        "Kuklipoth"
+      ],
+      "therapeutic_properties": [
+        "Tonsillitis",
+        "Chest disorders",
+        "Purgative",
+        "Anthelmintic",
+        "Anti-rheumatic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "respiratory support",
+        "digestive support",
         "anti-inflammatory"
       ],
       "growing_guide": {
@@ -349,29 +914,26 @@
       "display_only": true
     },
     {
-      "id": "berberis-lycium",
-      "title": "Barberry",
+      "id": "ficus-carica",
+      "title": "Fig",
       "category": "medicinal-flora",
-      "plant": "Berberis lycium",
-      "family": "Berberidaceae",
+      "plant": "Ficus carica",
+      "family": "Moraceae",
       "common_name": [
-        "Barberry"
+        "Fig"
       ],
       "kashmiri_name": [
-        "Kawdach"
+        "Anjoor"
       ],
       "therapeutic_properties": [
         "Hepatoprotective",
-        "Tonic",
-        "Purgative",
-        "Antiseptic",
-        "Jaundice",
-        "Dyspepsia",
-        "Blood purifier",
-        "Antimalarial",
-        "Anti-arthritic",
-        "Antimicrobial",
-        "Cytotoxic"
+        "Demulcent",
+        "Aperient",
+        "Emollient",
+        "Nutritive",
+        "Antitussive",
+        "Anticatarrhal",
+        "Keratolytic"
       ],
       "parts_used": [
         "Root",
@@ -380,10 +942,10 @@
       ],
       "health_benefits": [
         "liver support",
-        "immune support",
         "digestive support",
-        "skin support",
-        "antimicrobial support"
+        "immune support",
+        "respiratory support",
+        "skin support"
       ],
       "growing_guide": {
         "seasons": {
@@ -407,29 +969,24 @@
       "display_only": true
     },
     {
-      "id": "cannabis-sativa",
-      "title": "True Hemp",
+      "id": "descurainia-sophia",
+      "title": "Flixweed",
       "category": "medicinal-flora",
-      "plant": "Cannabis sativa",
-      "family": "Cannabinaceae",
+      "plant": "Descurainia sophia",
+      "family": "Brassicaceae",
       "common_name": [
-        "True Hemp",
-        "Soft Hemp",
-        "Marijuana"
+        "Flixweed",
+        "Tansy Mustard"
       ],
       "kashmiri_name": [
-        "Charas",
-        "Bhang"
+        "Charilasij"
       ],
       "therapeutic_properties": [
-        "Analgesic",
-        "Antipyretic",
-        "Anti-inflammatory",
-        "Neuralgia",
-        "Gout",
-        "Rheumatism",
-        "Insomnia",
-        "Infantile convulsions"
+        "Astringent",
+        "Antiscorbutic",
+        "Expectorant",
+        "Bronchitis",
+        "Febrifuge"
       ],
       "parts_used": [
         "Root",
@@ -437,8 +994,256 @@
         "Flowers"
       ],
       "health_benefits": [
-        "anti-inflammatory",
-        "nervous system support"
+        "respiratory support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "gentiana-carinata",
+      "title": "Gentian",
+      "category": "medicinal-flora",
+      "plant": "Gentiana carinata",
+      "family": "Gentianaceae",
+      "common_name": [
+        "Gentian"
+      ],
+      "kashmiri_name": [
+        "Maidan Kalveoth"
+      ],
+      "therapeutic_properties": [
+        "Stomach ache",
+        "Antipertussis"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "respiratory support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "digitalis-lanata",
+      "title": "Grecian Foxglove",
+      "category": "medicinal-flora",
+      "plant": "Digitalis lanata",
+      "family": "Scrophulariaceae",
+      "common_name": [
+        "Grecian Foxglove",
+        "Wooly Foxglove"
+      ],
+      "kashmiri_name": [
+        "Digitalis"
+      ],
+      "therapeutic_properties": [
+        "Hepatoprotective",
+        "Cardioprotective",
+        "Cytotoxic",
+        "Antidiabetic",
+        "Antioxidant"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "heart and circulation support",
+        "antimicrobial support",
+        "metabolic support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "iris-decora",
+      "title": "Himalayan Iris",
+      "category": "medicinal-flora",
+      "plant": "Iris decora",
+      "family": "Iridaceae",
+      "common_name": [
+        "Himalayan Iris"
+      ],
+      "kashmiri_name": [
+        "Sosan"
+      ],
+      "therapeutic_properties": [
+        "Bilious obstruction",
+        "Sores",
+        "Pimples",
+        "Anti-rheumatic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "skin support",
+        "anti-inflammatory"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "iris-kashmiriana",
+      "title": "Himalayan Iris",
+      "category": "medicinal-flora",
+      "plant": "Iris kashmiriana",
+      "family": "Iridaceae",
+      "common_name": [
+        "Himalayan Iris"
+      ],
+      "kashmiri_name": [
+        "Mazar Mund"
+      ],
+      "therapeutic_properties": [
+        "Anti-rheumatic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "anti-inflammatory"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "conyza-canadensis",
+      "title": "Horsebane",
+      "category": "medicinal-flora",
+      "plant": "Conyza canadensis",
+      "family": "Asteraceae",
+      "common_name": [
+        "Horsebane",
+        "Fleabane",
+        "Coltstail"
+      ],
+      "kashmiri_name": [
+        "Shaliloth",
+        "Zarkash"
+      ],
+      "therapeutic_properties": [
+        "Astringent",
+        "Stimulant",
+        "Haemostatic",
+        "Diuretic",
+        "Anti-diarrhoea",
+        "Antihaemorrhagic",
+        "Bronchitis",
+        "Cystitis",
+        "Antidiabetic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "heart and circulation support",
+        "urinary support",
+        "digestive support",
+        "respiratory support",
+        "metabolic support"
       ],
       "growing_guide": {
         "seasons": {
@@ -484,6 +1289,410 @@
       ],
       "health_benefits": [
         "skin support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "rumex-dentatus",
+      "title": "Indian Sorrel",
+      "category": "medicinal-flora",
+      "plant": "Rumex dentatus",
+      "family": "Polygonaceae",
+      "common_name": [
+        "Indian Sorrel"
+      ],
+      "kashmiri_name": [
+        "Obug"
+      ],
+      "therapeutic_properties": [
+        "Diuretic",
+        "Antipyretic",
+        "Astringent",
+        "Anti-inflammatory",
+        "Antihypertensive"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "urinary support",
+        "anti-inflammatory",
+        "metabolic support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "iris-lactea",
+      "title": "Japanese Iris",
+      "category": "medicinal-flora",
+      "plant": "Iris lactea",
+      "family": "Iridaceae",
+      "common_name": [
+        "Japanese Iris"
+      ],
+      "kashmiri_name": [
+        "Krashim"
+      ],
+      "therapeutic_properties": [
+        "Alterative",
+        "Blood purifier",
+        "Venereal affections",
+        "Liver complaints",
+        "Dropsy",
+        "Anti-allergic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "liver support",
+        "urinary support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "polygonum-amplexicaule",
+      "title": "Knotweed",
+      "category": "medicinal-flora",
+      "plant": "Polygonum amplexicaule",
+      "family": "Polygonaceae",
+      "common_name": [
+        "Knotweed"
+      ],
+      "kashmiri_name": [
+        "Machren"
+      ],
+      "therapeutic_properties": [
+        "Antibacterial",
+        "Antifungal",
+        "Antimalarial"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "antimicrobial support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "sisymbrium-irio",
+      "title": "London Rocket",
+      "category": "medicinal-flora",
+      "plant": "Sisymbrium irio",
+      "family": "Brassicaceae",
+      "common_name": [
+        "London Rocket"
+      ],
+      "kashmiri_name": [
+        "Danda Haak"
+      ],
+      "therapeutic_properties": [
+        "Expectorant",
+        "Stimulant",
+        "Febrifuge",
+        "Anti-asthmatic"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "respiratory support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "adiantum-capillus-veneris",
+      "title": "Maiden Hair Fern",
+      "category": "medicinal-flora",
+      "plant": "Adiantum capillus-veneris",
+      "family": "Adiantaceae",
+      "common_name": [
+        "Maiden Hair Fern",
+        "Lady Fern",
+        "Avenca",
+        "Venus Hair Fern"
+      ],
+      "kashmiri_name": [
+        "Geowthir"
+      ],
+      "therapeutic_properties": [
+        "Demulcent",
+        "Hair tonic",
+        "Expectorant",
+        "Febrifuge",
+        "Antitumorogenic",
+        "Anticold",
+        "Emmenagogue",
+        "Antimicrobial",
+        "Hypoglycaemic",
+        "Anti-inflammatory",
+        "Antiodontalgic",
+        "Antiviral"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "immune support",
+        "respiratory support",
+        "antimicrobial support",
+        "women's health support",
+        "metabolic support",
+        "anti-inflammatory"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "malva-neglecta",
+      "title": "Mallow",
+      "category": "medicinal-flora",
+      "plant": "Malva neglecta",
+      "family": "Malvaceae",
+      "common_name": [
+        "Mallow"
+      ],
+      "kashmiri_name": [
+        "Kashmir Satchel"
+      ],
+      "therapeutic_properties": [
+        "Laxative",
+        "Anti-cough",
+        "Colds",
+        "Gravel"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "respiratory support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "verbascum-thapsus",
+      "title": "Mullein",
+      "category": "medicinal-flora",
+      "plant": "Verbascum thapsus",
+      "family": "Scrophulariaceae",
+      "common_name": [
+        "Mullein"
+      ],
+      "kashmiri_name": [
+        "Jangil Tamok"
+      ],
+      "therapeutic_properties": [
+        "Febrifuge",
+        "Aphrodisiac",
+        "Anti-inflammatory",
+        "Demulcent",
+        "Antiviral"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "anti-inflammatory",
+        "antimicrobial support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "narcissus-tazetta",
+      "title": "Narcissus",
+      "category": "medicinal-flora",
+      "plant": "Narcissus tazetta",
+      "family": "Amaryllidaceae",
+      "common_name": [
+        "Narcissus"
+      ],
+      "kashmiri_name": [
+        "Yemberzal"
+      ],
+      "therapeutic_properties": [
+        "Emetic",
+        "Headache relief",
+        "Anemia",
+        "Purgative",
+        "Diuretic",
+        "Antiviral"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "digestive support",
+        "urinary support",
+        "antimicrobial support"
       ],
       "growing_guide": {
         "seasons": {
@@ -613,30 +1822,23 @@
       "display_only": true
     },
     {
-      "id": "conyza-canadensis",
-      "title": "Horsebane",
+      "id": "rosa-damascena",
+      "title": "Rose",
       "category": "medicinal-flora",
-      "plant": "Conyza canadensis",
-      "family": "Asteraceae",
+      "plant": "Rosa damascena",
+      "family": "Rosaceae",
       "common_name": [
-        "Horsebane",
-        "Fleabane",
-        "Coltstail"
+        "Rose"
       ],
       "kashmiri_name": [
-        "Shaliloth",
-        "Zarkash"
+        "Kashur Gulab"
       ],
       "therapeutic_properties": [
         "Astringent",
-        "Stimulant",
-        "Haemostatic",
-        "Diuretic",
-        "Anti-diarrhoea",
-        "Antihaemorrhagic",
-        "Bronchitis",
-        "Cystitis",
-        "Antidiabetic"
+        "Cardiotonic",
+        "Hepatoprotective",
+        "Anti-inflammatory",
+        "Antidepressant"
       ],
       "parts_used": [
         "Root",
@@ -644,117 +1846,59 @@
         "Flowers"
       ],
       "health_benefits": [
+        "immune support",
         "heart and circulation support",
-        "urinary support",
-        "digestive support",
-        "respiratory support",
-        "metabolic support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "cuscuta-reflexa",
-      "title": "Dodder",
-      "category": "medicinal-flora",
-      "plant": "Cuscuta reflexa",
-      "family": "Cuscutaceae",
-      "common_name": [
-        "Dodder"
-      ],
-      "kashmiri_name": [
-        "Kuklipoth"
-      ],
-      "therapeutic_properties": [
-        "Tonsillitis",
-        "Chest disorders",
-        "Purgative",
-        "Anthelmintic",
-        "Anti-rheumatic"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "respiratory support",
-        "digestive support",
-        "anti-inflammatory"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "datura-stramonium",
-      "title": "Devil’s Apple",
-      "category": "medicinal-flora",
-      "plant": "Datura stramonium",
-      "family": "Solanaceae",
-      "common_name": [
-        "Devil’s Apple",
-        "Jimson Weed",
-        "Thorn Apple"
-      ],
-      "kashmiri_name": [
-        "Datur"
-      ],
-      "therapeutic_properties": [
-        "Antiseptic",
-        "Anodyne",
-        "Narcotic",
-        "Sedative",
-        "Bronchitis",
-        "Epilepsy",
-        "Anti-rheumatic",
-        "Anti-hemorrhoidal"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "skin support",
-        "nervous system support",
-        "respiratory support",
+        "liver support",
         "anti-inflammatory",
+        "nervous system support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "hernaria-hirsuta",
+      "title": "Rupture Wort",
+      "category": "medicinal-flora",
+      "plant": "Hernaria hirsuta",
+      "family": "Illecebraceae",
+      "common_name": [
+        "Rupture Wort"
+      ],
+      "kashmiri_name": [
+        "Tcheri Saban"
+      ],
+      "therapeutic_properties": [
+        "Throat sore",
+        "Diuretic",
+        "Cardiac dropsy",
+        "Nephritic dropsy"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "respiratory support",
+        "urinary support",
         "heart and circulation support"
       ],
       "growing_guide": {
@@ -779,25 +1923,73 @@
       "display_only": true
     },
     {
-      "id": "daucus-carota",
-      "title": "Wild Carrot",
+      "id": "ocimum-sanctum",
+      "title": "Sacred Basil",
       "category": "medicinal-flora",
-      "plant": "Daucus carota",
-      "family": "Apiaceae",
+      "plant": "Ocimum sanctum",
+      "family": "Lamiaceae",
       "common_name": [
-        "Wild Carrot"
+        "Sacred Basil"
       ],
       "kashmiri_name": [
-        "Jangil Gazir"
+        "Baber-i-Booil"
       ],
       "therapeutic_properties": [
-        "Stimulant",
-        "Carminative",
-        "Aphrodisiac",
-        "Antilithic",
-        "Anti-conception",
-        "Smooth muscle relaxant",
-        "Antidiabetic"
+        "Expectorant",
+        "Diaphoretic",
+        "Antipyretic",
+        "Anthelminthic",
+        "Hypoglycaemic",
+        "Insecticidal"
+      ],
+      "parts_used": [
+        "Root",
+        "Leaves",
+        "Flowers"
+      ],
+      "health_benefits": [
+        "respiratory support",
+        "digestive support",
+        "metabolic support"
+      ],
+      "growing_guide": {
+        "seasons": {
+          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
+          "peak_growth": "Apr-Sep",
+          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
+          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
+        },
+        "growing_instructions": [
+          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
+          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
+          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
+        ],
+        "care_instructions": [
+          "Irrigate to keep evenly moist but never waterlogged root zones.",
+          "Weed manually and mulch to reduce contamination and moisture stress.",
+          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
+          "Record harvest date and batch to maintain traceability for medicinal handling."
+        ]
+      },
+      "display_only": true
+    },
+    {
+      "id": "salvia-moorcroftiana",
+      "title": "Sage",
+      "category": "medicinal-flora",
+      "plant": "Salvia moorcroftiana",
+      "family": "Lamiaceae",
+      "common_name": [
+        "Sage"
+      ],
+      "kashmiri_name": [
+        "Sholar"
+      ],
+      "therapeutic_properties": [
+        "Emetic",
+        "Antihemorrhoidal",
+        "Antipyretic",
+        "Relieves cough"
       ],
       "parts_used": [
         "Root",
@@ -806,110 +1998,8 @@
       ],
       "health_benefits": [
         "digestive support",
-        "urinary support",
-        "women's health support",
-        "metabolic support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "descurainia-sophia",
-      "title": "Flixweed",
-      "category": "medicinal-flora",
-      "plant": "Descurainia sophia",
-      "family": "Brassicaceae",
-      "common_name": [
-        "Flixweed",
-        "Tansy Mustard"
-      ],
-      "kashmiri_name": [
-        "Charilasij"
-      ],
-      "therapeutic_properties": [
-        "Astringent",
-        "Antiscorbutic",
-        "Expectorant",
-        "Bronchitis",
-        "Febrifuge"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "respiratory support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "digitalis-lanata",
-      "title": "Grecian Foxglove",
-      "category": "medicinal-flora",
-      "plant": "Digitalis lanata",
-      "family": "Scrophulariaceae",
-      "common_name": [
-        "Grecian Foxglove",
-        "Wooly Foxglove"
-      ],
-      "kashmiri_name": [
-        "Digitalis"
-      ],
-      "therapeutic_properties": [
-        "Hepatoprotective",
-        "Cardioprotective",
-        "Cytotoxic",
-        "Antidiabetic",
-        "Antioxidant"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "liver support",
         "heart and circulation support",
-        "antimicrobial support",
-        "metabolic support"
+        "respiratory support"
       ],
       "growing_guide": {
         "seasons": {
@@ -984,26 +2074,25 @@
       "display_only": true
     },
     {
-      "id": "ficus-carica",
-      "title": "Fig",
+      "id": "oxalis-corniculata",
+      "title": "Shamrock",
       "category": "medicinal-flora",
-      "plant": "Ficus carica",
-      "family": "Moraceae",
+      "plant": "Oxalis corniculata",
+      "family": "Oxalidaceae",
       "common_name": [
-        "Fig"
+        "Shamrock",
+        "Wood Sorrel"
       ],
       "kashmiri_name": [
-        "Anjoor"
+        "Jangil Chokchin"
       ],
       "therapeutic_properties": [
-        "Hepatoprotective",
-        "Demulcent",
-        "Aperient",
-        "Emollient",
-        "Nutritive",
-        "Antitussive",
-        "Anticatarrhal",
-        "Keratolytic"
+        "Analgesic",
+        "Antiemetic",
+        "Anti-inflammatory",
+        "Antipyretic",
+        "Antiseptic",
+        "Stomachic"
       ],
       "parts_used": [
         "Root",
@@ -1011,10 +2100,8 @@
         "Flowers"
       ],
       "health_benefits": [
-        "liver support",
+        "anti-inflammatory",
         "digestive support",
-        "immune support",
-        "respiratory support",
         "skin support"
       ],
       "growing_guide": {
@@ -1039,27 +2126,24 @@
       "display_only": true
     },
     {
-      "id": "fumaria-indica",
-      "title": "American Fumitory",
+      "id": "siegesbeckia-orientalis",
+      "title": "Siegesbeckia",
       "category": "medicinal-flora",
-      "plant": "Fumaria indica",
-      "family": "Fumariaceae",
+      "plant": "Siegesbeckia orientalis",
+      "family": "Asteraceae",
       "common_name": [
-        "American Fumitory"
+        "Siegesbeckia"
       ],
       "kashmiri_name": [
-        "Shahtar"
+        "-"
       ],
       "therapeutic_properties": [
-        "Hepatoprotective",
-        "Anthelmintic",
-        "Diuretic",
-        "Diaphoretic",
-        "Blood purifier",
-        "Antipyretic",
-        "Sedative",
-        "Antidepressant",
-        "Analgesic"
+        "Depurative",
+        "Cardiotonic",
+        "Anti-inflammatory",
+        "Analgesic",
+        "Antiviral",
+        "Hypoglycaemic"
       ],
       "parts_used": [
         "Root",
@@ -1067,106 +2151,11 @@
         "Flowers"
       ],
       "health_benefits": [
-        "liver support",
-        "digestive support",
-        "urinary support",
-        "nervous system support",
-        "anti-inflammatory"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "gentiana-carinata",
-      "title": "Gentian",
-      "category": "medicinal-flora",
-      "plant": "Gentiana carinata",
-      "family": "Gentianaceae",
-      "common_name": [
-        "Gentian"
-      ],
-      "kashmiri_name": [
-        "Maidan Kalveoth"
-      ],
-      "therapeutic_properties": [
-        "Stomach ache",
-        "Antipertussis"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "digestive support",
-        "respiratory support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "hernaria-hirsuta",
-      "title": "Rupture Wort",
-      "category": "medicinal-flora",
-      "plant": "Hernaria hirsuta",
-      "family": "Illecebraceae",
-      "common_name": [
-        "Rupture Wort"
-      ],
-      "kashmiri_name": [
-        "Tcheri Saban"
-      ],
-      "therapeutic_properties": [
-        "Throat sore",
-        "Diuretic",
-        "Cardiac dropsy",
-        "Nephritic dropsy"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "respiratory support",
-        "urinary support",
-        "heart and circulation support"
+        "immune support",
+        "heart and circulation support",
+        "anti-inflammatory",
+        "antimicrobial support",
+        "metabolic support"
       ],
       "growing_guide": {
         "seasons": {
@@ -1244,22 +2233,29 @@
       "display_only": true
     },
     {
-      "id": "iris-decora",
-      "title": "Himalayan Iris",
+      "id": "cannabis-sativa",
+      "title": "True Hemp",
       "category": "medicinal-flora",
-      "plant": "Iris decora",
-      "family": "Iridaceae",
+      "plant": "Cannabis sativa",
+      "family": "Cannabinaceae",
       "common_name": [
-        "Himalayan Iris"
+        "True Hemp",
+        "Soft Hemp",
+        "Marijuana"
       ],
       "kashmiri_name": [
-        "Sosan"
+        "Charas",
+        "Bhang"
       ],
       "therapeutic_properties": [
-        "Bilious obstruction",
-        "Sores",
-        "Pimples",
-        "Anti-rheumatic"
+        "Analgesic",
+        "Antipyretic",
+        "Anti-inflammatory",
+        "Neuralgia",
+        "Gout",
+        "Rheumatism",
+        "Insomnia",
+        "Infantile convulsions"
       ],
       "parts_used": [
         "Root",
@@ -1267,102 +2263,8 @@
         "Flowers"
       ],
       "health_benefits": [
-        "skin support",
-        "anti-inflammatory"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "iris-kashmiriana",
-      "title": "Himalayan Iris",
-      "category": "medicinal-flora",
-      "plant": "Iris kashmiriana",
-      "family": "Iridaceae",
-      "common_name": [
-        "Himalayan Iris"
-      ],
-      "kashmiri_name": [
-        "Mazar Mund"
-      ],
-      "therapeutic_properties": [
-        "Anti-rheumatic"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "anti-inflammatory"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "iris-lactea",
-      "title": "Japanese Iris",
-      "category": "medicinal-flora",
-      "plant": "Iris lactea",
-      "family": "Iridaceae",
-      "common_name": [
-        "Japanese Iris"
-      ],
-      "kashmiri_name": [
-        "Krashim"
-      ],
-      "therapeutic_properties": [
-        "Alterative",
-        "Blood purifier",
-        "Venereal affections",
-        "Liver complaints",
-        "Dropsy",
-        "Anti-allergic"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "liver support",
-        "urinary support"
+        "anti-inflammatory",
+        "nervous system support"
       ],
       "growing_guide": {
         "seasons": {
@@ -1439,22 +2341,22 @@
       "display_only": true
     },
     {
-      "id": "malva-neglecta",
-      "title": "Mallow",
+      "id": "sagittaria-trifolia",
+      "title": "Wapatoo",
       "category": "medicinal-flora",
-      "plant": "Malva neglecta",
-      "family": "Malvaceae",
+      "plant": "Sagittaria trifolia",
+      "family": "Alismataceae",
       "common_name": [
-        "Mallow"
+        "Wapatoo"
       ],
       "kashmiri_name": [
-        "Kashmir Satchel"
+        "Keow"
       ],
       "therapeutic_properties": [
-        "Laxative",
-        "Anti-cough",
-        "Colds",
-        "Gravel"
+        "Diuretic",
+        "Antiscorbutic",
+        "Cutaneous troubles",
+        "Sore throat"
       ],
       "parts_used": [
         "Root",
@@ -1462,7 +2364,8 @@
         "Flowers"
       ],
       "health_benefits": [
-        "digestive support",
+        "urinary support",
+        "skin support",
         "respiratory support"
       ],
       "growing_guide": {
@@ -1487,23 +2390,23 @@
       "display_only": true
     },
     {
-      "id": "malva-sylvestris",
-      "title": "Common Mallow",
+      "id": "salix-babylonica",
+      "title": "Weeping Willow",
       "category": "medicinal-flora",
-      "plant": "Malva sylvestris",
-      "family": "Malvaceae",
+      "plant": "Salix babylonica",
+      "family": "Salicaceae",
       "common_name": [
-        "Common Mallow"
+        "Weeping Willow"
       ],
       "kashmiri_name": [
-        "Aurum Satchel"
+        "Vir",
+        "Guir Biasa"
       ],
       "therapeutic_properties": [
-        "Demulcent",
-        "Emollient",
-        "Anti-inflammatory",
-        "Cough",
-        "Colds"
+        "Antipyretic",
+        "Anthelmintic",
+        "Antirheumatic",
+        "Anti-implantation"
       ],
       "parts_used": [
         "Root",
@@ -1511,8 +2414,9 @@
         "Flowers"
       ],
       "health_benefits": [
+        "digestive support",
         "anti-inflammatory",
-        "respiratory support"
+        "women's health support"
       ],
       "growing_guide": {
         "seasons": {
@@ -1589,562 +2493,6 @@
       "display_only": true
     },
     {
-      "id": "morus-nigra",
-      "title": "Black Mulberry",
-      "category": "medicinal-flora",
-      "plant": "Morus nigra",
-      "family": "Moraceae",
-      "common_name": [
-        "Black Mulberry"
-      ],
-      "kashmiri_name": [
-        "Shahtul"
-      ],
-      "therapeutic_properties": [
-        "Nutritive",
-        "Refrigerant",
-        "Laxative",
-        "Hypoglycaemic",
-        "Hypotensive"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "immune support",
-        "digestive support",
-        "metabolic support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "narcissus-tazetta",
-      "title": "Narcissus",
-      "category": "medicinal-flora",
-      "plant": "Narcissus tazetta",
-      "family": "Amaryllidaceae",
-      "common_name": [
-        "Narcissus"
-      ],
-      "kashmiri_name": [
-        "Yemberzal"
-      ],
-      "therapeutic_properties": [
-        "Emetic",
-        "Headache relief",
-        "Anemia",
-        "Purgative",
-        "Diuretic",
-        "Antiviral"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "digestive support",
-        "urinary support",
-        "antimicrobial support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "nepeta-cataria",
-      "title": "Catnip",
-      "category": "medicinal-flora",
-      "plant": "Nepeta cataria",
-      "family": "Lamiaceae",
-      "common_name": [
-        "Catnip"
-      ],
-      "kashmiri_name": [
-        "Gandh Sooi"
-      ],
-      "therapeutic_properties": [
-        "Carminative",
-        "Tonic",
-        "Diaphoretic",
-        "Sedative",
-        "Antispasmodic",
-        "Insomnia"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "digestive support",
-        "immune support",
-        "nervous system support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "ocimum-sanctum",
-      "title": "Sacred Basil",
-      "category": "medicinal-flora",
-      "plant": "Ocimum sanctum",
-      "family": "Lamiaceae",
-      "common_name": [
-        "Sacred Basil"
-      ],
-      "kashmiri_name": [
-        "Baber-i-Booil"
-      ],
-      "therapeutic_properties": [
-        "Expectorant",
-        "Diaphoretic",
-        "Antipyretic",
-        "Anthelminthic",
-        "Hypoglycaemic",
-        "Insecticidal"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "respiratory support",
-        "digestive support",
-        "metabolic support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "oxalis-corniculata",
-      "title": "Shamrock",
-      "category": "medicinal-flora",
-      "plant": "Oxalis corniculata",
-      "family": "Oxalidaceae",
-      "common_name": [
-        "Shamrock",
-        "Wood Sorrel"
-      ],
-      "kashmiri_name": [
-        "Jangil Chokchin"
-      ],
-      "therapeutic_properties": [
-        "Analgesic",
-        "Antiemetic",
-        "Anti-inflammatory",
-        "Antipyretic",
-        "Antiseptic",
-        "Stomachic"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "anti-inflammatory",
-        "digestive support",
-        "skin support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "polygonum-amplexicaule",
-      "title": "Knotweed",
-      "category": "medicinal-flora",
-      "plant": "Polygonum amplexicaule",
-      "family": "Polygonaceae",
-      "common_name": [
-        "Knotweed"
-      ],
-      "kashmiri_name": [
-        "Machren"
-      ],
-      "therapeutic_properties": [
-        "Antibacterial",
-        "Antifungal",
-        "Antimalarial"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "antimicrobial support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "ricinus-communis",
-      "title": "Castor",
-      "category": "medicinal-flora",
-      "plant": "Ricinus communis",
-      "family": "Euphorbiaceae",
-      "common_name": [
-        "Castor"
-      ],
-      "kashmiri_name": [
-        "Arandi"
-      ],
-      "therapeutic_properties": [
-        "Constipation",
-        "Colic",
-        "Diarrhoea",
-        "Dysentery",
-        "Amenorrhea",
-        "Hemorrhoids"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "digestive support",
-        "women's health support",
-        "heart and circulation support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "robinia-pseudoacacia",
-      "title": "Black Locust",
-      "category": "medicinal-flora",
-      "plant": "Robinia pseudoacacia",
-      "family": "Papilionaceae",
-      "common_name": [
-        "Black Locust"
-      ],
-      "kashmiri_name": [
-        "Tikar",
-        "Kikar"
-      ],
-      "therapeutic_properties": [
-        "Astringent",
-        "Diuretic",
-        "Emetic",
-        "Laxative",
-        "Sedative",
-        "Tonic"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "urinary support",
-        "digestive support",
-        "nervous system support",
-        "immune support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "rosa-damascena",
-      "title": "Rose",
-      "category": "medicinal-flora",
-      "plant": "Rosa damascena",
-      "family": "Rosaceae",
-      "common_name": [
-        "Rose"
-      ],
-      "kashmiri_name": [
-        "Kashur Gulab"
-      ],
-      "therapeutic_properties": [
-        "Astringent",
-        "Cardiotonic",
-        "Hepatoprotective",
-        "Anti-inflammatory",
-        "Antidepressant"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "immune support",
-        "heart and circulation support",
-        "liver support",
-        "anti-inflammatory",
-        "nervous system support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "rumex-dentatus",
-      "title": "Indian Sorrel",
-      "category": "medicinal-flora",
-      "plant": "Rumex dentatus",
-      "family": "Polygonaceae",
-      "common_name": [
-        "Indian Sorrel"
-      ],
-      "kashmiri_name": [
-        "Obug"
-      ],
-      "therapeutic_properties": [
-        "Diuretic",
-        "Antipyretic",
-        "Astringent",
-        "Anti-inflammatory",
-        "Antihypertensive"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "urinary support",
-        "anti-inflammatory",
-        "metabolic support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "sagittaria-trifolia",
-      "title": "Wapatoo",
-      "category": "medicinal-flora",
-      "plant": "Sagittaria trifolia",
-      "family": "Alismataceae",
-      "common_name": [
-        "Wapatoo"
-      ],
-      "kashmiri_name": [
-        "Keow"
-      ],
-      "therapeutic_properties": [
-        "Diuretic",
-        "Antiscorbutic",
-        "Cutaneous troubles",
-        "Sore throat"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "urinary support",
-        "skin support",
-        "respiratory support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
       "id": "salix-alba",
       "title": "White Willow",
       "category": "medicinal-flora",
@@ -2195,224 +2543,25 @@
       "display_only": true
     },
     {
-      "id": "salix-babylonica",
-      "title": "Weeping Willow",
+      "id": "daucus-carota",
+      "title": "Wild Carrot",
       "category": "medicinal-flora",
-      "plant": "Salix babylonica",
-      "family": "Salicaceae",
+      "plant": "Daucus carota",
+      "family": "Apiaceae",
       "common_name": [
-        "Weeping Willow"
+        "Wild Carrot"
       ],
       "kashmiri_name": [
-        "Vir",
-        "Guir Biasa"
+        "Jangil Gazir"
       ],
       "therapeutic_properties": [
-        "Antipyretic",
-        "Anthelmintic",
-        "Antirheumatic",
-        "Anti-implantation"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "digestive support",
-        "anti-inflammatory",
-        "women's health support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "salvia-moorcroftiana",
-      "title": "Sage",
-      "category": "medicinal-flora",
-      "plant": "Salvia moorcroftiana",
-      "family": "Lamiaceae",
-      "common_name": [
-        "Sage"
-      ],
-      "kashmiri_name": [
-        "Sholar"
-      ],
-      "therapeutic_properties": [
-        "Emetic",
-        "Antihemorrhoidal",
-        "Antipyretic",
-        "Relieves cough"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "digestive support",
-        "heart and circulation support",
-        "respiratory support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "senecio-vulgaris",
-      "title": "Common Groundsel",
-      "category": "medicinal-flora",
-      "plant": "Senecio vulgaris",
-      "family": "Asteraceae",
-      "common_name": [
-        "Common Groundsel"
-      ],
-      "kashmiri_name": [
-        "-"
-      ],
-      "therapeutic_properties": [
-        "Diaphoretic",
-        "Diuretic",
-        "Tonic",
-        "Purgative",
-        "Emetic"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "urinary support",
-        "immune support",
-        "digestive support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "siegesbeckia-orientalis",
-      "title": "Siegesbeckia",
-      "category": "medicinal-flora",
-      "plant": "Siegesbeckia orientalis",
-      "family": "Asteraceae",
-      "common_name": [
-        "Siegesbeckia"
-      ],
-      "kashmiri_name": [
-        "-"
-      ],
-      "therapeutic_properties": [
-        "Depurative",
-        "Cardiotonic",
-        "Anti-inflammatory",
-        "Analgesic",
-        "Antiviral",
-        "Hypoglycaemic"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "immune support",
-        "heart and circulation support",
-        "anti-inflammatory",
-        "antimicrobial support",
-        "metabolic support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "sisymbrium-irio",
-      "title": "London Rocket",
-      "category": "medicinal-flora",
-      "plant": "Sisymbrium irio",
-      "family": "Brassicaceae",
-      "common_name": [
-        "London Rocket"
-      ],
-      "kashmiri_name": [
-        "Danda Haak"
-      ],
-      "therapeutic_properties": [
-        "Expectorant",
         "Stimulant",
-        "Febrifuge",
-        "Anti-asthmatic"
+        "Carminative",
+        "Aphrodisiac",
+        "Antilithic",
+        "Anti-conception",
+        "Smooth muscle relaxant",
+        "Antidiabetic"
       ],
       "parts_used": [
         "Root",
@@ -2420,57 +2569,10 @@
         "Flowers"
       ],
       "health_benefits": [
-        "respiratory support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "solanum-nigrum",
-      "title": "Black Nightshade",
-      "category": "medicinal-flora",
-      "plant": "Solanum nigrum",
-      "family": "Solanaceae",
-      "common_name": [
-        "Black Nightshade"
-      ],
-      "kashmiri_name": [
-        "Kambai"
-      ],
-      "therapeutic_properties": [
-        "Diuretic",
-        "Anti-inflammatory",
-        "Analgesic",
-        "Anti-dermatitis",
-        "Anti-edematic"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
+        "digestive support",
         "urinary support",
-        "anti-inflammatory",
-        "skin support"
+        "women's health support",
+        "metabolic support"
       ],
       "growing_guide": {
         "seasons": {
@@ -2519,108 +2621,6 @@
         "immune support",
         "women's health support",
         "urinary support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "taraxacum-officinale",
-      "title": "Dandelion",
-      "category": "medicinal-flora",
-      "plant": "Taraxacum officinale",
-      "family": "Asteraceae",
-      "common_name": [
-        "Dandelion"
-      ],
-      "kashmiri_name": [
-        "Haandh"
-      ],
-      "therapeutic_properties": [
-        "Diuretic",
-        "Tonic",
-        "Liver disorders",
-        "Anti-rheumatic",
-        "Antiviral",
-        "Immunostimulatory"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "urinary support",
-        "immune support",
-        "liver support",
-        "anti-inflammatory",
-        "antimicrobial support"
-      ],
-      "growing_guide": {
-        "seasons": {
-          "planting": "Mar-Apr for spring establishment, or Jul-Aug in monsoon-moist soils",
-          "peak_growth": "Apr-Sep",
-          "harvest_or_bloom": "Leaves/flowers mostly May-Sep; roots/seeds typically Sep-Nov",
-          "pruning_or_dormancy": "Nov-Feb (species-dependent dormancy)"
-        },
-        "growing_instructions": [
-          "Select species-appropriate sun exposure and well-drained soil rich in organic matter.",
-          "Label each accession clearly and maintain isolation where cross-seeding is likely.",
-          "Avoid chemical-heavy inputs when plants are intended for medicinal use."
-        ],
-        "care_instructions": [
-          "Irrigate to keep evenly moist but never waterlogged root zones.",
-          "Weed manually and mulch to reduce contamination and moisture stress.",
-          "Harvest plant parts at proper maturity stage and dry in shade with airflow.",
-          "Record harvest date and batch to maintain traceability for medicinal handling."
-        ]
-      },
-      "display_only": true
-    },
-    {
-      "id": "verbascum-thapsus",
-      "title": "Mullein",
-      "category": "medicinal-flora",
-      "plant": "Verbascum thapsus",
-      "family": "Scrophulariaceae",
-      "common_name": [
-        "Mullein"
-      ],
-      "kashmiri_name": [
-        "Jangil Tamok"
-      ],
-      "therapeutic_properties": [
-        "Febrifuge",
-        "Aphrodisiac",
-        "Anti-inflammatory",
-        "Demulcent",
-        "Antiviral"
-      ],
-      "parts_used": [
-        "Root",
-        "Leaves",
-        "Flowers"
-      ],
-      "health_benefits": [
-        "anti-inflammatory",
-        "antimicrobial support"
       ],
       "growing_guide": {
         "seasons": {

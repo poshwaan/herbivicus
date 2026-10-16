@@ -1,6 +1,213 @@
 {
   "products": [
     {
+      "id": "lily-bulbs",
+      "title": "Asiatic Lily Bulbs",
+      "category": "seeds-and-bulbs",
+      "description": "Stately perennial lily bulbs producing majestic, large trumpet flowers. Return reliably year after year.",
+      "price": {
+        "amount": 149,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/seeds-and-bulbs/lily.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "70-110",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
+      },
+      "symbolism": {
+        "origin": "Associated with the Virgin Mary in Christian art.",
+        "meanings": [
+          "Purity"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant bulbs 15 cm deep in humus-rich, well-draining soil in October-November or March.",
+          "Stems emerge strongly in April and bud out across May.",
+          "Magnificent upright blooms open in June and July.",
+          "Stems die back naturally in autumn; bulbs overwinter safely in frozen ground from November to February."
+        ],
+        "care_instructions": [
+          "Maintain consistent root moisture; do not let bulb base dry out completely.",
+          "Mulch heavily with pine needle or organic compost in autumn.",
+          "Deadhead spent blooms immediately to divert nutrients to bulb scales."
+        ]
+      }
+    },
+    {
+      "id": "daffodil-bulbs",
+      "title": "Daffodil Bulbs",
+      "category": "seeds-and-bulbs",
+      "description": "High-grade narcissus bulbs producing cheerful trumpet-shaped golden-yellow spring blooms. Naturalizes easily.",
+      "price": {
+        "amount": 99,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/seeds-and-bulbs/daffodil.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "30-50",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": false,
+        "fragrant": true
+      },
+      "symbolism": {
+        "origin": "From the myth of Narcissus falling in love with his reflection.",
+        "meanings": [
+          "Unrequited love"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant bulbs pointed-end up in well-drained soil in October and November.",
+          "Endures freezing winter cold unharmed underground from December to February.",
+          "Cheerful yellow and white trumpets bloom among the earliest spring flowers in March and April.",
+          "Foliage withers naturally by late June; naturalizes and returns every spring."
+        ],
+        "care_instructions": [
+          "Keep soil evenly moist during active growth and blooming flush.",
+          "Do not tie or cut green foliage; let leaves photosynthesize for at least 6 weeks post-bloom.",
+          "Top-dress with composted leaf mold or bone meal in autumn."
+        ]
+      }
+    },
+    {
+      "id": "gladiolus-corms",
+      "title": "Gladiolus Corms",
+      "category": "seeds-and-bulbs",
+      "description": "Summer-flowering sword lily corms producing dramatic, tall spikes of colorful blossoms.",
+      "price": {
+        "amount": 89,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "stock": {
+        "total": 45,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/seeds-and-bulbs/gladiolus.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "90-140",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": false
+      },
+      "symbolism": {
+        "origin": "From *gladius*, Latin for sword.",
+        "meanings": [
+          "You pierce my heart"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant corms 10-12 cm deep in full sun from mid-April through May after last spring frost.",
+          "Tall sword-like foliage and flower spikes shoot up from June through July.",
+          "Vibrant tiered flower spikes bloom continuously from July through September.",
+          "Dig up corms in late October before severe soil freezes, dry thoroughly, and store frost-free until spring."
+        ],
+        "care_instructions": [
+          "Water deeply once weekly, increasing moisture as flower spikes emerge.",
+          "Support tall flower spikes with bamboo stakes to prevent toppling.",
+          "Lift corms before winter freezes, dry in shaded airy spot, and store cool and dry."
+        ]
+      }
+    },
+    {
+      "id": "hyacinth-bulbs",
+      "title": "Hyacinth Bulbs",
+      "category": "seeds-and-bulbs",
+      "description": "Prized spring-blooming bulbs renowned for their dense flower spikes and intoxicating sweet fragrance.",
+      "price": {
+        "amount": 149,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "stock": {
+        "total": 35,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/flowers/seeds-and-bulbs/hyacinth.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "20-30",
+        "difficulty": "easy",
+        "frost_hardy": true,
+        "indoor_suitable": true,
+        "fragrant": true
+      },
+      "symbolism": {
+        "origin": "From Apollo’s grief over Hyacinthus in Greek myth.",
+        "meanings": [
+          "Please forgive me"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant bulbs outdoors in October-November or force in glass jars indoors in November.",
+          "Requires winter ground chill through December and January to trigger flower spikes.",
+          "Intensely fragrant dense flower spikes bloom in April.",
+          "Cut spent bloom spikes in May, allowing foliage to nourish the bulb until dormant in June."
+        ],
+        "care_instructions": [
+          "Water moderately in spring dry spells until flowers fade.",
+          "Stake dense, heavy bloom spikes in windy mountain locations.",
+          "Let leaves wither completely to yellow before removing."
+        ]
+      }
+    },
+    {
       "id": "poppy-seeds",
       "title": "Poppy Seeds",
       "category": "seeds-and-bulbs",
@@ -161,213 +368,6 @@
           "Water thoroughly once upon planting, then rely on winter moisture until spring sprout.",
           "Avoid saturated, clayey beds that induce fungal bulb rot (Botrytis).",
           "Allow foliage to turn completely yellow before cutting back so bulbs replenish energy for next season."
-        ]
-      }
-    },
-    {
-      "id": "daffodil-bulbs",
-      "title": "Daffodil Bulbs",
-      "category": "seeds-and-bulbs",
-      "description": "High-grade narcissus bulbs producing cheerful trumpet-shaped golden-yellow spring blooms. Naturalizes easily.",
-      "price": {
-        "amount": 99,
-        "currency": "INR",
-        "discount_percent": 0
-      },
-      "stock": {
-        "total": 40,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/flowers/seeds-and-bulbs/daffodil.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "spring"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "full",
-        "water": "weekly",
-        "height_cm": "30-50",
-        "difficulty": "easy",
-        "frost_hardy": true,
-        "indoor_suitable": false,
-        "fragrant": true
-      },
-      "symbolism": {
-        "origin": "From the myth of Narcissus falling in love with his reflection.",
-        "meanings": [
-          "Unrequited love"
-        ]
-      },
-      "growing_guide": {
-        "growing_instructions": [
-          "Plant bulbs pointed-end up in well-drained soil in October and November.",
-          "Endures freezing winter cold unharmed underground from December to February.",
-          "Cheerful yellow and white trumpets bloom among the earliest spring flowers in March and April.",
-          "Foliage withers naturally by late June; naturalizes and returns every spring."
-        ],
-        "care_instructions": [
-          "Keep soil evenly moist during active growth and blooming flush.",
-          "Do not tie or cut green foliage; let leaves photosynthesize for at least 6 weeks post-bloom.",
-          "Top-dress with composted leaf mold or bone meal in autumn."
-        ]
-      }
-    },
-    {
-      "id": "hyacinth-bulbs",
-      "title": "Hyacinth Bulbs",
-      "category": "seeds-and-bulbs",
-      "description": "Prized spring-blooming bulbs renowned for their dense flower spikes and intoxicating sweet fragrance.",
-      "price": {
-        "amount": 149,
-        "currency": "INR",
-        "discount_percent": 0
-      },
-      "stock": {
-        "total": 35,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/flowers/seeds-and-bulbs/hyacinth.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "spring"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "full",
-        "water": "weekly",
-        "height_cm": "20-30",
-        "difficulty": "easy",
-        "frost_hardy": true,
-        "indoor_suitable": true,
-        "fragrant": true
-      },
-      "symbolism": {
-        "origin": "From Apollo\u2019s grief over Hyacinthus in Greek myth.",
-        "meanings": [
-          "Please forgive me"
-        ]
-      },
-      "growing_guide": {
-        "growing_instructions": [
-          "Plant bulbs outdoors in October-November or force in glass jars indoors in November.",
-          "Requires winter ground chill through December and January to trigger flower spikes.",
-          "Intensely fragrant dense flower spikes bloom in April.",
-          "Cut spent bloom spikes in May, allowing foliage to nourish the bulb until dormant in June."
-        ],
-        "care_instructions": [
-          "Water moderately in spring dry spells until flowers fade.",
-          "Stake dense, heavy bloom spikes in windy mountain locations.",
-          "Let leaves wither completely to yellow before removing."
-        ]
-      }
-    },
-    {
-      "id": "gladiolus-corms",
-      "title": "Gladiolus Corms",
-      "category": "seeds-and-bulbs",
-      "description": "Summer-flowering sword lily corms producing dramatic, tall spikes of colorful blossoms.",
-      "price": {
-        "amount": 89,
-        "currency": "INR",
-        "discount_percent": 0
-      },
-      "stock": {
-        "total": 45,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/flowers/seeds-and-bulbs/gladiolus.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "summer"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "full",
-        "water": "weekly",
-        "height_cm": "90-140",
-        "difficulty": "easy",
-        "frost_hardy": false,
-        "indoor_suitable": false
-      },
-      "symbolism": {
-        "origin": "From *gladius*, Latin for sword.",
-        "meanings": [
-          "You pierce my heart"
-        ]
-      },
-      "growing_guide": {
-        "growing_instructions": [
-          "Plant corms 10-12 cm deep in full sun from mid-April through May after last spring frost.",
-          "Tall sword-like foliage and flower spikes shoot up from June through July.",
-          "Vibrant tiered flower spikes bloom continuously from July through September.",
-          "Dig up corms in late October before severe soil freezes, dry thoroughly, and store frost-free until spring."
-        ],
-        "care_instructions": [
-          "Water deeply once weekly, increasing moisture as flower spikes emerge.",
-          "Support tall flower spikes with bamboo stakes to prevent toppling.",
-          "Lift corms before winter freezes, dry in shaded airy spot, and store cool and dry."
-        ]
-      }
-    },
-    {
-      "id": "lily-bulbs",
-      "title": "Asiatic Lily Bulbs",
-      "category": "seeds-and-bulbs",
-      "description": "Stately perennial lily bulbs producing majestic, large trumpet flowers. Return reliably year after year.",
-      "price": {
-        "amount": 149,
-        "currency": "INR",
-        "discount_percent": 0
-      },
-      "stock": {
-        "total": 40,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/flowers/seeds-and-bulbs/lily.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "summer"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "full",
-        "water": "weekly",
-        "height_cm": "70-110",
-        "difficulty": "easy",
-        "frost_hardy": true,
-        "indoor_suitable": false,
-        "fragrant": true
-      },
-      "symbolism": {
-        "origin": "Associated with the Virgin Mary in Christian art.",
-        "meanings": [
-          "Purity"
-        ]
-      },
-      "growing_guide": {
-        "growing_instructions": [
-          "Plant bulbs 15 cm deep in humus-rich, well-draining soil in October-November or March.",
-          "Stems emerge strongly in April and bud out across May.",
-          "Magnificent upright blooms open in June and July.",
-          "Stems die back naturally in autumn; bulbs overwinter safely in frozen ground from November to February."
-        ],
-        "care_instructions": [
-          "Maintain consistent root moisture; do not let bulb base dry out completely.",
-          "Mulch heavily with pine needle or organic compost in autumn.",
-          "Deadhead spent blooms immediately to divert nutrients to bulb scales."
         ]
       }
     }

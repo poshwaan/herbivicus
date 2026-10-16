@@ -1,12 +1,12 @@
 {
   "products": [
     {
-      "id": "cut-carnations",
-      "title": "Fresh Cut Carnations (Bunch)",
+      "id": "cut-alstroemeria",
+      "title": "Alstroemeria Cut Bunch",
       "category": "cut-flower",
-      "description": "Bundle of 10 long-stemmed ruffled carnations with sweet clove fragrance and exceptional 2-week vase life.",
+      "description": "Peruvian lily stems featuring multiple miniature lily-like blooms per stem with superior vase longevity.",
       "price": {
-        "amount": 199,
+        "amount": 179,
         "currency": "INR",
         "discount_percent": 0
       },
@@ -16,26 +16,26 @@
       },
       "media": {
         "images": [
-          "/images/shop/gifting/cut-flowers/carnation.webp"
+          "/images/shop/gifting/cut-flowers/alstroemeria.webp"
         ]
       },
       "properties": {
         "season": [
-          "spring",
-          "summer"
+          "summer",
+          "autumn"
         ],
         "lifecycle": "perennial",
-        "sunlight": "full",
+        "sunlight": "partial",
         "water": "weekly",
-        "height_cm": "50-70",
-        "difficulty": "easy",
-        "fragrant": true
+        "height_cm": "60-90",
+        "difficulty": "moderate"
       },
       "symbolism": {
-        "origin": "Linked to the Virgin Mary\u2019s tears at Christ\u2019s crucifixion.",
+        "origin": "The leaves twist as they grow outward, symbolizing the trials, turns, and steadfast support found in a true friendship.",
         "meanings": [
-          "Mother\u2019s eternal love",
-          "Heartache"
+          "Friendship",
+          "Devotion",
+          "Mutual support"
         ]
       },
       "growing_guide": {
@@ -51,10 +51,121 @@
           "Keep floral vase away from direct sunlight, heating vents, and ripening fruit (ethylene gas)."
         ],
         "growing_instructions": [
-          "Grown under protected polyhouses or field beds in Kashmir; planted in March or October.",
-          "Peak flowering and stem harvesting occur from June through August.",
-          "Overwinters with root crown protection under straw mulch from December to February.",
-          "Fresh cut stems provide 14+ days vase life when water is changed regularly."
+          "Rhizomes planted in rich, well-draining beds in April or October.",
+          "Profuse clusters of spotted blooms harvest from June through September.",
+          "Rhizomes require thick straw mulch or polyhouse cover against freezing winters Nov-Mar.",
+          "Pull stems gently from the rhizome rather than cutting to stimulate new shoots."
+        ]
+      }
+    },
+    {
+      "id": "cut-babys-breath",
+      "title": "Baby's Breath Bunch",
+      "category": "cut-flower",
+      "description": "Cloud-like clusters of tiny delicate white gypsophila blossoms, ideal as standalone filler or airy decor.",
+      "price": {
+        "amount": 149,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "stock": {
+        "total": 40,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/cut-flowers/babys-breath.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "summer"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "60-90",
+        "difficulty": "easy"
+      },
+      "symbolism": {
+        "origin": "Named in the 19th century for its delicate scent and bridal-veil appearance.",
+        "meanings": [
+          "Purity",
+          "Innocence"
+        ]
+      },
+      "growing_guide": {
+        "harvest_instructions": [
+          "Harvest in the cool early morning when stems are fully turgid and hydration is peak.",
+          "Cut stems diagonally at a 45-degree angle using sharp, sanitized floral shears.",
+          "Strip all foliage from the lower portion of the stems that will sit submerged below the water line."
+        ],
+        "vase_care": [
+          "Place immediately into clean, lukewarm water mixed with commercial floral preservative.",
+          "Recut stems by 1-2 cm under running water every 2 days to clear air embolisms.",
+          "Change vase water completely every 48 hours to prevent bacterial biofilm build-up.",
+          "Keep floral vase away from direct sunlight, heating vents, and ripening fruit (ethylene gas)."
+        ],
+        "growing_instructions": [
+          "Planted in alkaline, gritty valley soil in March or April.",
+          "Clouds of delicate white sprays bloom and harvest from June through August.",
+          "Crowns are fully frost hardy and overwinter safely under Kashmir snow from December to February.",
+          "Cut back spent stems to the base in late autumn."
+        ]
+      }
+    },
+    {
+      "id": "cut-chrysanthemums",
+      "title": "Chrysanthemum Spray Bunch",
+      "category": "cut-flower",
+      "description": "Abundant spray mums with multiple colorful blooms per stem. Outstanding long-lasting vase flowers.",
+      "price": {
+        "amount": 149,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "stock": {
+        "total": 35,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/cut-flowers/chrysanthemum.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "60-90",
+        "difficulty": "easy"
+      },
+      "symbolism": {
+        "origin": "Commonly used in European funerals and All Souls’ Day rituals.",
+        "meanings": [
+          "Condolences"
+        ]
+      },
+      "growing_guide": {
+        "harvest_instructions": [
+          "Harvest in the cool early morning when stems are fully turgid and hydration is peak.",
+          "Cut stems diagonally at a 45-degree angle using sharp, sanitized floral shears.",
+          "Strip all foliage from the lower portion of the stems that will sit submerged below the water line."
+        ],
+        "vase_care": [
+          "Place immediately into clean, lukewarm water mixed with commercial floral preservative.",
+          "Recut stems by 1-2 cm under running water every 2 days to clear air embolisms.",
+          "Change vase water completely every 48 hours to prevent bacterial biofilm build-up.",
+          "Keep floral vase away from direct sunlight, heating vents, and ripening fruit (ethylene gas)."
+        ],
+        "growing_instructions": [
+          "Rooted cuttings planted in rich field beds in May or June.",
+          "Foliage pinched through July to produce multi-flowered spray stems.",
+          "Abundant autumn harvest runs from late September through November.",
+          "Stems cut back to ground level in December; crowns overwinter safely under mulch."
         ]
       }
     },
@@ -117,41 +228,41 @@
       }
     },
     {
-      "id": "cut-pink-roses",
-      "title": "Kashmiri Pink Roses (Bunch)",
+      "id": "cut-carnations",
+      "title": "Fresh Cut Carnations (Bunch)",
       "category": "cut-flower",
-      "description": "Traditional pink garden roses freshly cut on sturdy stems. Romantic and fragrant.",
+      "description": "Bundle of 10 long-stemmed ruffled carnations with sweet clove fragrance and exceptional 2-week vase life.",
       "price": {
-        "amount": 299,
+        "amount": 199,
         "currency": "INR",
         "discount_percent": 0
       },
       "stock": {
-        "total": 25,
+        "total": 30,
         "is_featured": false
       },
       "media": {
         "images": [
-          "/images/shop/gifting/cut-flowers/pink-rose.webp"
+          "/images/shop/gifting/cut-flowers/carnation.webp"
         ]
       },
       "properties": {
         "season": [
           "spring",
-          "summer",
-          "autumn"
+          "summer"
         ],
         "lifecycle": "perennial",
         "sunlight": "full",
         "water": "weekly",
-        "height_cm": "60-100",
-        "difficulty": "moderate",
+        "height_cm": "50-70",
+        "difficulty": "easy",
         "fragrant": true
       },
       "symbolism": {
-        "origin": "Long-standing symbol of love in myth and culture.",
+        "origin": "Linked to the Virgin Mary’s tears at Christ’s crucifixion.",
         "meanings": [
-          "Love"
+          "Mother’s eternal love",
+          "Heartache"
         ]
       },
       "growing_guide": {
@@ -167,10 +278,65 @@
           "Keep floral vase away from direct sunlight, heating vents, and ripening fruit (ethylene gas)."
         ],
         "growing_instructions": [
-          "Planted bare-root in February or containerized in March in sunny loamy soil.",
-          "Harvest long-stemmed blooms continuously from May through October.",
-          "Winter dormant in Kashmir; mound mulch around bud union from December to February.",
-          "Hard winter pruning performed in late February to shape vigorous flower-bearing canes."
+          "Grown under protected polyhouses or field beds in Kashmir; planted in March or October.",
+          "Peak flowering and stem harvesting occur from June through August.",
+          "Overwinters with root crown protection under straw mulch from December to February.",
+          "Fresh cut stems provide 14+ days vase life when water is changed regularly."
+        ]
+      }
+    },
+    {
+      "id": "cut-tulips",
+      "title": "Fresh Cut Tulips (Bunch)",
+      "category": "cut-flower",
+      "description": "Crisp, elegant spring tulip stems in an array of bright and pastel tones for gifting.",
+      "price": {
+        "amount": 249,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "stock": {
+        "total": 25,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/gifting/cut-flowers/tulip.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "35-55",
+        "difficulty": "easy"
+      },
+      "symbolism": {
+        "origin": "Turkish legend of tragic devotion.",
+        "meanings": [
+          "I declare my love for you"
+        ]
+      },
+      "growing_guide": {
+        "harvest_instructions": [
+          "Harvest in the cool early morning when stems are fully turgid and hydration is peak.",
+          "Cut stems diagonally at a 45-degree angle using sharp, sanitized floral shears.",
+          "Strip all foliage from the lower portion of the stems that will sit submerged below the water line."
+        ],
+        "vase_care": [
+          "Place immediately into clean, lukewarm water mixed with commercial floral preservative.",
+          "Recut stems by 1-2 cm under running water every 2 days to clear air embolisms.",
+          "Change vase water completely every 48 hours to prevent bacterial biofilm build-up.",
+          "Keep floral vase away from direct sunlight, heating vents, and ripening fruit (ethylene gas)."
+        ],
+        "growing_instructions": [
+          "Bulbs planted in autumn from October to November before soil freeze.",
+          "Chills naturally under valley snow and ice through December and January.",
+          "Iconic Kashmir spring harvest takes place in April as buds show pencil-line color.",
+          "Stems pulled with bulb attached or cut cleanly for longest vase life."
         ]
       }
     },
@@ -290,39 +456,41 @@
       }
     },
     {
-      "id": "cut-babys-breath",
-      "title": "Baby's Breath Bunch",
+      "id": "cut-pink-roses",
+      "title": "Kashmiri Pink Roses (Bunch)",
       "category": "cut-flower",
-      "description": "Cloud-like clusters of tiny delicate white gypsophila blossoms, ideal as standalone filler or airy decor.",
+      "description": "Traditional pink garden roses freshly cut on sturdy stems. Romantic and fragrant.",
       "price": {
-        "amount": 149,
+        "amount": 299,
         "currency": "INR",
         "discount_percent": 0
       },
       "stock": {
-        "total": 40,
+        "total": 25,
         "is_featured": false
       },
       "media": {
         "images": [
-          "/images/shop/gifting/cut-flowers/babys-breath.webp"
+          "/images/shop/gifting/cut-flowers/pink-rose.webp"
         ]
       },
       "properties": {
         "season": [
-          "summer"
+          "spring",
+          "summer",
+          "autumn"
         ],
         "lifecycle": "perennial",
         "sunlight": "full",
         "water": "weekly",
-        "height_cm": "60-90",
-        "difficulty": "easy"
+        "height_cm": "60-100",
+        "difficulty": "moderate",
+        "fragrant": true
       },
       "symbolism": {
-        "origin": "Named in the 19th century for its delicate scent and bridal-veil appearance.",
+        "origin": "Long-standing symbol of love in myth and culture.",
         "meanings": [
-          "Purity",
-          "Innocence"
+          "Love"
         ]
       },
       "growing_guide": {
@@ -338,10 +506,10 @@
           "Keep floral vase away from direct sunlight, heating vents, and ripening fruit (ethylene gas)."
         ],
         "growing_instructions": [
-          "Planted in alkaline, gritty valley soil in March or April.",
-          "Clouds of delicate white sprays bloom and harvest from June through August.",
-          "Crowns are fully frost hardy and overwinter safely under Kashmir snow from December to February.",
-          "Cut back spent stems to the base in late autumn."
+          "Planted bare-root in February or containerized in March in sunny loamy soil.",
+          "Harvest long-stemmed blooms continuously from May through October.",
+          "Winter dormant in Kashmir; mound mulch around bud union from December to February.",
+          "Hard winter pruning performed in late February to shape vigorous flower-bearing canes."
         ]
       }
     },
@@ -398,174 +566,6 @@
           "Magnificent scented flowers bloom and harvest from late June through August.",
           "Bulbs withstand deep freezing ground chills safely throughout Kashmir winter.",
           "Cut stems when the lowest bud shows full color but before it opens."
-        ]
-      }
-    },
-    {
-      "id": "cut-tulips",
-      "title": "Fresh Cut Tulips (Bunch)",
-      "category": "cut-flower",
-      "description": "Crisp, elegant spring tulip stems in an array of bright and pastel tones for gifting.",
-      "price": {
-        "amount": 249,
-        "currency": "INR",
-        "discount_percent": 0
-      },
-      "stock": {
-        "total": 25,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/gifting/cut-flowers/tulip.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "spring"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "full",
-        "water": "weekly",
-        "height_cm": "35-55",
-        "difficulty": "easy"
-      },
-      "symbolism": {
-        "origin": "Turkish legend of tragic devotion.",
-        "meanings": [
-          "I declare my love for you"
-        ]
-      },
-      "growing_guide": {
-        "harvest_instructions": [
-          "Harvest in the cool early morning when stems are fully turgid and hydration is peak.",
-          "Cut stems diagonally at a 45-degree angle using sharp, sanitized floral shears.",
-          "Strip all foliage from the lower portion of the stems that will sit submerged below the water line."
-        ],
-        "vase_care": [
-          "Place immediately into clean, lukewarm water mixed with commercial floral preservative.",
-          "Recut stems by 1-2 cm under running water every 2 days to clear air embolisms.",
-          "Change vase water completely every 48 hours to prevent bacterial biofilm build-up.",
-          "Keep floral vase away from direct sunlight, heating vents, and ripening fruit (ethylene gas)."
-        ],
-        "growing_instructions": [
-          "Bulbs planted in autumn from October to November before soil freeze.",
-          "Chills naturally under valley snow and ice through December and January.",
-          "Iconic Kashmir spring harvest takes place in April as buds show pencil-line color.",
-          "Stems pulled with bulb attached or cut cleanly for longest vase life."
-        ]
-      }
-    },
-    {
-      "id": "cut-alstroemeria",
-      "title": "Alstroemeria Cut Bunch",
-      "category": "cut-flower",
-      "description": "Peruvian lily stems featuring multiple miniature lily-like blooms per stem with superior vase longevity.",
-      "price": {
-        "amount": 179,
-        "currency": "INR",
-        "discount_percent": 0
-      },
-      "stock": {
-        "total": 30,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/gifting/cut-flowers/alstroemeria.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "summer",
-          "autumn"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "partial",
-        "water": "weekly",
-        "height_cm": "60-90",
-        "difficulty": "moderate"
-      },
-      "symbolism": {
-        "origin": "The leaves twist as they grow outward, symbolizing the trials, turns, and steadfast support found in a true friendship.",
-        "meanings": [
-          "Friendship",
-          "Devotion",
-          "Mutual support"
-        ]
-      },
-      "growing_guide": {
-        "harvest_instructions": [
-          "Harvest in the cool early morning when stems are fully turgid and hydration is peak.",
-          "Cut stems diagonally at a 45-degree angle using sharp, sanitized floral shears.",
-          "Strip all foliage from the lower portion of the stems that will sit submerged below the water line."
-        ],
-        "vase_care": [
-          "Place immediately into clean, lukewarm water mixed with commercial floral preservative.",
-          "Recut stems by 1-2 cm under running water every 2 days to clear air embolisms.",
-          "Change vase water completely every 48 hours to prevent bacterial biofilm build-up.",
-          "Keep floral vase away from direct sunlight, heating vents, and ripening fruit (ethylene gas)."
-        ],
-        "growing_instructions": [
-          "Rhizomes planted in rich, well-draining beds in April or October.",
-          "Profuse clusters of spotted blooms harvest from June through September.",
-          "Rhizomes require thick straw mulch or polyhouse cover against freezing winters Nov-Mar.",
-          "Pull stems gently from the rhizome rather than cutting to stimulate new shoots."
-        ]
-      }
-    },
-    {
-      "id": "cut-chrysanthemums",
-      "title": "Chrysanthemum Spray Bunch",
-      "category": "cut-flower",
-      "description": "Abundant spray mums with multiple colorful blooms per stem. Outstanding long-lasting vase flowers.",
-      "price": {
-        "amount": 149,
-        "currency": "INR",
-        "discount_percent": 0
-      },
-      "stock": {
-        "total": 35,
-        "is_featured": false
-      },
-      "media": {
-        "images": [
-          "/images/shop/gifting/cut-flowers/chrysanthemum.webp"
-        ]
-      },
-      "properties": {
-        "season": [
-          "autumn"
-        ],
-        "lifecycle": "perennial",
-        "sunlight": "full",
-        "water": "weekly",
-        "height_cm": "60-90",
-        "difficulty": "easy"
-      },
-      "symbolism": {
-        "origin": "Commonly used in European funerals and All Souls\u2019 Day rituals.",
-        "meanings": [
-          "Condolences"
-        ]
-      },
-      "growing_guide": {
-        "harvest_instructions": [
-          "Harvest in the cool early morning when stems are fully turgid and hydration is peak.",
-          "Cut stems diagonally at a 45-degree angle using sharp, sanitized floral shears.",
-          "Strip all foliage from the lower portion of the stems that will sit submerged below the water line."
-        ],
-        "vase_care": [
-          "Place immediately into clean, lukewarm water mixed with commercial floral preservative.",
-          "Recut stems by 1-2 cm under running water every 2 days to clear air embolisms.",
-          "Change vase water completely every 48 hours to prevent bacterial biofilm build-up.",
-          "Keep floral vase away from direct sunlight, heating vents, and ripening fruit (ethylene gas)."
-        ],
-        "growing_instructions": [
-          "Rooted cuttings planted in rich field beds in May or June.",
-          "Foliage pinched through July to produce multi-flowered spray stems.",
-          "Abundant autumn harvest runs from late September through November.",
-          "Stems cut back to ground level in December; crowns overwinter safely under mulch."
         ]
       }
     }

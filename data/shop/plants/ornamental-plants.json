@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "bougainvillea",
+      "title": "Bougainvillea",
+      "category": "ornamental-plant",
+      "description": "A vibrant flowering shrub or climbing plant known for its colorful, papery bracts in shades of pink, purple, orange, red, and white. Bougainvillea adds dramatic color to sunny gardens, balconies, and patios, thriving in warm conditions with plenty of direct sunlight.",
+      "price": {
+        "amount": 599,
+        "currency": "INR",
+        "discount_percent": 50
+      },
+      "stock": {
+        "total": 2,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/bougainvillea.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "full",
+        "water": "weekly",
+        "height_cm": "200-400",
+        "difficulty": "moderate",
+        "frost_hardy": false,
+        "indoor_suitable": false,
+        "fragrant": false,
+        "edible": false
+      },
+      "symbolism": {
+        "origin": "Named after French explorer Louis Antoine de Bougainville, this colorful ornamental plant is admired for its vivid bracts and vigorous growth. Its bold appearance inspires associations with hospitality, passion, and joyful celebration.",
+        "meanings": [
+          "Warm hospitality",
+          "Passion",
+          "Celebration",
+          "Abundance"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant in a well-draining potting mix and use a container with drainage holes if growing in a pot.",
+          "Provide at least six hours of direct sunlight daily for healthy growth and abundant flowering.",
+          "Keep outdoors in a sunny, sheltered location during warm weather, but protect from frost and freezing temperatures.",
+          "In Kashmir, move container-grown plants to a bright, protected, frost-free location before winter temperatures drop sharply.",
+          "Allow the soil to dry partially between waterings. Avoid excessive moisture, especially during cool weather.",
+          "Prune lightly after flowering or as needed to control growth, and wear gloves because the stems may have sharp thorns."
+        ],
+        "care_instructions": [
+          "Water thoroughly when the upper layer of soil has dried, allowing excess water to drain away.",
+          "Reduce watering during winter when growth slows, while preventing the root ball from remaining excessively wet.",
+          "Use a balanced or flowering-plant fertilizer according to the label during active growth, avoiding excessive nitrogen that encourages foliage over flowers.",
+          "Remove dead or damaged branches and trim overly long shoots to maintain the desired shape.",
+          "Inspect periodically for aphids, mealybugs, and scale insects, and maintain good airflow around the plant."
+        ]
+      },
+      "is_potted": true
+    },
+    {
       "id": "caladium",
       "title": "Caladium",
       "category": "ornamental-plant",
@@ -646,6 +708,65 @@
       "is_potted": false
     },
     {
+      "id": "money-plant",
+      "title": "Money Plant (Devil's Ivy)",
+      "category": "ornamental-plant",
+      "description": "Popular indoor money plant (Epipremnum aureum) known for its air-purifying qualities. Easy to grow in pots or hanging baskets.",
+      "price": {
+        "amount": 149,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "stock": {
+        "total": 30,
+        "is_featured": false
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/money-plant.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "150-300",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true
+      },
+      "symbolism": {
+        "origin": "In Vastu Shastra and Feng Shui traditions, Epipremnum aureum is renowned as the primary living magnet for wealth, prosperity, and positive domestic chi.",
+        "meanings": [
+          "Prosperity",
+          "Abundance",
+          "Good fortune",
+          "Positive energy",
+          "Vitality"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Plant or repot in well-drained loamy compost during mild spring weather from April to June.",
+          "Active vine expansion occurs from May through September in bright, indirect indoor sunlight.",
+          "Tender to Kashmir's freezing winters; keep strictly indoors in heated rooms away from frost and cold window drafts from November through March.",
+          "Dormant during winter; reduce watering to once every 10-14 days from December through February."
+        ],
+        "care_instructions": [
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "is_potted": false
+    },
+    {
       "id": "purple-heart",
       "title": "Purple Heart",
       "category": "ornamental-plant",
@@ -823,14 +944,14 @@
       "is_potted": false
     },
     {
-      "id": "bougainvillea",
-      "title": "Bougainvillea",
+      "id": "rubber-plant",
+      "title": "Rubber Plant (Large)",
       "category": "ornamental-plant",
-      "description": "A vibrant flowering shrub or climbing plant known for its colorful, papery bracts in shades of pink, purple, orange, red, and white. Bougainvillea adds dramatic color to sunny gardens, balconies, and patios, thriving in warm conditions with plenty of direct sunlight.",
+      "description": "Popular indoor plant with large, glossy, deep green leaves. Excellent air purifier. Grows into a statement piece with minimal care.",
       "price": {
-        "amount": 599,
+        "amount": 299,
         "currency": "INR",
-        "discount_percent": 50
+        "discount_percent": 0
       },
       "stock": {
         "total": 2,
@@ -838,48 +959,174 @@
       },
       "media": {
         "images": [
-          "/images/shop/plants/ornamental-plants/bougainvillea.webp"
+          "/images/shop/plants/ornamental-plants/rubber-plant.webp"
         ]
       },
       "properties": {
         "season": [
+          "spring",
           "summer",
           "autumn"
         ],
         "lifecycle": "perennial",
-        "sunlight": "full",
+        "sunlight": "partial",
         "water": "weekly",
-        "height_cm": "200-400",
-        "difficulty": "moderate",
+        "height_cm": "100-200",
+        "difficulty": "easy",
         "frost_hardy": false,
-        "indoor_suitable": false,
+        "indoor_suitable": true,
         "fragrant": false,
         "edible": false
       },
       "symbolism": {
-        "origin": "Named after French explorer Louis Antoine de Bougainville, this colorful ornamental plant is admired for its vivid bracts and vigorous growth. Its bold appearance inspires associations with hospitality, passion, and joyful celebration.",
+        "origin": "In botanical lore and Feng Shui, Ficus elastica represents abundance, resilience, grounding strength, and financial stability due to its thick, sturdy, oval leaves.",
         "meanings": [
-          "Warm hospitality",
-          "Passion",
-          "Celebration",
-          "Abundance"
+          "Abundance",
+          "Resilience",
+          "Grounding strength",
+          "Prosperity",
+          "Steady growth"
         ]
       },
       "growing_guide": {
         "growing_instructions": [
-          "Plant in a well-draining potting mix and use a container with drainage holes if growing in a pot.",
-          "Provide at least six hours of direct sunlight daily for healthy growth and abundant flowering.",
-          "Keep outdoors in a sunny, sheltered location during warm weather, but protect from frost and freezing temperatures.",
-          "In Kashmir, move container-grown plants to a bright, protected, frost-free location before winter temperatures drop sharply.",
-          "Allow the soil to dry partially between waterings. Avoid excessive moisture, especially during cool weather.",
-          "Prune lightly after flowering or as needed to control growth, and wear gloves because the stems may have sharp thorns."
+          "Repot into rich, aerated potting soil between April and June as indoor spring temperatures rise.",
+          "Foliage expands steadily from May to September in bright, filtered sunlight.",
+          "Not frost hardy in Kashmir; maintain indoors at 15°C+ with protection from sub-zero drafts and heater vents from November through March.",
+          "Growth slows from December to February; water sparingly only when the top 3 inches of potting mix feel dry."
         ],
         "care_instructions": [
-          "Water thoroughly when the upper layer of soil has dried, allowing excess water to drain away.",
-          "Reduce watering during winter when growth slows, while preventing the root ball from remaining excessively wet.",
-          "Use a balanced or flowering-plant fertilizer according to the label during active growth, avoiding excessive nitrogen that encourages foliage over flowers.",
-          "Remove dead or damaged branches and trim overly long shoots to maintain the desired shape.",
-          "Inspect periodically for aphids, mealybugs, and scale insects, and maintain good airflow around the plant."
+          "Water according to species and season: more in summer, reduced in winter and cloudy spells.",
+          "Top-dress with compost every 6-8 weeks and remove spent or yellowing foliage.",
+          "Prune shape-forming shrubs in late winter before active spring flush.",
+          "Monitor for mealybugs, scale, and fungal leaf spots; isolate and treat early."
+        ]
+      },
+      "is_potted": false
+    },
+    {
+      "id": "snake-plant",
+      "title": "Snake Plant",
+      "category": "ornamental-plant",
+      "description": "A striking, upright succulent with stiff, sword-shaped leaves and attractive green variegation. Exceptionally low-maintenance and tolerant of low light, making it a popular choice for homes, offices, and modern interiors.",
+      "price": {
+        "amount": 299,
+        "currency": "INR",
+        "discount_percent": 60
+      },
+      "stock": {
+        "total": 15,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/snake-plant.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "bi-weekly",
+        "height_cm": "60-120",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true,
+        "fragrant": false,
+        "edible": false
+      },
+      "symbolism": {
+        "origin": "The snake plant, formerly classified as Sansevieria trifasciata and now known as Dracaena trifasciata, is admired for its upright, sword-shaped foliage. Its resilient growth and strong architectural form inspire associations with protection, perseverance, and good fortune.",
+        "meanings": [
+          "Protection",
+          "Perseverance",
+          "Resilience",
+          "Good fortune",
+          "Strength"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Grow in a well-draining succulent potting mix in a container with drainage holes. Repot in spring when the roots become crowded.",
+          "Place in bright, indirect light or partial shade. The plant tolerates low light, although growth may be slower.",
+          "Keep indoors during Kashmir winters and protect from frost, freezing temperatures, and cold drafts.",
+          "Allow the potting mix to dry completely between waterings. Reduce watering considerably during winter when growth slows."
+        ],
+        "care_instructions": [
+          "Water thoroughly only when the soil has dried completely, and empty excess water from the saucer.",
+          "Avoid overwatering, especially in winter, as waterlogged soil can cause root rot.",
+          "Feed sparingly with a balanced fertilizer during active growth according to the product label.",
+          "Remove damaged or yellowing leaves at the base using clean pruning tools.",
+          "Inspect periodically for mealybugs and scale insects.",
+          "Keep away from pets and children, as ingestion can cause gastrointestinal upset."
+        ]
+      },
+      "is_potted": true
+    },
+    {
+      "id": "spider-plant",
+      "title": "Spider Plant",
+      "category": "ornamental-plant",
+      "description": "A popular indoor plant with graceful, arching green-and-white striped leaves. Produces baby plantlets on trailing runners and adds fresh greenery to shelves, windowsills, and hanging planters. Easy to grow and suitable for beginners.",
+      "price": {
+        "amount": 299,
+        "currency": "INR",
+        "discount_percent": 60
+      },
+      "stock": {
+        "total": 20,
+        "is_featured": true
+      },
+      "media": {
+        "images": [
+          "/images/shop/plants/ornamental-plants/spider-plant.webp"
+        ]
+      },
+      "properties": {
+        "season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "lifecycle": "perennial",
+        "sunlight": "partial",
+        "water": "weekly",
+        "height_cm": "30-60",
+        "difficulty": "easy",
+        "frost_hardy": false,
+        "indoor_suitable": true,
+        "fragrant": false,
+        "edible": false
+      },
+      "symbolism": {
+        "origin": "The spider plant, Chlorophytum comosum, is admired for its cascading foliage and abundant baby plantlets. These characteristics inspire associations with growth, renewal, nurturing, and abundance.",
+        "meanings": [
+          "Renewal",
+          "Growth",
+          "Nurturing",
+          "Abundance",
+          "Domestic harmony"
+        ]
+      },
+      "growing_guide": {
+        "growing_instructions": [
+          "Grow in a well-draining potting mix in a container with drainage holes. Repot in spring when the roots become crowded.",
+          "Place in bright, indirect light or partial shade. Protect the leaves from harsh afternoon sunlight.",
+          "Keep indoors during Kashmir winters and protect from frost and cold drafts.",
+          "Allow the upper layer of soil to dry slightly between waterings, reducing watering during cooler months.",
+          "Propagate by rooting the baby plantlets that develop on mature trailing runners."
+        ],
+        "care_instructions": [
+          "Water thoroughly when the upper soil begins to dry, allowing excess water to drain freely.",
+          "Apply a balanced houseplant fertilizer during active growth according to the product label.",
+          "Remove brown leaf tips and yellowing leaves with clean scissors.",
+          "Inspect periodically for spider mites, mealybugs, and scale insects.",
+          "Avoid waterlogging and protect the plant from sudden temperature changes."
         ]
       },
       "is_potted": true
